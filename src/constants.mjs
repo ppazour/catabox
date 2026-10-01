@@ -3,7 +3,7 @@ import { dirname } from 'node:path';
 import { mkdir, readFile, writeFile } from 'node:fs/promises';
 import { pathToFileURL } from 'node:url';
 
-export const DEFAULT_MARKET = 'FR';
+export const DEFAULT_MARKET = 'AT';
 export const DEFAULT_LANGUAGE = 'en-us';
 export const USER_AGENT = 'catabox/1.0 (+https://github.com/nanhopper/catabox)';
 
