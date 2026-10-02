@@ -1,18 +1,18 @@
 {
-  "catalogHash": "a1bac5384f41dde1cb7c06bf1c12b450c8892bfea89b6f6a591b14be808477f7",
+  "catalogHash": "13891395e11adab0c95769e254f0f0787bdea8be342aa4e4f55cd13e7bbdf19e",
   "counts": {
     "diffs": {
       "essentialNotPremium": 0,
       "essentialNotUltimate": 0,
-      "premiumNotEssential": 446,
+      "premiumNotEssential": 447,
       "premiumNotUltimate": 0,
       "ultimateNotEssential": 776,
-      "ultimateNotPremium": 330
+      "ultimateNotPremium": 329
     },
-    "leavingSoon": 0,
+    "leavingSoon": 11,
     "leavingSoonPlatforms": {
-      "console": 0,
-      "pc": 0
+      "console": 8,
+      "pc": 9
     },
     "platforms": {
       "console": 619,
@@ -24,8 +24,8 @@
       "premiumEssential": 0,
       "premiumOnly": 0,
       "ultimateEssential": 0,
-      "ultimateOnly": 330,
-      "ultimatePremium": 446
+      "ultimateOnly": 329,
+      "ultimatePremium": 447
     },
     "tierPlatforms": {
       "essential": {
@@ -33,8 +33,8 @@
         "pc": 86
       },
       "premium": {
-        "console": 435,
-        "pc": 409
+        "console": 436,
+        "pc": 410
       },
       "ultimate": {
         "console": 619,
@@ -43,7 +43,7 @@
     },
     "tiers": {
       "essential": 124,
-      "premium": 570,
+      "premium": 571,
       "ultimate": 900
     },
     "total": 900
@@ -160,6 +160,7 @@
       "9NC7NRD0CM11",
       "9NCDMPCPDTQF",
       "9NCJSXWZTP88",
+      "9NCJWHHMVHR0",
       "9NCNBWZSHZR5",
       "9NCT87FKQ4GM",
       "9NCZ8W65H33V",
@@ -1340,7 +1341,6 @@
       "9NBNFBQ546DT",
       "9NBNXX6V9J43",
       "9NC4PV16GVT1",
-      "9NCJWHHMVHR0",
       "9NCT9L7NFHX7",
       "9NDJPHS21XXG",
       "9NDLJ3HM721L",
@@ -9451,8 +9451,11 @@
       ],
       "heroArt": "https://store-images.s-microsoft.com/image/apps.15919.14194909325684282.4555d428-db78-49a6-b09e-ad174d55ec29.6f2d9ea1-7773-469a-9e49-4009e9c9d75c",
       "id": "family-3b665800ef3ba3e57d31aa5c083f91fadc19acd9b13db58eb509f862e1fc2d6a",
-      "leavingSoon": false,
-      "leavingSoonPlatforms": [],
+      "leavingSoon": true,
+      "leavingSoonPlatforms": [
+        "console",
+        "pc"
+      ],
       "memberships": [
         "ultimate",
         "premium"
@@ -9989,8 +9992,11 @@
       ],
       "heroArt": "https://store-images.s-microsoft.com/image/apps.34497.14322280443288156.36e7f1cd-07a6-4e2a-a35d-485380706ab1.e8f404c0-ee13-41c4-962d-b4d73f73f3cf",
       "id": "family-2d437ed9d6a1845950659a62768dd7cd347f8ebaf9e1142aac342d23e8d53930",
-      "leavingSoon": false,
-      "leavingSoonPlatforms": [],
+      "leavingSoon": true,
+      "leavingSoonPlatforms": [
+        "console",
+        "pc"
+      ],
       "memberships": [
         "ultimate",
         "premium"
@@ -11432,8 +11438,11 @@
       ],
       "heroArt": "https://store-images.s-microsoft.com/image/apps.31187.13641013102004887.bf107aae-94c4-457f-a84e-5bd21f71f809.f2a26002-93da-45a5-8d45-901c738a5655",
       "id": "family-2e8ebaff6a572ef011c7a3e0bda9e41e50a2b6cdc909c1b50707de000419f90c",
-      "leavingSoon": false,
-      "leavingSoonPlatforms": [],
+      "leavingSoon": true,
+      "leavingSoonPlatforms": [
+        "console",
+        "pc"
+      ],
       "memberships": [
         "ultimate",
         "premium"
@@ -14162,8 +14171,11 @@
       ],
       "heroArt": "https://store-images.s-microsoft.com/image/apps.29308.14011542784181932.80ac6320-df7b-4be6-9355-e9083a5d2063.7453474c-587b-4024-ad6d-a785d30d7fc4",
       "id": "family-7ceca7c280fb1bca5c713730b551ef9eb4692fc4eb83dd08b1aea8ff38774f0b",
-      "leavingSoon": false,
-      "leavingSoonPlatforms": [],
+      "leavingSoon": true,
+      "leavingSoonPlatforms": [
+        "console",
+        "pc"
+      ],
       "memberships": [
         "ultimate",
         "premium"
@@ -17125,8 +17137,11 @@
       ],
       "heroArt": "https://store-images.s-microsoft.com/image/apps.31215.14176554647910182.b03fa26e-38ab-4eae-a31e-457e38d3b885.745b3998-17e0-41db-a6fa-224c92067784",
       "id": "family-30ba3993e74374794364f0ea969ad6b09004bbf849934370dd76f492399a96d8",
-      "leavingSoon": false,
-      "leavingSoonPlatforms": [],
+      "leavingSoon": true,
+      "leavingSoonPlatforms": [
+        "console",
+        "pc"
+      ],
       "memberships": [
         "ultimate",
         "premium"
@@ -26156,10 +26171,15 @@
       "leavingSoon": false,
       "leavingSoonPlatforms": [],
       "memberships": [
-        "ultimate"
+        "ultimate",
+        "premium"
       ],
       "pegiRating": "PEGI 7",
       "platformByTier": {
+        "premium": [
+          "console",
+          "pc"
+        ],
         "ultimate": [
           "console",
           "pc"
@@ -26188,7 +26208,7 @@
         "https://store-images.s-microsoft.com/image/apps.40005.13566978592979529.73126ccb-81b6-4cf2-99bf-34f0e948ff10.763105aa-bb58-4037-88fb-6ca8c99c879f?w=640&h=360&q=80&format=jpg",
         "https://store-images.s-microsoft.com/image/apps.38831.13906949922433873.725083f5-e0ac-4487-af3b-b5f4fc2de3eb.7bbd232f-aa44-4a2e-bce3-d6511eaa2ed0?w=640&h=360&q=80&format=jpg"
       ],
-      "segment": "ultimateOnly",
+      "segment": "ultimatePremium",
       "shortDescription": "Keeper is a story told without words, in which a long-forgotten lighthouse is awakened and embarks upon an unexpected journey into realms beyond understanding.",
       "sortTitle": "keeper",
       "supportsCoop": false,
@@ -32832,8 +32852,10 @@
       ],
       "heroArt": "https://store-images.s-microsoft.com/image/apps.53244.13514288515095406.3f7236b5-ddee-4494-adf3-12dbe4be4e57.da54fbd9-d910-472e-a11a-3211e5148bb3",
       "id": "family-d615ab208a9a8ac70d36614e78657de90ae3bf1ba2223c9067b47d43e9fb30d1",
-      "leavingSoon": false,
-      "leavingSoonPlatforms": [],
+      "leavingSoon": true,
+      "leavingSoonPlatforms": [
+        "pc"
+      ],
       "memberships": [
         "ultimate"
       ],
@@ -33681,8 +33703,11 @@
       ],
       "heroArt": "https://store-images.s-microsoft.com/image/apps.32152.14342694787118182.96ac9113-88e6-4c27-822e-b852c773b5cc.55f5e57e-9a6a-4f91-ac0a-e609202b02ea",
       "id": "family-0525549d46e1af8cd5fea51e392fbda28f9a0aea6b0df750b6bc1fe706a7516e",
-      "leavingSoon": false,
-      "leavingSoonPlatforms": [],
+      "leavingSoon": true,
+      "leavingSoonPlatforms": [
+        "console",
+        "pc"
+      ],
       "memberships": [
         "ultimate",
         "premium"
@@ -34758,8 +34783,11 @@
       ],
       "heroArt": "https://store-images.s-microsoft.com/image/apps.59830.13537574391772742.e387dd56-e35c-40fb-bc0c-c0c1decef3a1.389d1f4c-4085-48ae-b003-f34a93db083b",
       "id": "family-4215ca31702564480be17fcf5542fba97a245edf3ce3a5df04380bb8f28163ed",
-      "leavingSoon": false,
-      "leavingSoonPlatforms": [],
+      "leavingSoon": true,
+      "leavingSoonPlatforms": [
+        "console",
+        "pc"
+      ],
       "memberships": [
         "ultimate",
         "premium"
@@ -43082,8 +43110,11 @@
       ],
       "heroArt": "https://store-images.s-microsoft.com/image/apps.21319.13984747577958597.92005490-208e-4e00-9984-1e54d4ab85c5.c02e798d-57f9-45e9-aab7-4fa55be4ec1f",
       "id": "family-3ca3ec9ac5fb1782050ea8f8ad87195ebae750f5559e53a70e4e297e3239359f",
-      "leavingSoon": false,
-      "leavingSoonPlatforms": [],
+      "leavingSoon": true,
+      "leavingSoonPlatforms": [
+        "console",
+        "pc"
+      ],
       "memberships": [
         "ultimate",
         "premium",
@@ -50799,15 +50830,15 @@
     "diffs": {
       "essentialNotPremium": 0,
       "essentialNotUltimate": 0,
-      "premiumNotEssential": 381,
+      "premiumNotEssential": 382,
       "premiumNotUltimate": 0,
       "ultimateNotEssential": 620,
-      "ultimateNotPremium": 239
+      "ultimateNotPremium": 238
     },
-    "leavingSoon": 0,
+    "leavingSoon": 9,
     "leavingSoonPlatforms": {
-      "console": 0,
-      "pc": 0
+      "console": 8,
+      "pc": 9
     },
     "platforms": {
       "console": 609,
@@ -50819,8 +50850,8 @@
       "premiumEssential": 0,
       "premiumOnly": 0,
       "ultimateEssential": 0,
-      "ultimateOnly": 239,
-      "ultimatePremium": 381
+      "ultimateOnly": 238,
+      "ultimatePremium": 382
     },
     "tierPlatforms": {
       "essential": {
@@ -50828,8 +50859,8 @@
         "pc": 86
       },
       "premium": {
-        "console": 431,
-        "pc": 409
+        "console": 432,
+        "pc": 410
       },
       "ultimate": {
         "console": 609,
@@ -50838,7 +50869,7 @@
     },
     "tiers": {
       "essential": 104,
-      "premium": 485,
+      "premium": 486,
       "ultimate": 724
     },
     "total": 724
@@ -51071,6 +51102,7 @@
       "family-9acbe8c81c5ffb805073d840b7c93fc808c2777810ddd8ffe41fd0406c3991d3",
       "family-9ada33fdf388132ae0ca6c07a46a45f7849c42e84046a6216826a89e01b2e7ab",
       "family-9b42eef4c62341169e11f7071cd8a753fde1b18da831e81dc35a6d56499b91b5",
+      "family-9b5d421f7149af34991cbec9e57cb48a8d81e8d5adaa1236b6eb1c6198d7e9fc",
       "family-9c1875b2432f1e558dbd5d6ac8613028aa48d8da06cb30f9c3204ad14f13930c",
       "family-9cfa90697fceda722fa6856c20ff4d40ad90ca870287707456490679b70da6e3",
       "family-9d110bd9038e91f603d0141a98260af925d914e242bfa26cb4d4ed18e45ed255",
@@ -51998,7 +52030,6 @@
       "family-96111f0b0a2196e4011c296852cf911bf36bb29dba7dc3466e09cf861d67b920",
       "family-98a8165bb1d8b89cfce3e000ecce51139f8393a0d957fa46fc60456ea9ddcfc4",
       "family-98aa5ad96877130637ce89d11860edc97e5646430afba44762c463f0ae28a64f",
-      "family-9b5d421f7149af34991cbec9e57cb48a8d81e8d5adaa1236b6eb1c6198d7e9fc",
       "family-9cca52f5a8d965d0a10215c3181eb115a58b824075f29c8d2bc75b6a2f4baff1",
       "family-9e5f1727ccc4f00bab1a4861e597515a2ec65b7137410bcafae048c88094cab2",
       "family-a15b060821e8991627c39d7b2571b136ce4553e331ee777ae62b914f1434f58c",
@@ -52094,7 +52125,7 @@
       "family-fd4705f4895fbd944ea692ce1e49c04e6d85c9eb013becebcca1704d7ea59bf9"
     ]
   },
-  "familyHash": "bc4500c3f1c350d03bdfa5058111ed91a964cd7629168b2e600d5a551d1e074a",
+  "familyHash": "8dd48612d5d2cd61be01d1de8ed1b4be4d6d06f76796bb393b41ec50679fd384",
   "familySegments": {
     "allTiers": [
       "family-012e41cf02148984e24435be4dd5f3b1a699130cc5bbfdc12dd37bbfb5aae9aa",
@@ -52352,7 +52383,6 @@
       "family-96111f0b0a2196e4011c296852cf911bf36bb29dba7dc3466e09cf861d67b920",
       "family-98a8165bb1d8b89cfce3e000ecce51139f8393a0d957fa46fc60456ea9ddcfc4",
       "family-98aa5ad96877130637ce89d11860edc97e5646430afba44762c463f0ae28a64f",
-      "family-9b5d421f7149af34991cbec9e57cb48a8d81e8d5adaa1236b6eb1c6198d7e9fc",
       "family-9cca52f5a8d965d0a10215c3181eb115a58b824075f29c8d2bc75b6a2f4baff1",
       "family-9e5f1727ccc4f00bab1a4861e597515a2ec65b7137410bcafae048c88094cab2",
       "family-a15b060821e8991627c39d7b2571b136ce4553e331ee777ae62b914f1434f58c",
@@ -52672,6 +52702,7 @@
       "family-9acbe8c81c5ffb805073d840b7c93fc808c2777810ddd8ffe41fd0406c3991d3",
       "family-9ada33fdf388132ae0ca6c07a46a45f7849c42e84046a6216826a89e01b2e7ab",
       "family-9b42eef4c62341169e11f7071cd8a753fde1b18da831e81dc35a6d56499b91b5",
+      "family-9b5d421f7149af34991cbec9e57cb48a8d81e8d5adaa1236b6eb1c6198d7e9fc",
       "family-9c1875b2432f1e558dbd5d6ac8613028aa48d8da06cb30f9c3204ad14f13930c",
       "family-9cfa90697fceda722fa6856c20ff4d40ad90ca870287707456490679b70da6e3",
       "family-9d110bd9038e91f603d0141a98260af925d914e242bfa26cb4d4ed18e45ed255",
@@ -61146,8 +61177,11 @@
       ],
       "heroArt": "https://store-images.s-microsoft.com/image/apps.15919.14194909325684282.4555d428-db78-49a6-b09e-ad174d55ec29.6f2d9ea1-7773-469a-9e49-4009e9c9d75c",
       "id": "9PG0PMB5Q0GT",
-      "leavingSoon": false,
-      "leavingSoonPlatforms": [],
+      "leavingSoon": true,
+      "leavingSoonPlatforms": [
+        "console",
+        "pc"
+      ],
       "memberships": [
         "ultimate",
         "premium"
@@ -61676,8 +61710,11 @@
       ],
       "heroArt": "https://store-images.s-microsoft.com/image/apps.34497.14322280443288156.36e7f1cd-07a6-4e2a-a35d-485380706ab1.e8f404c0-ee13-41c4-962d-b4d73f73f3cf",
       "id": "9PPT8K6GQHRZ",
-      "leavingSoon": false,
-      "leavingSoonPlatforms": [],
+      "leavingSoon": true,
+      "leavingSoonPlatforms": [
+        "console",
+        "pc"
+      ],
       "memberships": [
         "ultimate",
         "premium"
@@ -63332,8 +63369,11 @@
       ],
       "heroArt": "https://store-images.s-microsoft.com/image/apps.31187.13641013102004887.bf107aae-94c4-457f-a84e-5bd21f71f809.f2a26002-93da-45a5-8d45-901c738a5655",
       "id": "9NGZ1M3N98P2",
-      "leavingSoon": false,
-      "leavingSoonPlatforms": [],
+      "leavingSoon": true,
+      "leavingSoonPlatforms": [
+        "console",
+        "pc"
+      ],
       "memberships": [
         "ultimate",
         "premium"
@@ -66437,8 +66477,11 @@
       ],
       "heroArt": "https://store-images.s-microsoft.com/image/apps.29308.14011542784181932.80ac6320-df7b-4be6-9355-e9083a5d2063.7453474c-587b-4024-ad6d-a785d30d7fc4",
       "id": "9N6V2181GHLM",
-      "leavingSoon": false,
-      "leavingSoonPlatforms": [],
+      "leavingSoon": true,
+      "leavingSoonPlatforms": [
+        "console",
+        "pc"
+      ],
       "memberships": [
         "ultimate",
         "premium"
@@ -69802,8 +69845,10 @@
       ],
       "heroArt": "https://store-images.s-microsoft.com/image/apps.31215.14176554647910182.b03fa26e-38ab-4eae-a31e-457e38d3b885.745b3998-17e0-41db-a6fa-224c92067784",
       "id": "9MW581HCJPM6",
-      "leavingSoon": false,
-      "leavingSoonPlatforms": [],
+      "leavingSoon": true,
+      "leavingSoonPlatforms": [
+        "console"
+      ],
       "memberships": [
         "ultimate",
         "premium"
@@ -69863,8 +69908,10 @@
       ],
       "heroArt": "https://store-images.s-microsoft.com/image/apps.31215.14176554647910182.b03fa26e-38ab-4eae-a31e-457e38d3b885.745b3998-17e0-41db-a6fa-224c92067784",
       "id": "9PC49MD70881",
-      "leavingSoon": false,
-      "leavingSoonPlatforms": [],
+      "leavingSoon": true,
+      "leavingSoonPlatforms": [
+        "pc"
+      ],
       "memberships": [
         "ultimate",
         "premium"
@@ -79113,10 +79160,15 @@
       "leavingSoon": false,
       "leavingSoonPlatforms": [],
       "memberships": [
-        "ultimate"
+        "ultimate",
+        "premium"
       ],
       "pegiRating": "PEGI 7",
       "platformByTier": {
+        "premium": [
+          "console",
+          "pc"
+        ],
         "ultimate": [
           "console",
           "pc"
@@ -79144,7 +79196,7 @@
         "https://store-images.s-microsoft.com/image/apps.40005.13566978592979529.73126ccb-81b6-4cf2-99bf-34f0e948ff10.763105aa-bb58-4037-88fb-6ca8c99c879f?w=640&h=360&q=80&format=jpg",
         "https://store-images.s-microsoft.com/image/apps.38831.13906949922433873.725083f5-e0ac-4487-af3b-b5f4fc2de3eb.7bbd232f-aa44-4a2e-bce3-d6511eaa2ed0?w=640&h=360&q=80&format=jpg"
       ],
-      "segment": "ultimateOnly",
+      "segment": "ultimatePremium",
       "shortDescription": "Keeper is a story told without words, in which a long-forgotten lighthouse is awakened and embarks upon an unexpected journey into realms beyond understanding.",
       "sortTitle": "keeper",
       "supportsCoop": false,
@@ -86178,8 +86230,10 @@
       ],
       "heroArt": "https://store-images.s-microsoft.com/image/apps.53244.13514288515095406.3f7236b5-ddee-4494-adf3-12dbe4be4e57.da54fbd9-d910-472e-a11a-3211e5148bb3",
       "id": "9NBNFBQ546DT",
-      "leavingSoon": false,
-      "leavingSoonPlatforms": [],
+      "leavingSoon": true,
+      "leavingSoonPlatforms": [
+        "pc"
+      ],
       "memberships": [
         "ultimate"
       ],
@@ -87221,8 +87275,11 @@
       ],
       "heroArt": "https://store-images.s-microsoft.com/image/apps.32152.14342694787118182.96ac9113-88e6-4c27-822e-b852c773b5cc.55f5e57e-9a6a-4f91-ac0a-e609202b02ea",
       "id": "9PNKG0WBL61W",
-      "leavingSoon": false,
-      "leavingSoonPlatforms": [],
+      "leavingSoon": true,
+      "leavingSoonPlatforms": [
+        "console",
+        "pc"
+      ],
       "memberships": [
         "ultimate",
         "premium"
@@ -88288,8 +88345,10 @@
       ],
       "heroArt": "https://store-images.s-microsoft.com/image/apps.59830.13537574391772742.e387dd56-e35c-40fb-bc0c-c0c1decef3a1.389d1f4c-4085-48ae-b003-f34a93db083b",
       "id": "9ND0JVB184XL",
-      "leavingSoon": false,
-      "leavingSoonPlatforms": [],
+      "leavingSoon": true,
+      "leavingSoonPlatforms": [
+        "console"
+      ],
       "memberships": [
         "ultimate",
         "premium"
@@ -88348,8 +88407,10 @@
       ],
       "heroArt": "https://store-images.s-microsoft.com/image/apps.59830.13537574391772742.e387dd56-e35c-40fb-bc0c-c0c1decef3a1.389d1f4c-4085-48ae-b003-f34a93db083b",
       "id": "9N97RC576957",
-      "leavingSoon": false,
-      "leavingSoonPlatforms": [],
+      "leavingSoon": true,
+      "leavingSoonPlatforms": [
+        "pc"
+      ],
       "memberships": [
         "ultimate",
         "premium"
@@ -97452,8 +97513,11 @@
       ],
       "heroArt": "https://store-images.s-microsoft.com/image/apps.21319.13984747577958597.92005490-208e-4e00-9984-1e54d4ab85c5.c02e798d-57f9-45e9-aab7-4fa55be4ec1f",
       "id": "9N4M72L6KGC8",
-      "leavingSoon": false,
-      "leavingSoonPlatforms": [],
+      "leavingSoon": true,
+      "leavingSoonPlatforms": [
+        "console",
+        "pc"
+      ],
       "memberships": [
         "ultimate",
         "premium",
@@ -106019,7 +106083,7 @@
       "url": "https://www.xbox.com/en-us/games/store/zumas-revenge/BR9MPWXFBCRC"
     }
   ],
-  "generatedAt": "2026-10-01T20:28:10.064Z",
+  "generatedAt": "2026-10-02T11:08:51.486Z",
   "labels": {
     "diffs": {
       "essentialNotPremium": "Essential not Premium",
@@ -106050,9 +106114,40 @@
   },
   "language": "en-us",
   "leavingSoon": {
-    "all": [],
-    "console": [],
-    "pc": [],
+    "all": [
+      "9MW581HCJPM6",
+      "9N4M72L6KGC8",
+      "9N6V2181GHLM",
+      "9N97RC576957",
+      "9NBNFBQ546DT",
+      "9ND0JVB184XL",
+      "9NGZ1M3N98P2",
+      "9PC49MD70881",
+      "9PG0PMB5Q0GT",
+      "9PNKG0WBL61W",
+      "9PPT8K6GQHRZ"
+    ],
+    "console": [
+      "9MW581HCJPM6",
+      "9N4M72L6KGC8",
+      "9N6V2181GHLM",
+      "9ND0JVB184XL",
+      "9NGZ1M3N98P2",
+      "9PG0PMB5Q0GT",
+      "9PNKG0WBL61W",
+      "9PPT8K6GQHRZ"
+    ],
+    "pc": [
+      "9N4M72L6KGC8",
+      "9N6V2181GHLM",
+      "9N97RC576957",
+      "9NBNFBQ546DT",
+      "9NGZ1M3N98P2",
+      "9PC49MD70881",
+      "9PG0PMB5Q0GT",
+      "9PNKG0WBL61W",
+      "9PPT8K6GQHRZ"
+    ],
     "unmatched": {
       "console": [],
       "pc": []
@@ -106060,28 +106155,28 @@
   },
   "leavingSoonSourceLists": [
     {
-      "count": 0,
+      "count": 8,
       "description": "Don't want the fun to end? Save on these games now.",
-      "fetchedAt": "2026-10-01T20:28:10.064Z",
+      "fetchedAt": "2026-10-02T11:08:51.486Z",
       "kind": "leavingSoon",
       "platform": "console",
       "platformLabel": "Console",
       "siglId": "393f05bf-e596-4ef6-9487-6d4fa0eab987",
-      "sourceCount": 0,
+      "sourceCount": 8,
       "status": "ok",
       "swapsApplied": [],
       "title": "Leaving soon",
       "url": "https://catalog.gamepass.com/sigls/v2?id=393f05bf-e596-4ef6-9487-6d4fa0eab987&language=en-us&market=AT"
     },
     {
-      "count": 0,
+      "count": 9,
       "description": "Don't want the fun to end? Save on these games now.",
-      "fetchedAt": "2026-10-01T20:28:10.064Z",
+      "fetchedAt": "2026-10-02T11:08:51.486Z",
       "kind": "leavingSoon",
       "platform": "pc",
       "platformLabel": "PC",
       "siglId": "cc7fc951-d00f-410e-9e02-5e4628e04163",
-      "sourceCount": 0,
+      "sourceCount": 9,
       "status": "ok",
       "swapsApplied": [],
       "title": "Leaving soon",
@@ -106488,6 +106583,7 @@
         "9NC9M1NCZ7SD",
         "9NCDMPCPDTQF",
         "9NCJSXWZTP88",
+        "9NCJWHHMVHR0",
         "9NCLP4LV5K7Z",
         "9NCNBWZSHZR5",
         "9NCT87FKQ4GM",
@@ -107461,6 +107557,7 @@
         "9NC9M1NCZ7SD",
         "9NCDMPCPDTQF",
         "9NCJSXWZTP88",
+        "9NCJWHHMVHR0",
         "9NCLP4LV5K7Z",
         "9NCNBWZSHZR5",
         "9NCT87FKQ4GM",
@@ -107996,6 +108093,7 @@
         "9NC7NRD0CM11",
         "9NCDMPCPDTQF",
         "9NCJSXWZTP88",
+        "9NCJWHHMVHR0",
         "9NCNBWZSHZR5",
         "9ND0JVB184XL",
         "9ND19JDMBS3R",
@@ -108450,6 +108548,7 @@
         "9NC9M1NCZ7SD",
         "9NCDMPCPDTQF",
         "9NCJSXWZTP88",
+        "9NCJWHHMVHR0",
         "9NCLP4LV5K7Z",
         "9NCNBWZSHZR5",
         "9NCT87FKQ4GM",
@@ -111066,7 +111165,6 @@
       "9NBNFBQ546DT",
       "9NBNXX6V9J43",
       "9NC4PV16GVT1",
-      "9NCJWHHMVHR0",
       "9NCT9L7NFHX7",
       "9NDJPHS21XXG",
       "9NDLJ3HM721L",
@@ -111445,6 +111543,7 @@
       "9NC7NRD0CM11",
       "9NCDMPCPDTQF",
       "9NCJSXWZTP88",
+      "9NCJWHHMVHR0",
       "9NCNBWZSHZR5",
       "9NCT87FKQ4GM",
       "9NCZ8W65H33V",
@@ -111789,7 +111888,7 @@
     {
       "count": 619,
       "description": "Discover your next favorite game",
-      "fetchedAt": "2026-10-01T20:28:10.064Z",
+      "fetchedAt": "2026-10-02T11:08:51.486Z",
       "platform": "console",
       "platformContext": "ConsoleGen8;ConsoleGen9",
       "platformLabel": "Console",
@@ -111806,7 +111905,7 @@
     {
       "count": 599,
       "description": "Discover your next favorite game",
-      "fetchedAt": "2026-10-01T20:28:10.064Z",
+      "fetchedAt": "2026-10-02T11:08:51.486Z",
       "platform": "pc",
       "platformContext": "pc",
       "platformLabel": "PC",
@@ -111821,14 +111920,14 @@
       "url": "https://catalog.gamepass.com/sigls/v3?id=97c6c862-d28a-4907-a3d5-c401f2296a53&language=en-us&market=AT&platformContext=pc&subscriptionContext=cfq7ttc0khs0"
     },
     {
-      "count": 435,
+      "count": 436,
       "description": "Games included in your Game Pass Premium membership",
-      "fetchedAt": "2026-10-01T20:28:10.064Z",
+      "fetchedAt": "2026-10-02T11:08:51.486Z",
       "platform": "console",
       "platformContext": "ConsoleGen8;ConsoleGen9",
       "platformLabel": "Console",
       "siglId": "09a72c0d-c466-426a-9580-b78955d8173a",
-      "sourceCount": 435,
+      "sourceCount": 436,
       "status": "ok",
       "subscriptionContext": "cfq7ttc0p85b",
       "swapsApplied": [],
@@ -111838,14 +111937,14 @@
       "url": "https://catalog.gamepass.com/sigls/v3?id=09a72c0d-c466-426a-9580-b78955d8173a&language=en-us&market=AT&platformContext=ConsoleGen8%3BConsoleGen9&subscriptionContext=cfq7ttc0p85b"
     },
     {
-      "count": 409,
+      "count": 410,
       "description": "Games included in your Game Pass Premium membership",
-      "fetchedAt": "2026-10-01T20:28:10.064Z",
+      "fetchedAt": "2026-10-02T11:08:51.486Z",
       "platform": "pc",
       "platformContext": "pc",
       "platformLabel": "PC",
       "siglId": "09a72c0d-c466-426a-9580-b78955d8173a",
-      "sourceCount": 409,
+      "sourceCount": 410,
       "status": "ok",
       "subscriptionContext": "cfq7ttc0p85b",
       "swapsApplied": [],
@@ -111857,7 +111956,7 @@
     {
       "count": 93,
       "description": "Games included in your Game Pass Essential membership",
-      "fetchedAt": "2026-10-01T20:28:10.064Z",
+      "fetchedAt": "2026-10-02T11:08:51.486Z",
       "platform": "console",
       "platformContext": "ConsoleGen8;ConsoleGen9",
       "platformLabel": "Console",
@@ -111874,7 +111973,7 @@
     {
       "count": 86,
       "description": "Games included in your Game Pass Essential membership",
-      "fetchedAt": "2026-10-01T20:28:10.064Z",
+      "fetchedAt": "2026-10-02T11:08:51.486Z",
       "platform": "pc",
       "platformContext": "pc",
       "platformLabel": "PC",
