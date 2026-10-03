@@ -47076,7 +47076,7 @@
       "publisher": "Playstack",
       "ratingId": "PEGI:12",
       "ratingSystem": "PEGI",
-      "releaseDate": null,
+      "releaseDate": "2026-11-04",
       "screenshots": [
         "https://store-images.s-microsoft.com/image/apps.51031.13536036111571877.3266a222-83f1-40f7-96ba-71f15b28ffb1.ceb8a5b7-0c07-45ba-8b43-0833eb54a764?w=640&h=360&q=80&format=jpg",
         "https://store-images.s-microsoft.com/image/apps.49283.13536036111571877.c638ba31-85af-420c-94d6-9a8fe7d0a082.ba25fd40-8d4f-40c6-be89-9672fae2467e?w=640&h=360&q=80&format=jpg",
@@ -102038,7 +102038,7 @@
       "publisher": "Playstack",
       "ratingId": "PEGI:12",
       "ratingSystem": "PEGI",
-      "releaseDate": "9998-12-30",
+      "releaseDate": "2026-11-04",
       "screenshots": [
         "https://store-images.s-microsoft.com/image/apps.51031.13536036111571877.3266a222-83f1-40f7-96ba-71f15b28ffb1.ceb8a5b7-0c07-45ba-8b43-0833eb54a764?w=640&h=360&q=80&format=jpg",
         "https://store-images.s-microsoft.com/image/apps.49283.13536036111571877.c638ba31-85af-420c-94d6-9a8fe7d0a082.ba25fd40-8d4f-40c6-be89-9672fae2467e?w=640&h=360&q=80&format=jpg",
@@ -106083,7 +106083,7 @@
       "url": "https://www.xbox.com/en-us/games/store/zumas-revenge/BR9MPWXFBCRC"
     }
   ],
-  "generatedAt": "2026-10-02T11:08:51.486Z",
+  "generatedAt": "2026-10-03T10:26:53.559Z",
   "labels": {
     "diffs": {
       "essentialNotPremium": "Essential not Premium",
@@ -106157,7 +106157,7 @@
     {
       "count": 8,
       "description": "Don't want the fun to end? Save on these games now.",
-      "fetchedAt": "2026-10-02T11:08:51.486Z",
+      "fetchedAt": "2026-10-03T10:26:53.559Z",
       "kind": "leavingSoon",
       "platform": "console",
       "platformLabel": "Console",
@@ -106171,7 +106171,7 @@
     {
       "count": 9,
       "description": "Don't want the fun to end? Save on these games now.",
-      "fetchedAt": "2026-10-02T11:08:51.486Z",
+      "fetchedAt": "2026-10-03T10:26:53.559Z",
       "kind": "leavingSoon",
       "platform": "pc",
       "platformLabel": "PC",
@@ -111888,7 +111888,7 @@
     {
       "count": 619,
       "description": "Discover your next favorite game",
-      "fetchedAt": "2026-10-02T11:08:51.486Z",
+      "fetchedAt": "2026-10-03T10:26:53.559Z",
       "platform": "console",
       "platformContext": "ConsoleGen8;ConsoleGen9",
       "platformLabel": "Console",
@@ -111905,7 +111905,7 @@
     {
       "count": 599,
       "description": "Discover your next favorite game",
-      "fetchedAt": "2026-10-02T11:08:51.486Z",
+      "fetchedAt": "2026-10-03T10:26:53.559Z",
       "platform": "pc",
       "platformContext": "pc",
       "platformLabel": "PC",
@@ -111922,7 +111922,7 @@
     {
       "count": 436,
       "description": "Games included in your Game Pass Premium membership",
-      "fetchedAt": "2026-10-02T11:08:51.486Z",
+      "fetchedAt": "2026-10-03T10:26:53.559Z",
       "platform": "console",
       "platformContext": "ConsoleGen8;ConsoleGen9",
       "platformLabel": "Console",
@@ -111939,7 +111939,7 @@
     {
       "count": 410,
       "description": "Games included in your Game Pass Premium membership",
-      "fetchedAt": "2026-10-02T11:08:51.486Z",
+      "fetchedAt": "2026-10-03T10:26:53.559Z",
       "platform": "pc",
       "platformContext": "pc",
       "platformLabel": "PC",
@@ -111956,7 +111956,7 @@
     {
       "count": 93,
       "description": "Games included in your Game Pass Essential membership",
-      "fetchedAt": "2026-10-02T11:08:51.486Z",
+      "fetchedAt": "2026-10-03T10:26:53.559Z",
       "platform": "console",
       "platformContext": "ConsoleGen8;ConsoleGen9",
       "platformLabel": "Console",
@@ -111973,7 +111973,7 @@
     {
       "count": 86,
       "description": "Games included in your Game Pass Essential membership",
-      "fetchedAt": "2026-10-02T11:08:51.486Z",
+      "fetchedAt": "2026-10-03T10:26:53.559Z",
       "platform": "pc",
       "platformContext": "pc",
       "platformLabel": "PC",
