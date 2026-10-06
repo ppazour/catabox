@@ -43596,7 +43596,7 @@
     },
     {
       "availableInFR": true,
-      "boxArt": "https://store-images.s-microsoft.com/image/apps.25142.14143053245725704.14ebe58d-2f1e-46da-9224-f0da06983250.7a1d13b7-1f0f-49cf-bb4f-71c01913ab00",
+      "boxArt": "https://store-images.s-microsoft.com/image/apps.26838.13937399101571368.d7ea1ad6-8d5d-4b4d-a570-efed308de865.ed967097-f22c-4db0-8fb7-ba8acd4ccb40",
       "description": "Open your own local game store. Stock shelves with the latest booster packs, or crack them and collect the cards for yourself. Set your own prices, hire staff, host events, and expand your card shop.",
       "developer": "OPNeon Games Sdn Bhd",
       "familyKey": "tcg card shop simulator",
@@ -43630,7 +43630,7 @@
       "playerModes": [
         "Single player"
       ],
-      "poster": "https://store-images.s-microsoft.com/image/apps.64640.14143053245725704.14ebe58d-2f1e-46da-9224-f0da06983250.531a6e82-4e61-4f27-9dbb-46c1d6f94f7c",
+      "poster": "https://store-images.s-microsoft.com/image/apps.58237.13937399101571368.d7ea1ad6-8d5d-4b4d-a570-efed308de865.26b2bdaf-a722-4b21-bb40-d7dfdb82b2a9",
       "primaryVariantId": "9P9GX5D8H9DW",
       "publisher": "OPNeon Games Sdn Bhd",
       "ratingId": "PEGI:3",
@@ -49758,7 +49758,7 @@
     },
     {
       "availableInFR": true,
-      "boxArt": "https://store-images.s-microsoft.com/image/apps.35484.67082279703731056.70780ed5-0f1c-4406-ad81-b5de60c2500e.ef005dc3-fe1c-429e-83fb-78e3afd7a7a4",
+      "boxArt": "https://store-images.s-microsoft.com/image/apps.53039.67082279703731056.6e3bd00c-6996-4fb3-aaff-b5a1ec4229ca.061bb57d-d87a-4a28-84f4-843bf0f65d4c",
       "description": "World of Tanks Modern Armor puts you in command of over 1,000 modern and legendary tanks. Challenge yourself in 15v15 tactical team battles. Choose Cold War battles for modern, fast-paced action or World War II for deliberate, tactical combat.",
       "developer": "Wargaming.net",
       "familyKey": "world of tanks modern armor",
@@ -49767,7 +49767,7 @@
         "Action & adventure",
         "Shooter"
       ],
-      "heroArt": "https://store-images.s-microsoft.com/image/apps.45084.67082279703731056.84cd89a7-80ef-4f91-9d87-815ae664085b.45510c6f-f5f5-4440-804b-4fbc15e9beea",
+      "heroArt": "https://store-images.s-microsoft.com/image/apps.8100.67082279703731056.6e3bd00c-6996-4fb3-aaff-b5a1ec4229ca.ae7b70f6-96c5-4f6d-9047-dda63a791596",
       "id": "family-7343a7d0df9a9191a7803a697a07a49b1ee47704afe7aa1b3d6bf13509066e93",
       "leavingSoon": false,
       "leavingSoonPlatforms": [],
@@ -49795,21 +49795,21 @@
         "Online co-op (2-15)",
         "Online multiplayer (2-30)"
       ],
-      "poster": "https://store-images.s-microsoft.com/image/apps.50747.67082279703731056.70780ed5-0f1c-4406-ad81-b5de60c2500e.d57120f5-5621-482a-8ac2-b9b479ed0c68",
+      "poster": "https://store-images.s-microsoft.com/image/apps.56441.67082279703731056.6e3bd00c-6996-4fb3-aaff-b5a1ec4229ca.e30bf06c-1657-4b9c-8c20-f83420c09d4e",
       "primaryVariantId": "C57L9GR0HHB7",
       "publisher": "Wargaming.net",
       "ratingId": "PEGI:12",
       "ratingSystem": "PEGI",
       "releaseDate": "2015-07-28",
       "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.35455.67082279703731056.09e03418-c06c-47b7-8942-511784b223f4.e3b2e3fb-048f-45b5-937f-03506601b9fa?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.54412.67082279703731056.09e03418-c06c-47b7-8942-511784b223f4.fdc22a29-f24e-4e87-a096-ca5c288d8efc?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.53766.67082279703731056.09e03418-c06c-47b7-8942-511784b223f4.ccc73517-a2c9-45b2-8cf0-df846257c95e?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.45758.67082279703731056.09e03418-c06c-47b7-8942-511784b223f4.7d63a255-a2b7-46a9-8eef-48a233b1dedd?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.15290.67082279703731056.09e03418-c06c-47b7-8942-511784b223f4.603228bd-a068-4989-adf8-70e126a34b68?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.31750.67082279703731056.09e03418-c06c-47b7-8942-511784b223f4.fa7ab470-4a64-4a54-bca3-8b740f40b0c7?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.16335.67082279703731056.09e03418-c06c-47b7-8942-511784b223f4.790e1ee0-dffb-4e3f-9f6d-c6e80e7f3be5?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.48209.67082279703731056.09e03418-c06c-47b7-8942-511784b223f4.78a9704b-498e-4924-a9af-429eb68e70bc?w=640&h=360&q=80&format=jpg"
+        "https://store-images.s-microsoft.com/image/apps.40172.67082279703731056.6e3bd00c-6996-4fb3-aaff-b5a1ec4229ca.c0fdc045-1041-4839-8499-441b11e911b1?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.52906.67082279703731056.6e3bd00c-6996-4fb3-aaff-b5a1ec4229ca.55b55bdd-0b4f-4b73-b3df-0ecc9cb7e740?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.48226.67082279703731056.6e3bd00c-6996-4fb3-aaff-b5a1ec4229ca.50dccf4f-3cd9-41ce-b555-8a220d5cf0c8?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.54609.67082279703731056.6e3bd00c-6996-4fb3-aaff-b5a1ec4229ca.481ec115-0a10-4c57-923f-5114eb85aaae?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.42735.67082279703731056.6e3bd00c-6996-4fb3-aaff-b5a1ec4229ca.f099eb6f-00a3-4979-9a30-394543363f29?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.16357.67082279703731056.6e3bd00c-6996-4fb3-aaff-b5a1ec4229ca.9d45f905-f97e-4506-80f8-bad52193b7cd?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.12999.67082279703731056.6e3bd00c-6996-4fb3-aaff-b5a1ec4229ca.4ba9ed85-15dc-49e3-978e-8a9a5d1dd806?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.4744.67082279703731056.6e3bd00c-6996-4fb3-aaff-b5a1ec4229ca.53ea5d8b-6f93-46b2-8d56-92ab97f0ef5b?w=640&h=360&q=80&format=jpg"
       ],
       "segment": "allTiers",
       "shortDescription": "World of Tanks Modern Armor puts you in command of over 1,000 modern and legendary tanks. Challenge yourself in 15v15 tactical team battles. Choose Cold War battles for modern, fast-paced action or World War II for deliberate, tactical combat.",
@@ -98006,7 +98006,7 @@
     },
     {
       "availableInFR": true,
-      "boxArt": "https://store-images.s-microsoft.com/image/apps.25142.14143053245725704.14ebe58d-2f1e-46da-9224-f0da06983250.7a1d13b7-1f0f-49cf-bb4f-71c01913ab00",
+      "boxArt": "https://store-images.s-microsoft.com/image/apps.26838.13937399101571368.d7ea1ad6-8d5d-4b4d-a570-efed308de865.ed967097-f22c-4db0-8fb7-ba8acd4ccb40",
       "description": "Open your own local game store. Stock shelves with the latest booster packs, or crack them and collect the cards for yourself. Set your own prices, hire staff, host events, and expand your card shop.",
       "developer": "OPNeon Games Sdn Bhd",
       "genres": [
@@ -98038,7 +98038,7 @@
       "playerModes": [
         "Single player"
       ],
-      "poster": "https://store-images.s-microsoft.com/image/apps.64640.14143053245725704.14ebe58d-2f1e-46da-9224-f0da06983250.531a6e82-4e61-4f27-9dbb-46c1d6f94f7c",
+      "poster": "https://store-images.s-microsoft.com/image/apps.58237.13937399101571368.d7ea1ad6-8d5d-4b4d-a570-efed308de865.26b2bdaf-a722-4b21-bb40-d7dfdb82b2a9",
       "publisher": "OPNeon Games Sdn Bhd",
       "ratingId": "PEGI:3",
       "ratingSystem": "PEGI",
@@ -104961,14 +104961,14 @@
     },
     {
       "availableInFR": true,
-      "boxArt": "https://store-images.s-microsoft.com/image/apps.35484.67082279703731056.70780ed5-0f1c-4406-ad81-b5de60c2500e.ef005dc3-fe1c-429e-83fb-78e3afd7a7a4",
+      "boxArt": "https://store-images.s-microsoft.com/image/apps.53039.67082279703731056.6e3bd00c-6996-4fb3-aaff-b5a1ec4229ca.061bb57d-d87a-4a28-84f4-843bf0f65d4c",
       "description": "World of Tanks Modern Armor puts you in command of over 1,000 modern and legendary tanks. Challenge yourself in 15v15 tactical team battles. Choose Cold War battles for modern, fast-paced action or World War II for deliberate, tactical combat.",
       "developer": "Wargaming.net",
       "genres": [
         "Action & adventure",
         "Shooter"
       ],
-      "heroArt": "https://store-images.s-microsoft.com/image/apps.45084.67082279703731056.84cd89a7-80ef-4f91-9d87-815ae664085b.45510c6f-f5f5-4440-804b-4fbc15e9beea",
+      "heroArt": "https://store-images.s-microsoft.com/image/apps.8100.67082279703731056.6e3bd00c-6996-4fb3-aaff-b5a1ec4229ca.ae7b70f6-96c5-4f6d-9047-dda63a791596",
       "id": "C57L9GR0HHB7",
       "leavingSoon": false,
       "leavingSoonPlatforms": [],
@@ -104996,20 +104996,20 @@
         "Online co-op (2-15)",
         "Online multiplayer (2-30)"
       ],
-      "poster": "https://store-images.s-microsoft.com/image/apps.50747.67082279703731056.70780ed5-0f1c-4406-ad81-b5de60c2500e.d57120f5-5621-482a-8ac2-b9b479ed0c68",
+      "poster": "https://store-images.s-microsoft.com/image/apps.56441.67082279703731056.6e3bd00c-6996-4fb3-aaff-b5a1ec4229ca.e30bf06c-1657-4b9c-8c20-f83420c09d4e",
       "publisher": "Wargaming.net",
       "ratingId": "PEGI:12",
       "ratingSystem": "PEGI",
       "releaseDate": "2015-07-28",
       "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.35455.67082279703731056.09e03418-c06c-47b7-8942-511784b223f4.e3b2e3fb-048f-45b5-937f-03506601b9fa?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.54412.67082279703731056.09e03418-c06c-47b7-8942-511784b223f4.fdc22a29-f24e-4e87-a096-ca5c288d8efc?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.53766.67082279703731056.09e03418-c06c-47b7-8942-511784b223f4.ccc73517-a2c9-45b2-8cf0-df846257c95e?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.45758.67082279703731056.09e03418-c06c-47b7-8942-511784b223f4.7d63a255-a2b7-46a9-8eef-48a233b1dedd?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.15290.67082279703731056.09e03418-c06c-47b7-8942-511784b223f4.603228bd-a068-4989-adf8-70e126a34b68?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.31750.67082279703731056.09e03418-c06c-47b7-8942-511784b223f4.fa7ab470-4a64-4a54-bca3-8b740f40b0c7?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.16335.67082279703731056.09e03418-c06c-47b7-8942-511784b223f4.790e1ee0-dffb-4e3f-9f6d-c6e80e7f3be5?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.48209.67082279703731056.09e03418-c06c-47b7-8942-511784b223f4.78a9704b-498e-4924-a9af-429eb68e70bc?w=640&h=360&q=80&format=jpg"
+        "https://store-images.s-microsoft.com/image/apps.40172.67082279703731056.6e3bd00c-6996-4fb3-aaff-b5a1ec4229ca.c0fdc045-1041-4839-8499-441b11e911b1?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.52906.67082279703731056.6e3bd00c-6996-4fb3-aaff-b5a1ec4229ca.55b55bdd-0b4f-4b73-b3df-0ecc9cb7e740?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.48226.67082279703731056.6e3bd00c-6996-4fb3-aaff-b5a1ec4229ca.50dccf4f-3cd9-41ce-b555-8a220d5cf0c8?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.54609.67082279703731056.6e3bd00c-6996-4fb3-aaff-b5a1ec4229ca.481ec115-0a10-4c57-923f-5114eb85aaae?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.42735.67082279703731056.6e3bd00c-6996-4fb3-aaff-b5a1ec4229ca.f099eb6f-00a3-4979-9a30-394543363f29?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.16357.67082279703731056.6e3bd00c-6996-4fb3-aaff-b5a1ec4229ca.9d45f905-f97e-4506-80f8-bad52193b7cd?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.12999.67082279703731056.6e3bd00c-6996-4fb3-aaff-b5a1ec4229ca.4ba9ed85-15dc-49e3-978e-8a9a5d1dd806?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.4744.67082279703731056.6e3bd00c-6996-4fb3-aaff-b5a1ec4229ca.53ea5d8b-6f93-46b2-8d56-92ab97f0ef5b?w=640&h=360&q=80&format=jpg"
       ],
       "segment": "allTiers",
       "shortDescription": "World of Tanks Modern Armor puts you in command of over 1,000 modern and legendary tanks. Challenge yourself in 15v15 tactical team battles. Choose Cold War battles for modern, fast-paced action or World War II for deliberate, tactical combat.",
@@ -106083,7 +106083,7 @@
       "url": "https://www.xbox.com/en-us/games/store/zumas-revenge/BR9MPWXFBCRC"
     }
   ],
-  "generatedAt": "2026-10-05T12:19:33.841Z",
+  "generatedAt": "2026-10-06T12:03:48.504Z",
   "labels": {
     "diffs": {
       "essentialNotPremium": "Essential not Premium",
@@ -106157,7 +106157,7 @@
     {
       "count": 8,
       "description": "Don't want the fun to end? Save on these games now.",
-      "fetchedAt": "2026-10-05T12:19:33.841Z",
+      "fetchedAt": "2026-10-06T12:03:48.504Z",
       "kind": "leavingSoon",
       "platform": "console",
       "platformLabel": "Console",
@@ -106171,7 +106171,7 @@
     {
       "count": 9,
       "description": "Don't want the fun to end? Save on these games now.",
-      "fetchedAt": "2026-10-05T12:19:33.841Z",
+      "fetchedAt": "2026-10-06T12:03:48.504Z",
       "kind": "leavingSoon",
       "platform": "pc",
       "platformLabel": "PC",
@@ -111888,7 +111888,7 @@
     {
       "count": 619,
       "description": "Discover your next favorite game",
-      "fetchedAt": "2026-10-05T12:19:33.841Z",
+      "fetchedAt": "2026-10-06T12:03:48.504Z",
       "platform": "console",
       "platformContext": "ConsoleGen8;ConsoleGen9",
       "platformLabel": "Console",
@@ -111905,7 +111905,7 @@
     {
       "count": 599,
       "description": "Discover your next favorite game",
-      "fetchedAt": "2026-10-05T12:19:33.841Z",
+      "fetchedAt": "2026-10-06T12:03:48.504Z",
       "platform": "pc",
       "platformContext": "pc",
       "platformLabel": "PC",
@@ -111922,7 +111922,7 @@
     {
       "count": 436,
       "description": "Games included in your Game Pass Premium membership",
-      "fetchedAt": "2026-10-05T12:19:33.841Z",
+      "fetchedAt": "2026-10-06T12:03:48.504Z",
       "platform": "console",
       "platformContext": "ConsoleGen8;ConsoleGen9",
       "platformLabel": "Console",
@@ -111939,7 +111939,7 @@
     {
       "count": 410,
       "description": "Games included in your Game Pass Premium membership",
-      "fetchedAt": "2026-10-05T12:19:33.841Z",
+      "fetchedAt": "2026-10-06T12:03:48.504Z",
       "platform": "pc",
       "platformContext": "pc",
       "platformLabel": "PC",
@@ -111956,7 +111956,7 @@
     {
       "count": 93,
       "description": "Games included in your Game Pass Essential membership",
-      "fetchedAt": "2026-10-05T12:19:33.841Z",
+      "fetchedAt": "2026-10-06T12:03:48.504Z",
       "platform": "console",
       "platformContext": "ConsoleGen8;ConsoleGen9",
       "platformLabel": "Console",
@@ -111973,7 +111973,7 @@
     {
       "count": 86,
       "description": "Games included in your Game Pass Essential membership",
-      "fetchedAt": "2026-10-05T12:19:33.841Z",
+      "fetchedAt": "2026-10-06T12:03:48.504Z",
       "platform": "pc",
       "platformContext": "pc",
       "platformLabel": "PC",
