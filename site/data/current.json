@@ -2825,7 +2825,7 @@
         "premium",
         "essential"
       ],
-      "pegiRating": "PEGI 7",
+      "pegiRating": "PEGI 3",
       "platformByTier": {
         "essential": [
           "console",
@@ -2852,7 +2852,7 @@
       "poster": "https://store-images.s-microsoft.com/image/apps.33654.14271146495264987.c32913b7-6895-4338-ad19-54121ee5a1e9.8fd7e7b5-86e6-4a76-873b-32af6bd3cd47",
       "primaryVariantId": "9PK8PHLCQDF6",
       "publisher": "Pawprint Studio",
-      "ratingId": "PEGI:7",
+      "ratingId": "PEGI:3",
       "ratingSystem": "PEGI",
       "releaseDate": null,
       "screenshots": [
@@ -44479,10 +44479,10 @@
         "https://store-images.s-microsoft.com/image/apps.5941.13762125458177399.cfac7894-4c96-4892-951a-b1d5e15ad19a.61b3b8c7-92d6-4ad9-a8f4-d5315b19b0cd?w=640&h=360&q=80&format=jpg",
         "https://store-images.s-microsoft.com/image/apps.25205.13762125458177399.cfac7894-4c96-4892-951a-b1d5e15ad19a.13b74622-10fc-443c-97bb-ec5c91828b5a?w=640&h=360&q=80&format=jpg",
         "https://store-images.s-microsoft.com/image/apps.56224.13762125458177399.cfac7894-4c96-4892-951a-b1d5e15ad19a.cf8be6c1-f59b-42aa-891c-9763e69bb64b?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.33390.13762125458177399.cfac7894-4c96-4892-951a-b1d5e15ad19a.e5b1dab3-e77f-4af6-8909-615b6cee456f?w=640&h=360&q=80&format=jpg",
         "https://store-images.s-microsoft.com/image/apps.2533.13762125458177399.cfac7894-4c96-4892-951a-b1d5e15ad19a.6e345db3-56d1-48fb-8d77-cf2c48536a6f?w=640&h=360&q=80&format=jpg",
         "https://store-images.s-microsoft.com/image/apps.5899.13762125458177399.cfac7894-4c96-4892-951a-b1d5e15ad19a.92892a67-a699-44b9-91c7-e7e7ee967e43?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.31439.13762125458177399.cfac7894-4c96-4892-951a-b1d5e15ad19a.891e5329-0789-4ab7-b2d4-d11bc32ca2fb?w=640&h=360&q=80&format=jpg"
+        "https://store-images.s-microsoft.com/image/apps.31439.13762125458177399.cfac7894-4c96-4892-951a-b1d5e15ad19a.891e5329-0789-4ab7-b2d4-d11bc32ca2fb?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.49375.13762125458177399.cfac7894-4c96-4892-951a-b1d5e15ad19a.db465acc-b570-4d05-ad90-2303005d89fd?w=640&h=360&q=80&format=jpg"
       ],
       "segment": "allTiers",
       "shortDescription": "Discover an authentic hunting game in a dynamic open world that reacts to your every move. Track prey, face unscripted encounters, and master the hunt alone or with friends.",
@@ -50187,7 +50187,7 @@
     },
     {
       "availableInFR": true,
-      "boxArt": "https://store-images.s-microsoft.com/image/apps.54721.13660342589962425.2996ae9a-7a25-4f2c-b39b-82e0ebf11032.4eb3d27e-b400-42fd-891a-5c2d596373ba",
+      "boxArt": "https://store-images.s-microsoft.com/image/apps.55678.13660342589962425.6455870f-14f6-40c6-8297-921ec3889341.7a8d87fc-a637-4cd9-8541-bbfc90238344",
       "description": "World of Warships",
       "developer": "Wargaming Group Limited",
       "familyKey": "world of warships",
@@ -50197,7 +50197,7 @@
         "Shooter",
         "Simulation"
       ],
-      "heroArt": "https://store-images.s-microsoft.com/image/apps.46828.13660342589962425.2996ae9a-7a25-4f2c-b39b-82e0ebf11032.637a4f21-d157-4860-aae7-291e8760d0b9",
+      "heroArt": "https://store-images.s-microsoft.com/image/apps.13.13660342589962425.6455870f-14f6-40c6-8297-921ec3889341.428f103e-5168-46df-b5f6-212174b55f84",
       "id": "family-775c82637827ce4530e0968421888521ec86c71afd54cbc7d0223dece2afc556",
       "leavingSoon": false,
       "leavingSoonPlatforms": [],
@@ -50225,7 +50225,7 @@
         "Online co-op (2-12)",
         "Online multiplayer (2-24)"
       ],
-      "poster": "https://store-images.s-microsoft.com/image/apps.32122.13660342589962425.2996ae9a-7a25-4f2c-b39b-82e0ebf11032.dc5a564a-271a-4d21-a59a-e133cb13084d",
+      "poster": "https://store-images.s-microsoft.com/image/apps.5355.13660342589962425.6455870f-14f6-40c6-8297-921ec3889341.b8c1aaa2-488e-481e-a1da-be13117b9acf",
       "primaryVariantId": "9NK9K07FDPJV",
       "publisher": "Wargaming Group Limited",
       "ratingId": "PEGI:12",
@@ -54403,7 +54403,7 @@
         "premium",
         "essential"
       ],
-      "pegiRating": "PEGI 7",
+      "pegiRating": "PEGI 3",
       "platformByTier": {
         "essential": [
           "console",
@@ -54429,7 +54429,7 @@
       ],
       "poster": "https://store-images.s-microsoft.com/image/apps.33654.14271146495264987.c32913b7-6895-4338-ad19-54121ee5a1e9.8fd7e7b5-86e6-4a76-873b-32af6bd3cd47",
       "publisher": "Pawprint Studio",
-      "ratingId": "PEGI:7",
+      "ratingId": "PEGI:3",
       "ratingSystem": "PEGI",
       "releaseDate": "9998-12-30",
       "screenshots": [
@@ -99086,10 +99086,10 @@
         "https://store-images.s-microsoft.com/image/apps.5941.13762125458177399.cfac7894-4c96-4892-951a-b1d5e15ad19a.61b3b8c7-92d6-4ad9-a8f4-d5315b19b0cd?w=640&h=360&q=80&format=jpg",
         "https://store-images.s-microsoft.com/image/apps.25205.13762125458177399.cfac7894-4c96-4892-951a-b1d5e15ad19a.13b74622-10fc-443c-97bb-ec5c91828b5a?w=640&h=360&q=80&format=jpg",
         "https://store-images.s-microsoft.com/image/apps.56224.13762125458177399.cfac7894-4c96-4892-951a-b1d5e15ad19a.cf8be6c1-f59b-42aa-891c-9763e69bb64b?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.33390.13762125458177399.cfac7894-4c96-4892-951a-b1d5e15ad19a.e5b1dab3-e77f-4af6-8909-615b6cee456f?w=640&h=360&q=80&format=jpg",
         "https://store-images.s-microsoft.com/image/apps.2533.13762125458177399.cfac7894-4c96-4892-951a-b1d5e15ad19a.6e345db3-56d1-48fb-8d77-cf2c48536a6f?w=640&h=360&q=80&format=jpg",
         "https://store-images.s-microsoft.com/image/apps.5899.13762125458177399.cfac7894-4c96-4892-951a-b1d5e15ad19a.92892a67-a699-44b9-91c7-e7e7ee967e43?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.31439.13762125458177399.cfac7894-4c96-4892-951a-b1d5e15ad19a.891e5329-0789-4ab7-b2d4-d11bc32ca2fb?w=640&h=360&q=80&format=jpg"
+        "https://store-images.s-microsoft.com/image/apps.31439.13762125458177399.cfac7894-4c96-4892-951a-b1d5e15ad19a.891e5329-0789-4ab7-b2d4-d11bc32ca2fb?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.49375.13762125458177399.cfac7894-4c96-4892-951a-b1d5e15ad19a.db465acc-b570-4d05-ad90-2303005d89fd?w=640&h=360&q=80&format=jpg"
       ],
       "segment": "allTiers",
       "shortDescription": "Discover an authentic hunting game in a dynamic open world that reacts to your every move. Track prey, face unscripted encounters, and master the hunt alone or with friends.",
@@ -99154,10 +99154,10 @@
         "https://store-images.s-microsoft.com/image/apps.5941.63553167684393025.c783dd19-2313-4055-849d-5ae039aef931.11c5244a-f160-4e71-9210-db3dba93523f?w=640&h=360&q=80&format=jpg",
         "https://store-images.s-microsoft.com/image/apps.25205.63553167684393025.c783dd19-2313-4055-849d-5ae039aef931.f54f25aa-95a8-4646-887e-4e30249b5399?w=640&h=360&q=80&format=jpg",
         "https://store-images.s-microsoft.com/image/apps.56224.63553167684393025.c783dd19-2313-4055-849d-5ae039aef931.76413211-c4be-4703-8a08-4710cb05cca0?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.33390.63553167684393025.c783dd19-2313-4055-849d-5ae039aef931.6911db64-2935-4a0e-8b85-18c7bc8c600d?w=640&h=360&q=80&format=jpg",
         "https://store-images.s-microsoft.com/image/apps.2533.63553167684393025.c783dd19-2313-4055-849d-5ae039aef931.f1001279-d8c0-4aae-a76b-623bbe5bd93a?w=640&h=360&q=80&format=jpg",
         "https://store-images.s-microsoft.com/image/apps.5899.63553167684393025.c783dd19-2313-4055-849d-5ae039aef931.57bf9b88-b580-4f9e-8006-1414e1aca2fe?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.31439.63553167684393025.c783dd19-2313-4055-849d-5ae039aef931.38c26c39-cab0-433a-a6f9-bc435135b4cf?w=640&h=360&q=80&format=jpg"
+        "https://store-images.s-microsoft.com/image/apps.31439.63553167684393025.c783dd19-2313-4055-849d-5ae039aef931.38c26c39-cab0-433a-a6f9-bc435135b4cf?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.49375.63553167684393025.c783dd19-2313-4055-849d-5ae039aef931.2c9f0add-bbc8-4f6b-b7d2-00c917511aff?w=640&h=360&q=80&format=jpg"
       ],
       "segment": "allTiers",
       "shortDescription": "Discover an authentic hunting game in a dynamic open world that reacts to your every move. Track prey, face unscripted encounters, and master the hunt alone or with friends.",
@@ -105637,7 +105637,7 @@
     },
     {
       "availableInFR": true,
-      "boxArt": "https://store-images.s-microsoft.com/image/apps.54721.13660342589962425.2996ae9a-7a25-4f2c-b39b-82e0ebf11032.4eb3d27e-b400-42fd-891a-5c2d596373ba",
+      "boxArt": "https://store-images.s-microsoft.com/image/apps.55678.13660342589962425.6455870f-14f6-40c6-8297-921ec3889341.7a8d87fc-a637-4cd9-8541-bbfc90238344",
       "description": "World of Warships",
       "developer": "Wargaming Group Limited",
       "genres": [
@@ -105645,7 +105645,7 @@
         "Shooter",
         "Simulation"
       ],
-      "heroArt": "https://store-images.s-microsoft.com/image/apps.46828.13660342589962425.2996ae9a-7a25-4f2c-b39b-82e0ebf11032.637a4f21-d157-4860-aae7-291e8760d0b9",
+      "heroArt": "https://store-images.s-microsoft.com/image/apps.13.13660342589962425.6455870f-14f6-40c6-8297-921ec3889341.428f103e-5168-46df-b5f6-212174b55f84",
       "id": "9NK9K07FDPJV",
       "leavingSoon": false,
       "leavingSoonPlatforms": [],
@@ -105673,7 +105673,7 @@
         "Online co-op (2-12)",
         "Online multiplayer (2-24)"
       ],
-      "poster": "https://store-images.s-microsoft.com/image/apps.32122.13660342589962425.2996ae9a-7a25-4f2c-b39b-82e0ebf11032.dc5a564a-271a-4d21-a59a-e133cb13084d",
+      "poster": "https://store-images.s-microsoft.com/image/apps.5355.13660342589962425.6455870f-14f6-40c6-8297-921ec3889341.b8c1aaa2-488e-481e-a1da-be13117b9acf",
       "publisher": "Wargaming Group Limited",
       "ratingId": "PEGI:12",
       "ratingSystem": "PEGI",
@@ -106626,7 +106626,7 @@
       "url": "https://www.xbox.com/en-us/games/store/zumas-revenge/BR9MPWXFBCRC"
     }
   ],
-  "generatedAt": "2026-10-09T11:56:12.351Z",
+  "generatedAt": "2026-10-10T11:12:38.673Z",
   "labels": {
     "diffs": {
       "essentialNotPremium": "Essential not Premium",
@@ -106700,7 +106700,7 @@
     {
       "count": 8,
       "description": "Don't want the fun to end? Save on these games now.",
-      "fetchedAt": "2026-10-09T11:56:12.351Z",
+      "fetchedAt": "2026-10-10T11:12:38.673Z",
       "kind": "leavingSoon",
       "platform": "console",
       "platformLabel": "Console",
@@ -106714,7 +106714,7 @@
     {
       "count": 9,
       "description": "Don't want the fun to end? Save on these games now.",
-      "fetchedAt": "2026-10-09T11:56:12.351Z",
+      "fetchedAt": "2026-10-10T11:12:38.673Z",
       "kind": "leavingSoon",
       "platform": "pc",
       "platformLabel": "PC",
@@ -112451,7 +112451,7 @@
     {
       "count": 623,
       "description": "Discover your next favorite game",
-      "fetchedAt": "2026-10-09T11:56:12.351Z",
+      "fetchedAt": "2026-10-10T11:12:38.673Z",
       "platform": "console",
       "platformContext": "ConsoleGen8;ConsoleGen9",
       "platformLabel": "Console",
@@ -112468,7 +112468,7 @@
     {
       "count": 603,
       "description": "Discover your next favorite game",
-      "fetchedAt": "2026-10-09T11:56:12.351Z",
+      "fetchedAt": "2026-10-10T11:12:38.673Z",
       "platform": "pc",
       "platformContext": "pc",
       "platformLabel": "PC",
@@ -112485,7 +112485,7 @@
     {
       "count": 437,
       "description": "Games included in your Game Pass Premium membership",
-      "fetchedAt": "2026-10-09T11:56:12.351Z",
+      "fetchedAt": "2026-10-10T11:12:38.673Z",
       "platform": "console",
       "platformContext": "ConsoleGen8;ConsoleGen9",
       "platformLabel": "Console",
@@ -112502,7 +112502,7 @@
     {
       "count": 411,
       "description": "Games included in your Game Pass Premium membership",
-      "fetchedAt": "2026-10-09T11:56:12.351Z",
+      "fetchedAt": "2026-10-10T11:12:38.673Z",
       "platform": "pc",
       "platformContext": "pc",
       "platformLabel": "PC",
@@ -112519,7 +112519,7 @@
     {
       "count": 93,
       "description": "Games included in your Game Pass Essential membership",
-      "fetchedAt": "2026-10-09T11:56:12.351Z",
+      "fetchedAt": "2026-10-10T11:12:38.673Z",
       "platform": "console",
       "platformContext": "ConsoleGen8;ConsoleGen9",
       "platformLabel": "Console",
@@ -112536,7 +112536,7 @@
     {
       "count": 86,
       "description": "Games included in your Game Pass Essential membership",
-      "fetchedAt": "2026-10-09T11:56:12.351Z",
+      "fetchedAt": "2026-10-10T11:12:38.673Z",
       "platform": "pc",
       "platformContext": "pc",
       "platformLabel": "PC",
