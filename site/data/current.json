@@ -2825,7 +2825,7 @@
         "premium",
         "essential"
       ],
-      "pegiRating": "PEGI 3",
+      "pegiRating": "PEGI 7",
       "platformByTier": {
         "essential": [
           "console",
@@ -2852,7 +2852,7 @@
       "poster": "https://store-images.s-microsoft.com/image/apps.33654.14271146495264987.c32913b7-6895-4338-ad19-54121ee5a1e9.8fd7e7b5-86e6-4a76-873b-32af6bd3cd47",
       "primaryVariantId": "9PK8PHLCQDF6",
       "publisher": "Pawprint Studio",
-      "ratingId": "PEGI:3",
+      "ratingId": "PEGI:7",
       "ratingSystem": "PEGI",
       "releaseDate": null,
       "screenshots": [
@@ -20910,7 +20910,7 @@
         "premium",
         "essential"
       ],
-      "pegiRating": "PEGI 12",
+      "pegiRating": "PEGI 16",
       "platformByTier": {
         "essential": [
           "console",
@@ -20935,7 +20935,7 @@
       "poster": "https://store-images.s-microsoft.com/image/apps.4169.13848987134544813.d162bf9e-36cf-4556-97b2-4e3906f60e29.c00b62a2-662c-4456-80dd-e5dc2313c55b",
       "primaryVariantId": "9MW715J1P29D",
       "publisher": "Bad Guitar Studio",
-      "ratingId": "PEGI:12",
+      "ratingId": "PEGI:16",
       "ratingSystem": "PEGI",
       "releaseDate": "2025-04-29",
       "screenshots": [
@@ -22408,7 +22408,7 @@
         "premium",
         "essential"
       ],
-      "pegiRating": "PEGI 3",
+      "pegiRating": "PEGI 16",
       "platformByTier": {
         "essential": [
           "console",
@@ -22434,7 +22434,7 @@
       "poster": "https://store-images.s-microsoft.com/image/apps.10349.14212860962709000.7d0349ee-2f9e-4a67-90da-e62696fef7df.b8302153-0bf0-458e-a4ae-4ccfdc0a5213",
       "primaryVariantId": "9PF2ZS4XB4JH",
       "publisher": "GOALS",
-      "ratingId": "PEGI:3",
+      "ratingId": "PEGI:16",
       "ratingSystem": "PEGI",
       "releaseDate": "2026-06-04",
       "screenshots": [
@@ -43402,7 +43402,7 @@
         "premium",
         "essential"
       ],
-      "pegiRating": "PEGI 12",
+      "pegiRating": "PEGI 16",
       "platformByTier": {
         "essential": [
           "console",
@@ -43428,7 +43428,7 @@
       "poster": "https://store-images.s-microsoft.com/image/apps.62003.13984747577958597.78ebdbe9-45c0-4d00-bbd6-0a52d99831d1.f956513a-d205-45ad-9925-64a87122cae3",
       "primaryVariantId": "9N4M72L6KGC8",
       "publisher": "Logoi Games",
-      "ratingId": "PEGI:12",
+      "ratingId": "PEGI:16",
       "ratingSystem": "PEGI",
       "releaseDate": "2025-10-28",
       "screenshots": [
@@ -50576,7 +50576,7 @@
         "premium",
         "essential"
       ],
-      "pegiRating": "PEGI 12",
+      "pegiRating": "PEGI 16",
       "platformByTier": {
         "essential": [
           "console",
@@ -50602,7 +50602,7 @@
       "poster": "https://store-images.s-microsoft.com/image/apps.41355.14597666972638877.5bceb6f8-6cdc-4d7b-bf47-6857fe6c0434.7ed514f5-984b-48f8-9420-0aff88f34e7f",
       "primaryVariantId": "9P41GS5W1C6L",
       "publisher": "KURO GAMES",
-      "ratingId": "PEGI:12",
+      "ratingId": "PEGI:16",
       "ratingSystem": "PEGI",
       "releaseDate": "2026-07-09",
       "screenshots": [
@@ -54403,7 +54403,7 @@
         "premium",
         "essential"
       ],
-      "pegiRating": "PEGI 3",
+      "pegiRating": "PEGI 7",
       "platformByTier": {
         "essential": [
           "console",
@@ -54429,7 +54429,7 @@
       ],
       "poster": "https://store-images.s-microsoft.com/image/apps.33654.14271146495264987.c32913b7-6895-4338-ad19-54121ee5a1e9.8fd7e7b5-86e6-4a76-873b-32af6bd3cd47",
       "publisher": "Pawprint Studio",
-      "ratingId": "PEGI:3",
+      "ratingId": "PEGI:7",
       "ratingSystem": "PEGI",
       "releaseDate": "9998-12-30",
       "screenshots": [
@@ -74143,7 +74143,7 @@
         "premium",
         "essential"
       ],
-      "pegiRating": "PEGI 12",
+      "pegiRating": "PEGI 16",
       "platformByTier": {
         "essential": [
           "console",
@@ -74167,7 +74167,7 @@
       ],
       "poster": "https://store-images.s-microsoft.com/image/apps.4169.13848987134544813.d162bf9e-36cf-4556-97b2-4e3906f60e29.c00b62a2-662c-4456-80dd-e5dc2313c55b",
       "publisher": "Bad Guitar Studio",
-      "ratingId": "PEGI:12",
+      "ratingId": "PEGI:16",
       "ratingSystem": "PEGI",
       "releaseDate": "2025-04-29",
       "screenshots": [
@@ -75550,7 +75550,7 @@
         "premium",
         "essential"
       ],
-      "pegiRating": "PEGI 3",
+      "pegiRating": "PEGI 16",
       "platformByTier": {
         "essential": [
           "console",
@@ -75575,7 +75575,7 @@
       ],
       "poster": "https://store-images.s-microsoft.com/image/apps.10349.14212860962709000.7d0349ee-2f9e-4a67-90da-e62696fef7df.b8302153-0bf0-458e-a4ae-4ccfdc0a5213",
       "publisher": "GOALS",
-      "ratingId": "PEGI:3",
+      "ratingId": "PEGI:16",
       "ratingSystem": "PEGI",
       "releaseDate": "2026-06-04",
       "screenshots": [
@@ -87759,7 +87759,7 @@
         "premium",
         "essential"
       ],
-      "pegiRating": "PEGI 12",
+      "pegiRating": "PEGI 16",
       "platformByTier": {
         "essential": [
           "pc"
@@ -87780,7 +87780,7 @@
       ],
       "poster": "https://store-images.s-microsoft.com/image/apps.1998.14548245473193065.3d2dbc10-d879-4882-a2bb-cf42a6790f66.4d665574-275b-45ec-9674-3485cf253a8c",
       "publisher": "Blizzard Entertainment",
-      "ratingId": "PEGI:12",
+      "ratingId": "PEGI:16",
       "ratingSystem": "PEGI",
       "releaseDate": "2023-08-10",
       "screenshots": [
@@ -98066,7 +98066,7 @@
         "premium",
         "essential"
       ],
-      "pegiRating": "PEGI 12",
+      "pegiRating": "PEGI 16",
       "platformByTier": {
         "essential": [
           "console",
@@ -98091,7 +98091,7 @@
       ],
       "poster": "https://store-images.s-microsoft.com/image/apps.62003.13984747577958597.78ebdbe9-45c0-4d00-bbd6-0a52d99831d1.f956513a-d205-45ad-9925-64a87122cae3",
       "publisher": "Logoi Games",
-      "ratingId": "PEGI:12",
+      "ratingId": "PEGI:16",
       "ratingSystem": "PEGI",
       "releaseDate": "2025-10-28",
       "screenshots": [
@@ -106104,7 +106104,7 @@
         "premium",
         "essential"
       ],
-      "pegiRating": "PEGI 12",
+      "pegiRating": "PEGI 16",
       "platformByTier": {
         "essential": [
           "console",
@@ -106129,7 +106129,7 @@
       ],
       "poster": "https://store-images.s-microsoft.com/image/apps.41355.14597666972638877.5bceb6f8-6cdc-4d7b-bf47-6857fe6c0434.7ed514f5-984b-48f8-9420-0aff88f34e7f",
       "publisher": "KURO GAMES",
-      "ratingId": "PEGI:12",
+      "ratingId": "PEGI:16",
       "ratingSystem": "PEGI",
       "releaseDate": "2026-07-09",
       "screenshots": [
@@ -106626,7 +106626,7 @@
       "url": "https://www.xbox.com/en-us/games/store/zumas-revenge/BR9MPWXFBCRC"
     }
   ],
-  "generatedAt": "2026-10-12T13:13:13.291Z",
+  "generatedAt": "2026-10-13T12:44:54.694Z",
   "labels": {
     "diffs": {
       "essentialNotPremium": "Essential not Premium",
@@ -106700,7 +106700,7 @@
     {
       "count": 8,
       "description": "Don't want the fun to end? Save on these games now.",
-      "fetchedAt": "2026-10-12T13:13:13.291Z",
+      "fetchedAt": "2026-10-13T12:44:54.694Z",
       "kind": "leavingSoon",
       "platform": "console",
       "platformLabel": "Console",
@@ -106714,7 +106714,7 @@
     {
       "count": 9,
       "description": "Don't want the fun to end? Save on these games now.",
-      "fetchedAt": "2026-10-12T13:13:13.291Z",
+      "fetchedAt": "2026-10-13T12:44:54.694Z",
       "kind": "leavingSoon",
       "platform": "pc",
       "platformLabel": "PC",
@@ -112451,7 +112451,7 @@
     {
       "count": 623,
       "description": "Discover your next favorite game",
-      "fetchedAt": "2026-10-12T13:13:13.291Z",
+      "fetchedAt": "2026-10-13T12:44:54.694Z",
       "platform": "console",
       "platformContext": "ConsoleGen8;ConsoleGen9",
       "platformLabel": "Console",
@@ -112468,7 +112468,7 @@
     {
       "count": 603,
       "description": "Discover your next favorite game",
-      "fetchedAt": "2026-10-12T13:13:13.291Z",
+      "fetchedAt": "2026-10-13T12:44:54.694Z",
       "platform": "pc",
       "platformContext": "pc",
       "platformLabel": "PC",
@@ -112485,7 +112485,7 @@
     {
       "count": 437,
       "description": "Games included in your Game Pass Premium membership",
-      "fetchedAt": "2026-10-12T13:13:13.291Z",
+      "fetchedAt": "2026-10-13T12:44:54.694Z",
       "platform": "console",
       "platformContext": "ConsoleGen8;ConsoleGen9",
       "platformLabel": "Console",
@@ -112502,7 +112502,7 @@
     {
       "count": 411,
       "description": "Games included in your Game Pass Premium membership",
-      "fetchedAt": "2026-10-12T13:13:13.291Z",
+      "fetchedAt": "2026-10-13T12:44:54.694Z",
       "platform": "pc",
       "platformContext": "pc",
       "platformLabel": "PC",
@@ -112519,7 +112519,7 @@
     {
       "count": 93,
       "description": "Games included in your Game Pass Essential membership",
-      "fetchedAt": "2026-10-12T13:13:13.291Z",
+      "fetchedAt": "2026-10-13T12:44:54.694Z",
       "platform": "console",
       "platformContext": "ConsoleGen8;ConsoleGen9",
       "platformLabel": "Console",
@@ -112536,7 +112536,7 @@
     {
       "count": 86,
       "description": "Games included in your Game Pass Essential membership",
-      "fetchedAt": "2026-10-12T13:13:13.291Z",
+      "fetchedAt": "2026-10-13T12:44:54.694Z",
       "platform": "pc",
       "platformContext": "pc",
       "platformLabel": "PC",
