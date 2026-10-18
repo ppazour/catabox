@@ -9,10 +9,10 @@
       "ultimateNotEssential": 775,
       "ultimateNotPremium": 336
     },
-    "leavingSoon": 0,
+    "leavingSoon": 8,
     "leavingSoonPlatforms": {
-      "console": 0,
-      "pc": 0
+      "console": 8,
+      "pc": 8
     },
     "platforms": {
       "console": 620,
@@ -11996,8 +11996,11 @@
       ],
       "heroArt": "https://store-images.s-microsoft.com/image/apps.23659.13659998887820416.ac97c487-e49c-4236-a48f-681c4095040e.cc34fbbd-fadd-4128-968e-569a763ee7e9",
       "id": "family-7b44d83f2e9679bc42148f1793daa80ed833d9c1691730f3e7f040f2c9e7cdc0",
-      "leavingSoon": false,
-      "leavingSoonPlatforms": [],
+      "leavingSoon": true,
+      "leavingSoonPlatforms": [
+        "console",
+        "pc"
+      ],
       "memberships": [
         "ultimate",
         "premium"
@@ -12603,8 +12606,11 @@
       ],
       "heroArt": "https://store-images.s-microsoft.com/image/apps.35029.13882054236358572.6bfd2436-1337-41ff-8bba-a695d6c3d9e9.cc78c562-6562-450f-badf-2adfc6a599ef",
       "id": "family-26a297f91ac8e7ab144a50cda95b9c4096ccc8f29b3a92950e3f481e205c96c7",
-      "leavingSoon": false,
-      "leavingSoonPlatforms": [],
+      "leavingSoon": true,
+      "leavingSoonPlatforms": [
+        "console",
+        "pc"
+      ],
       "memberships": [
         "ultimate",
         "premium"
@@ -12945,8 +12951,11 @@
       ],
       "heroArt": "https://store-images.s-microsoft.com/image/apps.43518.13626568325427111.acf8bd0b-a403-422a-bfd4-5262a9b59ec2.cc737eb2-7f52-43c4-89e5-cd92558971e9",
       "id": "family-c749f6190b9f5088d4d625bafc5f167fc90341f0b822ce6714e57dfd5c292bdc",
-      "leavingSoon": false,
-      "leavingSoonPlatforms": [],
+      "leavingSoon": true,
+      "leavingSoonPlatforms": [
+        "console",
+        "pc"
+      ],
       "memberships": [
         "ultimate",
         "premium",
@@ -21002,8 +21011,11 @@
       ],
       "heroArt": "https://store-images.s-microsoft.com/image/apps.56355.14598891268352765.09cb1dd7-f055-4038-983d-2721763eedbe.3226eb1d-8c48-478d-9a49-da266a4e7d82",
       "id": "family-87933be9f450d3ea038b533b112397d3b1b4cefe2057a9a3ad26529feb07683e",
-      "leavingSoon": false,
-      "leavingSoonPlatforms": [],
+      "leavingSoon": true,
+      "leavingSoonPlatforms": [
+        "console",
+        "pc"
+      ],
       "memberships": [
         "ultimate",
         "premium",
@@ -27019,8 +27031,11 @@
       ],
       "heroArt": "https://store-images.s-microsoft.com/image/apps.28853.66406861093311956.a8c8f515-daa8-479b-af0e-06d27ad9565d.8e2fb0f8-8ac8-4004-8ec8-15afe854860e",
       "id": "family-5976e1fb2d9ca118d19203049d36f191fa1ce430fe8fe4d2319a744df8c0c591",
-      "leavingSoon": false,
-      "leavingSoonPlatforms": [],
+      "leavingSoon": true,
+      "leavingSoonPlatforms": [
+        "console",
+        "pc"
+      ],
       "memberships": [
         "ultimate",
         "premium"
@@ -27299,8 +27314,11 @@
       ],
       "heroArt": "https://store-images.s-microsoft.com/image/apps.53760.69776162813131649.5a0614cf-d90a-4580-90d2-d09e65459d75.57397a6e-1dee-476f-8530-cfe56bc4e013",
       "id": "family-7063ca8983f6694787d521d824b91d30629d0752a606e6c7e7b798d2826c0729",
-      "leavingSoon": false,
-      "leavingSoonPlatforms": [],
+      "leavingSoon": true,
+      "leavingSoonPlatforms": [
+        "console",
+        "pc"
+      ],
       "memberships": [
         "ultimate",
         "premium"
@@ -48049,8 +48067,11 @@
       ],
       "heroArt": "https://store-images.s-microsoft.com/image/apps.8343.14440655325358467.0a9794a6-3645-4db4-a85e-c611d041111a.8efb2136-86ee-4f16-b635-7f64680e2062",
       "id": "family-eb4679648a05eae737c22973e7ce20f11239e3e66bea0e700777aa8a95b7f76f",
-      "leavingSoon": false,
-      "leavingSoonPlatforms": [],
+      "leavingSoon": true,
+      "leavingSoonPlatforms": [
+        "console",
+        "pc"
+      ],
       "memberships": [
         "ultimate",
         "premium"
@@ -49015,8 +49036,11 @@
       ],
       "heroArt": "https://store-images.s-microsoft.com/image/apps.55623.14011062654467580.dba38bbf-80c3-4aba-afd1-78d46abb6970.0c705525-0d1f-4999-82cd-f8cf6c3f91f1",
       "id": "family-ced0f9c22c1495215032cd8326512f2d5620a3418dc489ac70db4241f051e38f",
-      "leavingSoon": false,
-      "leavingSoonPlatforms": [],
+      "leavingSoon": true,
+      "leavingSoonPlatforms": [
+        "console",
+        "pc"
+      ],
       "memberships": [
         "ultimate",
         "premium"
@@ -50840,10 +50864,10 @@
       "ultimateNotEssential": 622,
       "ultimateNotPremium": 246
     },
-    "leavingSoon": 0,
+    "leavingSoon": 8,
     "leavingSoonPlatforms": {
-      "console": 0,
-      "pc": 0
+      "console": 8,
+      "pc": 8
     },
     "platforms": {
       "console": 610,
@@ -63977,8 +64001,11 @@
       ],
       "heroArt": "https://store-images.s-microsoft.com/image/apps.23659.13659998887820416.ac97c487-e49c-4236-a48f-681c4095040e.cc34fbbd-fadd-4128-968e-569a763ee7e9",
       "id": "9NKK6CX54183",
-      "leavingSoon": false,
-      "leavingSoonPlatforms": [],
+      "leavingSoon": true,
+      "leavingSoonPlatforms": [
+        "console",
+        "pc"
+      ],
       "memberships": [
         "ultimate",
         "premium"
@@ -64815,8 +64842,11 @@
       ],
       "heroArt": "https://store-images.s-microsoft.com/image/apps.35029.13882054236358572.6bfd2436-1337-41ff-8bba-a695d6c3d9e9.cc78c562-6562-450f-badf-2adfc6a599ef",
       "id": "9MXWL7VJ2SJW",
-      "leavingSoon": false,
-      "leavingSoonPlatforms": [],
+      "leavingSoon": true,
+      "leavingSoonPlatforms": [
+        "console",
+        "pc"
+      ],
       "memberships": [
         "ultimate",
         "premium"
@@ -65122,8 +65152,11 @@
       ],
       "heroArt": "https://store-images.s-microsoft.com/image/apps.43518.13626568325427111.acf8bd0b-a403-422a-bfd4-5262a9b59ec2.cc737eb2-7f52-43c4-89e5-cd92558971e9",
       "id": "9NHFVWX1V7QJ",
-      "leavingSoon": false,
-      "leavingSoonPlatforms": [],
+      "leavingSoon": true,
+      "leavingSoonPlatforms": [
+        "console",
+        "pc"
+      ],
       "memberships": [
         "ultimate",
         "premium",
@@ -73899,8 +73932,11 @@
       ],
       "heroArt": "https://store-images.s-microsoft.com/image/apps.56355.14598891268352765.09cb1dd7-f055-4038-983d-2721763eedbe.3226eb1d-8c48-478d-9a49-da266a4e7d82",
       "id": "9P3ZRGNQVC7D",
-      "leavingSoon": false,
-      "leavingSoonPlatforms": [],
+      "leavingSoon": true,
+      "leavingSoonPlatforms": [
+        "console",
+        "pc"
+      ],
       "memberships": [
         "ultimate",
         "premium",
@@ -79990,8 +80026,11 @@
       ],
       "heroArt": "https://store-images.s-microsoft.com/image/apps.28853.66406861093311956.a8c8f515-daa8-479b-af0e-06d27ad9565d.8e2fb0f8-8ac8-4004-8ec8-15afe854860e",
       "id": "C3553MB4P5TT",
-      "leavingSoon": false,
-      "leavingSoonPlatforms": [],
+      "leavingSoon": true,
+      "leavingSoonPlatforms": [
+        "console",
+        "pc"
+      ],
       "memberships": [
         "ultimate",
         "premium"
@@ -80242,8 +80281,11 @@
       ],
       "heroArt": "https://store-images.s-microsoft.com/image/apps.53760.69776162813131649.5a0614cf-d90a-4580-90d2-d09e65459d75.57397a6e-1dee-476f-8530-cfe56bc4e013",
       "id": "BRMKDCZT0C4L",
-      "leavingSoon": false,
-      "leavingSoonPlatforms": [],
+      "leavingSoon": true,
+      "leavingSoonPlatforms": [
+        "console",
+        "pc"
+      ],
       "memberships": [
         "ultimate",
         "premium"
@@ -102768,8 +102810,11 @@
       ],
       "heroArt": "https://store-images.s-microsoft.com/image/apps.8343.14440655325358467.0a9794a6-3645-4db4-a85e-c611d041111a.8efb2136-86ee-4f16-b635-7f64680e2062",
       "id": "9NWQ686JB33G",
-      "leavingSoon": false,
-      "leavingSoonPlatforms": [],
+      "leavingSoon": true,
+      "leavingSoonPlatforms": [
+        "console",
+        "pc"
+      ],
       "memberships": [
         "ultimate",
         "premium"
@@ -103941,8 +103986,11 @@
       ],
       "heroArt": "https://store-images.s-microsoft.com/image/apps.55623.14011062654467580.dba38bbf-80c3-4aba-afd1-78d46abb6970.0c705525-0d1f-4999-82cd-f8cf6c3f91f1",
       "id": "9N6VS1BMZ3BW",
-      "leavingSoon": false,
-      "leavingSoonPlatforms": [],
+      "leavingSoon": true,
+      "leavingSoonPlatforms": [
+        "console",
+        "pc"
+      ],
       "memberships": [
         "ultimate",
         "premium"
@@ -105949,7 +105997,7 @@
       "url": "https://www.xbox.com/en-us/games/store/zumas-revenge/BR9MPWXFBCRC"
     }
   ],
-  "generatedAt": "2026-10-17T09:26:07.905Z",
+  "generatedAt": "2026-10-18T09:40:15.844Z",
   "labels": {
     "diffs": {
       "essentialNotPremium": "Essential not Premium",
@@ -105980,9 +106028,36 @@
   },
   "language": "en-us",
   "leavingSoon": {
-    "all": [],
-    "console": [],
-    "pc": [],
+    "all": [
+      "9MXWL7VJ2SJW",
+      "9N6VS1BMZ3BW",
+      "9NHFVWX1V7QJ",
+      "9NKK6CX54183",
+      "9NWQ686JB33G",
+      "9P3ZRGNQVC7D",
+      "BRMKDCZT0C4L",
+      "C3553MB4P5TT"
+    ],
+    "console": [
+      "9MXWL7VJ2SJW",
+      "9N6VS1BMZ3BW",
+      "9NHFVWX1V7QJ",
+      "9NKK6CX54183",
+      "9NWQ686JB33G",
+      "9P3ZRGNQVC7D",
+      "BRMKDCZT0C4L",
+      "C3553MB4P5TT"
+    ],
+    "pc": [
+      "9MXWL7VJ2SJW",
+      "9N6VS1BMZ3BW",
+      "9NHFVWX1V7QJ",
+      "9NKK6CX54183",
+      "9NWQ686JB33G",
+      "9P3ZRGNQVC7D",
+      "BRMKDCZT0C4L",
+      "C3553MB4P5TT"
+    ],
     "unmatched": {
       "console": [],
       "pc": []
@@ -105990,28 +106065,28 @@
   },
   "leavingSoonSourceLists": [
     {
-      "count": 0,
+      "count": 8,
       "description": "Don't want the fun to end? Save on these games now.",
-      "fetchedAt": "2026-10-17T09:26:07.905Z",
+      "fetchedAt": "2026-10-18T09:40:15.844Z",
       "kind": "leavingSoon",
       "platform": "console",
       "platformLabel": "Console",
       "siglId": "393f05bf-e596-4ef6-9487-6d4fa0eab987",
-      "sourceCount": 0,
+      "sourceCount": 8,
       "status": "ok",
       "swapsApplied": [],
       "title": "Leaving soon",
       "url": "https://catalog.gamepass.com/sigls/v2?id=393f05bf-e596-4ef6-9487-6d4fa0eab987&language=en-us&market=AT"
     },
     {
-      "count": 0,
+      "count": 8,
       "description": "Don't want the fun to end? Save on these games now.",
-      "fetchedAt": "2026-10-17T09:26:07.905Z",
+      "fetchedAt": "2026-10-18T09:40:15.844Z",
       "kind": "leavingSoon",
       "platform": "pc",
       "platformLabel": "PC",
       "siglId": "cc7fc951-d00f-410e-9e02-5e4628e04163",
-      "sourceCount": 0,
+      "sourceCount": 8,
       "status": "ok",
       "swapsApplied": [],
       "title": "Leaving soon",
@@ -111682,7 +111757,7 @@
     {
       "count": 620,
       "description": "Discover your next favorite game",
-      "fetchedAt": "2026-10-17T09:26:07.905Z",
+      "fetchedAt": "2026-10-18T09:40:15.844Z",
       "platform": "console",
       "platformContext": "ConsoleGen8;ConsoleGen9",
       "platformLabel": "Console",
@@ -111699,7 +111774,7 @@
     {
       "count": 598,
       "description": "Discover your next favorite game",
-      "fetchedAt": "2026-10-17T09:26:07.905Z",
+      "fetchedAt": "2026-10-18T09:40:15.844Z",
       "platform": "pc",
       "platformContext": "pc",
       "platformLabel": "PC",
@@ -111716,7 +111791,7 @@
     {
       "count": 429,
       "description": "Games included in your Game Pass Premium membership",
-      "fetchedAt": "2026-10-17T09:26:07.905Z",
+      "fetchedAt": "2026-10-18T09:40:15.844Z",
       "platform": "console",
       "platformContext": "ConsoleGen8;ConsoleGen9",
       "platformLabel": "Console",
@@ -111733,7 +111808,7 @@
     {
       "count": 403,
       "description": "Games included in your Game Pass Premium membership",
-      "fetchedAt": "2026-10-17T09:26:07.905Z",
+      "fetchedAt": "2026-10-18T09:40:15.844Z",
       "platform": "pc",
       "platformContext": "pc",
       "platformLabel": "PC",
@@ -111750,7 +111825,7 @@
     {
       "count": 92,
       "description": "Games included in your Game Pass Essential membership",
-      "fetchedAt": "2026-10-17T09:26:07.905Z",
+      "fetchedAt": "2026-10-18T09:40:15.844Z",
       "platform": "console",
       "platformContext": "ConsoleGen8;ConsoleGen9",
       "platformLabel": "Console",
@@ -111767,7 +111842,7 @@
     {
       "count": 85,
       "description": "Games included in your Game Pass Essential membership",
-      "fetchedAt": "2026-10-17T09:26:07.905Z",
+      "fetchedAt": "2026-10-18T09:40:15.844Z",
       "platform": "pc",
       "platformContext": "pc",
       "platformLabel": "PC",

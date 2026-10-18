@@ -1,30 +1,113 @@
 {
-  "actionRunNumber": "18",
-  "actionRunUrl": "https://github.com/ppazour/catabox/actions/runs/39021098554",
+  "actionRunNumber": "19",
+  "actionRunUrl": "https://github.com/ppazour/catabox/actions/runs/39116234210",
   "baseline": false,
-  "catalogGeneratedAt": "2026-10-17T09:26:07.905Z",
+  "catalogGeneratedAt": "2026-10-18T09:40:15.844Z",
   "catalogHash": "a31c388830f1e135ad4df3ee7f151c629fc2fd22ce8ddc3709b2e80c6230900d",
-  "changed": true,
+  "changed": false,
   "errors": [],
-  "eventCounts": {
-    "added": 1
-  },
-  "familyChanged": true,
-  "familyEventCounts": {
-    "added": 1
-  },
+  "eventCounts": {},
+  "familyChanged": false,
+  "familyEventCounts": {},
   "familyHash": "6e91986775b6c0903d01183bb3d1d08f277c6b59f75cf615bd07ce8055f535af",
-  "generatedAt": "2026-10-17T09:26:07.905Z",
+  "generatedAt": "2026-10-18T09:40:15.844Z",
   "language": "en-us",
-  "lastGoodCatalogHash": "8e7bc8214462830752a05e7d6480b54407c8c976c240db1ae66139c626c7406d",
-  "lastGoodGeneratedAt": "2026-10-16T09:53:45.139Z",
-  "leavingSoonAdded": [],
-  "leavingSoonTotal": 0,
+  "lastGoodCatalogHash": "a31c388830f1e135ad4df3ee7f151c629fc2fd22ce8ddc3709b2e80c6230900d",
+  "lastGoodGeneratedAt": "2026-10-17T09:26:07.905Z",
+  "leavingSoonAdded": [
+    {
+      "familyId": "family-7b44d83f2e9679bc42148f1793daa80ed833d9c1691730f3e7f040f2c9e7cdc0",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "title": "Day of the Tentacle Remastered",
+      "variantIds": [
+        "9NKK6CX54183"
+      ]
+    },
+    {
+      "familyId": "family-26a297f91ac8e7ab144a50cda95b9c4096ccc8f29b3a92950e3f481e205c96c7",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "title": "Dead Static Drive",
+      "variantIds": [
+        "9MXWL7VJ2SJW"
+      ]
+    },
+    {
+      "familyId": "family-c749f6190b9f5088d4d625bafc5f167fc90341f0b822ce6714e57dfd5c292bdc",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "title": "Deep Rock Galactic",
+      "variantIds": [
+        "9NHFVWX1V7QJ"
+      ]
+    },
+    {
+      "familyId": "family-87933be9f450d3ea038b533b112397d3b1b4cefe2057a9a3ad26529feb07683e",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "title": "Full Throttle Remastered",
+      "variantIds": [
+        "9P3ZRGNQVC7D"
+      ]
+    },
+    {
+      "familyId": "family-5976e1fb2d9ca118d19203049d36f191fa1ce430fe8fe4d2319a744df8c0c591",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "title": "Lara Croft and the Temple of Osiris",
+      "variantIds": [
+        "C3553MB4P5TT"
+      ]
+    },
+    {
+      "familyId": "family-7063ca8983f6694787d521d824b91d30629d0752a606e6c7e7b798d2826c0729",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "title": "LEGO® Star Wars™: The Skywalker Saga",
+      "variantIds": [
+        "BRMKDCZT0C4L"
+      ]
+    },
+    {
+      "familyId": "family-eb4679648a05eae737c22973e7ce20f11239e3e66bea0e700777aa8a95b7f76f",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "title": "Wartales",
+      "variantIds": [
+        "9NWQ686JB33G"
+      ]
+    },
+    {
+      "familyId": "family-ced0f9c22c1495215032cd8326512f2d5620a3418dc489ac70db4241f051e38f",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "title": "Wildgate",
+      "variantIds": [
+        "9N6VS1BMZ3BW"
+      ]
+    }
+  ],
+  "leavingSoonTotal": 8,
   "market": "AT",
-  "productChanged": true,
-  "productEventCounts": {
-    "added": 1
-  },
+  "productChanged": false,
+  "productEventCounts": {},
   "productTotal": 898,
   "sourceHealth": {
     "displayCatalog": {
@@ -35,16 +118,16 @@
     },
     "leavingSoon": [
       {
-        "count": 0,
+        "count": 8,
         "platform": "console",
-        "sourceCount": 0,
+        "sourceCount": 8,
         "status": "ok",
         "url": "https://catalog.gamepass.com/sigls/v2?id=393f05bf-e596-4ef6-9487-6d4fa0eab987&language=en-us&market=AT"
       },
       {
-        "count": 0,
+        "count": 8,
         "platform": "pc",
-        "sourceCount": 0,
+        "sourceCount": 8,
         "status": "ok",
         "url": "https://catalog.gamepass.com/sigls/v2?id=cc7fc951-d00f-410e-9e02-5e4628e04163&language=en-us&market=AT"
       }
