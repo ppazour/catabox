@@ -1,8 +1,8 @@
 {
-  "actionRunNumber": "19",
-  "actionRunUrl": "https://github.com/ppazour/catabox/actions/runs/39116234210",
+  "actionRunNumber": "20",
+  "actionRunUrl": "https://github.com/ppazour/catabox/actions/runs/39240185186",
   "baseline": false,
-  "catalogGeneratedAt": "2026-10-18T09:40:15.844Z",
+  "catalogGeneratedAt": "2026-10-19T10:49:34.054Z",
   "catalogHash": "a31c388830f1e135ad4df3ee7f151c629fc2fd22ce8ddc3709b2e80c6230900d",
   "changed": false,
   "errors": [],
@@ -10,100 +10,11 @@
   "familyChanged": false,
   "familyEventCounts": {},
   "familyHash": "6e91986775b6c0903d01183bb3d1d08f277c6b59f75cf615bd07ce8055f535af",
-  "generatedAt": "2026-10-18T09:40:15.844Z",
+  "generatedAt": "2026-10-19T10:49:34.054Z",
   "language": "en-us",
   "lastGoodCatalogHash": "a31c388830f1e135ad4df3ee7f151c629fc2fd22ce8ddc3709b2e80c6230900d",
-  "lastGoodGeneratedAt": "2026-10-17T09:26:07.905Z",
-  "leavingSoonAdded": [
-    {
-      "familyId": "family-7b44d83f2e9679bc42148f1793daa80ed833d9c1691730f3e7f040f2c9e7cdc0",
-      "platforms": [
-        "console",
-        "pc"
-      ],
-      "title": "Day of the Tentacle Remastered",
-      "variantIds": [
-        "9NKK6CX54183"
-      ]
-    },
-    {
-      "familyId": "family-26a297f91ac8e7ab144a50cda95b9c4096ccc8f29b3a92950e3f481e205c96c7",
-      "platforms": [
-        "console",
-        "pc"
-      ],
-      "title": "Dead Static Drive",
-      "variantIds": [
-        "9MXWL7VJ2SJW"
-      ]
-    },
-    {
-      "familyId": "family-c749f6190b9f5088d4d625bafc5f167fc90341f0b822ce6714e57dfd5c292bdc",
-      "platforms": [
-        "console",
-        "pc"
-      ],
-      "title": "Deep Rock Galactic",
-      "variantIds": [
-        "9NHFVWX1V7QJ"
-      ]
-    },
-    {
-      "familyId": "family-87933be9f450d3ea038b533b112397d3b1b4cefe2057a9a3ad26529feb07683e",
-      "platforms": [
-        "console",
-        "pc"
-      ],
-      "title": "Full Throttle Remastered",
-      "variantIds": [
-        "9P3ZRGNQVC7D"
-      ]
-    },
-    {
-      "familyId": "family-5976e1fb2d9ca118d19203049d36f191fa1ce430fe8fe4d2319a744df8c0c591",
-      "platforms": [
-        "console",
-        "pc"
-      ],
-      "title": "Lara Croft and the Temple of Osiris",
-      "variantIds": [
-        "C3553MB4P5TT"
-      ]
-    },
-    {
-      "familyId": "family-7063ca8983f6694787d521d824b91d30629d0752a606e6c7e7b798d2826c0729",
-      "platforms": [
-        "console",
-        "pc"
-      ],
-      "title": "LEGO® Star Wars™: The Skywalker Saga",
-      "variantIds": [
-        "BRMKDCZT0C4L"
-      ]
-    },
-    {
-      "familyId": "family-eb4679648a05eae737c22973e7ce20f11239e3e66bea0e700777aa8a95b7f76f",
-      "platforms": [
-        "console",
-        "pc"
-      ],
-      "title": "Wartales",
-      "variantIds": [
-        "9NWQ686JB33G"
-      ]
-    },
-    {
-      "familyId": "family-ced0f9c22c1495215032cd8326512f2d5620a3418dc489ac70db4241f051e38f",
-      "platforms": [
-        "console",
-        "pc"
-      ],
-      "title": "Wildgate",
-      "variantIds": [
-        "9N6VS1BMZ3BW"
-      ]
-    }
-  ],
+  "lastGoodGeneratedAt": "2026-10-18T09:40:15.844Z",
+  "leavingSoonAdded": [],
   "leavingSoonTotal": 8,
   "market": "AT",
   "productChanged": false,
