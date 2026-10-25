@@ -1753,7 +1753,7 @@
     },
     {
       "availableInFR": true,
-      "boxArt": "https://store-images.s-microsoft.com/image/apps.17545.13735777332261166.fa12b139-0a12-43d8-b337-7c9e9d314404.483d67f0-6b9c-4617-b9dd-78ea04ee5301",
+      "boxArt": "https://store-images.s-microsoft.com/image/apps.30483.13735777332261166.046c4476-2fdb-4636-af17-eba2edfec19a.664f1e7f-e451-42b0-ab21-894af5236c52",
       "description": "A fast-paced roguelike kingdom builder. Grow your empire and fight massive battles against powerful rival kings. Break the game with thousands of insane builds to become the King of Kings.",
       "developer": "Sad Socket",
       "familyKey": "9 kings game preview",
@@ -1762,7 +1762,7 @@
         "Role playing",
         "Strategy"
       ],
-      "heroArt": "https://store-images.s-microsoft.com/image/apps.62983.13735777332261166.5394db02-c668-41cb-a4ca-b8088edda9f3.efb04c97-620f-4bde-967a-bd62fa86b702",
+      "heroArt": "https://store-images.s-microsoft.com/image/apps.47011.13735777332261166.046c4476-2fdb-4636-af17-eba2edfec19a.50b0e73b-c5c2-4cdc-81bb-18db3c0dbe49",
       "id": "family-41fe6d7ce85ab6917cef2eeb01d41fe2cd472eb8692de5fbd59215ea5d8e5f5b",
       "leavingSoon": false,
       "leavingSoonPlatforms": [],
@@ -1786,7 +1786,7 @@
         "Online multiplayer (9)",
         "Single player"
       ],
-      "poster": "https://store-images.s-microsoft.com/image/apps.37106.13735777332261166.5394db02-c668-41cb-a4ca-b8088edda9f3.acc6db61-934b-417f-8c9f-189d5944d361",
+      "poster": "https://store-images.s-microsoft.com/image/apps.35509.13735777332261166.046c4476-2fdb-4636-af17-eba2edfec19a.b42db9c9-6f64-4b73-87f2-50f1121929ce",
       "primaryVariantId": "9NNM7PKZN3JF",
       "publisher": "Hooded Horse",
       "ratingId": "PEGI:12",
@@ -53106,14 +53106,14 @@
     },
     {
       "availableInFR": true,
-      "boxArt": "https://store-images.s-microsoft.com/image/apps.17545.13735777332261166.fa12b139-0a12-43d8-b337-7c9e9d314404.483d67f0-6b9c-4617-b9dd-78ea04ee5301",
+      "boxArt": "https://store-images.s-microsoft.com/image/apps.30483.13735777332261166.046c4476-2fdb-4636-af17-eba2edfec19a.664f1e7f-e451-42b0-ab21-894af5236c52",
       "description": "A fast-paced roguelike kingdom builder. Grow your empire and fight massive battles against powerful rival kings. Break the game with thousands of insane builds to become the King of Kings.",
       "developer": "Sad Socket",
       "genres": [
         "Role playing",
         "Strategy"
       ],
-      "heroArt": "https://store-images.s-microsoft.com/image/apps.62983.13735777332261166.5394db02-c668-41cb-a4ca-b8088edda9f3.efb04c97-620f-4bde-967a-bd62fa86b702",
+      "heroArt": "https://store-images.s-microsoft.com/image/apps.47011.13735777332261166.046c4476-2fdb-4636-af17-eba2edfec19a.50b0e73b-c5c2-4cdc-81bb-18db3c0dbe49",
       "id": "9NNM7PKZN3JF",
       "leavingSoon": false,
       "leavingSoonPlatforms": [],
@@ -53137,7 +53137,7 @@
         "Online multiplayer (9)",
         "Single player"
       ],
-      "poster": "https://store-images.s-microsoft.com/image/apps.37106.13735777332261166.5394db02-c668-41cb-a4ca-b8088edda9f3.acc6db61-934b-417f-8c9f-189d5944d361",
+      "poster": "https://store-images.s-microsoft.com/image/apps.35509.13735777332261166.046c4476-2fdb-4636-af17-eba2edfec19a.b42db9c9-6f64-4b73-87f2-50f1121929ce",
       "publisher": "Hooded Horse",
       "ratingId": "PEGI:12",
       "ratingSystem": "PEGI",
@@ -106149,7 +106149,7 @@
       "url": "https://www.xbox.com/en-us/games/store/zumas-revenge/BR9MPWXFBCRC"
     }
   ],
-  "generatedAt": "2026-10-24T09:35:23.970Z",
+  "generatedAt": "2026-10-25T09:51:00.176Z",
   "labels": {
     "diffs": {
       "essentialNotPremium": "Essential not Premium",
@@ -106219,7 +106219,7 @@
     {
       "count": 8,
       "description": "Don't want the fun to end? Save on these games now.",
-      "fetchedAt": "2026-10-24T09:35:23.970Z",
+      "fetchedAt": "2026-10-25T09:51:00.176Z",
       "kind": "leavingSoon",
       "platform": "console",
       "platformLabel": "Console",
@@ -106233,7 +106233,7 @@
     {
       "count": 8,
       "description": "Don't want the fun to end? Save on these games now.",
-      "fetchedAt": "2026-10-24T09:35:23.970Z",
+      "fetchedAt": "2026-10-25T09:51:00.176Z",
       "kind": "leavingSoon",
       "platform": "pc",
       "platformLabel": "PC",
@@ -111920,7 +111920,7 @@
     {
       "count": 621,
       "description": "Discover your next favorite game",
-      "fetchedAt": "2026-10-24T09:35:23.970Z",
+      "fetchedAt": "2026-10-25T09:51:00.176Z",
       "platform": "console",
       "platformContext": "ConsoleGen8;ConsoleGen9",
       "platformLabel": "Console",
@@ -111937,7 +111937,7 @@
     {
       "count": 599,
       "description": "Discover your next favorite game",
-      "fetchedAt": "2026-10-24T09:35:23.970Z",
+      "fetchedAt": "2026-10-25T09:51:00.176Z",
       "platform": "pc",
       "platformContext": "pc",
       "platformLabel": "PC",
@@ -111954,7 +111954,7 @@
     {
       "count": 430,
       "description": "Games included in your Game Pass Premium membership",
-      "fetchedAt": "2026-10-24T09:35:23.970Z",
+      "fetchedAt": "2026-10-25T09:51:00.176Z",
       "platform": "console",
       "platformContext": "ConsoleGen8;ConsoleGen9",
       "platformLabel": "Console",
@@ -111971,7 +111971,7 @@
     {
       "count": 405,
       "description": "Games included in your Game Pass Premium membership",
-      "fetchedAt": "2026-10-24T09:35:23.970Z",
+      "fetchedAt": "2026-10-25T09:51:00.176Z",
       "platform": "pc",
       "platformContext": "pc",
       "platformLabel": "PC",
@@ -111988,7 +111988,7 @@
     {
       "count": 92,
       "description": "Games included in your Game Pass Essential membership",
-      "fetchedAt": "2026-10-24T09:35:23.970Z",
+      "fetchedAt": "2026-10-25T09:51:00.176Z",
       "platform": "console",
       "platformContext": "ConsoleGen8;ConsoleGen9",
       "platformLabel": "Console",
@@ -112005,7 +112005,7 @@
     {
       "count": 85,
       "description": "Games included in your Game Pass Essential membership",
-      "fetchedAt": "2026-10-24T09:35:23.970Z",
+      "fetchedAt": "2026-10-25T09:51:00.176Z",
       "platform": "pc",
       "platformContext": "pc",
       "platformLabel": "PC",
