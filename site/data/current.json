@@ -1,22 +1,22 @@
 {
-  "catalogHash": "affda5eb1dd0757452575edb60c60f6967c40925752296c7fe7389bdafb8e73a",
+  "catalogHash": "87416b804cfcc64ef9f0afc2b7b97ceeed5d7cfeb8969f394b94979a60d134f1",
   "counts": {
     "diffs": {
       "essentialNotPremium": 0,
       "essentialNotUltimate": 0,
-      "premiumNotEssential": 441,
+      "premiumNotEssential": 442,
       "premiumNotUltimate": 0,
-      "ultimateNotEssential": 777,
+      "ultimateNotEssential": 778,
       "ultimateNotPremium": 336
     },
-    "leavingSoon": 8,
+    "leavingSoon": 10,
     "leavingSoonPlatforms": {
-      "console": 8,
-      "pc": 8
+      "console": 9,
+      "pc": 10
     },
     "platforms": {
-      "console": 622,
-      "pc": 600
+      "console": 623,
+      "pc": 601
     },
     "segments": {
       "allTiers": 123,
@@ -25,7 +25,7 @@
       "premiumOnly": 0,
       "ultimateEssential": 0,
       "ultimateOnly": 336,
-      "ultimatePremium": 441
+      "ultimatePremium": 442
     },
     "tierPlatforms": {
       "essential": {
@@ -33,20 +33,20 @@
         "pc": 85
       },
       "premium": {
-        "console": 430,
-        "pc": 405
+        "console": 431,
+        "pc": 406
       },
       "ultimate": {
-        "console": 622,
-        "pc": 600
+        "console": 623,
+        "pc": 601
       }
     },
     "tiers": {
       "essential": 123,
-      "premium": 564,
-      "ultimate": 900
+      "premium": 565,
+      "ultimate": 901
     },
-    "total": 900
+    "total": 901
   },
   "diffs": {
     "essentialNotPremium": [],
@@ -395,6 +395,7 @@
       "9PN0LC4CNLPT",
       "9PN3VDFTB5HZ",
       "9PNGFSX7S117",
+      "9PNRLJNDPP4G",
       "9PP7XSG5LDH1",
       "9PPH71DV44T7",
       "9PPP5344B3LS",
@@ -1076,6 +1077,7 @@
       "9PN8M16GG8M4",
       "9PNGFSX7S117",
       "9PNRHXZ6ZSS9",
+      "9PNRLJNDPP4G",
       "9PP7XSG5LDH1",
       "9PP837L3Q75D",
       "9PPBNCXP0096",
@@ -12138,7 +12140,7 @@
     },
     {
       "availableInFR": true,
-      "boxArt": "https://store-images.s-microsoft.com/image/apps.51158.64366672042187759.099a5916-8b59-4db9-9ba3-146ee8e5afbb.3af5a707-fc52-4dd8-924a-07d384e361b0",
+      "boxArt": "https://store-images.s-microsoft.com/image/apps.51458.64366672042187759.733004ed-c696-44cf-98cc-30eddf2375a8.33981a4c-a34b-4492-b81f-8695c017496b",
       "description": "Trapped forever in a realm of eldritch evil where even death is not an escape, four determined Survivors face a bloodthirsty Killer in a vicious game of nerve and wits. Pick a side and step into a world of tension and terror with horror gaming's best asymmetrical multiplayer.",
       "developer": "Behaviour Interactive Inc.",
       "familyKey": "dead by daylight",
@@ -12147,7 +12149,7 @@
         "Action & adventure",
         "Other"
       ],
-      "heroArt": "https://store-images.s-microsoft.com/image/apps.24051.64366672042187759.099a5916-8b59-4db9-9ba3-146ee8e5afbb.181a6855-dd3c-4433-93c3-ecc4db901cec",
+      "heroArt": "https://store-images.s-microsoft.com/image/apps.13651.64366672042187759.733004ed-c696-44cf-98cc-30eddf2375a8.6bdb69ed-d0ef-4157-b2df-7ea97d3b1c4a",
       "id": "family-d243bcdfa7b6add3607d61544051098073afd0bdc4a8c9de8a0c2d565eb3a8af",
       "leavingSoon": false,
       "leavingSoonPlatforms": [],
@@ -12175,7 +12177,7 @@
         "Online multiplayer (2-5)",
         "Single player"
       ],
-      "poster": "https://store-images.s-microsoft.com/image/apps.46191.64366672042187759.099a5916-8b59-4db9-9ba3-146ee8e5afbb.96ba18fa-312c-4fc2-ba88-eb59eab37888",
+      "poster": "https://store-images.s-microsoft.com/image/apps.16719.64366672042187759.733004ed-c696-44cf-98cc-30eddf2375a8.3dd6c96e-e0c3-4a0b-aeb0-810f815a6d37",
       "primaryVariantId": "C0N22P73QZ60",
       "publisher": "Behaviour Interactive Inc.",
       "ratingId": "PEGI:18",
@@ -20205,8 +20207,10 @@
       ],
       "heroArt": "https://store-images.s-microsoft.com/image/apps.8539.14159410862978133.1c4f3bd5-0a15-470c-8be1-1c69266a4dc3.3d41f085-0cf7-419a-8b62-4b021e6c7527",
       "id": "family-df865fc878a5f51395e4f520502963d5317e926cd125fb09382fe7836420e13d",
-      "leavingSoon": false,
-      "leavingSoonPlatforms": [],
+      "leavingSoon": true,
+      "leavingSoonPlatforms": [
+        "pc"
+      ],
       "memberships": [
         "ultimate",
         "premium"
@@ -20272,8 +20276,11 @@
       ],
       "heroArt": "https://store-images.s-microsoft.com/image/apps.18485.13754609462095808.6e939a74-099e-490d-b009-02e7105155bd.57af7efd-c236-4f6c-ad75-9181b7718799",
       "id": "family-da3664d837bc8b800308bc82f2b148254a0dc57abfd7cb2944e1abcb345402a2",
-      "leavingSoon": false,
-      "leavingSoonPlatforms": [],
+      "leavingSoon": true,
+      "leavingSoonPlatforms": [
+        "console",
+        "pc"
+      ],
       "memberships": [
         "ultimate",
         "premium"
@@ -33243,7 +33250,7 @@
     },
     {
       "availableInFR": true,
-      "boxArt": "https://store-images.s-microsoft.com/image/apps.18684.13916126641198036.93e1b525-8641-4737-a69b-7287498c268a.9c47915e-3e98-4ad5-8df7-1bdf2bbf4f9d",
+      "boxArt": "https://store-images.s-microsoft.com/image/apps.60896.13916126641198036.09cb027a-0db0-4ac0-8459-ee6b87dc11cc.7ea3d42a-d6af-4971-9e27-8ce46e068504",
       "description": "Once Human is a multiplayer survival game set in the strange worlds.Join forces with friends to fight for survival, construct your sanctuary, and conquer terrifying aberrations to unravel the truth behind the apocalypse.",
       "developer": "NETEASE INTERACTIVE ENTERTAINMENT PTE.LTD",
       "familyKey": "once human",
@@ -33254,7 +33261,7 @@
         "Role playing",
         "Shooter"
       ],
-      "heroArt": "https://store-images.s-microsoft.com/image/apps.42166.13916126641198036.93e1b525-8641-4737-a69b-7287498c268a.175f7f1a-408c-4f9c-8d77-0fa1ed7a323d",
+      "heroArt": "https://store-images.s-microsoft.com/image/apps.34360.13916126641198036.09cb027a-0db0-4ac0-8459-ee6b87dc11cc.e895c540-5b17-4918-b98e-fc33815dc308",
       "id": "family-790f371fcd22dca3ed9d62bd4a6ac8d94a4a1296eb2ef4abb2ce1744142806d2",
       "leavingSoon": false,
       "leavingSoonPlatforms": [],
@@ -33286,7 +33293,7 @@
         "Online co-op",
         "Online multiplayer (2-100)"
       ],
-      "poster": "https://store-images.s-microsoft.com/image/apps.26737.13916126641198036.93e1b525-8641-4737-a69b-7287498c268a.dc8a8b1c-9323-4ba2-8bcc-953be8a9c701",
+      "poster": "https://store-images.s-microsoft.com/image/apps.6246.13916126641198036.09cb027a-0db0-4ac0-8459-ee6b87dc11cc.41b67786-ad5b-43c9-acbb-7ea6151faf32",
       "primaryVariantId": "9N0QWXC09MPT",
       "publisher": "NETEASE INTERACTIVE ENTERTAINMENT PTE.LTD",
       "ratingId": "PEGI:18",
@@ -39550,6 +39557,74 @@
       "variantCount": 1,
       "variantIds": [
         "9P2N57MC619K"
+      ]
+    },
+    {
+      "availableInFR": true,
+      "boxArt": "https://store-images.s-microsoft.com/image/apps.58589.14338899831126037.9571fdec-43b9-45e0-87e0-6beb38254966.921ef682-7a46-4ec0-889f-bf0df78f016d",
+      "description": "The Séance of Blake Manor is a supernatural detective mystery, set in 1897 Ireland, where you investigate the disappearance of Evelyn Deane in a remote hotel full of secrets and other-worldly occurrences.",
+      "developer": "Spooky Doorway",
+      "familyKey": "the seance of blake manor",
+      "familySchemaVersion": 1,
+      "genres": [
+        "Action & adventure",
+        "Puzzle & trivia"
+      ],
+      "heroArt": "https://store-images.s-microsoft.com/image/apps.6208.14338899831126037.225accb3-8e9c-4c00-a01b-619f2e44276d.c38d5958-b855-4d77-92eb-4d6991d1050c",
+      "id": "family-ca04b16630ec275f0847b945390e5d19ad79a202b2754151be829f27620d8249",
+      "leavingSoon": false,
+      "leavingSoonPlatforms": [],
+      "memberships": [
+        "ultimate",
+        "premium"
+      ],
+      "pegiRating": "PEGI 16",
+      "platformByTier": {
+        "premium": [
+          "console",
+          "pc"
+        ],
+        "ultimate": [
+          "console",
+          "pc"
+        ]
+      },
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "playerModes": [],
+      "poster": "https://store-images.s-microsoft.com/image/apps.16621.14338899831126037.225accb3-8e9c-4c00-a01b-619f2e44276d.56c0b677-c7a4-41bb-ba89-862d2a38f74d",
+      "primaryVariantId": "9PNRLJNDPP4G",
+      "publisher": "Raw Fury",
+      "ratingId": "PEGI:16",
+      "ratingSystem": "PEGI",
+      "releaseDate": "2026-10-27",
+      "screenshots": [
+        "https://store-images.s-microsoft.com/image/apps.61856.14338899831126037.225accb3-8e9c-4c00-a01b-619f2e44276d.88f7f6a9-0cfa-4416-a5f9-27be121a6ab5?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.22784.14338899831126037.225accb3-8e9c-4c00-a01b-619f2e44276d.b9665e41-ae33-4b86-9448-32d339070f2e?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.24975.14338899831126037.225accb3-8e9c-4c00-a01b-619f2e44276d.79d4151e-10f1-4069-85ff-4e0b6c458955?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.22563.14338899831126037.225accb3-8e9c-4c00-a01b-619f2e44276d.a618dbe1-d278-4453-964b-7bf8de4bee35?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.31643.14338899831126037.225accb3-8e9c-4c00-a01b-619f2e44276d.5568f7a4-259b-4ce9-9979-94a8b413afce?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.51902.14338899831126037.225accb3-8e9c-4c00-a01b-619f2e44276d.7865d0f9-c647-429a-8c4b-171376186026?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.19396.14338899831126037.225accb3-8e9c-4c00-a01b-619f2e44276d.3f1d295d-2e38-4a4a-a353-fb17014daed6?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.31472.14338899831126037.225accb3-8e9c-4c00-a01b-619f2e44276d.adcacfbc-6e02-455d-b708-edefa26ac082?w=640&h=360&q=80&format=jpg"
+      ],
+      "segment": "ultimatePremium",
+      "shortDescription": "The Séance of Blake Manor is a supernatural detective mystery, set in 1897 Ireland, where you investigate the disappearance of Evelyn Deane in a remote hotel full of secrets and other-worldly occurrences.",
+      "sortTitle": "séance of blake manor",
+      "supportsCoop": false,
+      "supportsLocalCoop": false,
+      "supportsLocalMultiplayer": false,
+      "supportsMultiplayer": false,
+      "supportsOnlineCoop": false,
+      "supportsOnlineMultiplayer": false,
+      "supportsSinglePlayer": false,
+      "title": "The Séance of Blake Manor",
+      "url": "https://www.xbox.com/en-us/games/store/the-seance-of-blake-manor/9PNRLJNDPP4G",
+      "variantCount": 1,
+      "variantIds": [
+        "9PNRLJNDPP4G"
       ]
     },
     {
@@ -46669,7 +46744,7 @@
     },
     {
       "availableInFR": true,
-      "boxArt": "https://store-images.s-microsoft.com/image/apps.17312.13898029070941789.8d58b251-455c-4993-a1fd-1d77e8261eaf.8291ef5a-305d-4750-8231-0467ee0d1da0",
+      "boxArt": "https://store-images.s-microsoft.com/image/apps.30107.13898029070941789.b9070612-bb75-4081-8f05-4acaf8e47425.c299c14e-745b-45c7-bdfd-d7d8c2348321",
       "description": "VALORANT",
       "developer": "Riot Games",
       "familyKey": "valorant",
@@ -46679,7 +46754,7 @@
         "Shooter",
         "Strategy"
       ],
-      "heroArt": "https://store-images.s-microsoft.com/image/apps.56412.13898029070941789.8d58b251-455c-4993-a1fd-1d77e8261eaf.298cb0c7-8b39-4c9c-8eac-90140da703fa",
+      "heroArt": "https://store-images.s-microsoft.com/image/apps.1314.13898029070941789.b9070612-bb75-4081-8f05-4acaf8e47425.ab63f426-7ad3-49f1-9eb8-f77b215a3e8e",
       "id": "family-23297ef9e7c7a61755be609a66f839914ff3c6c4d2934408bc5e32660932332a",
       "leavingSoon": false,
       "leavingSoonPlatforms": [],
@@ -46710,7 +46785,7 @@
       "playerModes": [
         "Online multiplayer (10)"
       ],
-      "poster": "https://store-images.s-microsoft.com/image/apps.24285.13898029070941789.8d58b251-455c-4993-a1fd-1d77e8261eaf.f83375e3-5886-4708-888a-8d37fbb998f5",
+      "poster": "https://store-images.s-microsoft.com/image/apps.43432.13898029070941789.b9070612-bb75-4081-8f05-4acaf8e47425.19aed1bf-e497-497c-8140-1e0c100cba49",
       "primaryVariantId": "9N1NLJK9SKRN",
       "publisher": "Riot Games",
       "ratingId": "PEGI:16",
@@ -51009,19 +51084,19 @@
     "diffs": {
       "essentialNotPremium": 0,
       "essentialNotUltimate": 0,
-      "premiumNotEssential": 378,
+      "premiumNotEssential": 379,
       "premiumNotUltimate": 0,
-      "ultimateNotEssential": 624,
+      "ultimateNotEssential": 625,
       "ultimateNotPremium": 246
     },
-    "leavingSoon": 8,
+    "leavingSoon": 10,
     "leavingSoonPlatforms": {
-      "console": 8,
-      "pc": 8
+      "console": 9,
+      "pc": 10
     },
     "platforms": {
-      "console": 612,
-      "pc": 600
+      "console": 613,
+      "pc": 601
     },
     "segments": {
       "allTiers": 103,
@@ -51030,7 +51105,7 @@
       "premiumOnly": 0,
       "ultimateEssential": 0,
       "ultimateOnly": 246,
-      "ultimatePremium": 378
+      "ultimatePremium": 379
     },
     "tierPlatforms": {
       "essential": {
@@ -51038,20 +51113,20 @@
         "pc": 85
       },
       "premium": {
-        "console": 426,
-        "pc": 405
+        "console": 427,
+        "pc": 406
       },
       "ultimate": {
-        "console": 612,
-        "pc": 600
+        "console": 613,
+        "pc": 601
       }
     },
     "tiers": {
       "essential": 103,
-      "premium": 481,
-      "ultimate": 727
+      "premium": 482,
+      "ultimate": 728
     },
-    "total": 727
+    "total": 728
   },
   "familyDiffs": {
     "essentialNotPremium": [],
@@ -51352,6 +51427,7 @@
       "family-c9784d4001ed4011ef7fbbea3840a21d13c433410537acf5c5ee7f8400fa67f0",
       "family-c98780eb589f006c0c569351ca10895e70edec431585cd78c2456ee0fb6f6d71",
       "family-c9baa8e8e27c8e8d0b514ab478fbcd787af1b47a14c177b20804d396d5fccf9a",
+      "family-ca04b16630ec275f0847b945390e5d19ad79a202b2754151be829f27620d8249",
       "family-cc00916e193fff86808c289270aabc2d73a59027a91ba49e7a00f229878ac861",
       "family-cc33d71e791eebe3dd6b8ffbd76c6bebf5a5c0f4e90c4c01b3c6a881133aefd4",
       "family-cc92548666c1a27aa363532c52b3559a9e79a6dde89f612e7afab7f4e5f43b0e",
@@ -51927,6 +52003,7 @@
       "family-c98780eb589f006c0c569351ca10895e70edec431585cd78c2456ee0fb6f6d71",
       "family-c9baa8e8e27c8e8d0b514ab478fbcd787af1b47a14c177b20804d396d5fccf9a",
       "family-c9d4881059ef12fd7c95ad0022edb425145bb6018ff6010f5c7dcfe0736db519",
+      "family-ca04b16630ec275f0847b945390e5d19ad79a202b2754151be829f27620d8249",
       "family-ca2d5d1403c818a37837fb044ce088fefd4c119c99ae7bc2b0ce5b5b96d4d2e1",
       "family-ca7a4ef2a400fb2a0a943e120fe396ba63deee1e240678845cd425e1057a8a9d",
       "family-cc00916e193fff86808c289270aabc2d73a59027a91ba49e7a00f229878ac861",
@@ -52312,7 +52389,7 @@
       "family-fd4705f4895fbd944ea692ce1e49c04e6d85c9eb013becebcca1704d7ea59bf9"
     ]
   },
-  "familyHash": "d0eb84a369d8aaa08d8a98aa855bc1dfd716ba700fa93147609ca136e05fba5f",
+  "familyHash": "c58133688beadfafb0d6cf7c5896653c43754596e796705e6cf3ce5f2f917499",
   "familySegments": {
     "allTiers": [
       "family-012e41cf02148984e24435be4dd5f3b1a699130cc5bbfdc12dd37bbfb5aae9aa",
@@ -52967,6 +53044,7 @@
       "family-c9784d4001ed4011ef7fbbea3840a21d13c433410537acf5c5ee7f8400fa67f0",
       "family-c98780eb589f006c0c569351ca10895e70edec431585cd78c2456ee0fb6f6d71",
       "family-c9baa8e8e27c8e8d0b514ab478fbcd787af1b47a14c177b20804d396d5fccf9a",
+      "family-ca04b16630ec275f0847b945390e5d19ad79a202b2754151be829f27620d8249",
       "family-cc00916e193fff86808c289270aabc2d73a59027a91ba49e7a00f229878ac861",
       "family-cc33d71e791eebe3dd6b8ffbd76c6bebf5a5c0f4e90c4c01b3c6a881133aefd4",
       "family-cc92548666c1a27aa363532c52b3559a9e79a6dde89f612e7afab7f4e5f43b0e",
@@ -64283,14 +64361,14 @@
     },
     {
       "availableInFR": true,
-      "boxArt": "https://store-images.s-microsoft.com/image/apps.51158.64366672042187759.099a5916-8b59-4db9-9ba3-146ee8e5afbb.3af5a707-fc52-4dd8-924a-07d384e361b0",
+      "boxArt": "https://store-images.s-microsoft.com/image/apps.51458.64366672042187759.733004ed-c696-44cf-98cc-30eddf2375a8.33981a4c-a34b-4492-b81f-8695c017496b",
       "description": "Trapped forever in a realm of eldritch evil where even death is not an escape, four determined Survivors face a bloodthirsty Killer in a vicious game of nerve and wits. Pick a side and step into a world of tension and terror with horror gaming's best asymmetrical multiplayer.",
       "developer": "Behaviour Interactive Inc.",
       "genres": [
         "Action & adventure",
         "Other"
       ],
-      "heroArt": "https://store-images.s-microsoft.com/image/apps.24051.64366672042187759.099a5916-8b59-4db9-9ba3-146ee8e5afbb.181a6855-dd3c-4433-93c3-ecc4db901cec",
+      "heroArt": "https://store-images.s-microsoft.com/image/apps.13651.64366672042187759.733004ed-c696-44cf-98cc-30eddf2375a8.6bdb69ed-d0ef-4157-b2df-7ea97d3b1c4a",
       "id": "C0N22P73QZ60",
       "leavingSoon": false,
       "leavingSoonPlatforms": [],
@@ -64315,7 +64393,7 @@
         "Online multiplayer (2-5)",
         "Single player"
       ],
-      "poster": "https://store-images.s-microsoft.com/image/apps.46191.64366672042187759.099a5916-8b59-4db9-9ba3-146ee8e5afbb.96ba18fa-312c-4fc2-ba88-eb59eab37888",
+      "poster": "https://store-images.s-microsoft.com/image/apps.16719.64366672042187759.733004ed-c696-44cf-98cc-30eddf2375a8.3dd6c96e-e0c3-4a0b-aeb0-810f815a6d37",
       "publisher": "Behaviour Interactive Inc.",
       "ratingId": "PEGI:18",
       "ratingSystem": "PEGI",
@@ -64343,14 +64421,14 @@
     },
     {
       "availableInFR": true,
-      "boxArt": "https://store-images.s-microsoft.com/image/apps.53900.13756572830160292.e0bc9919-a49f-4230-b3b0-ec9eb93969b8.cecfe1e4-9949-4e48-ad56-9c7935eadded",
+      "boxArt": "https://store-images.s-microsoft.com/image/apps.51458.13756572830160292.a0be61ed-4aae-47f9-8a44-c8be54b53f15.99bffbd4-1291-4b7a-b1d3-8a27e7c592d7",
       "description": "Trapped forever in a realm of eldritch evil where even death is not an escape, four determined Survivors face a bloodthirsty Killer in a vicious game of nerve and wits. Pick a side and step into a world of tension and terror with horror gaming's best asymmetrical multiplayer.",
       "developer": "Behaviour Interactive Inc.",
       "genres": [
         "Action & adventure",
         "Other"
       ],
-      "heroArt": "https://store-images.s-microsoft.com/image/apps.2727.13756572830160292.e0bc9919-a49f-4230-b3b0-ec9eb93969b8.27a8e343-b9d5-40b3-878b-9b6fd8752297",
+      "heroArt": "https://store-images.s-microsoft.com/image/apps.13651.13756572830160292.a0be61ed-4aae-47f9-8a44-c8be54b53f15.1c02c3b1-16f3-47dc-b18a-317c080cf2f6",
       "id": "9NMS4SFNBGBH",
       "leavingSoon": false,
       "leavingSoonPlatforms": [],
@@ -64375,7 +64453,7 @@
         "Online multiplayer (2-5)",
         "Single player"
       ],
-      "poster": "https://store-images.s-microsoft.com/image/apps.35959.13756572830160292.e0bc9919-a49f-4230-b3b0-ec9eb93969b8.9f5402c2-ab24-433f-b30b-ef9d6c2d66f7",
+      "poster": "https://store-images.s-microsoft.com/image/apps.16719.13756572830160292.a0be61ed-4aae-47f9-8a44-c8be54b53f15.917800ae-51f5-48b3-aa38-cb498fde9b40",
       "publisher": "Behaviour Interactive Inc.",
       "ratingId": "PEGI:18",
       "ratingSystem": "PEGI",
@@ -73362,8 +73440,10 @@
       ],
       "heroArt": "https://store-images.s-microsoft.com/image/apps.8539.14159410862978133.1c4f3bd5-0a15-470c-8be1-1c69266a4dc3.3d41f085-0cf7-419a-8b62-4b021e6c7527",
       "id": "9PD0Z90216RJ",
-      "leavingSoon": false,
-      "leavingSoonPlatforms": [],
+      "leavingSoon": true,
+      "leavingSoonPlatforms": [
+        "pc"
+      ],
       "memberships": [
         "ultimate",
         "premium"
@@ -73422,8 +73502,11 @@
       ],
       "heroArt": "https://store-images.s-microsoft.com/image/apps.18485.13754609462095808.6e939a74-099e-490d-b009-02e7105155bd.57af7efd-c236-4f6c-ad75-9181b7718799",
       "id": "9NMNZ4CK59DM",
-      "leavingSoon": false,
-      "leavingSoonPlatforms": [],
+      "leavingSoon": true,
+      "leavingSoonPlatforms": [
+        "console",
+        "pc"
+      ],
       "memberships": [
         "ultimate",
         "premium"
@@ -86772,7 +86855,7 @@
     },
     {
       "availableInFR": true,
-      "boxArt": "https://store-images.s-microsoft.com/image/apps.18684.13916126641198036.93e1b525-8641-4737-a69b-7287498c268a.9c47915e-3e98-4ad5-8df7-1bdf2bbf4f9d",
+      "boxArt": "https://store-images.s-microsoft.com/image/apps.60896.13916126641198036.09cb027a-0db0-4ac0-8459-ee6b87dc11cc.7ea3d42a-d6af-4971-9e27-8ce46e068504",
       "description": "Once Human is a multiplayer survival game set in the strange worlds.Join forces with friends to fight for survival, construct your sanctuary, and conquer terrifying aberrations to unravel the truth behind the apocalypse.",
       "developer": "NETEASE INTERACTIVE ENTERTAINMENT PTE.LTD",
       "genres": [
@@ -86781,7 +86864,7 @@
         "Role playing",
         "Shooter"
       ],
-      "heroArt": "https://store-images.s-microsoft.com/image/apps.42166.13916126641198036.93e1b525-8641-4737-a69b-7287498c268a.175f7f1a-408c-4f9c-8d77-0fa1ed7a323d",
+      "heroArt": "https://store-images.s-microsoft.com/image/apps.34360.13916126641198036.09cb027a-0db0-4ac0-8459-ee6b87dc11cc.e895c540-5b17-4918-b98e-fc33815dc308",
       "id": "9N0QWXC09MPT",
       "leavingSoon": false,
       "leavingSoonPlatforms": [],
@@ -86813,7 +86896,7 @@
         "Online multiplayer (2-100)",
         "Online co-op"
       ],
-      "poster": "https://store-images.s-microsoft.com/image/apps.26737.13916126641198036.93e1b525-8641-4737-a69b-7287498c268a.dc8a8b1c-9323-4ba2-8bcc-953be8a9c701",
+      "poster": "https://store-images.s-microsoft.com/image/apps.6246.13916126641198036.09cb027a-0db0-4ac0-8459-ee6b87dc11cc.41b67786-ad5b-43c9-acbb-7ea6151faf32",
       "publisher": "NETEASE INTERACTIVE ENTERTAINMENT PTE.LTD",
       "ratingId": "PEGI:18",
       "ratingSystem": "PEGI",
@@ -93348,6 +93431,67 @@
       "supportsSinglePlayer": true,
       "title": "Sea of Thieves: 2026 Edition",
       "url": "https://www.xbox.com/en-us/games/store/sea-of-thieves-2026-edition/9P2N57MC619K"
+    },
+    {
+      "availableInFR": true,
+      "boxArt": "https://store-images.s-microsoft.com/image/apps.58589.14338899831126037.9571fdec-43b9-45e0-87e0-6beb38254966.921ef682-7a46-4ec0-889f-bf0df78f016d",
+      "description": "The Séance of Blake Manor is a supernatural detective mystery, set in 1897 Ireland, where you investigate the disappearance of Evelyn Deane in a remote hotel full of secrets and other-worldly occurrences.",
+      "developer": "Spooky Doorway",
+      "genres": [
+        "Action & adventure",
+        "Puzzle & trivia"
+      ],
+      "heroArt": "https://store-images.s-microsoft.com/image/apps.6208.14338899831126037.225accb3-8e9c-4c00-a01b-619f2e44276d.c38d5958-b855-4d77-92eb-4d6991d1050c",
+      "id": "9PNRLJNDPP4G",
+      "leavingSoon": false,
+      "leavingSoonPlatforms": [],
+      "memberships": [
+        "ultimate",
+        "premium"
+      ],
+      "pegiRating": "PEGI 16",
+      "platformByTier": {
+        "premium": [
+          "console",
+          "pc"
+        ],
+        "ultimate": [
+          "console",
+          "pc"
+        ]
+      },
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "playerModes": [],
+      "poster": "https://store-images.s-microsoft.com/image/apps.16621.14338899831126037.225accb3-8e9c-4c00-a01b-619f2e44276d.56c0b677-c7a4-41bb-ba89-862d2a38f74d",
+      "publisher": "Raw Fury",
+      "ratingId": "PEGI:16",
+      "ratingSystem": "PEGI",
+      "releaseDate": "2026-10-27",
+      "screenshots": [
+        "https://store-images.s-microsoft.com/image/apps.61856.14338899831126037.225accb3-8e9c-4c00-a01b-619f2e44276d.88f7f6a9-0cfa-4416-a5f9-27be121a6ab5?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.22784.14338899831126037.225accb3-8e9c-4c00-a01b-619f2e44276d.b9665e41-ae33-4b86-9448-32d339070f2e?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.24975.14338899831126037.225accb3-8e9c-4c00-a01b-619f2e44276d.79d4151e-10f1-4069-85ff-4e0b6c458955?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.22563.14338899831126037.225accb3-8e9c-4c00-a01b-619f2e44276d.a618dbe1-d278-4453-964b-7bf8de4bee35?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.31643.14338899831126037.225accb3-8e9c-4c00-a01b-619f2e44276d.5568f7a4-259b-4ce9-9979-94a8b413afce?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.51902.14338899831126037.225accb3-8e9c-4c00-a01b-619f2e44276d.7865d0f9-c647-429a-8c4b-171376186026?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.19396.14338899831126037.225accb3-8e9c-4c00-a01b-619f2e44276d.3f1d295d-2e38-4a4a-a353-fb17014daed6?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.31472.14338899831126037.225accb3-8e9c-4c00-a01b-619f2e44276d.adcacfbc-6e02-455d-b708-edefa26ac082?w=640&h=360&q=80&format=jpg"
+      ],
+      "segment": "ultimatePremium",
+      "shortDescription": "The Séance of Blake Manor is a supernatural detective mystery, set in 1897 Ireland, where you investigate the disappearance of Evelyn Deane in a remote hotel full of secrets and other-worldly occurrences.",
+      "sortTitle": "séance of blake manor",
+      "supportsCoop": false,
+      "supportsLocalCoop": false,
+      "supportsLocalMultiplayer": false,
+      "supportsMultiplayer": false,
+      "supportsOnlineCoop": false,
+      "supportsOnlineMultiplayer": false,
+      "supportsSinglePlayer": false,
+      "title": "The Séance of Blake Manor",
+      "url": "https://www.xbox.com/en-us/games/store/the-seance-of-blake-manor/9PNRLJNDPP4G"
     },
     {
       "availableInFR": true,
@@ -101657,7 +101801,7 @@
     },
     {
       "availableInFR": true,
-      "boxArt": "https://store-images.s-microsoft.com/image/apps.17312.13898029070941789.8d58b251-455c-4993-a1fd-1d77e8261eaf.8291ef5a-305d-4750-8231-0467ee0d1da0",
+      "boxArt": "https://store-images.s-microsoft.com/image/apps.30107.13898029070941789.b9070612-bb75-4081-8f05-4acaf8e47425.c299c14e-745b-45c7-bdfd-d7d8c2348321",
       "description": "VALORANT",
       "developer": "Riot Games",
       "genres": [
@@ -101665,7 +101809,7 @@
         "Shooter",
         "Strategy"
       ],
-      "heroArt": "https://store-images.s-microsoft.com/image/apps.56412.13898029070941789.8d58b251-455c-4993-a1fd-1d77e8261eaf.298cb0c7-8b39-4c9c-8eac-90140da703fa",
+      "heroArt": "https://store-images.s-microsoft.com/image/apps.1314.13898029070941789.b9070612-bb75-4081-8f05-4acaf8e47425.ab63f426-7ad3-49f1-9eb8-f77b215a3e8e",
       "id": "9N1NLJK9SKRN",
       "leavingSoon": false,
       "leavingSoonPlatforms": [],
@@ -101692,7 +101836,7 @@
       "playerModes": [
         "Online multiplayer (10)"
       ],
-      "poster": "https://store-images.s-microsoft.com/image/apps.24285.13898029070941789.8d58b251-455c-4993-a1fd-1d77e8261eaf.f83375e3-5886-4708-888a-8d37fbb998f5",
+      "poster": "https://store-images.s-microsoft.com/image/apps.43432.13898029070941789.b9070612-bb75-4081-8f05-4acaf8e47425.19aed1bf-e497-497c-8140-1e0c100cba49",
       "publisher": "Riot Games",
       "ratingId": "PEGI:16",
       "ratingSystem": "PEGI",
@@ -101722,14 +101866,14 @@
     },
     {
       "availableInFR": true,
-      "boxArt": "https://store-images.s-microsoft.com/image/apps.17312.13663857844271189.42ac3116-ce9d-40e2-939f-ca94e72c04a8.60fe8f10-4191-45dd-8a2c-21eb91fb7ac2",
+      "boxArt": "https://store-images.s-microsoft.com/image/apps.30107.13663857844271189.005b5800-25c5-439e-8a6e-fdb02b928900.5a37cd3f-3d64-49fd-b6a1-14cc3855f770",
       "description": "VALORANT is a character-based 5v5 tactical shooter set on the global stage. Outwit, outplay, and outshine your competition with tactical abilities, precise gunplay, and adaptive teamwork. With Game Pass, members will unlock: ● All current Agents ● Day-one access to every new Agent as they're released ● 20% Match XP boost given to Battlepass, Event Pass, and active Agent Contract progress.",
       "developer": "Riot Games",
       "genres": [
         "Action & adventure",
         "Shooter"
       ],
-      "heroArt": "https://store-images.s-microsoft.com/image/apps.56412.13663857844271189.42ac3116-ce9d-40e2-939f-ca94e72c04a8.a593939f-3d22-458f-8e5b-23473a61e93e",
+      "heroArt": "https://store-images.s-microsoft.com/image/apps.1314.13663857844271189.005b5800-25c5-439e-8a6e-fdb02b928900.932ff771-0d8b-43fe-b418-86339609caf9",
       "id": "9NKCCHCFTHV2",
       "leavingSoon": false,
       "leavingSoonPlatforms": [],
@@ -101756,7 +101900,7 @@
       "playerModes": [
         "Online multiplayer (10)"
       ],
-      "poster": "https://store-images.s-microsoft.com/image/apps.24285.13663857844271189.42ac3116-ce9d-40e2-939f-ca94e72c04a8.bc2c8a77-f251-47c2-908a-6b9d61b7f479",
+      "poster": "https://store-images.s-microsoft.com/image/apps.43432.13663857844271189.005b5800-25c5-439e-8a6e-fdb02b928900.96ac9b34-3c66-40bf-a23c-7251edc524dc",
       "publisher": "Riot Games",
       "ratingId": "PEGI:16",
       "ratingSystem": "PEGI",
@@ -106285,7 +106429,7 @@
       "url": "https://www.xbox.com/en-us/games/store/zumas-revenge/BR9MPWXFBCRC"
     }
   ],
-  "generatedAt": "2026-10-27T10:38:37.407Z",
+  "generatedAt": "2026-10-28T11:23:04.119Z",
   "labels": {
     "diffs": {
       "essentialNotPremium": "Essential not Premium",
@@ -106321,8 +106465,10 @@
       "9N6VS1BMZ3BW",
       "9NHFVWX1V7QJ",
       "9NKK6CX54183",
+      "9NMNZ4CK59DM",
       "9NWQ686JB33G",
       "9P3ZRGNQVC7D",
+      "9PD0Z90216RJ",
       "BRMKDCZT0C4L",
       "C3553MB4P5TT"
     ],
@@ -106331,6 +106477,7 @@
       "9N6VS1BMZ3BW",
       "9NHFVWX1V7QJ",
       "9NKK6CX54183",
+      "9NMNZ4CK59DM",
       "9NWQ686JB33G",
       "9P3ZRGNQVC7D",
       "BRMKDCZT0C4L",
@@ -106341,8 +106488,10 @@
       "9N6VS1BMZ3BW",
       "9NHFVWX1V7QJ",
       "9NKK6CX54183",
+      "9NMNZ4CK59DM",
       "9NWQ686JB33G",
       "9P3ZRGNQVC7D",
+      "9PD0Z90216RJ",
       "BRMKDCZT0C4L",
       "C3553MB4P5TT"
     ],
@@ -106353,28 +106502,28 @@
   },
   "leavingSoonSourceLists": [
     {
-      "count": 8,
+      "count": 9,
       "description": "Don't want the fun to end? Save on these games now.",
-      "fetchedAt": "2026-10-27T10:38:37.407Z",
+      "fetchedAt": "2026-10-28T11:23:04.119Z",
       "kind": "leavingSoon",
       "platform": "console",
       "platformLabel": "Console",
       "siglId": "393f05bf-e596-4ef6-9487-6d4fa0eab987",
-      "sourceCount": 8,
+      "sourceCount": 9,
       "status": "ok",
       "swapsApplied": [],
       "title": "Leaving soon",
       "url": "https://catalog.gamepass.com/sigls/v2?id=393f05bf-e596-4ef6-9487-6d4fa0eab987&language=en-us&market=AT"
     },
     {
-      "count": 8,
+      "count": 10,
       "description": "Don't want the fun to end? Save on these games now.",
-      "fetchedAt": "2026-10-27T10:38:37.407Z",
+      "fetchedAt": "2026-10-28T11:23:04.119Z",
       "kind": "leavingSoon",
       "platform": "pc",
       "platformLabel": "PC",
       "siglId": "cc7fc951-d00f-410e-9e02-5e4628e04163",
-      "sourceCount": 8,
+      "sourceCount": 10,
       "status": "ok",
       "swapsApplied": [],
       "title": "Leaving soon",
@@ -106385,8 +106534,8 @@
   "metadata": {
     "familyGrouping": {
       "collapsedProductCount": 173,
-      "familyCount": 727,
-      "productCount": 900,
+      "familyCount": 728,
+      "productCount": 901,
       "schemaVersion": 1,
       "strategy": "conservative-normalized-title"
     },
@@ -107065,6 +107214,7 @@
         "9PN3VDFTB5HZ",
         "9PNG83MDD6SH",
         "9PNGFSX7S117",
+        "9PNRLJNDPP4G",
         "9PNRSC0J6DT8",
         "9PP7XSG5LDH1",
         "9PPH71DV44T7",
@@ -107265,32 +107415,32 @@
           "requested": 80,
           "returned": 80,
           "status": "ok",
-          "url": "https://displaycatalog.mp.microsoft.com/v7.0/products?bigIds=9PLSCHRN5715%2C9PLVVTDHS1P0%2C9PM3J18QM4Q3%2C9PM709J61828%2C9PMBB7NGHV95%2C9PMHGHXLGLJM%2C9PMQDM08SNK9%2C9PMVJR05PFJW%2C9PMX3SK2RMG4%2C9PMXPQ307Z5P%2C9PMZ9LB06T8D%2C9PN0LC4CNLPT%2C9PN3SWBMPJXJ%2C9PN3VDFTB5HZ%2C9PN8M16GG8M4%2C9PNG83MDD6SH%2C9PNGFSX7S117%2C9PNRHXZ6ZSS9%2C9PNRSC0J6DT8%2C9PP7XSG5LDH1%2C9PP837L3Q75D%2C9PPBNCXP0096%2C9PPF72ZH6RP8%2C9PPH71DV44T7%2C9PPJGBJ2LGV9%2C9PPKR9N31BW6%2C9PPP5344B3LS%2C9PPR10S4JNLV%2C9WZDNCRFHWCP%2C9WZDNCRFHWD2%2C9WZDNCRFHWFH%2C9WZDNCRFJBFJ%2CBNBWFH89FCF1%2CBNCZHKWRZ7BR%2CBNKDKQXMXRR2%2CBNKKJL1VRR5P%2CBNN7BPDZ6GQB%2CBNRH7BRC1D02%2CBNSDHDK45KBR%2CBP15SF17LH13%2CBP6V6QZBMFP0%2CBP73LMGB1DFD%2CBP96WRTVD7C1%2CBPBV3PCB0X44%2CBPKDQSSFQ9WV%2CBPL68T0XK96W%2CBPMJ413V6BB2%2CBPN08ZDRPSFK%2CBPNDKQN84N6L%2CBPPR6D5C2GLF%2CBPQZT43FWD49%2CBPR2TBS2KMQJ%2CBPRPQSKXTD1L%2CBPV4GXTDCNSH%2CBQ192SFB694X%2CBQ1W1T1FC14W%2CBQ4M1XWXFKHB%2CBQ9Q620NC614%2CBQ9S8ZKCT3Q7%2CBQ9T0JF0D3L4%2CBQBTGDT4P54J%2CBQG162F04T2L%2CBQMQ3K1BLV1T%2CBQMVWCMB8P59%2CBQND4NQXFFV2%2CBQR7QS0F8SJ3%2CBQRB60PW2SDL%2CBQT21VXFS52F%2CBQVQTL3PCH05%2CBR03N9C6Z9G6%2CBR1D9CR82ZM8%2CBR27BSZ2M3SR%2CBR46KM4D5B9L%2CBR74RLMH966K%2CBR7QJW8V9L2S%2CBR7X7MVBBQKM%2CBR9MPWXFBCRC%2CBRBRQCVTJG2D%2CBRG51C5MWFSG%2CBRGPD72KHM3Q&market=AT&languages=en-us&MS-CV=DGU1mcuYo0WMMp%2BF.1"
+          "url": "https://displaycatalog.mp.microsoft.com/v7.0/products?bigIds=9PLSCHRN5715%2C9PLVVTDHS1P0%2C9PM3J18QM4Q3%2C9PM709J61828%2C9PMBB7NGHV95%2C9PMHGHXLGLJM%2C9PMQDM08SNK9%2C9PMVJR05PFJW%2C9PMX3SK2RMG4%2C9PMXPQ307Z5P%2C9PMZ9LB06T8D%2C9PN0LC4CNLPT%2C9PN3SWBMPJXJ%2C9PN3VDFTB5HZ%2C9PN8M16GG8M4%2C9PNG83MDD6SH%2C9PNGFSX7S117%2C9PNRHXZ6ZSS9%2C9PNRLJNDPP4G%2C9PNRSC0J6DT8%2C9PP7XSG5LDH1%2C9PP837L3Q75D%2C9PPBNCXP0096%2C9PPF72ZH6RP8%2C9PPH71DV44T7%2C9PPJGBJ2LGV9%2C9PPKR9N31BW6%2C9PPP5344B3LS%2C9PPR10S4JNLV%2C9WZDNCRFHWCP%2C9WZDNCRFHWD2%2C9WZDNCRFHWFH%2C9WZDNCRFJBFJ%2CBNBWFH89FCF1%2CBNCZHKWRZ7BR%2CBNKDKQXMXRR2%2CBNKKJL1VRR5P%2CBNN7BPDZ6GQB%2CBNRH7BRC1D02%2CBNSDHDK45KBR%2CBP15SF17LH13%2CBP6V6QZBMFP0%2CBP73LMGB1DFD%2CBP96WRTVD7C1%2CBPBV3PCB0X44%2CBPKDQSSFQ9WV%2CBPL68T0XK96W%2CBPMJ413V6BB2%2CBPN08ZDRPSFK%2CBPNDKQN84N6L%2CBPPR6D5C2GLF%2CBPQZT43FWD49%2CBPR2TBS2KMQJ%2CBPRPQSKXTD1L%2CBPV4GXTDCNSH%2CBQ192SFB694X%2CBQ1W1T1FC14W%2CBQ4M1XWXFKHB%2CBQ9Q620NC614%2CBQ9S8ZKCT3Q7%2CBQ9T0JF0D3L4%2CBQBTGDT4P54J%2CBQG162F04T2L%2CBQMQ3K1BLV1T%2CBQMVWCMB8P59%2CBQND4NQXFFV2%2CBQR7QS0F8SJ3%2CBQRB60PW2SDL%2CBQT21VXFS52F%2CBQVQTL3PCH05%2CBR03N9C6Z9G6%2CBR1D9CR82ZM8%2CBR27BSZ2M3SR%2CBR46KM4D5B9L%2CBR74RLMH966K%2CBR7QJW8V9L2S%2CBR7X7MVBBQKM%2CBR9MPWXFBCRC%2CBRBRQCVTJG2D%2CBRG51C5MWFSG&market=AT&languages=en-us&MS-CV=DGU1mcuYo0WMMp%2BF.1"
         },
         {
           "requested": 80,
           "returned": 80,
           "status": "ok",
-          "url": "https://displaycatalog.mp.microsoft.com/v7.0/products?bigIds=BRJLJ6RPLQTJ%2CBRJNRZ9N734V%2CBRKMHZX1RCF2%2CBRKX5CRMRTC2%2CBRMKDCZT0C4L%2CBRN6BHDHB58J%2CBRPGP6H8P26F%2CBRQH27C9RGXS%2CBRRC2BP0G9P0%2CBRRVN5198461%2CBRT1K9FV4LRR%2CBRXTM276DLPR%2CBRZHFR5XBLQS%2CBRZZLBF5T245%2CBS1NPTPJGD4G%2CBS34VNW7H61F%2CBS6WJ2L56B10%2CBS9SX4Q6XJRF%2CBSCCQL7DZ9KD%2CBSDX4FNNC0DK%2CBSHMMGRP84N4%2CBSJG7TTSWVJ2%2CBSLTQT4L0RLV%2CBSLX1RNXR6H7%2CBSMZH25V6V46%2CBSNZHRCKC13J%2CBSR9NLHVF1KL%2CBSXDD75Q561F%2CBSXLFN5QQZSC%2CBSXSL6WBJ0V7%2CBSZM480TSWGP%2CBT3KQ8HLLZ6K%2CBT5P2X999VH2%2CBT9FFLG51VVG%2CBTBWBGKPKS97%2CBTCS0LP052HL%2CBTDRTXBKDBRR%2CBTJ0T8C04ZBV%2CBTKN78H28RPV%2CBTMS1PXLQ6P6%2CBTNPS60N3114%2CBTQMHK78ZPF9%2CBTXM0C9C3B1S%2CBV05F8VT7JJ4%2CBV0K9LMLQ9W5%2CBV0NSD4NN4V4%2CBV2ZVP7PJZWL%2CBV5N90RDT0SH%2CBV6BRSLFJW3W%2CBV83SM3191S5%2CBV9CWVQWNS4P%2CBVCRSR6XSDW5%2CBVFB8CBS75R6%2CBVFDTJ1XF6CS%2CBVJLKDG2TX8H%2CBVQ3V30ZXVT5%2CBVR64CDJ01FJ%2CBVTKN6CQ8W5F%2CBW3T6SNS15BH%2CBW6B077FCH11%2CBW85KQB8Q31M%2CBW9TWC8L4JCS%2CBWHFZNSL0PB5%2CBWK0Q0RQMH7V%2CBWMH951M3G3P%2CBWT2GPVWCH2F%2CBWT5L9P3L60X%2CBWVBNCMF22ZK%2CBX03760D0QGN%2CBX1DTCBD1HXJ%2CBX27S00SKW1V%2CBX3JNK07Z6QK%2CBX8FPDDRCLWT%2CBXBJQ1932138%2CBXF9VWKCD6QW%2CBXQQQQ8HRBSF%2CBXRB4ZH2GJHK%2CBXVCFBJBNS17%2CBXVQ8M4J9HNM%2CBXWJNW4170RM&market=AT&languages=en-us&MS-CV=DGU1mcuYo0WMMp%2BF.1"
+          "url": "https://displaycatalog.mp.microsoft.com/v7.0/products?bigIds=BRGPD72KHM3Q%2CBRJLJ6RPLQTJ%2CBRJNRZ9N734V%2CBRKMHZX1RCF2%2CBRKX5CRMRTC2%2CBRMKDCZT0C4L%2CBRN6BHDHB58J%2CBRPGP6H8P26F%2CBRQH27C9RGXS%2CBRRC2BP0G9P0%2CBRRVN5198461%2CBRT1K9FV4LRR%2CBRXTM276DLPR%2CBRZHFR5XBLQS%2CBRZZLBF5T245%2CBS1NPTPJGD4G%2CBS34VNW7H61F%2CBS6WJ2L56B10%2CBS9SX4Q6XJRF%2CBSCCQL7DZ9KD%2CBSDX4FNNC0DK%2CBSHMMGRP84N4%2CBSJG7TTSWVJ2%2CBSLTQT4L0RLV%2CBSLX1RNXR6H7%2CBSMZH25V6V46%2CBSNZHRCKC13J%2CBSR9NLHVF1KL%2CBSXDD75Q561F%2CBSXLFN5QQZSC%2CBSXSL6WBJ0V7%2CBSZM480TSWGP%2CBT3KQ8HLLZ6K%2CBT5P2X999VH2%2CBT9FFLG51VVG%2CBTBWBGKPKS97%2CBTCS0LP052HL%2CBTDRTXBKDBRR%2CBTJ0T8C04ZBV%2CBTKN78H28RPV%2CBTMS1PXLQ6P6%2CBTNPS60N3114%2CBTQMHK78ZPF9%2CBTXM0C9C3B1S%2CBV05F8VT7JJ4%2CBV0K9LMLQ9W5%2CBV0NSD4NN4V4%2CBV2ZVP7PJZWL%2CBV5N90RDT0SH%2CBV6BRSLFJW3W%2CBV83SM3191S5%2CBV9CWVQWNS4P%2CBVCRSR6XSDW5%2CBVFB8CBS75R6%2CBVFDTJ1XF6CS%2CBVJLKDG2TX8H%2CBVQ3V30ZXVT5%2CBVR64CDJ01FJ%2CBVTKN6CQ8W5F%2CBW3T6SNS15BH%2CBW6B077FCH11%2CBW85KQB8Q31M%2CBW9TWC8L4JCS%2CBWHFZNSL0PB5%2CBWK0Q0RQMH7V%2CBWMH951M3G3P%2CBWT2GPVWCH2F%2CBWT5L9P3L60X%2CBWVBNCMF22ZK%2CBX03760D0QGN%2CBX1DTCBD1HXJ%2CBX27S00SKW1V%2CBX3JNK07Z6QK%2CBX8FPDDRCLWT%2CBXBJQ1932138%2CBXF9VWKCD6QW%2CBXQQQQ8HRBSF%2CBXRB4ZH2GJHK%2CBXVCFBJBNS17%2CBXVQ8M4J9HNM&market=AT&languages=en-us&MS-CV=DGU1mcuYo0WMMp%2BF.1"
         },
         {
           "requested": 80,
           "returned": 80,
           "status": "ok",
-          "url": "https://displaycatalog.mp.microsoft.com/v7.0/products?bigIds=BXZ0JDCPRV6C%2CBXZWT67JBZJH%2CBZ2N7TQ0XCF2%2CBZ4WD43D8DTS%2CBZ6W9LRPC26W%2CBZ910SG8ML8X%2CBZ92FB6PWXFJ%2CBZF7N4FQWHNR%2CBZGJRJC1FGF3%2CBZKZFMQG2K2K%2CBZPR04V49BMH%2CBZQQ7HX8PZ05%2CBZW2R4STVDNK%2CC040H652PD98%2CC042M8GWKS34%2CC07KJZRH0L7S%2CC0GWTPD0S8S1%2CC0KJ40T9QD86%2CC0N22P73QZ60%2CC0QDQ0KX4HDV%2CC0RNBFHQ7X96%2CC0SFCF4PBRSZ%2CC0SWGV4560W1%2CC0VQBXFNZ1Q0%2CC0X15TR4NP0B%2CC0X2HNVH08FB%2CC0X6N5963CTW%2CC0Z1N477W100%2CC11KKHB5H7QJ%2CC125W9BG2K0V%2CC17GQF31D617%2CC1C4DZJPBC2V%2CC1DDW4PRF6K5%2CC1SDBNRFXT1D%2CC1WRX8ZD77M9%2CC1ZT6N30L1WH%2CC1ZWH2BZ9TSF%2CC20WW4W29FQ1%2CC22T53SQ7FLM%2CC2484ZR2BWNQ%2CC26K4DVGR45B%2CC27XPR5XDMFT%2CC299QVC2BSJF%2CC29HQ887KH4B%2CC2B4T86TXLRS%2CC2CSDTSCBZ0C%2CC2DCJ95ZXBMS%2CC2DQXX0CB42F%2CC2HDBXXNXT7R%2CC2M8HBNVPT1T%2CC2N9CS4FS1QR%2CC2P985H1H42H%2CC2PB7STLJGS0%2CC2Q32JM0BPZL%2CC2R5R5P2DF3C%2CC2WKJJ9F5936%2CC2XNJC9WK15X%2CC350VBGGCL6P%2CC3553MB4P5TT%2CC355T88BBX1S%2CC37XBX7DCBZ0%2CC3B1V55CDL0C%2CC3D891Z6TNQM%2CC3KLDKZBHNCZ%2CC3L4J3H7H12R%2CC3LW50BQJ878%2CC3NHWKLR94M9%2CC3QH42WRGM3R%2CC3SQQG5Q6Z64%2CC3VM0TMWNZ5M%2CC3VVNLQQ54F8%2CC4060P46HH4D%2CC40860J5R2MP%2CC41ZDFQ82M1G%2CC421ZX7RCG0W%2CC42KCJCLX6MX%2CC43H00X6KZRJ%2CC47GZZBMR5WG%2CC48LBRJJCP2L%2CC4B8XR1LCXR5&market=AT&languages=en-us&MS-CV=DGU1mcuYo0WMMp%2BF.1"
+          "url": "https://displaycatalog.mp.microsoft.com/v7.0/products?bigIds=BXWJNW4170RM%2CBXZ0JDCPRV6C%2CBXZWT67JBZJH%2CBZ2N7TQ0XCF2%2CBZ4WD43D8DTS%2CBZ6W9LRPC26W%2CBZ910SG8ML8X%2CBZ92FB6PWXFJ%2CBZF7N4FQWHNR%2CBZGJRJC1FGF3%2CBZKZFMQG2K2K%2CBZPR04V49BMH%2CBZQQ7HX8PZ05%2CBZW2R4STVDNK%2CC040H652PD98%2CC042M8GWKS34%2CC07KJZRH0L7S%2CC0GWTPD0S8S1%2CC0KJ40T9QD86%2CC0N22P73QZ60%2CC0QDQ0KX4HDV%2CC0RNBFHQ7X96%2CC0SFCF4PBRSZ%2CC0SWGV4560W1%2CC0VQBXFNZ1Q0%2CC0X15TR4NP0B%2CC0X2HNVH08FB%2CC0X6N5963CTW%2CC0Z1N477W100%2CC11KKHB5H7QJ%2CC125W9BG2K0V%2CC17GQF31D617%2CC1C4DZJPBC2V%2CC1DDW4PRF6K5%2CC1SDBNRFXT1D%2CC1WRX8ZD77M9%2CC1ZT6N30L1WH%2CC1ZWH2BZ9TSF%2CC20WW4W29FQ1%2CC22T53SQ7FLM%2CC2484ZR2BWNQ%2CC26K4DVGR45B%2CC27XPR5XDMFT%2CC299QVC2BSJF%2CC29HQ887KH4B%2CC2B4T86TXLRS%2CC2CSDTSCBZ0C%2CC2DCJ95ZXBMS%2CC2DQXX0CB42F%2CC2HDBXXNXT7R%2CC2M8HBNVPT1T%2CC2N9CS4FS1QR%2CC2P985H1H42H%2CC2PB7STLJGS0%2CC2Q32JM0BPZL%2CC2R5R5P2DF3C%2CC2WKJJ9F5936%2CC2XNJC9WK15X%2CC350VBGGCL6P%2CC3553MB4P5TT%2CC355T88BBX1S%2CC37XBX7DCBZ0%2CC3B1V55CDL0C%2CC3D891Z6TNQM%2CC3KLDKZBHNCZ%2CC3L4J3H7H12R%2CC3LW50BQJ878%2CC3NHWKLR94M9%2CC3QH42WRGM3R%2CC3SQQG5Q6Z64%2CC3VM0TMWNZ5M%2CC3VVNLQQ54F8%2CC4060P46HH4D%2CC40860J5R2MP%2CC41ZDFQ82M1G%2CC421ZX7RCG0W%2CC42KCJCLX6MX%2CC43H00X6KZRJ%2CC47GZZBMR5WG%2CC48LBRJJCP2L&market=AT&languages=en-us&MS-CV=DGU1mcuYo0WMMp%2BF.1"
         },
         {
-          "requested": 20,
-          "returned": 20,
+          "requested": 21,
+          "returned": 21,
           "status": "ok",
-          "url": "https://displaycatalog.mp.microsoft.com/v7.0/products?bigIds=C4CBF3FHHCND%2CC4DMGRPNSHXG%2CC4F7ZHLN6B2J%2CC4G76555T4QN%2CC4GH8N6ZXG5L%2CC4GQQJJSZSZJ%2CC4HB1XWT02DK%2CC4HZC7LJG6PX%2CC4LLMHFQ1BXQ%2CC4SG06H48738%2CC4VKLMG1HLZW%2CC4VLMWJWM7BG%2CC4Z7QM8FSXM2%2CC521HDXRTS7F%2CC57L9GR0HHB7%2CC5DZFZ6NC5SQ%2CC5F2XDQPPJKZ%2CC5HHPG1TXDNG%2CC5JGRR1LFVW8%2CC5K89TFLSV19&market=AT&languages=en-us&MS-CV=DGU1mcuYo0WMMp%2BF.1"
+          "url": "https://displaycatalog.mp.microsoft.com/v7.0/products?bigIds=C4B8XR1LCXR5%2CC4CBF3FHHCND%2CC4DMGRPNSHXG%2CC4F7ZHLN6B2J%2CC4G76555T4QN%2CC4GH8N6ZXG5L%2CC4GQQJJSZSZJ%2CC4HB1XWT02DK%2CC4HZC7LJG6PX%2CC4LLMHFQ1BXQ%2CC4SG06H48738%2CC4VKLMG1HLZW%2CC4VLMWJWM7BG%2CC4Z7QM8FSXM2%2CC521HDXRTS7F%2CC57L9GR0HHB7%2CC5DZFZ6NC5SQ%2CC5F2XDQPPJKZ%2CC5HHPG1TXDNG%2CC5JGRR1LFVW8%2CC5K89TFLSV19&market=AT&languages=en-us&MS-CV=DGU1mcuYo0WMMp%2BF.1"
         }
       ],
       "endpoint": "DisplayCatalog",
       "language": "en-us",
       "market": "AT",
-      "requested": 900,
-      "returned": 900
+      "requested": 901,
+      "returned": 901
     },
     "productSwapMap": {
       "9PNQKHFLD2WQ": "9PNJXVCVWD4K"
@@ -108029,6 +108179,7 @@
         "9PN3VDFTB5HZ",
         "9PNG83MDD6SH",
         "9PNGFSX7S117",
+        "9PNRLJNDPP4G",
         "9PNRSC0J6DT8",
         "9PP7XSG5LDH1",
         "9PPH71DV44T7",
@@ -108467,6 +108618,7 @@
         "9PN0LC4CNLPT",
         "9PN3VDFTB5HZ",
         "9PNGFSX7S117",
+        "9PNRLJNDPP4G",
         "9PNRSC0J6DT8",
         "9PPP5344B3LS",
         "9PPR10S4JNLV",
@@ -108980,6 +109132,7 @@
         "9PN0LC4CNLPT",
         "9PN3VDFTB5HZ",
         "9PNG83MDD6SH",
+        "9PNRLJNDPP4G",
         "9PP7XSG5LDH1",
         "9PPH71DV44T7",
         "9PPP5344B3LS",
@@ -109673,6 +109826,7 @@
         "9PNG83MDD6SH",
         "9PNGFSX7S117",
         "9PNRHXZ6ZSS9",
+        "9PNRLJNDPP4G",
         "9PNRSC0J6DT8",
         "9PP7XSG5LDH1",
         "9PP837L3Q75D",
@@ -110304,6 +110458,7 @@
         "9PN0LC4CNLPT",
         "9PN3VDFTB5HZ",
         "9PNGFSX7S117",
+        "9PNRLJNDPP4G",
         "9PNRSC0J6DT8",
         "9PP837L3Q75D",
         "9PPBNCXP0096",
@@ -111105,6 +111260,7 @@
         "9PN8M16GG8M4",
         "9PNG83MDD6SH",
         "9PNRHXZ6ZSS9",
+        "9PNRLJNDPP4G",
         "9PP7XSG5LDH1",
         "9PPBNCXP0096",
         "9PPF72ZH6RP8",
@@ -111956,6 +112112,7 @@
       "9PN0LC4CNLPT",
       "9PN3VDFTB5HZ",
       "9PNGFSX7S117",
+      "9PNRLJNDPP4G",
       "9PP7XSG5LDH1",
       "9PPH71DV44T7",
       "9PPP5344B3LS",
@@ -112058,14 +112215,14 @@
   },
   "sourceLists": [
     {
-      "count": 622,
+      "count": 623,
       "description": "Discover your next favorite game",
-      "fetchedAt": "2026-10-27T10:38:37.407Z",
+      "fetchedAt": "2026-10-28T11:23:04.119Z",
       "platform": "console",
       "platformContext": "ConsoleGen8;ConsoleGen9",
       "platformLabel": "Console",
       "siglId": "97c6c862-d28a-4907-a3d5-c401f2296a53",
-      "sourceCount": 622,
+      "sourceCount": 623,
       "status": "ok",
       "subscriptionContext": "cfq7ttc0khs0",
       "swapsApplied": [],
@@ -112075,14 +112232,14 @@
       "url": "https://catalog.gamepass.com/sigls/v3?id=97c6c862-d28a-4907-a3d5-c401f2296a53&language=en-us&market=AT&platformContext=ConsoleGen8%3BConsoleGen9&subscriptionContext=cfq7ttc0khs0"
     },
     {
-      "count": 600,
+      "count": 601,
       "description": "Discover your next favorite game",
-      "fetchedAt": "2026-10-27T10:38:37.407Z",
+      "fetchedAt": "2026-10-28T11:23:04.119Z",
       "platform": "pc",
       "platformContext": "pc",
       "platformLabel": "PC",
       "siglId": "97c6c862-d28a-4907-a3d5-c401f2296a53",
-      "sourceCount": 600,
+      "sourceCount": 601,
       "status": "ok",
       "subscriptionContext": "cfq7ttc0khs0",
       "swapsApplied": [],
@@ -112092,14 +112249,14 @@
       "url": "https://catalog.gamepass.com/sigls/v3?id=97c6c862-d28a-4907-a3d5-c401f2296a53&language=en-us&market=AT&platformContext=pc&subscriptionContext=cfq7ttc0khs0"
     },
     {
-      "count": 430,
+      "count": 431,
       "description": "Games included in your Game Pass Premium membership",
-      "fetchedAt": "2026-10-27T10:38:37.407Z",
+      "fetchedAt": "2026-10-28T11:23:04.119Z",
       "platform": "console",
       "platformContext": "ConsoleGen8;ConsoleGen9",
       "platformLabel": "Console",
       "siglId": "09a72c0d-c466-426a-9580-b78955d8173a",
-      "sourceCount": 430,
+      "sourceCount": 431,
       "status": "ok",
       "subscriptionContext": "cfq7ttc0p85b",
       "swapsApplied": [],
@@ -112109,14 +112266,14 @@
       "url": "https://catalog.gamepass.com/sigls/v3?id=09a72c0d-c466-426a-9580-b78955d8173a&language=en-us&market=AT&platformContext=ConsoleGen8%3BConsoleGen9&subscriptionContext=cfq7ttc0p85b"
     },
     {
-      "count": 405,
+      "count": 406,
       "description": "Games included in your Game Pass Premium membership",
-      "fetchedAt": "2026-10-27T10:38:37.407Z",
+      "fetchedAt": "2026-10-28T11:23:04.119Z",
       "platform": "pc",
       "platformContext": "pc",
       "platformLabel": "PC",
       "siglId": "09a72c0d-c466-426a-9580-b78955d8173a",
-      "sourceCount": 405,
+      "sourceCount": 406,
       "status": "ok",
       "subscriptionContext": "cfq7ttc0p85b",
       "swapsApplied": [],
@@ -112128,7 +112285,7 @@
     {
       "count": 92,
       "description": "Games included in your Game Pass Essential membership",
-      "fetchedAt": "2026-10-27T10:38:37.407Z",
+      "fetchedAt": "2026-10-28T11:23:04.119Z",
       "platform": "console",
       "platformContext": "ConsoleGen8;ConsoleGen9",
       "platformLabel": "Console",
@@ -112145,7 +112302,7 @@
     {
       "count": 85,
       "description": "Games included in your Game Pass Essential membership",
-      "fetchedAt": "2026-10-27T10:38:37.407Z",
+      "fetchedAt": "2026-10-28T11:23:04.119Z",
       "platform": "pc",
       "platformContext": "pc",
       "platformLabel": "PC",
