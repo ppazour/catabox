@@ -1,9 +1,9 @@
 {
-  "actionRunNumber": "29",
-  "actionRunUrl": "https://github.com/ppazour/catabox/actions/runs/40679499529",
+  "actionRunNumber": "30",
+  "actionRunUrl": "https://github.com/ppazour/catabox/actions/runs/40866285370",
   "baseline": false,
-  "catalogGeneratedAt": "2026-10-28T11:23:04.119Z",
-  "catalogHash": "87416b804cfcc64ef9f0afc2b7b97ceeed5d7cfeb8969f394b94979a60d134f1",
+  "catalogGeneratedAt": "2026-10-29T11:33:35.668Z",
+  "catalogHash": "6eec52f1aefa446f63bce1fa6549c1f517340c53a3b252a1050489f7827465d6",
   "changed": true,
   "errors": [],
   "eventCounts": {
@@ -13,46 +13,24 @@
   "familyEventCounts": {
     "added": 1
   },
-  "familyHash": "c58133688beadfafb0d6cf7c5896653c43754596e796705e6cf3ce5f2f917499",
-  "generatedAt": "2026-10-28T11:23:04.119Z",
+  "familyHash": "77ede2137b1ead14c1a81758c10e18b47e5b5117e98f146b581861e01fdadaea",
+  "generatedAt": "2026-10-29T11:33:35.668Z",
   "language": "en-us",
-  "lastGoodCatalogHash": "affda5eb1dd0757452575edb60c60f6967c40925752296c7fe7389bdafb8e73a",
-  "lastGoodGeneratedAt": "2026-10-27T10:38:37.407Z",
-  "leavingSoonAdded": [
-    {
-      "familyId": "family-df865fc878a5f51395e4f520502963d5317e926cd125fb09382fe7836420e13d",
-      "platforms": [
-        "pc"
-      ],
-      "title": "Football Manager 26",
-      "variantIds": [
-        "9PD0Z90216RJ"
-      ]
-    },
-    {
-      "familyId": "family-da3664d837bc8b800308bc82f2b148254a0dc57abfd7cb2944e1abcb345402a2",
-      "platforms": [
-        "console",
-        "pc"
-      ],
-      "title": "Football Manager 26 Console",
-      "variantIds": [
-        "9NMNZ4CK59DM"
-      ]
-    }
-  ],
+  "lastGoodCatalogHash": "87416b804cfcc64ef9f0afc2b7b97ceeed5d7cfeb8969f394b94979a60d134f1",
+  "lastGoodGeneratedAt": "2026-10-28T11:23:04.119Z",
+  "leavingSoonAdded": [],
   "leavingSoonTotal": 10,
   "market": "AT",
   "productChanged": true,
   "productEventCounts": {
     "added": 1
   },
-  "productTotal": 901,
+  "productTotal": 902,
   "sourceHealth": {
     "displayCatalog": {
       "missingProductIds": [],
-      "requested": 901,
-      "returned": 901,
+      "requested": 902,
+      "returned": 902,
       "status": "ok"
     },
     "leavingSoon": [
@@ -73,33 +51,33 @@
     ],
     "sigls": [
       {
-        "count": 623,
+        "count": 624,
         "platform": "console",
-        "sourceCount": 623,
+        "sourceCount": 624,
         "status": "ok",
         "tier": "ultimate",
         "url": "https://catalog.gamepass.com/sigls/v3?id=97c6c862-d28a-4907-a3d5-c401f2296a53&language=en-us&market=AT&platformContext=ConsoleGen8%3BConsoleGen9&subscriptionContext=cfq7ttc0khs0"
       },
       {
-        "count": 601,
+        "count": 602,
         "platform": "pc",
-        "sourceCount": 601,
+        "sourceCount": 602,
         "status": "ok",
         "tier": "ultimate",
         "url": "https://catalog.gamepass.com/sigls/v3?id=97c6c862-d28a-4907-a3d5-c401f2296a53&language=en-us&market=AT&platformContext=pc&subscriptionContext=cfq7ttc0khs0"
       },
       {
-        "count": 431,
+        "count": 432,
         "platform": "console",
-        "sourceCount": 431,
+        "sourceCount": 432,
         "status": "ok",
         "tier": "premium",
         "url": "https://catalog.gamepass.com/sigls/v3?id=09a72c0d-c466-426a-9580-b78955d8173a&language=en-us&market=AT&platformContext=ConsoleGen8%3BConsoleGen9&subscriptionContext=cfq7ttc0p85b"
       },
       {
-        "count": 406,
+        "count": 407,
         "platform": "pc",
-        "sourceCount": 406,
+        "sourceCount": 407,
         "status": "ok",
         "tier": "premium",
         "url": "https://catalog.gamepass.com/sigls/v3?id=09a72c0d-c466-426a-9580-b78955d8173a&language=en-us&market=AT&platformContext=pc&subscriptionContext=cfq7ttc0p85b"
@@ -123,6 +101,6 @@
     ]
   },
   "state": "success",
-  "total": 728,
+  "total": 729,
   "warnings": []
 }
