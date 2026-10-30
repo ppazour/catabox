@@ -1,36 +1,36 @@
 {
-  "actionRunNumber": "30",
-  "actionRunUrl": "https://github.com/ppazour/catabox/actions/runs/40866285370",
+  "actionRunNumber": "31",
+  "actionRunUrl": "https://github.com/ppazour/catabox/actions/runs/41047985845",
   "baseline": false,
-  "catalogGeneratedAt": "2026-10-29T11:33:35.668Z",
-  "catalogHash": "6eec52f1aefa446f63bce1fa6549c1f517340c53a3b252a1050489f7827465d6",
+  "catalogGeneratedAt": "2026-10-30T11:25:40.583Z",
+  "catalogHash": "e7b5dd28e1ec2922b0c721dde44aef6e987f86f9ad47ba3f0071db5e7852a8bc",
   "changed": true,
   "errors": [],
   "eventCounts": {
-    "added": 1
+    "added": 3
   },
   "familyChanged": true,
   "familyEventCounts": {
-    "added": 1
+    "added": 3
   },
-  "familyHash": "77ede2137b1ead14c1a81758c10e18b47e5b5117e98f146b581861e01fdadaea",
-  "generatedAt": "2026-10-29T11:33:35.668Z",
+  "familyHash": "adcc4028de31cf46b726bf6ddc68b815fd592891b895f25e92a8c975b07a564a",
+  "generatedAt": "2026-10-30T11:25:40.583Z",
   "language": "en-us",
-  "lastGoodCatalogHash": "87416b804cfcc64ef9f0afc2b7b97ceeed5d7cfeb8969f394b94979a60d134f1",
-  "lastGoodGeneratedAt": "2026-10-28T11:23:04.119Z",
+  "lastGoodCatalogHash": "6eec52f1aefa446f63bce1fa6549c1f517340c53a3b252a1050489f7827465d6",
+  "lastGoodGeneratedAt": "2026-10-29T11:33:35.668Z",
   "leavingSoonAdded": [],
   "leavingSoonTotal": 10,
   "market": "AT",
   "productChanged": true,
   "productEventCounts": {
-    "added": 1
+    "added": 4
   },
-  "productTotal": 902,
+  "productTotal": 906,
   "sourceHealth": {
     "displayCatalog": {
       "missingProductIds": [],
-      "requested": 902,
-      "returned": 902,
+      "requested": 906,
+      "returned": 906,
       "status": "ok"
     },
     "leavingSoon": [
@@ -51,33 +51,33 @@
     ],
     "sigls": [
       {
-        "count": 624,
+        "count": 627,
         "platform": "console",
-        "sourceCount": 624,
+        "sourceCount": 627,
         "status": "ok",
         "tier": "ultimate",
         "url": "https://catalog.gamepass.com/sigls/v3?id=97c6c862-d28a-4907-a3d5-c401f2296a53&language=en-us&market=AT&platformContext=ConsoleGen8%3BConsoleGen9&subscriptionContext=cfq7ttc0khs0"
       },
       {
-        "count": 602,
+        "count": 605,
         "platform": "pc",
-        "sourceCount": 602,
+        "sourceCount": 605,
         "status": "ok",
         "tier": "ultimate",
         "url": "https://catalog.gamepass.com/sigls/v3?id=97c6c862-d28a-4907-a3d5-c401f2296a53&language=en-us&market=AT&platformContext=pc&subscriptionContext=cfq7ttc0khs0"
       },
       {
-        "count": 432,
+        "count": 433,
         "platform": "console",
-        "sourceCount": 432,
+        "sourceCount": 433,
         "status": "ok",
         "tier": "premium",
         "url": "https://catalog.gamepass.com/sigls/v3?id=09a72c0d-c466-426a-9580-b78955d8173a&language=en-us&market=AT&platformContext=ConsoleGen8%3BConsoleGen9&subscriptionContext=cfq7ttc0p85b"
       },
       {
-        "count": 407,
+        "count": 408,
         "platform": "pc",
-        "sourceCount": 407,
+        "sourceCount": 408,
         "status": "ok",
         "tier": "premium",
         "url": "https://catalog.gamepass.com/sigls/v3?id=09a72c0d-c466-426a-9580-b78955d8173a&language=en-us&market=AT&platformContext=pc&subscriptionContext=cfq7ttc0p85b"
@@ -101,6 +101,6 @@
     ]
   },
   "state": "success",
-  "total": 729,
+  "total": 732,
   "warnings": []
 }
