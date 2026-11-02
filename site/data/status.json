@@ -1,30 +1,168 @@
 {
-  "actionRunNumber": "33",
-  "actionRunUrl": "https://github.com/ppazour/catabox/actions/runs/41303776392",
+  "actionRunNumber": "34",
+  "actionRunUrl": "https://github.com/ppazour/catabox/actions/runs/41454075655",
   "baseline": false,
-  "catalogGeneratedAt": "2026-11-01T11:52:10.394Z",
+  "catalogGeneratedAt": "2026-11-02T13:34:11.923Z",
   "catalogHash": "3f38e68ae2b9de814a611d8c0a75fbbcad3ea9e44fdc27fd8d69992299039f8c",
-  "changed": true,
+  "changed": false,
   "errors": [],
-  "eventCounts": {
-    "removed": 8
-  },
-  "familyChanged": true,
-  "familyEventCounts": {
-    "removed": 8
-  },
+  "eventCounts": {},
+  "familyChanged": false,
+  "familyEventCounts": {},
   "familyHash": "e2579bae9b1763d34df28eab5521244e6dd0730330999394c9c01b0d6f419ae7",
-  "generatedAt": "2026-11-01T11:52:10.394Z",
+  "generatedAt": "2026-11-02T13:34:11.923Z",
   "language": "en-us",
-  "lastGoodCatalogHash": "e7b5dd28e1ec2922b0c721dde44aef6e987f86f9ad47ba3f0071db5e7852a8bc",
-  "lastGoodGeneratedAt": "2026-10-31T10:56:55.956Z",
-  "leavingSoonAdded": [],
-  "leavingSoonTotal": 2,
+  "lastGoodCatalogHash": "3f38e68ae2b9de814a611d8c0a75fbbcad3ea9e44fdc27fd8d69992299039f8c",
+  "lastGoodGeneratedAt": "2026-11-01T11:52:10.394Z",
+  "leavingSoonAdded": [
+    {
+      "familyId": "family-ed336f2121878daf3e8cf4de4a73ede7722bf0867543ece6d7db4f96cbf8ae9b",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "title": "1000xRESIST",
+      "variantIds": [
+        "9NPDN9R45JX4"
+      ]
+    },
+    {
+      "familyId": "family-ecbcec4b067dfdb66985d71e721f974a100549b77930540e13a34657434c3613",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "title": "Barbie™ Horse Trails",
+      "variantIds": [
+        "9N21ZCV0JW6V"
+      ]
+    },
+    {
+      "familyId": "family-eb79e9d00ddd348eb8ccd572fd99f231ab5451132a66fe835ad6867553503279",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "title": "DRAGON BALL XENOVERSE 2",
+      "variantIds": [
+        "BX03760D0QGN"
+      ]
+    },
+    {
+      "familyId": "family-1df0c150eff4716228a57cb75e81d5339b6ca337fa3425af0faa94fb2112686f",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "title": "Firefighting Simulator - The Squad",
+      "variantIds": [
+        "9NBZ7Z3JRXQ8"
+      ]
+    },
+    {
+      "familyId": "family-ddb1b016785fa19d0bc237a5c0ff9c5a4e51029157881162c5ecd389db299881",
+      "platforms": [
+        "console"
+      ],
+      "title": "GoldenEye 007",
+      "variantIds": [
+        "9N6639H7VGH4"
+      ]
+    },
+    {
+      "familyId": "family-80054448cb27dbd603fca6be7a2202e9a3c4dabbf9849972ba19a615553d736d",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "title": "Great God Grove",
+      "variantIds": [
+        "9N36BLQF3FX6"
+      ]
+    },
+    {
+      "familyId": "family-a35bb0ca50a4ebb92ff712060f8c29990ad92a3850097cd73a6ef542e159eace",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "title": "Moonlighter",
+      "variantIds": [
+        "9P8XJRLCLH2P"
+      ]
+    },
+    {
+      "familyId": "family-f5d0c557c393ffd2be78f8d108201b56f61fd2696953ba7897642f549de2245a",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "title": "Pigeon Simulator",
+      "variantIds": [
+        "9NRHQLZX3900"
+      ]
+    },
+    {
+      "familyId": "family-59cb7f58284628c6e9df617abc20c70eec1dcc5ba6587f549bffbf0c8b21b16e",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "title": "Police Simulator: Patrol Officers",
+      "variantIds": [
+        "9P0NPLQ9P1DB"
+      ]
+    },
+    {
+      "familyId": "family-9f60344d89ab9b18cc132f3229bfa86f5e7cf3994fb7ed6749fd5b83c30d5642",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "title": "Relic Hunters Legend",
+      "variantIds": [
+        "9P81K2C8RBF4"
+      ]
+    },
+    {
+      "familyId": "family-eac18637f4a6a3011d0a59b29b37c895509935100993d9469e2cb6166d5a43fa",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "title": "Total Chaos",
+      "variantIds": [
+        "9PHTX5QZ035T"
+      ]
+    },
+    {
+      "familyId": "family-bc53edce3453651c8dff6d7d1a19805751d423a8ca3bc00369e9cc7480299cd4",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "title": "Winter Burrow",
+      "variantIds": [
+        "9ND3HTTQ0GKB"
+      ]
+    },
+    {
+      "familyId": "family-cb91b7b87a28d8f8056e184179f7850fd40bf01f12dd5d0a87f06068353fa874",
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "title": "Wreckfest",
+      "variantIds": [
+        "9NG06CSMM97P",
+        "BRJNRZ9N734V"
+      ]
+    }
+  ],
+  "leavingSoonTotal": 15,
   "market": "AT",
-  "productChanged": true,
-  "productEventCounts": {
-    "removed": 8
-  },
+  "productChanged": false,
+  "productEventCounts": {},
   "productTotal": 898,
   "sourceHealth": {
     "displayCatalog": {
@@ -35,16 +173,16 @@
     },
     "leavingSoon": [
       {
-        "count": 1,
+        "count": 14,
         "platform": "console",
-        "sourceCount": 1,
+        "sourceCount": 14,
         "status": "ok",
         "url": "https://catalog.gamepass.com/sigls/v2?id=393f05bf-e596-4ef6-9487-6d4fa0eab987&language=en-us&market=AT"
       },
       {
-        "count": 2,
+        "count": 14,
         "platform": "pc",
-        "sourceCount": 2,
+        "sourceCount": 14,
         "status": "ok",
         "url": "https://catalog.gamepass.com/sigls/v2?id=cc7fc951-d00f-410e-9e02-5e4628e04163&language=en-us&market=AT"
       }

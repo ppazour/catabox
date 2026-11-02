@@ -9,10 +9,10 @@
       "ultimateNotEssential": 777,
       "ultimateNotPremium": 339
     },
-    "leavingSoon": 2,
+    "leavingSoon": 16,
     "leavingSoonPlatforms": {
-      "console": 1,
-      "pc": 2
+      "console": 14,
+      "pc": 14
     },
     "platforms": {
       "console": 619,
@@ -1626,8 +1626,11 @@
       ],
       "heroArt": "https://store-images.s-microsoft.com/image/apps.38663.13724740810259939.b66dd818-9d75-4097-b510-7e4f8f43131a.17207052-a7ae-4ad3-afaa-030774844c4d",
       "id": "family-ed336f2121878daf3e8cf4de4a73ede7722bf0867543ece6d7db4f96cbf8ae9b",
-      "leavingSoon": false,
-      "leavingSoonPlatforms": [],
+      "leavingSoon": true,
+      "leavingSoonPlatforms": [
+        "console",
+        "pc"
+      ],
       "memberships": [
         "ultimate",
         "premium"
@@ -5583,8 +5586,11 @@
       ],
       "heroArt": "https://store-images.s-microsoft.com/image/apps.884.13960600887743581.ba328299-e217-4554-95d0-597345e02b27.16288063-9e98-411c-b8b9-e1a1f87696ee",
       "id": "family-ecbcec4b067dfdb66985d71e721f974a100549b77930540e13a34657434c3613",
-      "leavingSoon": false,
-      "leavingSoonPlatforms": [],
+      "leavingSoon": true,
+      "leavingSoonPlatforms": [
+        "console",
+        "pc"
+      ],
       "memberships": [
         "ultimate",
         "premium"
@@ -14939,8 +14945,11 @@
       ],
       "heroArt": "https://store-images.s-microsoft.com/image/apps.29991.63336639312113079.ceb7d6d9-5c03-4721-ab3f-09019902f961.6cc5d6bd-1b2b-4351-af8d-59a6b4014655",
       "id": "family-eb79e9d00ddd348eb8ccd572fd99f231ab5451132a66fe835ad6867553503279",
-      "leavingSoon": false,
-      "leavingSoonPlatforms": [],
+      "leavingSoon": true,
+      "leavingSoonPlatforms": [
+        "console",
+        "pc"
+      ],
       "memberships": [
         "ultimate",
         "premium"
@@ -19770,8 +19779,11 @@
       ],
       "heroArt": "https://store-images.s-microsoft.com/image/apps.21696.13574093128038227.7f017f9d-a7e7-46d3-ac09-ad5cece1a687.8c44ae06-7246-4ef6-856e-b9b3e480ec98",
       "id": "family-1df0c150eff4716228a57cb75e81d5339b6ca337fa3425af0faa94fb2112686f",
-      "leavingSoon": false,
-      "leavingSoonPlatforms": [],
+      "leavingSoon": true,
+      "leavingSoonPlatforms": [
+        "console",
+        "pc"
+      ],
       "memberships": [
         "ultimate",
         "premium"
@@ -22511,8 +22523,10 @@
       ],
       "heroArt": "https://store-images.s-microsoft.com/image/apps.59053.14024294433653017.40ef41ab-6f85-4460-bdee-079089b18040.652d6bac-54ae-4d1c-b6aa-599c43bbb689",
       "id": "family-ddb1b016785fa19d0bc237a5c0ff9c5a4e51029157881162c5ecd389db299881",
-      "leavingSoon": false,
-      "leavingSoonPlatforms": [],
+      "leavingSoon": true,
+      "leavingSoonPlatforms": [
+        "console"
+      ],
       "memberships": [
         "ultimate",
         "premium"
@@ -22579,8 +22593,11 @@
       ],
       "heroArt": "https://store-images.s-microsoft.com/image/apps.30443.13938047926882205.478db89a-539b-4b20-956d-db969f740012.394ba679-fdf1-4c98-9b74-8acdc0958526",
       "id": "family-80054448cb27dbd603fca6be7a2202e9a3c4dabbf9849972ba19a615553d736d",
-      "leavingSoon": false,
-      "leavingSoonPlatforms": [],
+      "leavingSoon": true,
+      "leavingSoonPlatforms": [
+        "console",
+        "pc"
+      ],
       "memberships": [
         "ultimate",
         "premium"
@@ -30567,8 +30584,11 @@
       ],
       "heroArt": "https://store-images.s-microsoft.com/image/apps.36643.14078999020725962.ddb83977-3b2d-4498-aa21-0a1bdeb1cddc.7cf5715a-f99d-4a58-a93d-44bed95c01dd",
       "id": "family-a35bb0ca50a4ebb92ff712060f8c29990ad92a3850097cd73a6ef542e159eace",
-      "leavingSoon": false,
-      "leavingSoonPlatforms": [],
+      "leavingSoon": true,
+      "leavingSoonPlatforms": [
+        "console",
+        "pc"
+      ],
       "memberships": [
         "ultimate",
         "premium"
@@ -34417,8 +34437,11 @@
       ],
       "heroArt": "https://store-images.s-microsoft.com/image/apps.58441.14382953481681867.8b1ccf01-d587-4b7f-afbc-ee46cb87b3d4.ac8c2d5f-a388-46de-a115-c4eae4c0e480",
       "id": "family-f5d0c557c393ffd2be78f8d108201b56f61fd2696953ba7897642f549de2245a",
-      "leavingSoon": false,
-      "leavingSoonPlatforms": [],
+      "leavingSoon": true,
+      "leavingSoonPlatforms": [
+        "console",
+        "pc"
+      ],
       "memberships": [
         "ultimate",
         "premium"
@@ -35458,8 +35481,11 @@
       ],
       "heroArt": "https://store-images.s-microsoft.com/image/apps.26344.14523320294659833.0e9cb134-00a8-4d23-9793-93834d8d61ef.749a3894-1367-4657-9f81-cd40abad6530",
       "id": "family-59cb7f58284628c6e9df617abc20c70eec1dcc5ba6587f549bffbf0c8b21b16e",
-      "leavingSoon": false,
-      "leavingSoonPlatforms": [],
+      "leavingSoon": true,
+      "leavingSoonPlatforms": [
+        "console",
+        "pc"
+      ],
       "memberships": [
         "ultimate",
         "premium"
@@ -37016,8 +37042,11 @@
       ],
       "heroArt": "https://store-images.s-microsoft.com/image/apps.23976.14097016447581693.35978914-0148-46da-9734-4dc034c820b0.3e985321-bf8a-4677-8a76-375515abe39b",
       "id": "family-9f60344d89ab9b18cc132f3229bfa86f5e7cf3994fb7ed6749fd5b83c30d5642",
-      "leavingSoon": false,
-      "leavingSoonPlatforms": [],
+      "leavingSoon": true,
+      "leavingSoonPlatforms": [
+        "console",
+        "pc"
+      ],
       "memberships": [
         "ultimate",
         "premium"
@@ -45072,8 +45101,11 @@
       ],
       "heroArt": "https://store-images.s-microsoft.com/image/apps.3007.14224411830682092.a75ca261-09af-4d3c-9aa3-170861aaf880.28423119-9b67-4771-a76b-da268a898d6e",
       "id": "family-eac18637f4a6a3011d0a59b29b37c895509935100993d9469e2cb6166d5a43fa",
-      "leavingSoon": false,
-      "leavingSoonPlatforms": [],
+      "leavingSoon": true,
+      "leavingSoonPlatforms": [
+        "console",
+        "pc"
+      ],
       "memberships": [
         "ultimate",
         "premium"
@@ -49085,8 +49117,11 @@
       ],
       "heroArt": "https://store-images.s-microsoft.com/image/apps.50205.13551922362408999.6a1ab142-ad0f-4a13-b0ba-9fcbb7182271.4f8b4629-e03d-4011-b2d6-5bb0e52abf72",
       "id": "family-bc53edce3453651c8dff6d7d1a19805751d423a8ca3bc00369e9cc7480299cd4",
-      "leavingSoon": false,
-      "leavingSoonPlatforms": [],
+      "leavingSoon": true,
+      "leavingSoonPlatforms": [
+        "console",
+        "pc"
+      ],
       "memberships": [
         "ultimate",
         "premium"
@@ -49911,7 +49946,7 @@
     },
     {
       "availableInFR": true,
-      "boxArt": "https://store-images.s-microsoft.com/image/apps.47095.65694988112101034.15f749ea-0c2c-4a1d-a997-35665ae27acf.8d0ace70-1146-41a4-a25d-77cddbf98d09",
+      "boxArt": "https://store-images.s-microsoft.com/image/apps.27935.65694988112101034.0e2e9b4c-f10e-4538-ab3d-5efb48eaa044.fdf697a9-4652-4ecc-8c55-1c481abbaa02",
       "description": "Experience epic naval action in World of Warships: Legends, a global multiplayer free-to-play online game in which you can master the seas on the decks of history's greatest warships! Recruit Legendary Commanders, upgrade your vessels, and stake your claim to naval domination alongside and against players from around the world.",
       "developer": "Wargaming Group Limited",
       "familyKey": "world of warships legends",
@@ -49922,7 +49957,7 @@
         "Simulation",
         "Strategy"
       ],
-      "heroArt": "https://store-images.s-microsoft.com/image/apps.3181.65694988112101034.15f749ea-0c2c-4a1d-a997-35665ae27acf.4d0133d8-8c89-4719-8146-1edc17078411",
+      "heroArt": "https://store-images.s-microsoft.com/image/apps.20840.65694988112101034.0e2e9b4c-f10e-4538-ab3d-5efb48eaa044.c9aad403-0d6e-4bd1-830e-b8c5141d55d5",
       "id": "family-c7384f114c9a5d3c140d0de953a1d1684c43df1859e1b828dfcbbaee734f4674",
       "leavingSoon": false,
       "leavingSoonPlatforms": [],
@@ -49954,21 +49989,21 @@
         "Online co-op (2-9)",
         "Online multiplayer (2-18)"
       ],
-      "poster": "https://store-images.s-microsoft.com/image/apps.60607.65694988112101034.15f749ea-0c2c-4a1d-a997-35665ae27acf.24b4045e-7d64-4463-a2f1-6649df3a878e",
+      "poster": "https://store-images.s-microsoft.com/image/apps.58624.65694988112101034.0e2e9b4c-f10e-4538-ab3d-5efb48eaa044.ebfac970-41f8-4252-a1ae-17d5e1993994",
       "primaryVariantId": "C1ZT6N30L1WH",
       "publisher": "Wargaming.net",
       "ratingId": "PEGI:16",
       "ratingSystem": "PEGI",
       "releaseDate": "2019-08-12",
       "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.48481.65694988112101034.15f749ea-0c2c-4a1d-a997-35665ae27acf.a18aa236-19ca-4e61-9db3-c9bb7cdac26b?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.12743.65694988112101034.15f749ea-0c2c-4a1d-a997-35665ae27acf.ab9a8634-bed2-45f5-bb0c-dd5c22333c95?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.39890.65694988112101034.15f749ea-0c2c-4a1d-a997-35665ae27acf.234c929f-4744-4116-81a6-4e26adcbb5b9?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.56562.65694988112101034.15f749ea-0c2c-4a1d-a997-35665ae27acf.f7528a9a-a8da-47c6-acc7-b1736512ff70?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.10406.65694988112101034.15f749ea-0c2c-4a1d-a997-35665ae27acf.1474e1a1-3f8b-4825-a61b-ab0f7f7aa5ae?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.61986.65694988112101034.15f749ea-0c2c-4a1d-a997-35665ae27acf.fddfccc8-3aa6-4a29-bbf5-7096f620a026?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.23623.65694988112101034.15f749ea-0c2c-4a1d-a997-35665ae27acf.2838de28-c9f7-43c3-be92-b1ec3f671a40?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.43884.65694988112101034.e62c77cb-1d5a-4b42-8b7b-cab0bb2dd68f.85ce8e78-6499-496b-9934-def9353e2938?w=640&h=360&q=80&format=jpg"
+        "https://store-images.s-microsoft.com/image/apps.26096.65694988112101034.0e2e9b4c-f10e-4538-ab3d-5efb48eaa044.f996fbf9-7462-4218-ac8e-5e6a36c04fdb?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.16493.65694988112101034.0e2e9b4c-f10e-4538-ab3d-5efb48eaa044.6d4b251c-6130-46a0-b04b-4ecb22261cce?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.56371.65694988112101034.0e2e9b4c-f10e-4538-ab3d-5efb48eaa044.d39a6254-b413-418e-8bde-a04b128ef611?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.2448.65694988112101034.0e2e9b4c-f10e-4538-ab3d-5efb48eaa044.7f270b26-2f68-4ca7-9957-9380737885b2?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.26747.65694988112101034.0e2e9b4c-f10e-4538-ab3d-5efb48eaa044.0c44c617-46eb-4dcc-8976-a51553eecfb7?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.43884.65694988112101034.e62c77cb-1d5a-4b42-8b7b-cab0bb2dd68f.85ce8e78-6499-496b-9934-def9353e2938?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.38023.65694988112101034.e62c77cb-1d5a-4b42-8b7b-cab0bb2dd68f.ae6aa5bb-42ed-456f-9472-cd6d89b5ff49?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.56699.65694988112101034.e62c77cb-1d5a-4b42-8b7b-cab0bb2dd68f.c203889a-378f-4259-96c2-99db8752c14c?w=640&h=360&q=80&format=jpg"
       ],
       "segment": "allTiers",
       "shortDescription": "Experience epic naval action in World of Warships: Legends, a global multiplayer free-to-play online game in which you can master the seas on the decks of history's greatest warships! Recruit Legendary Commanders, upgrade your vessels, and stake your claim to naval domination alongside and against players from around the world.",
@@ -50073,8 +50108,11 @@
       ],
       "heroArt": "https://store-images.s-microsoft.com/image/apps.26794.13589258961846020.5e95ec4c-44cb-4b39-8217-927890b74c94.42a3b714-f871-4e0b-99dc-69be2fe5b2a0",
       "id": "family-cb91b7b87a28d8f8056e184179f7850fd40bf01f12dd5d0a87f06068353fa874",
-      "leavingSoon": false,
-      "leavingSoonPlatforms": [],
+      "leavingSoon": true,
+      "leavingSoonPlatforms": [
+        "console",
+        "pc"
+      ],
       "memberships": [
         "ultimate",
         "premium",
@@ -50768,10 +50806,10 @@
       "ultimateNotEssential": 623,
       "ultimateNotPremium": 248
     },
-    "leavingSoon": 2,
+    "leavingSoon": 15,
     "leavingSoonPlatforms": {
-      "console": 1,
-      "pc": 2
+      "console": 14,
+      "pc": 14
     },
     "platforms": {
       "console": 609,
@@ -52812,8 +52850,11 @@
       ],
       "heroArt": "https://store-images.s-microsoft.com/image/apps.38663.13724740810259939.b66dd818-9d75-4097-b510-7e4f8f43131a.17207052-a7ae-4ad3-afaa-030774844c4d",
       "id": "9NPDN9R45JX4",
-      "leavingSoon": false,
-      "leavingSoonPlatforms": [],
+      "leavingSoon": true,
+      "leavingSoonPlatforms": [
+        "console",
+        "pc"
+      ],
       "memberships": [
         "ultimate",
         "premium"
@@ -57054,8 +57095,11 @@
       ],
       "heroArt": "https://store-images.s-microsoft.com/image/apps.884.13960600887743581.ba328299-e217-4554-95d0-597345e02b27.16288063-9e98-411c-b8b9-e1a1f87696ee",
       "id": "9N21ZCV0JW6V",
-      "leavingSoon": false,
-      "leavingSoonPlatforms": [],
+      "leavingSoon": true,
+      "leavingSoonPlatforms": [
+        "console",
+        "pc"
+      ],
       "memberships": [
         "ultimate",
         "premium"
@@ -67262,8 +67306,11 @@
       ],
       "heroArt": "https://store-images.s-microsoft.com/image/apps.29991.63336639312113079.ceb7d6d9-5c03-4721-ab3f-09019902f961.6cc5d6bd-1b2b-4351-af8d-59a6b4014655",
       "id": "BX03760D0QGN",
-      "leavingSoon": false,
-      "leavingSoonPlatforms": [],
+      "leavingSoon": true,
+      "leavingSoonPlatforms": [
+        "console",
+        "pc"
+      ],
       "memberships": [
         "ultimate",
         "premium"
@@ -72718,8 +72765,11 @@
       ],
       "heroArt": "https://store-images.s-microsoft.com/image/apps.21696.13574093128038227.7f017f9d-a7e7-46d3-ac09-ad5cece1a687.8c44ae06-7246-4ef6-856e-b9b3e480ec98",
       "id": "9NBZ7Z3JRXQ8",
-      "leavingSoon": false,
-      "leavingSoonPlatforms": [],
+      "leavingSoon": true,
+      "leavingSoonPlatforms": [
+        "console",
+        "pc"
+      ],
       "memberships": [
         "ultimate",
         "premium"
@@ -75242,8 +75292,10 @@
       ],
       "heroArt": "https://store-images.s-microsoft.com/image/apps.59053.14024294433653017.40ef41ab-6f85-4460-bdee-079089b18040.652d6bac-54ae-4d1c-b6aa-599c43bbb689",
       "id": "9N6639H7VGH4",
-      "leavingSoon": false,
-      "leavingSoonPlatforms": [],
+      "leavingSoon": true,
+      "leavingSoonPlatforms": [
+        "console"
+      ],
       "memberships": [
         "ultimate",
         "premium"
@@ -75303,8 +75355,11 @@
       ],
       "heroArt": "https://store-images.s-microsoft.com/image/apps.30443.13938047926882205.478db89a-539b-4b20-956d-db969f740012.394ba679-fdf1-4c98-9b74-8acdc0958526",
       "id": "9N36BLQF3FX6",
-      "leavingSoon": false,
-      "leavingSoonPlatforms": [],
+      "leavingSoon": true,
+      "leavingSoonPlatforms": [
+        "console",
+        "pc"
+      ],
       "memberships": [
         "ultimate",
         "premium"
@@ -83928,8 +83983,11 @@
       ],
       "heroArt": "https://store-images.s-microsoft.com/image/apps.36643.14078999020725962.ddb83977-3b2d-4498-aa21-0a1bdeb1cddc.7cf5715a-f99d-4a58-a93d-44bed95c01dd",
       "id": "9P8XJRLCLH2P",
-      "leavingSoon": false,
-      "leavingSoonPlatforms": [],
+      "leavingSoon": true,
+      "leavingSoonPlatforms": [
+        "console",
+        "pc"
+      ],
       "memberships": [
         "ultimate",
         "premium"
@@ -87850,8 +87908,11 @@
       ],
       "heroArt": "https://store-images.s-microsoft.com/image/apps.58441.14382953481681867.8b1ccf01-d587-4b7f-afbc-ee46cb87b3d4.ac8c2d5f-a388-46de-a115-c4eae4c0e480",
       "id": "9NRHQLZX3900",
-      "leavingSoon": false,
-      "leavingSoonPlatforms": [],
+      "leavingSoon": true,
+      "leavingSoonPlatforms": [
+        "console",
+        "pc"
+      ],
       "memberships": [
         "ultimate",
         "premium"
@@ -88933,8 +88994,11 @@
       ],
       "heroArt": "https://store-images.s-microsoft.com/image/apps.26344.14523320294659833.0e9cb134-00a8-4d23-9793-93834d8d61ef.749a3894-1367-4657-9f81-cd40abad6530",
       "id": "9P0NPLQ9P1DB",
-      "leavingSoon": false,
-      "leavingSoonPlatforms": [],
+      "leavingSoon": true,
+      "leavingSoonPlatforms": [
+        "console",
+        "pc"
+      ],
       "memberships": [
         "ultimate",
         "premium"
@@ -90675,8 +90739,11 @@
       ],
       "heroArt": "https://store-images.s-microsoft.com/image/apps.23976.14097016447581693.35978914-0148-46da-9734-4dc034c820b0.3e985321-bf8a-4677-8a76-375515abe39b",
       "id": "9P81K2C8RBF4",
-      "leavingSoon": false,
-      "leavingSoonPlatforms": [],
+      "leavingSoon": true,
+      "leavingSoonPlatforms": [
+        "console",
+        "pc"
+      ],
       "memberships": [
         "ultimate",
         "premium"
@@ -99627,8 +99694,11 @@
       ],
       "heroArt": "https://store-images.s-microsoft.com/image/apps.3007.14224411830682092.a75ca261-09af-4d3c-9aa3-170861aaf880.28423119-9b67-4771-a76b-da268a898d6e",
       "id": "9PHTX5QZ035T",
-      "leavingSoon": false,
-      "leavingSoonPlatforms": [],
+      "leavingSoon": true,
+      "leavingSoonPlatforms": [
+        "console",
+        "pc"
+      ],
       "memberships": [
         "ultimate",
         "premium"
@@ -103977,8 +104047,11 @@
       ],
       "heroArt": "https://store-images.s-microsoft.com/image/apps.50205.13551922362408999.6a1ab142-ad0f-4a13-b0ba-9fcbb7182271.4f8b4629-e03d-4011-b2d6-5bb0e52abf72",
       "id": "9ND3HTTQ0GKB",
-      "leavingSoon": false,
-      "leavingSoonPlatforms": [],
+      "leavingSoon": true,
+      "leavingSoonPlatforms": [
+        "console",
+        "pc"
+      ],
       "memberships": [
         "ultimate",
         "premium"
@@ -104934,7 +105007,7 @@
     },
     {
       "availableInFR": true,
-      "boxArt": "https://store-images.s-microsoft.com/image/apps.47095.65694988112101034.15f749ea-0c2c-4a1d-a997-35665ae27acf.8d0ace70-1146-41a4-a25d-77cddbf98d09",
+      "boxArt": "https://store-images.s-microsoft.com/image/apps.27935.65694988112101034.0e2e9b4c-f10e-4538-ab3d-5efb48eaa044.fdf697a9-4652-4ecc-8c55-1c481abbaa02",
       "description": "Experience epic naval action in World of Warships: Legends, a global multiplayer free-to-play online game in which you can master the seas on the decks of history's greatest warships! Recruit Legendary Commanders, upgrade your vessels, and stake your claim to naval domination alongside and against players from around the world.",
       "developer": "Wargaming Group Limited",
       "genres": [
@@ -104943,7 +105016,7 @@
         "Simulation",
         "Strategy"
       ],
-      "heroArt": "https://store-images.s-microsoft.com/image/apps.3181.65694988112101034.15f749ea-0c2c-4a1d-a997-35665ae27acf.4d0133d8-8c89-4719-8146-1edc17078411",
+      "heroArt": "https://store-images.s-microsoft.com/image/apps.20840.65694988112101034.0e2e9b4c-f10e-4538-ab3d-5efb48eaa044.c9aad403-0d6e-4bd1-830e-b8c5141d55d5",
       "id": "C1ZT6N30L1WH",
       "leavingSoon": false,
       "leavingSoonPlatforms": [],
@@ -104975,20 +105048,20 @@
         "Online co-op (2-9)",
         "Online multiplayer (2-18)"
       ],
-      "poster": "https://store-images.s-microsoft.com/image/apps.60607.65694988112101034.15f749ea-0c2c-4a1d-a997-35665ae27acf.24b4045e-7d64-4463-a2f1-6649df3a878e",
+      "poster": "https://store-images.s-microsoft.com/image/apps.58624.65694988112101034.0e2e9b4c-f10e-4538-ab3d-5efb48eaa044.ebfac970-41f8-4252-a1ae-17d5e1993994",
       "publisher": "Wargaming.net",
       "ratingId": "PEGI:16",
       "ratingSystem": "PEGI",
       "releaseDate": "2019-08-12",
       "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.48481.65694988112101034.15f749ea-0c2c-4a1d-a997-35665ae27acf.a18aa236-19ca-4e61-9db3-c9bb7cdac26b?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.12743.65694988112101034.15f749ea-0c2c-4a1d-a997-35665ae27acf.ab9a8634-bed2-45f5-bb0c-dd5c22333c95?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.39890.65694988112101034.15f749ea-0c2c-4a1d-a997-35665ae27acf.234c929f-4744-4116-81a6-4e26adcbb5b9?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.56562.65694988112101034.15f749ea-0c2c-4a1d-a997-35665ae27acf.f7528a9a-a8da-47c6-acc7-b1736512ff70?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.10406.65694988112101034.15f749ea-0c2c-4a1d-a997-35665ae27acf.1474e1a1-3f8b-4825-a61b-ab0f7f7aa5ae?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.61986.65694988112101034.15f749ea-0c2c-4a1d-a997-35665ae27acf.fddfccc8-3aa6-4a29-bbf5-7096f620a026?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.23623.65694988112101034.15f749ea-0c2c-4a1d-a997-35665ae27acf.2838de28-c9f7-43c3-be92-b1ec3f671a40?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.43884.65694988112101034.e62c77cb-1d5a-4b42-8b7b-cab0bb2dd68f.85ce8e78-6499-496b-9934-def9353e2938?w=640&h=360&q=80&format=jpg"
+        "https://store-images.s-microsoft.com/image/apps.26096.65694988112101034.0e2e9b4c-f10e-4538-ab3d-5efb48eaa044.f996fbf9-7462-4218-ac8e-5e6a36c04fdb?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.16493.65694988112101034.0e2e9b4c-f10e-4538-ab3d-5efb48eaa044.6d4b251c-6130-46a0-b04b-4ecb22261cce?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.56371.65694988112101034.0e2e9b4c-f10e-4538-ab3d-5efb48eaa044.d39a6254-b413-418e-8bde-a04b128ef611?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.2448.65694988112101034.0e2e9b4c-f10e-4538-ab3d-5efb48eaa044.7f270b26-2f68-4ca7-9957-9380737885b2?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.26747.65694988112101034.0e2e9b4c-f10e-4538-ab3d-5efb48eaa044.0c44c617-46eb-4dcc-8976-a51553eecfb7?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.43884.65694988112101034.e62c77cb-1d5a-4b42-8b7b-cab0bb2dd68f.85ce8e78-6499-496b-9934-def9353e2938?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.38023.65694988112101034.e62c77cb-1d5a-4b42-8b7b-cab0bb2dd68f.ae6aa5bb-42ed-456f-9472-cd6d89b5ff49?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.56699.65694988112101034.e62c77cb-1d5a-4b42-8b7b-cab0bb2dd68f.c203889a-378f-4259-96c2-99db8752c14c?w=640&h=360&q=80&format=jpg"
       ],
       "segment": "allTiers",
       "shortDescription": "Experience epic naval action in World of Warships: Legends, a global multiplayer free-to-play online game in which you can master the seas on the decks of history's greatest warships! Recruit Legendary Commanders, upgrade your vessels, and stake your claim to naval domination alongside and against players from around the world.",
@@ -105080,8 +105153,10 @@
       ],
       "heroArt": "https://store-images.s-microsoft.com/image/apps.26794.13589258961846020.5e95ec4c-44cb-4b39-8217-927890b74c94.42a3b714-f871-4e0b-99dc-69be2fe5b2a0",
       "id": "9NG06CSMM97P",
-      "leavingSoon": false,
-      "leavingSoonPlatforms": [],
+      "leavingSoon": true,
+      "leavingSoonPlatforms": [
+        "pc"
+      ],
       "memberships": [
         "ultimate",
         "premium",
@@ -105144,8 +105219,10 @@
       ],
       "heroArt": "https://store-images.s-microsoft.com/image/apps.26794.69762792333465121.4086c71f-fab9-4c14-b959-3e77164a74cf.6f7d7fb6-9c96-432b-8625-6749a1135a91",
       "id": "BRJNRZ9N734V",
-      "leavingSoon": false,
-      "leavingSoonPlatforms": [],
+      "leavingSoon": true,
+      "leavingSoonPlatforms": [
+        "console"
+      ],
       "memberships": [
         "ultimate",
         "premium",
@@ -105857,7 +105934,7 @@
       "url": "https://www.xbox.com/en-us/games/store/zumas-revenge/BR9MPWXFBCRC"
     }
   ],
-  "generatedAt": "2026-11-01T11:52:10.394Z",
+  "generatedAt": "2026-11-02T13:34:11.923Z",
   "labels": {
     "diffs": {
       "essentialNotPremium": "Essential not Premium",
@@ -105889,15 +105966,54 @@
   "language": "en-us",
   "leavingSoon": {
     "all": [
+      "9N21ZCV0JW6V",
+      "9N36BLQF3FX6",
+      "9N6639H7VGH4",
+      "9NBZ7Z3JRXQ8",
+      "9ND3HTTQ0GKB",
+      "9NG06CSMM97P",
       "9NMNZ4CK59DM",
-      "9PD0Z90216RJ"
+      "9NPDN9R45JX4",
+      "9NRHQLZX3900",
+      "9P0NPLQ9P1DB",
+      "9P81K2C8RBF4",
+      "9P8XJRLCLH2P",
+      "9PD0Z90216RJ",
+      "9PHTX5QZ035T",
+      "BRJNRZ9N734V",
+      "BX03760D0QGN"
     ],
     "console": [
-      "9NMNZ4CK59DM"
+      "9N21ZCV0JW6V",
+      "9N36BLQF3FX6",
+      "9N6639H7VGH4",
+      "9NBZ7Z3JRXQ8",
+      "9ND3HTTQ0GKB",
+      "9NMNZ4CK59DM",
+      "9NPDN9R45JX4",
+      "9NRHQLZX3900",
+      "9P0NPLQ9P1DB",
+      "9P81K2C8RBF4",
+      "9P8XJRLCLH2P",
+      "9PHTX5QZ035T",
+      "BRJNRZ9N734V",
+      "BX03760D0QGN"
     ],
     "pc": [
+      "9N21ZCV0JW6V",
+      "9N36BLQF3FX6",
+      "9NBZ7Z3JRXQ8",
+      "9ND3HTTQ0GKB",
+      "9NG06CSMM97P",
       "9NMNZ4CK59DM",
-      "9PD0Z90216RJ"
+      "9NPDN9R45JX4",
+      "9NRHQLZX3900",
+      "9P0NPLQ9P1DB",
+      "9P81K2C8RBF4",
+      "9P8XJRLCLH2P",
+      "9PD0Z90216RJ",
+      "9PHTX5QZ035T",
+      "BX03760D0QGN"
     ],
     "unmatched": {
       "console": [],
@@ -105906,28 +106022,28 @@
   },
   "leavingSoonSourceLists": [
     {
-      "count": 1,
+      "count": 14,
       "description": "Don't want the fun to end? Save on these games now.",
-      "fetchedAt": "2026-11-01T11:52:10.394Z",
+      "fetchedAt": "2026-11-02T13:34:11.923Z",
       "kind": "leavingSoon",
       "platform": "console",
       "platformLabel": "Console",
       "siglId": "393f05bf-e596-4ef6-9487-6d4fa0eab987",
-      "sourceCount": 1,
+      "sourceCount": 14,
       "status": "ok",
       "swapsApplied": [],
       "title": "Leaving soon",
       "url": "https://catalog.gamepass.com/sigls/v2?id=393f05bf-e596-4ef6-9487-6d4fa0eab987&language=en-us&market=AT"
     },
     {
-      "count": 2,
+      "count": 14,
       "description": "Don't want the fun to end? Save on these games now.",
-      "fetchedAt": "2026-11-01T11:52:10.394Z",
+      "fetchedAt": "2026-11-02T13:34:11.923Z",
       "kind": "leavingSoon",
       "platform": "pc",
       "platformLabel": "PC",
       "siglId": "cc7fc951-d00f-410e-9e02-5e4628e04163",
-      "sourceCount": 2,
+      "sourceCount": 14,
       "status": "ok",
       "swapsApplied": [],
       "title": "Leaving soon",
@@ -111573,7 +111689,7 @@
     {
       "count": 619,
       "description": "Discover your next favorite game",
-      "fetchedAt": "2026-11-01T11:52:10.394Z",
+      "fetchedAt": "2026-11-02T13:34:11.923Z",
       "platform": "console",
       "platformContext": "ConsoleGen8;ConsoleGen9",
       "platformLabel": "Console",
@@ -111590,7 +111706,7 @@
     {
       "count": 597,
       "description": "Discover your next favorite game",
-      "fetchedAt": "2026-11-01T11:52:10.394Z",
+      "fetchedAt": "2026-11-02T13:34:11.923Z",
       "platform": "pc",
       "platformContext": "pc",
       "platformLabel": "PC",
@@ -111607,7 +111723,7 @@
     {
       "count": 425,
       "description": "Games included in your Game Pass Premium membership",
-      "fetchedAt": "2026-11-01T11:52:10.394Z",
+      "fetchedAt": "2026-11-02T13:34:11.923Z",
       "platform": "console",
       "platformContext": "ConsoleGen8;ConsoleGen9",
       "platformLabel": "Console",
@@ -111624,7 +111740,7 @@
     {
       "count": 400,
       "description": "Games included in your Game Pass Premium membership",
-      "fetchedAt": "2026-11-01T11:52:10.394Z",
+      "fetchedAt": "2026-11-02T13:34:11.923Z",
       "platform": "pc",
       "platformContext": "pc",
       "platformLabel": "PC",
@@ -111641,7 +111757,7 @@
     {
       "count": 90,
       "description": "Games included in your Game Pass Essential membership",
-      "fetchedAt": "2026-11-01T11:52:10.394Z",
+      "fetchedAt": "2026-11-02T13:34:11.923Z",
       "platform": "console",
       "platformContext": "ConsoleGen8;ConsoleGen9",
       "platformLabel": "Console",
@@ -111658,7 +111774,7 @@
     {
       "count": 83,
       "description": "Games included in your Game Pass Essential membership",
-      "fetchedAt": "2026-11-01T11:52:10.394Z",
+      "fetchedAt": "2026-11-02T13:34:11.923Z",
       "platform": "pc",
       "platformContext": "pc",
       "platformLabel": "PC",
