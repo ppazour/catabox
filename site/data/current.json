@@ -1,13 +1,13 @@
 {
-  "catalogHash": "1134e4ce7a895d94049ebeee2c631c8c0936f6173831bf5d5a4df8435138f224",
+  "catalogHash": "dc65fd9dd923fc1437ae387eacb2954860ddc4a8e39cefb361b2bb7f911bc58d",
   "counts": {
     "diffs": {
       "essentialNotPremium": 0,
       "essentialNotUltimate": 0,
       "premiumNotEssential": 442,
       "premiumNotUltimate": 0,
-      "ultimateNotEssential": 780,
-      "ultimateNotPremium": 338
+      "ultimateNotEssential": 783,
+      "ultimateNotPremium": 341
     },
     "leavingSoon": 16,
     "leavingSoonPlatforms": {
@@ -15,8 +15,8 @@
       "pc": 14
     },
     "platforms": {
-      "console": 623,
-      "pc": 600
+      "console": 626,
+      "pc": 601
     },
     "segments": {
       "allTiers": 121,
@@ -24,7 +24,7 @@
       "premiumEssential": 0,
       "premiumOnly": 0,
       "ultimateEssential": 0,
-      "ultimateOnly": 338,
+      "ultimateOnly": 341,
       "ultimatePremium": 442
     },
     "tierPlatforms": {
@@ -37,16 +37,16 @@
         "pc": 404
       },
       "ultimate": {
-        "console": 623,
-        "pc": 600
+        "console": 626,
+        "pc": 601
       }
     },
     "tiers": {
       "essential": 121,
       "premium": 563,
-      "ultimate": 901
+      "ultimate": 904
     },
-    "total": 901
+    "total": 904
   },
   "diffs": {
     "essentialNotPremium": [],
@@ -612,6 +612,7 @@
       "9N72SFQ24KW8",
       "9N732VFPMWKT",
       "9N7358JZPX1Z",
+      "9N74KFV7253H",
       "9N74SVVP5FS4",
       "9N79TQTZTQQ4",
       "9N7H29G7G485",
@@ -631,6 +632,7 @@
       "9N8NJ74FZTG9",
       "9N8Q6DRTG22H",
       "9N8RKWJT32L4",
+      "9N8RS7CW8CGL",
       "9N9097G0XZMB",
       "9N926481VT1Z",
       "9N92LSHFZ935",
@@ -935,6 +937,7 @@
       "9P6Z93565T92",
       "9P6ZKL905TMT",
       "9P6ZKM2KSSHC",
+      "9P743P6195Q5",
       "9P75CBJ9WT9W",
       "9P76M1N37K6K",
       "9P77PG7DK0W2",
@@ -1324,6 +1327,7 @@
       "9N6J4RNFPKKL",
       "9N6KPQ0XMT2B",
       "9N72DFC6GL91",
+      "9N74KFV7253H",
       "9N74SVVP5FS4",
       "9N7H29G7G485",
       "9N7LPX50LSCH",
@@ -1331,6 +1335,7 @@
       "9N8C8L9MVQ89",
       "9N8D2CG0K9LL",
       "9N8KMNW6942X",
+      "9N8RS7CW8CGL",
       "9N93V5M3TG4N",
       "9N9C1TB18R3B",
       "9N9GCWL14F1N",
@@ -1457,6 +1462,7 @@
       "9P6Z93565T92",
       "9P6ZKL905TMT",
       "9P6ZKM2KSSHC",
+      "9P743P6195Q5",
       "9P76M1N37K6K",
       "9P7M1VCXKQVD",
       "9P822XLW9PB8",
@@ -9295,15 +9301,15 @@
     },
     {
       "availableInFR": true,
-      "boxArt": "https://store-images.s-microsoft.com/image/apps.60826.13739535057760905.ee63b998-143e-4256-bd0e-3e78d667ab11.d72c1992-0383-4ff8-91c5-e310141d9a07",
-      "description": "Welcome to Call of Duty®: Warzone™, the massive free-to-play combat arena. Experience thrilling modes & new gameplay features including a Haunting revamp of Haven's Hollow, Battle Royale, Black Ops Royale, and Resurgence.",
+      "boxArt": "https://store-images.s-microsoft.com/image/apps.36699.13739535057760905.64d1d264-ebf5-48f6-a5d3-2ac9c96b636b.deead81a-1b05-4631-9bb6-a7c971794ffc",
+      "description": "Welcome to Call of Duty®: Warzone™, the massive free-to-play combat arena. Experience thrilling modes & new gameplay features including Battle Royale and Resurgence.",
       "developer": "",
       "familyKey": "call of duty warzone",
       "familySchemaVersion": 1,
       "genres": [
         "Shooter"
       ],
-      "heroArt": "https://store-images.s-microsoft.com/image/apps.20908.13739535057760905.ee63b998-143e-4256-bd0e-3e78d667ab11.7315f232-c36d-4d7d-8581-edc82aebe238",
+      "heroArt": "https://store-images.s-microsoft.com/image/apps.49813.13739535057760905.64d1d264-ebf5-48f6-a5d3-2ac9c96b636b.22659708-0547-4e5b-a8b1-f53da3ea0454",
       "id": "family-c4c9cd57d41e5dce8fd1708d3fe76ee99d191221463b3089cb978a0252b90dc1",
       "leavingSoon": false,
       "leavingSoonPlatforms": [],
@@ -9334,24 +9340,24 @@
       "playerModes": [
         "Online multiplayer (2-150)"
       ],
-      "poster": "https://store-images.s-microsoft.com/image/apps.61500.13739535057760905.ee63b998-143e-4256-bd0e-3e78d667ab11.31188761-50b5-4ec9-91f4-ec4f1a8b5503",
+      "poster": "https://store-images.s-microsoft.com/image/apps.56274.13739535057760905.64d1d264-ebf5-48f6-a5d3-2ac9c96b636b.787de075-0bde-451b-a3f1-3123e78bc327",
       "primaryVariantId": "9NNFG8BQRCXL",
       "publisher": "Activision Publishing Inc.",
       "ratingId": "PEGI:18",
       "ratingSystem": "PEGI",
       "releaseDate": "2022-11-14",
       "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.2371.13739535057760905.9640bbdc-dc7f-4305-8a6f-c5ea2ef2352e.e1b87fd5-272a-4a87-a78d-fa9ccfde88a1?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.60930.13739535057760905.9640bbdc-dc7f-4305-8a6f-c5ea2ef2352e.3e1ee2d0-e468-4d6c-bc73-ab282f29d4d6?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.9326.13739535057760905.c6b6579d-5531-4711-aa57-db1335bba25a.ad58a1fd-7d5a-41d3-be25-05b48ca3a134?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.48540.13739535057760905.d895be15-cf6f-420a-8c52-52a36064269f.cbc181d4-8ce1-4d95-a62c-aefe2241c3b8?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.7019.13739535057760905.9640bbdc-dc7f-4305-8a6f-c5ea2ef2352e.f7695c1f-8674-4f16-aefe-c7e0231f408e?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.17452.13739535057760905.9640bbdc-dc7f-4305-8a6f-c5ea2ef2352e.db856d7e-61f7-4404-b322-f3240bd1f36d?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.57269.13739535057760905.d895be15-cf6f-420a-8c52-52a36064269f.2b8db0fe-a3de-417c-89a7-f24c2445965c?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.2290.13739535057760905.9bdfcb4b-077d-44f9-8bc2-a2f4f3fbfed2.dabf32a1-7993-496e-a279-63d01dbac157?w=640&h=360&q=80&format=jpg"
+        "https://store-images.s-microsoft.com/image/apps.24747.13739535057760905.64d1d264-ebf5-48f6-a5d3-2ac9c96b636b.5d276fdf-db66-4599-85ae-90cc5319627f?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.45090.13739535057760905.64d1d264-ebf5-48f6-a5d3-2ac9c96b636b.956a573e-a243-4786-af40-242e66f50833?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.25609.13739535057760905.64d1d264-ebf5-48f6-a5d3-2ac9c96b636b.058954d6-e776-49ec-ac45-e8635179fd36?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.34750.13739535057760905.64d1d264-ebf5-48f6-a5d3-2ac9c96b636b.857caa7b-4e66-4ee9-b8c4-183e8dc68437?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.9541.13739535057760905.64d1d264-ebf5-48f6-a5d3-2ac9c96b636b.58302e9c-32c6-4171-8b81-7505fd3f2544?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.35667.13739535057760905.64d1d264-ebf5-48f6-a5d3-2ac9c96b636b.cf49b1ba-20cd-40de-ac22-2630941f79b3?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.32101.13739535057760905.64d1d264-ebf5-48f6-a5d3-2ac9c96b636b.f614c7aa-add2-407e-b4f4-6da4ac14b523?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.43222.13739535057760905.64d1d264-ebf5-48f6-a5d3-2ac9c96b636b.45fb4b78-035f-437a-833c-86b87ffa1d16?w=640&h=360&q=80&format=jpg"
       ],
       "segment": "allTiers",
-      "shortDescription": "Welcome to Call of Duty®: Warzone™, the massive free-to-play combat arena. Experience thrilling modes & new gameplay features including a Haunting revamp of Haven's Hollow, Battle Royale, Black Ops Royale, and Resurgence.",
+      "shortDescription": "Welcome to Call of Duty®: Warzone™, the massive free-to-play combat arena. Experience thrilling modes & new gameplay features including Battle Royale and Resurgence.",
       "sortTitle": "call of duty®: warzone™",
       "supportsCoop": false,
       "supportsLocalCoop": false,
@@ -16898,6 +16904,74 @@
       "variantIds": [
         "9NHKL695M9F2",
         "9PF432CVQBXT"
+      ]
+    },
+    {
+      "availableInFR": true,
+      "boxArt": "https://store-images.s-microsoft.com/image/apps.52586.14607328992338706.a7a9f492-6e2c-4b94-ab21-d3b4889e76fe.71902a1d-6068-4b8c-8673-357527f4bb06",
+      "description": "Class is (back) in session with Escape Academy 2: Back 2 School! Explore an all-new campus, escape life-threatening puzzle rooms, and unravel a conspiracy as old as the school itself — all before the bell rings. Play solo or grab a friend and start solving in online or local co-op.",
+      "developer": "Coin Crew Games",
+      "familyKey": "escape academy 2 back 2 school",
+      "familySchemaVersion": 1,
+      "genres": [
+        "Action & adventure",
+        "Puzzle & trivia"
+      ],
+      "heroArt": "https://store-images.s-microsoft.com/image/apps.43876.14607328992338706.a7a9f492-6e2c-4b94-ab21-d3b4889e76fe.11a68c38-d89e-4e66-b1ed-00cbf47bf7cc",
+      "id": "family-b08f9c56d6916bcd5b73bf149a7ec1369f817848c2f54e873adc1ca841e9aa22",
+      "leavingSoon": false,
+      "leavingSoonPlatforms": [],
+      "memberships": [
+        "ultimate"
+      ],
+      "pegiRating": "PEGI 7",
+      "platformByTier": {
+        "ultimate": [
+          "console",
+          "pc"
+        ]
+      },
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "playerModes": [
+        "Local co-op (2)",
+        "Local multiplayer",
+        "Online co-op (2)",
+        "Single player"
+      ],
+      "poster": "https://store-images.s-microsoft.com/image/apps.32075.14607328992338706.a7a9f492-6e2c-4b94-ab21-d3b4889e76fe.303a41a4-14bb-4486-a564-6e3cc7dbf83a",
+      "primaryVariantId": "9P743P6195Q5",
+      "publisher": "iam8bit Presents",
+      "ratingId": "PEGI:7",
+      "ratingSystem": "PEGI",
+      "releaseDate": null,
+      "screenshots": [
+        "https://store-images.s-microsoft.com/image/apps.60029.14607328992338706.a7a9f492-6e2c-4b94-ab21-d3b4889e76fe.67b78c19-e8b7-4b68-967e-ff97a7e30cff?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.12698.14607328992338706.a7a9f492-6e2c-4b94-ab21-d3b4889e76fe.f426913d-28a2-4229-a090-c259b5eb8abb?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.26738.14607328992338706.a7a9f492-6e2c-4b94-ab21-d3b4889e76fe.6bdb91c6-f9c0-4611-a958-ac85334313bf?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.65506.14607328992338706.a7a9f492-6e2c-4b94-ab21-d3b4889e76fe.e9e168b4-283e-44dd-9b18-69eff0a4c31e?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.11182.14607328992338706.a7a9f492-6e2c-4b94-ab21-d3b4889e76fe.09410fd9-6bbc-474e-a57c-fa90d637264b?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.59371.14607328992338706.a7a9f492-6e2c-4b94-ab21-d3b4889e76fe.0413bca6-9763-4606-afb1-8ef89458dc5a?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.10144.14607328992338706.a7a9f492-6e2c-4b94-ab21-d3b4889e76fe.da4fc14b-513c-4311-9a44-ff6411cc9b8f?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.25322.14607328992338706.a7a9f492-6e2c-4b94-ab21-d3b4889e76fe.ddde918e-f634-4d3e-839f-1198ef5dd8a2?w=640&h=360&q=80&format=jpg"
+      ],
+      "segment": "ultimateOnly",
+      "shortDescription": "Class is (back) in session with Escape Academy 2: Back 2 School! Explore an all-new campus, escape life-threatening puzzle rooms, and unravel a conspiracy as old as the school itself — all before the bell rings. Play solo or grab a friend and start solving in online or local co-op.",
+      "sortTitle": "escape academy 2: back 2 school",
+      "supportsCoop": true,
+      "supportsLocalCoop": true,
+      "supportsLocalMultiplayer": true,
+      "supportsMultiplayer": true,
+      "supportsOnlineCoop": true,
+      "supportsOnlineMultiplayer": false,
+      "supportsSinglePlayer": true,
+      "title": "Escape Academy 2: Back 2 School",
+      "url": "https://www.xbox.com/en-us/games/store/escape-academy-2-back-2-school/9P743P6195Q5",
+      "variantCount": 1,
+      "variantIds": [
+        "9P743P6195Q5"
       ]
     },
     {
@@ -31265,7 +31339,7 @@
     },
     {
       "availableInFR": true,
-      "boxArt": "https://store-images.s-microsoft.com/image/apps.9508.14137268337766138.5760ba9b-d3fd-4251-b763-a5218a0fadfa.a13c8736-b09b-484a-b769-4af0855aac72",
+      "boxArt": "https://store-images.s-microsoft.com/image/apps.9508.14005579857467322.9c4802f5-cf2d-4d79-93bf-b33cd7d45331.adb897c0-3174-41b6-ac31-7f25fe82465d",
       "description": "Explore a new world with MySims™ — it's your world to transform in this retro re-release with updated graphics! Move to an adorable town. With a little creativity and some help from the locals, you can make this place thrive!",
       "developer": "Maxis",
       "familyKey": "mysims",
@@ -31277,7 +31351,7 @@
         "Other",
         "Simulation"
       ],
-      "heroArt": "https://store-images.s-microsoft.com/image/apps.55278.14137268337766138.5760ba9b-d3fd-4251-b763-a5218a0fadfa.68d7ff64-e77b-42b7-968e-e52b704ec2d7",
+      "heroArt": "https://store-images.s-microsoft.com/image/apps.55278.14005579857467322.9c4802f5-cf2d-4d79-93bf-b33cd7d45331.9a5a2122-88a6-4491-a662-a6eae25c0145",
       "id": "family-dc6e86db84d4b3c87ba79b8bb708059d434bfae3b565a93427766f6b7e115c0d",
       "leavingSoon": false,
       "leavingSoonPlatforms": [],
@@ -31287,22 +31361,28 @@
       "pegiRating": "PEGI 3",
       "platformByTier": {
         "ultimate": [
+          "console",
           "pc"
         ]
       },
       "platforms": [
+        "console",
         "pc"
       ],
       "playerModes": [
         "Single player"
       ],
-      "poster": "https://store-images.s-microsoft.com/image/apps.60612.14137268337766138.5760ba9b-d3fd-4251-b763-a5218a0fadfa.f25b4f51-4bfc-4ac3-abde-2d2c1d3d5b20",
-      "primaryVariantId": "9P9JZZ79KHDK",
+      "poster": "https://store-images.s-microsoft.com/image/apps.60612.14005579857467322.9c4802f5-cf2d-4d79-93bf-b33cd7d45331.e9ab6f16-67a2-4818-a235-000490801ab1",
+      "primaryVariantId": "9N74KFV7253H",
       "publisher": "Electronic Arts",
       "ratingId": "PEGI:3",
       "ratingSystem": "PEGI",
       "releaseDate": null,
       "screenshots": [
+        "https://store-images.s-microsoft.com/image/apps.26991.14005579857467322.7c767eaf-705c-4925-8299-15abc70458d9.1831a2f7-7f15-4280-a6be-15aa17a9ada3?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.10300.14005579857467322.7c767eaf-705c-4925-8299-15abc70458d9.f7e8ec00-a5c1-4118-9309-bb237457fb57?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.62906.14005579857467322.7c767eaf-705c-4925-8299-15abc70458d9.5cb693f2-c823-456b-aa92-4bd2e0a759fa?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.17145.14005579857467322.7c767eaf-705c-4925-8299-15abc70458d9.08c15114-ecab-4aec-af9b-fc9de5a6fdde?w=640&h=360&q=80&format=jpg",
         "https://store-images.s-microsoft.com/image/apps.26991.14137268337766138.5760ba9b-d3fd-4251-b763-a5218a0fadfa.3e422586-3cf1-464e-953b-2b31808581ba?w=640&h=360&q=80&format=jpg",
         "https://store-images.s-microsoft.com/image/apps.10300.14137268337766138.5760ba9b-d3fd-4251-b763-a5218a0fadfa.2d85f527-2e9b-4504-8a81-38b1a22390cb?w=640&h=360&q=80&format=jpg",
         "https://store-images.s-microsoft.com/image/apps.62906.14137268337766138.5760ba9b-d3fd-4251-b763-a5218a0fadfa.b7342a68-f1f7-4c6c-9a61-a976ce592e6b?w=640&h=360&q=80&format=jpg",
@@ -31319,15 +31399,16 @@
       "supportsOnlineMultiplayer": false,
       "supportsSinglePlayer": true,
       "title": "MySims™",
-      "url": "https://www.xbox.com/en-us/games/store/mysimstm/9P9JZZ79KHDK",
-      "variantCount": 1,
+      "url": "https://www.xbox.com/en-us/games/store/mysimstm/9N74KFV7253H",
+      "variantCount": 2,
       "variantIds": [
+        "9N74KFV7253H",
         "9P9JZZ79KHDK"
       ]
     },
     {
       "availableInFR": true,
-      "boxArt": "https://store-images.s-microsoft.com/image/apps.31654.13686413617108414.37bfe544-2122-46eb-ab4e-64ee646fd986.b6e9c14a-6c3c-45c4-8a7b-ca66704a549e",
+      "boxArt": "https://store-images.s-microsoft.com/image/apps.31654.14039526998713941.72b547b4-f64a-4bb8-95bd-1caa549f1df5.57f44049-fc27-49dd-84bd-ce4d256be227",
       "description": "Explore new lands, and meet new friends in this retro re-release with updated graphics! It's all the things you loved about the first MySims™ game, but with more challenges, puzzles, and things to explore. Can you help revitalize the kingdom?",
       "developer": "Maxis",
       "familyKey": "mysims kingdom",
@@ -31339,7 +31420,7 @@
         "Other",
         "Simulation"
       ],
-      "heroArt": "https://store-images.s-microsoft.com/image/apps.23420.13686413617108414.37bfe544-2122-46eb-ab4e-64ee646fd986.0f21537c-90cb-480b-8171-b9be07d05118",
+      "heroArt": "https://store-images.s-microsoft.com/image/apps.23420.14039526998713941.72b547b4-f64a-4bb8-95bd-1caa549f1df5.ba5c925e-5c61-4ad6-99b7-bbe113580665",
       "id": "family-239ba3c8a7f95618540a3eb9af6500a4e279664d190615366c163b85b0eaf8cd",
       "leavingSoon": false,
       "leavingSoonPlatforms": [],
@@ -31349,22 +31430,26 @@
       "pegiRating": "PEGI 3",
       "platformByTier": {
         "ultimate": [
+          "console",
           "pc"
         ]
       },
       "platforms": [
+        "console",
         "pc"
       ],
       "playerModes": [
         "Single player"
       ],
-      "poster": "https://store-images.s-microsoft.com/image/apps.39038.13686413617108414.37bfe544-2122-46eb-ab4e-64ee646fd986.1c603dd0-5fdc-47a5-86c6-4958af976539",
-      "primaryVariantId": "9NJ71RH89RJ5",
+      "poster": "https://store-images.s-microsoft.com/image/apps.39038.14039526998713941.72b547b4-f64a-4bb8-95bd-1caa549f1df5.d479a5d0-2b40-4cc5-9ed3-acfb4d37de04",
+      "primaryVariantId": "9N8RS7CW8CGL",
       "publisher": "Electronic Arts",
       "ratingId": "PEGI:3",
       "ratingSystem": "PEGI",
       "releaseDate": null,
       "screenshots": [
+        "https://store-images.s-microsoft.com/image/apps.63030.14039526998713941.f0434e85-24fe-483d-a8de-93375ddd123d.2520f943-ee81-4f31-bc83-7dfa7c233c91?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.9117.14039526998713941.f0434e85-24fe-483d-a8de-93375ddd123d.ae00f0e0-0af9-41c0-a094-498a883d0fe5?w=640&h=360&q=80&format=jpg",
         "https://store-images.s-microsoft.com/image/apps.63030.13686413617108414.37bfe544-2122-46eb-ab4e-64ee646fd986.105510c0-e2da-491c-9964-740cee584fbd?w=640&h=360&q=80&format=jpg",
         "https://store-images.s-microsoft.com/image/apps.9117.13686413617108414.37bfe544-2122-46eb-ab4e-64ee646fd986.efde80e3-aa25-4946-86c9-55ab16088f90?w=640&h=360&q=80&format=jpg"
       ],
@@ -31379,9 +31464,10 @@
       "supportsOnlineMultiplayer": false,
       "supportsSinglePlayer": true,
       "title": "MySims™ Kingdom",
-      "url": "https://www.xbox.com/en-us/games/store/mysimstm-kingdom/9NJ71RH89RJ5",
-      "variantCount": 1,
+      "url": "https://www.xbox.com/en-us/games/store/mysimstm-kingdom/9N8RS7CW8CGL",
+      "variantCount": 2,
       "variantIds": [
+        "9N8RS7CW8CGL",
         "9NJ71RH89RJ5"
       ]
     },
@@ -51090,8 +51176,8 @@
       "essentialNotUltimate": 0,
       "premiumNotEssential": 379,
       "premiumNotUltimate": 0,
-      "ultimateNotEssential": 627,
-      "ultimateNotPremium": 248
+      "ultimateNotEssential": 628,
+      "ultimateNotPremium": 249
     },
     "leavingSoon": 15,
     "leavingSoonPlatforms": {
@@ -51099,8 +51185,8 @@
       "pc": 14
     },
     "platforms": {
-      "console": 613,
-      "pc": 600
+      "console": 616,
+      "pc": 601
     },
     "segments": {
       "allTiers": 101,
@@ -51108,7 +51194,7 @@
       "premiumEssential": 0,
       "premiumOnly": 0,
       "ultimateEssential": 0,
-      "ultimateOnly": 248,
+      "ultimateOnly": 249,
       "ultimatePremium": 379
     },
     "tierPlatforms": {
@@ -51121,16 +51207,16 @@
         "pc": 404
       },
       "ultimate": {
-        "console": 613,
-        "pc": 600
+        "console": 616,
+        "pc": 601
       }
     },
     "tiers": {
       "essential": 101,
       "premium": 480,
-      "ultimate": 728
+      "ultimate": 729
     },
-    "total": 728
+    "total": 729
   },
   "familyDiffs": {
     "essentialNotPremium": [],
@@ -51945,6 +52031,7 @@
       "family-b00b84cf712501ccaeb9a450f0cf55542f45081cde42444de9d3458f657b42d0",
       "family-b04c8a7e1fcf669c26df91bef2f4163fb1dc905bb0c66997b1b4b5f95dd4205c",
       "family-b05fba1f0a593949a2e4ca9adefe4f7e7bfceac37bf8dfee7e721efe6c219710",
+      "family-b08f9c56d6916bcd5b73bf149a7ec1369f817848c2f54e873adc1ca841e9aa22",
       "family-b0facc16bc5e2a4fdf0a25d08813494508d1bb18fff17b082cb9a6beaf65ce5e",
       "family-b20939ae5b48479758a300418587965694199afabfa4db97e4bf378f06881a4e",
       "family-b22cdf17d0257c9412aa1f3fac02af3ce3137a0a75b335b3555bc477ddb30632",
@@ -52314,6 +52401,7 @@
       "family-af7aa1685e22b0a621973713b97ccf3ee23efebeb24bc44cd657a1ad9b1e928f",
       "family-af811c91249cc4f1219dbc20b81602063b7932bb59f7ff0288c2e2c86986b769",
       "family-b00b84cf712501ccaeb9a450f0cf55542f45081cde42444de9d3458f657b42d0",
+      "family-b08f9c56d6916bcd5b73bf149a7ec1369f817848c2f54e873adc1ca841e9aa22",
       "family-b0facc16bc5e2a4fdf0a25d08813494508d1bb18fff17b082cb9a6beaf65ce5e",
       "family-b22cdf17d0257c9412aa1f3fac02af3ce3137a0a75b335b3555bc477ddb30632",
       "family-b278d94d7651c2cdefac69400a2526fb70abd48edc1ac3812367d1670d582dda",
@@ -52397,7 +52485,7 @@
       "family-fd4705f4895fbd944ea692ce1e49c04e6d85c9eb013becebcca1704d7ea59bf9"
     ]
   },
-  "familyHash": "2a48741f965617b61effb2c3d753f256e9bc821539c6815f0f9fcfa99a465dc3",
+  "familyHash": "06e4f956de5cf6e094dd9239cf46f666572e8b48ee27b94aa3b6b66aa621454c",
   "familySegments": {
     "allTiers": [
       "family-012e41cf02148984e24435be4dd5f3b1a699130cc5bbfdc12dd37bbfb5aae9aa",
@@ -52674,6 +52762,7 @@
       "family-af7aa1685e22b0a621973713b97ccf3ee23efebeb24bc44cd657a1ad9b1e928f",
       "family-af811c91249cc4f1219dbc20b81602063b7932bb59f7ff0288c2e2c86986b769",
       "family-b00b84cf712501ccaeb9a450f0cf55542f45081cde42444de9d3458f657b42d0",
+      "family-b08f9c56d6916bcd5b73bf149a7ec1369f817848c2f54e873adc1ca841e9aa22",
       "family-b0facc16bc5e2a4fdf0a25d08813494508d1bb18fff17b082cb9a6beaf65ce5e",
       "family-b22cdf17d0257c9412aa1f3fac02af3ce3137a0a75b335b3555bc477ddb30632",
       "family-b278d94d7651c2cdefac69400a2526fb70abd48edc1ac3812367d1670d582dda",
@@ -61258,13 +61347,13 @@
     },
     {
       "availableInFR": true,
-      "boxArt": "https://store-images.s-microsoft.com/image/apps.60826.13739535057760905.ee63b998-143e-4256-bd0e-3e78d667ab11.d72c1992-0383-4ff8-91c5-e310141d9a07",
-      "description": "Welcome to Call of Duty®: Warzone™, the massive free-to-play combat arena. Experience thrilling modes & new gameplay features including a Haunting revamp of Haven's Hollow, Battle Royale, Black Ops Royale, and Resurgence.",
+      "boxArt": "https://store-images.s-microsoft.com/image/apps.36699.13739535057760905.64d1d264-ebf5-48f6-a5d3-2ac9c96b636b.deead81a-1b05-4631-9bb6-a7c971794ffc",
+      "description": "Welcome to Call of Duty®: Warzone™, the massive free-to-play combat arena. Experience thrilling modes & new gameplay features including Battle Royale and Resurgence.",
       "developer": "",
       "genres": [
         "Shooter"
       ],
-      "heroArt": "https://store-images.s-microsoft.com/image/apps.20908.13739535057760905.ee63b998-143e-4256-bd0e-3e78d667ab11.7315f232-c36d-4d7d-8581-edc82aebe238",
+      "heroArt": "https://store-images.s-microsoft.com/image/apps.49813.13739535057760905.64d1d264-ebf5-48f6-a5d3-2ac9c96b636b.22659708-0547-4e5b-a8b1-f53da3ea0454",
       "id": "9NNFG8BQRCXL",
       "leavingSoon": false,
       "leavingSoonPlatforms": [],
@@ -61295,23 +61384,23 @@
       "playerModes": [
         "Online multiplayer (2-150)"
       ],
-      "poster": "https://store-images.s-microsoft.com/image/apps.61500.13739535057760905.ee63b998-143e-4256-bd0e-3e78d667ab11.31188761-50b5-4ec9-91f4-ec4f1a8b5503",
+      "poster": "https://store-images.s-microsoft.com/image/apps.56274.13739535057760905.64d1d264-ebf5-48f6-a5d3-2ac9c96b636b.787de075-0bde-451b-a3f1-3123e78bc327",
       "publisher": "Activision Publishing Inc.",
       "ratingId": "PEGI:18",
       "ratingSystem": "PEGI",
       "releaseDate": "2022-11-14",
       "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.2371.13739535057760905.9640bbdc-dc7f-4305-8a6f-c5ea2ef2352e.e1b87fd5-272a-4a87-a78d-fa9ccfde88a1?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.60930.13739535057760905.9640bbdc-dc7f-4305-8a6f-c5ea2ef2352e.3e1ee2d0-e468-4d6c-bc73-ab282f29d4d6?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.9326.13739535057760905.c6b6579d-5531-4711-aa57-db1335bba25a.ad58a1fd-7d5a-41d3-be25-05b48ca3a134?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.48540.13739535057760905.d895be15-cf6f-420a-8c52-52a36064269f.cbc181d4-8ce1-4d95-a62c-aefe2241c3b8?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.7019.13739535057760905.9640bbdc-dc7f-4305-8a6f-c5ea2ef2352e.f7695c1f-8674-4f16-aefe-c7e0231f408e?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.17452.13739535057760905.9640bbdc-dc7f-4305-8a6f-c5ea2ef2352e.db856d7e-61f7-4404-b322-f3240bd1f36d?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.57269.13739535057760905.d895be15-cf6f-420a-8c52-52a36064269f.2b8db0fe-a3de-417c-89a7-f24c2445965c?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.2290.13739535057760905.9bdfcb4b-077d-44f9-8bc2-a2f4f3fbfed2.dabf32a1-7993-496e-a279-63d01dbac157?w=640&h=360&q=80&format=jpg"
+        "https://store-images.s-microsoft.com/image/apps.24747.13739535057760905.64d1d264-ebf5-48f6-a5d3-2ac9c96b636b.5d276fdf-db66-4599-85ae-90cc5319627f?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.45090.13739535057760905.64d1d264-ebf5-48f6-a5d3-2ac9c96b636b.956a573e-a243-4786-af40-242e66f50833?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.25609.13739535057760905.64d1d264-ebf5-48f6-a5d3-2ac9c96b636b.058954d6-e776-49ec-ac45-e8635179fd36?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.34750.13739535057760905.64d1d264-ebf5-48f6-a5d3-2ac9c96b636b.857caa7b-4e66-4ee9-b8c4-183e8dc68437?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.9541.13739535057760905.64d1d264-ebf5-48f6-a5d3-2ac9c96b636b.58302e9c-32c6-4171-8b81-7505fd3f2544?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.35667.13739535057760905.64d1d264-ebf5-48f6-a5d3-2ac9c96b636b.cf49b1ba-20cd-40de-ac22-2630941f79b3?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.32101.13739535057760905.64d1d264-ebf5-48f6-a5d3-2ac9c96b636b.f614c7aa-add2-407e-b4f4-6da4ac14b523?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.43222.13739535057760905.64d1d264-ebf5-48f6-a5d3-2ac9c96b636b.45fb4b78-035f-437a-833c-86b87ffa1d16?w=640&h=360&q=80&format=jpg"
       ],
       "segment": "allTiers",
-      "shortDescription": "Welcome to Call of Duty®: Warzone™, the massive free-to-play combat arena. Experience thrilling modes & new gameplay features including a Haunting revamp of Haven's Hollow, Battle Royale, Black Ops Royale, and Resurgence.",
+      "shortDescription": "Welcome to Call of Duty®: Warzone™, the massive free-to-play combat arena. Experience thrilling modes & new gameplay features including Battle Royale and Resurgence.",
       "sortTitle": "call of duty®: warzone™",
       "supportsCoop": false,
       "supportsLocalCoop": false,
@@ -69907,6 +69996,67 @@
       "supportsSinglePlayer": false,
       "title": "Enlisted Xbox One",
       "url": "https://www.xbox.com/en-us/games/store/enlisted-xbox-one/9PF432CVQBXT"
+    },
+    {
+      "availableInFR": true,
+      "boxArt": "https://store-images.s-microsoft.com/image/apps.52586.14607328992338706.a7a9f492-6e2c-4b94-ab21-d3b4889e76fe.71902a1d-6068-4b8c-8673-357527f4bb06",
+      "description": "Class is (back) in session with Escape Academy 2: Back 2 School! Explore an all-new campus, escape life-threatening puzzle rooms, and unravel a conspiracy as old as the school itself — all before the bell rings. Play solo or grab a friend and start solving in online or local co-op.",
+      "developer": "Coin Crew Games",
+      "genres": [
+        "Action & adventure",
+        "Puzzle & trivia"
+      ],
+      "heroArt": "https://store-images.s-microsoft.com/image/apps.43876.14607328992338706.a7a9f492-6e2c-4b94-ab21-d3b4889e76fe.11a68c38-d89e-4e66-b1ed-00cbf47bf7cc",
+      "id": "9P743P6195Q5",
+      "leavingSoon": false,
+      "leavingSoonPlatforms": [],
+      "memberships": [
+        "ultimate"
+      ],
+      "pegiRating": "PEGI 7",
+      "platformByTier": {
+        "ultimate": [
+          "console",
+          "pc"
+        ]
+      },
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "playerModes": [
+        "Local co-op (2)",
+        "Online co-op (2)",
+        "Single player",
+        "Local multiplayer"
+      ],
+      "poster": "https://store-images.s-microsoft.com/image/apps.32075.14607328992338706.a7a9f492-6e2c-4b94-ab21-d3b4889e76fe.303a41a4-14bb-4486-a564-6e3cc7dbf83a",
+      "publisher": "iam8bit Presents",
+      "ratingId": "PEGI:7",
+      "ratingSystem": "PEGI",
+      "releaseDate": "9998-12-30",
+      "screenshots": [
+        "https://store-images.s-microsoft.com/image/apps.60029.14607328992338706.a7a9f492-6e2c-4b94-ab21-d3b4889e76fe.67b78c19-e8b7-4b68-967e-ff97a7e30cff?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.12698.14607328992338706.a7a9f492-6e2c-4b94-ab21-d3b4889e76fe.f426913d-28a2-4229-a090-c259b5eb8abb?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.26738.14607328992338706.a7a9f492-6e2c-4b94-ab21-d3b4889e76fe.6bdb91c6-f9c0-4611-a958-ac85334313bf?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.65506.14607328992338706.a7a9f492-6e2c-4b94-ab21-d3b4889e76fe.e9e168b4-283e-44dd-9b18-69eff0a4c31e?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.11182.14607328992338706.a7a9f492-6e2c-4b94-ab21-d3b4889e76fe.09410fd9-6bbc-474e-a57c-fa90d637264b?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.59371.14607328992338706.a7a9f492-6e2c-4b94-ab21-d3b4889e76fe.0413bca6-9763-4606-afb1-8ef89458dc5a?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.10144.14607328992338706.a7a9f492-6e2c-4b94-ab21-d3b4889e76fe.da4fc14b-513c-4311-9a44-ff6411cc9b8f?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.25322.14607328992338706.a7a9f492-6e2c-4b94-ab21-d3b4889e76fe.ddde918e-f634-4d3e-839f-1198ef5dd8a2?w=640&h=360&q=80&format=jpg"
+      ],
+      "segment": "ultimateOnly",
+      "shortDescription": "Class is (back) in session with Escape Academy 2: Back 2 School! Explore an all-new campus, escape life-threatening puzzle rooms, and unravel a conspiracy as old as the school itself — all before the bell rings. Play solo or grab a friend and start solving in online or local co-op.",
+      "sortTitle": "escape academy 2: back 2 school",
+      "supportsCoop": true,
+      "supportsLocalCoop": true,
+      "supportsLocalMultiplayer": true,
+      "supportsMultiplayer": true,
+      "supportsOnlineCoop": true,
+      "supportsOnlineMultiplayer": false,
+      "supportsSinglePlayer": true,
+      "title": "Escape Academy 2: Back 2 School",
+      "url": "https://www.xbox.com/en-us/games/store/escape-academy-2-back-2-school/9P743P6195Q5"
     },
     {
       "availableInFR": true,
@@ -84889,6 +85039,59 @@
     },
     {
       "availableInFR": true,
+      "boxArt": "https://store-images.s-microsoft.com/image/apps.9508.14005579857467322.9c4802f5-cf2d-4d79-93bf-b33cd7d45331.adb897c0-3174-41b6-ac31-7f25fe82465d",
+      "description": "Explore a new world with MySims™ — it's your world to transform in this retro re-release with updated graphics! Move to an adorable town. With a little creativity and some help from the locals, you can make this place thrive!",
+      "developer": "Maxis",
+      "genres": [
+        "Action & adventure",
+        "Classics",
+        "Family & kids",
+        "Other",
+        "Simulation"
+      ],
+      "heroArt": "https://store-images.s-microsoft.com/image/apps.55278.14005579857467322.9c4802f5-cf2d-4d79-93bf-b33cd7d45331.9a5a2122-88a6-4491-a662-a6eae25c0145",
+      "id": "9N74KFV7253H",
+      "leavingSoon": false,
+      "leavingSoonPlatforms": [],
+      "memberships": [
+        "ultimate"
+      ],
+      "pegiRating": "PEGI 3",
+      "platformByTier": {
+        "ultimate": [
+          "console"
+        ]
+      },
+      "platforms": [
+        "console"
+      ],
+      "playerModes": [],
+      "poster": "https://store-images.s-microsoft.com/image/apps.60612.14005579857467322.9c4802f5-cf2d-4d79-93bf-b33cd7d45331.e9ab6f16-67a2-4818-a235-000490801ab1",
+      "publisher": "Electronic Arts",
+      "ratingId": "PEGI:3",
+      "ratingSystem": "PEGI",
+      "releaseDate": "9998-12-30",
+      "screenshots": [
+        "https://store-images.s-microsoft.com/image/apps.26991.14005579857467322.7c767eaf-705c-4925-8299-15abc70458d9.1831a2f7-7f15-4280-a6be-15aa17a9ada3?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.10300.14005579857467322.7c767eaf-705c-4925-8299-15abc70458d9.f7e8ec00-a5c1-4118-9309-bb237457fb57?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.62906.14005579857467322.7c767eaf-705c-4925-8299-15abc70458d9.5cb693f2-c823-456b-aa92-4bd2e0a759fa?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.17145.14005579857467322.7c767eaf-705c-4925-8299-15abc70458d9.08c15114-ecab-4aec-af9b-fc9de5a6fdde?w=640&h=360&q=80&format=jpg"
+      ],
+      "segment": "ultimateOnly",
+      "shortDescription": "Explore a new world with MySims™ — it's your world to transform in this retro re-release with updated graphics! Move to an adorable town. With a little creativity and some help from the locals, you can make this place thrive!",
+      "sortTitle": "mysims™",
+      "supportsCoop": false,
+      "supportsLocalCoop": false,
+      "supportsLocalMultiplayer": false,
+      "supportsMultiplayer": false,
+      "supportsOnlineCoop": false,
+      "supportsOnlineMultiplayer": false,
+      "supportsSinglePlayer": false,
+      "title": "MySims™",
+      "url": "https://www.xbox.com/en-us/games/store/mysimstm/9N74KFV7253H"
+    },
+    {
+      "availableInFR": true,
       "boxArt": "https://store-images.s-microsoft.com/image/apps.9508.14137268337766138.5760ba9b-d3fd-4251-b763-a5218a0fadfa.a13c8736-b09b-484a-b769-4af0855aac72",
       "description": "Explore a new world with MySims™ — it's your world to transform in this retro re-release with updated graphics! Move to an adorable town. With a little creativity and some help from the locals, you can make this place thrive!",
       "developer": "Maxis",
@@ -84941,6 +85144,59 @@
       "supportsSinglePlayer": true,
       "title": "MySims™",
       "url": "https://www.xbox.com/en-us/games/store/mysimstm/9P9JZZ79KHDK"
+    },
+    {
+      "availableInFR": true,
+      "boxArt": "https://store-images.s-microsoft.com/image/apps.31654.14039526998713941.72b547b4-f64a-4bb8-95bd-1caa549f1df5.57f44049-fc27-49dd-84bd-ce4d256be227",
+      "description": "Explore new lands, and meet new friends in this retro re-release with updated graphics! It's all the things you loved about the first MySims™ game, but with more challenges, puzzles, and things to explore. Can you help revitalize the kingdom?",
+      "developer": "Maxis",
+      "genres": [
+        "Action & adventure",
+        "Classics",
+        "Family & kids",
+        "Other",
+        "Simulation"
+      ],
+      "heroArt": "https://store-images.s-microsoft.com/image/apps.23420.14039526998713941.72b547b4-f64a-4bb8-95bd-1caa549f1df5.ba5c925e-5c61-4ad6-99b7-bbe113580665",
+      "id": "9N8RS7CW8CGL",
+      "leavingSoon": false,
+      "leavingSoonPlatforms": [],
+      "memberships": [
+        "ultimate"
+      ],
+      "pegiRating": "PEGI 3",
+      "platformByTier": {
+        "ultimate": [
+          "console"
+        ]
+      },
+      "platforms": [
+        "console"
+      ],
+      "playerModes": [
+        "Single player"
+      ],
+      "poster": "https://store-images.s-microsoft.com/image/apps.39038.14039526998713941.72b547b4-f64a-4bb8-95bd-1caa549f1df5.d479a5d0-2b40-4cc5-9ed3-acfb4d37de04",
+      "publisher": "Electronic Arts",
+      "ratingId": "PEGI:3",
+      "ratingSystem": "PEGI",
+      "releaseDate": "9998-12-30",
+      "screenshots": [
+        "https://store-images.s-microsoft.com/image/apps.63030.14039526998713941.f0434e85-24fe-483d-a8de-93375ddd123d.2520f943-ee81-4f31-bc83-7dfa7c233c91?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.9117.14039526998713941.f0434e85-24fe-483d-a8de-93375ddd123d.ae00f0e0-0af9-41c0-a094-498a883d0fe5?w=640&h=360&q=80&format=jpg"
+      ],
+      "segment": "ultimateOnly",
+      "shortDescription": "Explore new lands, and meet new friends in this retro re-release with updated graphics! It's all the things you loved about the first MySims™ game, but with more challenges, puzzles, and things to explore. Can you help revitalize the kingdom?",
+      "sortTitle": "mysims™ kingdom",
+      "supportsCoop": false,
+      "supportsLocalCoop": false,
+      "supportsLocalMultiplayer": false,
+      "supportsMultiplayer": false,
+      "supportsOnlineCoop": false,
+      "supportsOnlineMultiplayer": false,
+      "supportsSinglePlayer": true,
+      "title": "MySims™ Kingdom",
+      "url": "https://www.xbox.com/en-us/games/store/mysimstm-kingdom/9N8RS7CW8CGL"
     },
     {
       "availableInFR": true,
@@ -106437,7 +106693,7 @@
       "url": "https://www.xbox.com/en-us/games/store/zumas-revenge/BR9MPWXFBCRC"
     }
   ],
-  "generatedAt": "2026-11-05T13:15:12.131Z",
+  "generatedAt": "2026-11-06T12:59:02.691Z",
   "labels": {
     "diffs": {
       "essentialNotPremium": "Essential not Premium",
@@ -106527,7 +106783,7 @@
     {
       "count": 14,
       "description": "Don't want the fun to end? Save on these games now.",
-      "fetchedAt": "2026-11-05T13:15:12.131Z",
+      "fetchedAt": "2026-11-06T12:59:02.691Z",
       "kind": "leavingSoon",
       "platform": "console",
       "platformLabel": "Console",
@@ -106541,7 +106797,7 @@
     {
       "count": 14,
       "description": "Don't want the fun to end? Save on these games now.",
-      "fetchedAt": "2026-11-05T13:15:12.131Z",
+      "fetchedAt": "2026-11-06T12:59:02.691Z",
       "kind": "leavingSoon",
       "platform": "pc",
       "platformLabel": "PC",
@@ -106556,9 +106812,9 @@
   "market": "AT",
   "metadata": {
     "familyGrouping": {
-      "collapsedProductCount": 173,
-      "familyCount": 728,
-      "productCount": 901,
+      "collapsedProductCount": 175,
+      "familyCount": 729,
+      "productCount": 904,
       "schemaVersion": 1,
       "strategy": "conservative-normalized-title"
     },
@@ -107390,74 +107646,74 @@
           "requested": 80,
           "returned": 80,
           "status": "ok",
-          "url": "https://displaycatalog.mp.microsoft.com/v7.0/products?bigIds=9N255K81XBD3%2C9N2GWLMCHJTN%2C9N2HB4MWG7HM%2C9N2J0FGV30DX%2C9N2PS831S84N%2C9N2S04LGXXH4%2C9N2SB04LKPFP%2C9N36BLQF3FX6%2C9N3DKKRHSJBT%2C9N3DWR830CVN%2C9N3F1LW9HC6C%2C9N3F9256SF8K%2C9N3KQH8183GD%2C9N3LGKGF3CC2%2C9N3NTDPJCD9Z%2C9N3XQQ1LHJ4X%2C9N40901WDQJD%2C9N42CT1J5WGW%2C9N42SSSX2MTG%2C9N431PX143P8%2C9N436FQM30HX%2C9N464X6CT772%2C9N4J937WLFPZ%2C9N4NKMXDZCX6%2C9N4PT8HGCDHQ%2C9N4TT1T7H400%2C9N4W31HSMVVD%2C9N4WHFF9HJ7H%2C9N4X0WFZ2STM%2C9N4X39HZ1CSQ%2C9N4ZMKC3GX4M%2C9N51FH42VQDS%2C9N51NR4GX891%2C9N5JRWWGMS1R%2C9N5K7HWXL4Q6%2C9N5PKH0KW2L1%2C9N5VHX8KMVNV%2C9N613NPQ9JJH%2C9N6639H7VGH4%2C9N66JJQFX3RX%2C9N6J4RNFPKKL%2C9N6JF50HZFW9%2C9N6KPQ0XMT2B%2C9N6PHQ93Z451%2C9N6WN0ZHZQ6W%2C9N6Z8DQXSQWH%2C9N7271QN4SGB%2C9N72DFC6GL91%2C9N72SFQ24KW8%2C9N732VFPMWKT%2C9N7358JZPX1Z%2C9N74SVVP5FS4%2C9N76QGDS5GJR%2C9N79TQTZTQQ4%2C9N7CJX93ZGWN%2C9N7GCF5SGCXC%2C9N7H29G7G485%2C9N7LPX50LSCH%2C9N7MVHP2R7VP%2C9N7P8GVMF6SS%2C9N7TFFRRZCC9%2C9N7V5R3VLMJZ%2C9N8117TM8JL3%2C9N863WLSHZGV%2C9N8BRH7PGJMJ%2C9N8C07SS8C9D%2C9N8C8L9MVQ89%2C9N8CD0XZKLP4%2C9N8D2CG0K9LL%2C9N8FQ28Z6QX3%2C9N8H4RRSRV2S%2C9N8KMNW6942X%2C9N8N7NZSVTG3%2C9N8NJ74FZTG9%2C9N8Q6DRTG22H%2C9N8RKWJT32L4%2C9N9097G0XZMB%2C9N926481VT1Z%2C9N92LSHFZ935%2C9N93V5M3TG4N&market=AT&languages=en-us&MS-CV=DGU1mcuYo0WMMp%2BF.1"
+          "url": "https://displaycatalog.mp.microsoft.com/v7.0/products?bigIds=9N255K81XBD3%2C9N2GWLMCHJTN%2C9N2HB4MWG7HM%2C9N2J0FGV30DX%2C9N2PS831S84N%2C9N2S04LGXXH4%2C9N2SB04LKPFP%2C9N36BLQF3FX6%2C9N3DKKRHSJBT%2C9N3DWR830CVN%2C9N3F1LW9HC6C%2C9N3F9256SF8K%2C9N3KQH8183GD%2C9N3LGKGF3CC2%2C9N3NTDPJCD9Z%2C9N3XQQ1LHJ4X%2C9N40901WDQJD%2C9N42CT1J5WGW%2C9N42SSSX2MTG%2C9N431PX143P8%2C9N436FQM30HX%2C9N464X6CT772%2C9N4J937WLFPZ%2C9N4NKMXDZCX6%2C9N4PT8HGCDHQ%2C9N4TT1T7H400%2C9N4W31HSMVVD%2C9N4WHFF9HJ7H%2C9N4X0WFZ2STM%2C9N4X39HZ1CSQ%2C9N4ZMKC3GX4M%2C9N51FH42VQDS%2C9N51NR4GX891%2C9N5JRWWGMS1R%2C9N5K7HWXL4Q6%2C9N5PKH0KW2L1%2C9N5VHX8KMVNV%2C9N613NPQ9JJH%2C9N6639H7VGH4%2C9N66JJQFX3RX%2C9N6J4RNFPKKL%2C9N6JF50HZFW9%2C9N6KPQ0XMT2B%2C9N6PHQ93Z451%2C9N6WN0ZHZQ6W%2C9N6Z8DQXSQWH%2C9N7271QN4SGB%2C9N72DFC6GL91%2C9N72SFQ24KW8%2C9N732VFPMWKT%2C9N7358JZPX1Z%2C9N74KFV7253H%2C9N74SVVP5FS4%2C9N76QGDS5GJR%2C9N79TQTZTQQ4%2C9N7CJX93ZGWN%2C9N7GCF5SGCXC%2C9N7H29G7G485%2C9N7LPX50LSCH%2C9N7MVHP2R7VP%2C9N7P8GVMF6SS%2C9N7TFFRRZCC9%2C9N7V5R3VLMJZ%2C9N8117TM8JL3%2C9N863WLSHZGV%2C9N8BRH7PGJMJ%2C9N8C07SS8C9D%2C9N8C8L9MVQ89%2C9N8CD0XZKLP4%2C9N8D2CG0K9LL%2C9N8FQ28Z6QX3%2C9N8H4RRSRV2S%2C9N8KMNW6942X%2C9N8N7NZSVTG3%2C9N8NJ74FZTG9%2C9N8Q6DRTG22H%2C9N8RKWJT32L4%2C9N8RS7CW8CGL%2C9N9097G0XZMB%2C9N926481VT1Z&market=AT&languages=en-us&MS-CV=DGU1mcuYo0WMMp%2BF.1"
         },
         {
           "requested": 80,
           "returned": 80,
           "status": "ok",
-          "url": "https://displaycatalog.mp.microsoft.com/v7.0/products?bigIds=9N944N1WP67T%2C9N94NCGM1Q2N%2C9N9C1TB18R3B%2C9N9C8SV0S16W%2C9N9DKMNL85XZ%2C9N9GCWL14F1N%2C9N9K5QP9G3GL%2C9N9PCZWHVP2L%2C9N9PDJ7Z8S2R%2C9N9QJG4S82B5%2C9N9X9PC8V9CP%2C9NB6BVL3MTG4%2C9NB993S1TWSH%2C9NBFGKQLMV33%2C9NBLGGH1Z6FB%2C9NBLGGH1Z6FQ%2C9NBLGGH3SHM5%2C9NBLGGH43KZB%2C9NBLGGH4PBBM%2C9NBLGGH4SPK6%2C9NBLGGH515BD%2C9NBLGGH5342P%2C9NBLGGH5WLR0%2C9NBLGGH6H0RV%2C9NBLHDB0WLHZ%2C9NBNXX6V9J43%2C9NBR2VXT87SJ%2C9NBZ7Z3JRXQ8%2C9NBZ9JF6TFMD%2C9NC0071DJ6XC%2C9NC4PV16GVT1%2C9NC7NRD0CM11%2C9NC9M1NCZ7SD%2C9NCDMPCPDTQF%2C9NCJSXWZTP88%2C9NCJWHHMVHR0%2C9NCLP4LV5K7Z%2C9NCNBWZSHZR5%2C9NCT87FKQ4GM%2C9NCT9L7NFHX7%2C9NCZ8W65H33V%2C9ND19JDMBS3R%2C9ND3HTTQ0GKB%2C9NDBKK9G0FHL%2C9NDC5LJS839S%2C9NDJLXD2X2DM%2C9NDJPHS21XXG%2C9NDJX252Q5BW%2C9NDKFJ6XDX2M%2C9NDLJ3HM721L%2C9NDP79SDLLLH%2C9NDV7FRVD7ML%2C9NF0D13RPX5L%2C9NF0RBL8SZL6%2C9NF5S7MLM8XT%2C9NF6TK6D2DL9%2C9NF6XPSBTTGB%2C9NF83PRZK6K3%2C9NFB47H2SDRX%2C9NFKN56ZBMR0%2C9NFQ1XMXDLN6%2C9NFT3TR6MN9W%2C9NFTC552K3GJ%2C9NFZSND3LPPN%2C9NG06CSMM97P%2C9NG07QJNK38J%2C9NG2F1Q062VV%2C9NG3KNWZ7RZ7%2C9NG66K0Z31LH%2C9NGCFDHR2MV3%2C9NGDQGHWZX13%2C9NGH1FK0RJGL%2C9NGL4GBPXM1G%2C9NGLST31DG26%2C9NGP0DJVKSFL%2C9NH019ZFFHTV%2C9NH0MSG29X6L%2C9NH8K4B707H0%2C9NHCT85MKHCV%2C9NHCW3R1JB1C&market=AT&languages=en-us&MS-CV=DGU1mcuYo0WMMp%2BF.1"
+          "url": "https://displaycatalog.mp.microsoft.com/v7.0/products?bigIds=9N92LSHFZ935%2C9N93V5M3TG4N%2C9N944N1WP67T%2C9N94NCGM1Q2N%2C9N9C1TB18R3B%2C9N9C8SV0S16W%2C9N9DKMNL85XZ%2C9N9GCWL14F1N%2C9N9K5QP9G3GL%2C9N9PCZWHVP2L%2C9N9PDJ7Z8S2R%2C9N9QJG4S82B5%2C9N9X9PC8V9CP%2C9NB6BVL3MTG4%2C9NB993S1TWSH%2C9NBFGKQLMV33%2C9NBLGGH1Z6FB%2C9NBLGGH1Z6FQ%2C9NBLGGH3SHM5%2C9NBLGGH43KZB%2C9NBLGGH4PBBM%2C9NBLGGH4SPK6%2C9NBLGGH515BD%2C9NBLGGH5342P%2C9NBLGGH5WLR0%2C9NBLGGH6H0RV%2C9NBLHDB0WLHZ%2C9NBNXX6V9J43%2C9NBR2VXT87SJ%2C9NBZ7Z3JRXQ8%2C9NBZ9JF6TFMD%2C9NC0071DJ6XC%2C9NC4PV16GVT1%2C9NC7NRD0CM11%2C9NC9M1NCZ7SD%2C9NCDMPCPDTQF%2C9NCJSXWZTP88%2C9NCJWHHMVHR0%2C9NCLP4LV5K7Z%2C9NCNBWZSHZR5%2C9NCT87FKQ4GM%2C9NCT9L7NFHX7%2C9NCZ8W65H33V%2C9ND19JDMBS3R%2C9ND3HTTQ0GKB%2C9NDBKK9G0FHL%2C9NDC5LJS839S%2C9NDJLXD2X2DM%2C9NDJPHS21XXG%2C9NDJX252Q5BW%2C9NDKFJ6XDX2M%2C9NDLJ3HM721L%2C9NDP79SDLLLH%2C9NDV7FRVD7ML%2C9NF0D13RPX5L%2C9NF0RBL8SZL6%2C9NF5S7MLM8XT%2C9NF6TK6D2DL9%2C9NF6XPSBTTGB%2C9NF83PRZK6K3%2C9NFB47H2SDRX%2C9NFKN56ZBMR0%2C9NFQ1XMXDLN6%2C9NFT3TR6MN9W%2C9NFTC552K3GJ%2C9NFZSND3LPPN%2C9NG06CSMM97P%2C9NG07QJNK38J%2C9NG2F1Q062VV%2C9NG3KNWZ7RZ7%2C9NG66K0Z31LH%2C9NGCFDHR2MV3%2C9NGDQGHWZX13%2C9NGH1FK0RJGL%2C9NGL4GBPXM1G%2C9NGLST31DG26%2C9NGP0DJVKSFL%2C9NH019ZFFHTV%2C9NH0MSG29X6L%2C9NH8K4B707H0&market=AT&languages=en-us&MS-CV=DGU1mcuYo0WMMp%2BF.1"
         },
         {
           "requested": 80,
           "returned": 80,
           "status": "ok",
-          "url": "https://displaycatalog.mp.microsoft.com/v7.0/products?bigIds=9NHKL695M9F2%2C9NHMC3SJBGZK%2C9NHMR19TS1M0%2C9NJ2FD5HJ7SB%2C9NJ2SFHNCCRV%2C9NJ5WV40PD08%2C9NJ67TQQ51Z0%2C9NJ71RH89RJ5%2C9NJC29JG70LM%2C9NJCVGS6T30K%2C9NJJVQZ3BVPX%2C9NJRRVNZ8MRJ%2C9NJRSC0B0K88%2C9NJWFF2KHL6H%2C9NJWTJSVGVLJ%2C9NK039GWVTVC%2C9NK13T4QFPQW%2C9NK2DT3K7DTF%2C9NK4NC5LFCQ7%2C9NK4NTBFWW81%2C9NK8947Z28XL%2C9NK9K07FDPJV%2C9NKBDN695GTT%2C9NKCCHCFTHV2%2C9NKD0MLJ3Z3X%2C9NKDZ44LZR2R%2C9NKFLWWM9CZ1%2C9NKFS43DLFFL%2C9NKGNMNK3K3Z%2C9NKHKBQJSSC3%2C9NKV34XDW014%2C9NKX70BBCDRN%2C9NL3468NRPBG%2C9NL4714VTLRS%2C9NL9QN69HCL7%2C9NLB6V0GNC9P%2C9NLD3ZRWF8DT%2C9NLFKBTNP2VJ%2C9NLFZVMSQ7CC%2C9NLHVWSFB0FC%2C9NLKS78C4F3Z%2C9NLNTDTW66CC%2C9NLRT31Z4RWM%2C9NLT5XR52ZS7%2C9NLZH0VNVSKR%2C9NLZZ74TFD7P%2C9NM395CH685J%2C9NM4WQ7TTH3J%2C9NM50L0DXX1W%2C9NM6NMBJ7ZK4%2C9NM7J25GMDHP%2C9NM857B8P3SC%2C9NM8GHT6CXN4%2C9NMB4T25W817%2C9NMBJQ0265ZK%2C9NMCDQ6RCJKH%2C9NMCRMS6WN78%2C9NMF3KXT4P4G%2C9NMNMS626R59%2C9NMNZ4CK59DM%2C9NMPDV49K4TX%2C9NMPVJ7TCFD0%2C9NMS4SFNBGBH%2C9NMW7RJ8FP94%2C9NN1M88HL5M6%2C9NN3HCKW5TPC%2C9NNFG8BQRCXL%2C9NNHK7K8RV9C%2C9NNKJNRKFT0G%2C9NNLBL0T2Z43%2C9NNM7PKZN3JF%2C9NNNMBXFFG4W%2C9NNPSTWT06VM%2C9NP1LC5MX609%2C9NP1P1WFS0LB%2C9NP6CV98V8M7%2C9NP6V9LFVJ87%2C9NP6WL1XQDBW%2C9NP86K57SQM3%2C9NPDN9R45JX4&market=AT&languages=en-us&MS-CV=DGU1mcuYo0WMMp%2BF.1"
+          "url": "https://displaycatalog.mp.microsoft.com/v7.0/products?bigIds=9NHCT85MKHCV%2C9NHCW3R1JB1C%2C9NHKL695M9F2%2C9NHMC3SJBGZK%2C9NHMR19TS1M0%2C9NJ2FD5HJ7SB%2C9NJ2SFHNCCRV%2C9NJ5WV40PD08%2C9NJ67TQQ51Z0%2C9NJ71RH89RJ5%2C9NJC29JG70LM%2C9NJCVGS6T30K%2C9NJJVQZ3BVPX%2C9NJRRVNZ8MRJ%2C9NJRSC0B0K88%2C9NJWFF2KHL6H%2C9NJWTJSVGVLJ%2C9NK039GWVTVC%2C9NK13T4QFPQW%2C9NK2DT3K7DTF%2C9NK4NC5LFCQ7%2C9NK4NTBFWW81%2C9NK8947Z28XL%2C9NK9K07FDPJV%2C9NKBDN695GTT%2C9NKCCHCFTHV2%2C9NKD0MLJ3Z3X%2C9NKDZ44LZR2R%2C9NKFLWWM9CZ1%2C9NKFS43DLFFL%2C9NKGNMNK3K3Z%2C9NKHKBQJSSC3%2C9NKV34XDW014%2C9NKX70BBCDRN%2C9NL3468NRPBG%2C9NL4714VTLRS%2C9NL9QN69HCL7%2C9NLB6V0GNC9P%2C9NLD3ZRWF8DT%2C9NLFKBTNP2VJ%2C9NLFZVMSQ7CC%2C9NLHVWSFB0FC%2C9NLKS78C4F3Z%2C9NLNTDTW66CC%2C9NLRT31Z4RWM%2C9NLT5XR52ZS7%2C9NLZH0VNVSKR%2C9NLZZ74TFD7P%2C9NM395CH685J%2C9NM4WQ7TTH3J%2C9NM50L0DXX1W%2C9NM6NMBJ7ZK4%2C9NM7J25GMDHP%2C9NM857B8P3SC%2C9NM8GHT6CXN4%2C9NMB4T25W817%2C9NMBJQ0265ZK%2C9NMCDQ6RCJKH%2C9NMCRMS6WN78%2C9NMF3KXT4P4G%2C9NMNMS626R59%2C9NMNZ4CK59DM%2C9NMPDV49K4TX%2C9NMPVJ7TCFD0%2C9NMS4SFNBGBH%2C9NMW7RJ8FP94%2C9NN1M88HL5M6%2C9NN3HCKW5TPC%2C9NNFG8BQRCXL%2C9NNHK7K8RV9C%2C9NNKJNRKFT0G%2C9NNLBL0T2Z43%2C9NNM7PKZN3JF%2C9NNNMBXFFG4W%2C9NNPSTWT06VM%2C9NP1LC5MX609%2C9NP1P1WFS0LB%2C9NP6CV98V8M7%2C9NP6V9LFVJ87%2C9NP6WL1XQDBW&market=AT&languages=en-us&MS-CV=DGU1mcuYo0WMMp%2BF.1"
         },
         {
           "requested": 80,
           "returned": 80,
           "status": "ok",
-          "url": "https://displaycatalog.mp.microsoft.com/v7.0/products?bigIds=9NPGPDCXWJQ7%2C9NPKGVXPFRSX%2C9NPRHD8GQKQS%2C9NPSLX5HNN3H%2C9NPSWGMTPRVW%2C9NPVC7S5ZZ7R%2C9NQ19C36R0VD%2C9NQ26CN8MZ1R%2C9NQ4M2DG11L0%2C9NQ51FFR2JWF%2C9NQ6Z171XZX8%2C9NQGN8TGNT8P%2C9NQJCGMK9VVD%2C9NQMVR9WL9FW%2C9NQQ8B4PJR25%2C9NQR437K7PQH%2C9NQV7C0G1040%2C9NQVDQS2BC10%2C9NQVHHW88XW9%2C9NR0GCBSLDW4%2C9NR6NJ401NBS%2C9NR7XDNVP5SW%2C9NRDH9Z85Q9B%2C9NRH78B682L8%2C9NRHQLZX3900%2C9NRQVQ7ZRM7Z%2C9NRTXWCZ2ZJ0%2C9NS84HCWZD8B%2C9NS86BQ33SPX%2C9NSB55HX1GGN%2C9NSD4HTWM8HT%2C9NSDM7MBGG8L%2C9NSF0BGH8D86%2C9NSFGM8J6MBJ%2C9NSL68D814GC%2C9NSM674QVLBS%2C9NT0NT8JQMQN%2C9NT0PNTL6B79%2C9NT3WC6RKBVQ%2C9NT4X7P8B9NB%2C9NTB0ZG811GR%2C9NTFPTBXDDT3%2C9NTK0V6ZK6T8%2C9NTM9HXNLSZX%2C9NTRS771L8HL%2C9NTXGKBW2HSM%2C9NTZH69PZSH0%2C9NV01PJJLXN2%2C9NV0Q705NQ2N%2C9NV3L234VGXD%2C9NV8W1KJSQLL%2C9NVB51LMXLJF%2C9NVC9KWJVLT0%2C9NVD16NP4J8T%2C9NVH8SJNX20S%2C9NVJ4L71DF5Q%2C9NVQ4ZLJGMDV%2C9NVQBQ3F6W9W%2C9NVRJS95FLM9%2C9NVV0M74W05C%2C9NVZ03XT8S2P%2C9NWB9PL1L2PQ%2C9NWDPFPPK30V%2C9NWNLS28ZG37%2C9NWPW7F19FS5%2C9NWS5S7ZGD9T%2C9NWVC7XP3PFD%2C9NWX420Z2NLG%2C9NX17M8BNTX1%2C9NX6K9HN4F4K%2C9NX6XGVJ0J3D%2C9NX7HCWL13Z9%2C9NXLNL5JXBZJ%2C9NXP44L49SHJ%2C9NXQKPGMHH9G%2C9NXR6469DM2P%2C9NXSNQR7CM1Q%2C9NXVC0482QS5%2C9NXVPTB0FXSZ%2C9NXWKGRHT31F&market=AT&languages=en-us&MS-CV=DGU1mcuYo0WMMp%2BF.1"
+          "url": "https://displaycatalog.mp.microsoft.com/v7.0/products?bigIds=9NP86K57SQM3%2C9NPDN9R45JX4%2C9NPGPDCXWJQ7%2C9NPKGVXPFRSX%2C9NPRHD8GQKQS%2C9NPSLX5HNN3H%2C9NPSWGMTPRVW%2C9NPVC7S5ZZ7R%2C9NQ19C36R0VD%2C9NQ26CN8MZ1R%2C9NQ4M2DG11L0%2C9NQ51FFR2JWF%2C9NQ6Z171XZX8%2C9NQGN8TGNT8P%2C9NQJCGMK9VVD%2C9NQMVR9WL9FW%2C9NQQ8B4PJR25%2C9NQR437K7PQH%2C9NQV7C0G1040%2C9NQVDQS2BC10%2C9NQVHHW88XW9%2C9NR0GCBSLDW4%2C9NR6NJ401NBS%2C9NR7XDNVP5SW%2C9NRDH9Z85Q9B%2C9NRH78B682L8%2C9NRHQLZX3900%2C9NRQVQ7ZRM7Z%2C9NRTXWCZ2ZJ0%2C9NS84HCWZD8B%2C9NS86BQ33SPX%2C9NSB55HX1GGN%2C9NSD4HTWM8HT%2C9NSDM7MBGG8L%2C9NSF0BGH8D86%2C9NSFGM8J6MBJ%2C9NSL68D814GC%2C9NSM674QVLBS%2C9NT0NT8JQMQN%2C9NT0PNTL6B79%2C9NT3WC6RKBVQ%2C9NT4X7P8B9NB%2C9NTB0ZG811GR%2C9NTFPTBXDDT3%2C9NTK0V6ZK6T8%2C9NTM9HXNLSZX%2C9NTRS771L8HL%2C9NTXGKBW2HSM%2C9NTZH69PZSH0%2C9NV01PJJLXN2%2C9NV0Q705NQ2N%2C9NV3L234VGXD%2C9NV8W1KJSQLL%2C9NVB51LMXLJF%2C9NVC9KWJVLT0%2C9NVD16NP4J8T%2C9NVH8SJNX20S%2C9NVJ4L71DF5Q%2C9NVQ4ZLJGMDV%2C9NVQBQ3F6W9W%2C9NVRJS95FLM9%2C9NVV0M74W05C%2C9NVZ03XT8S2P%2C9NWB9PL1L2PQ%2C9NWDPFPPK30V%2C9NWNLS28ZG37%2C9NWPW7F19FS5%2C9NWS5S7ZGD9T%2C9NWVC7XP3PFD%2C9NWX420Z2NLG%2C9NX17M8BNTX1%2C9NX6K9HN4F4K%2C9NX6XGVJ0J3D%2C9NX7HCWL13Z9%2C9NXLNL5JXBZJ%2C9NXP44L49SHJ%2C9NXQKPGMHH9G%2C9NXR6469DM2P%2C9NXSNQR7CM1Q%2C9NXVC0482QS5&market=AT&languages=en-us&MS-CV=DGU1mcuYo0WMMp%2BF.1"
         },
         {
           "requested": 80,
           "returned": 80,
           "status": "ok",
-          "url": "https://displaycatalog.mp.microsoft.com/v7.0/products?bigIds=9NXWSWBM4H6T%2C9NZ1BL9SMVG4%2C9NZ4T5RFD7KF%2C9NZ90QLG3H0V%2C9NZCJF5VF1NV%2C9NZDHXL9SJJ8%2C9NZG72SH3H4W%2C9NZP7NKR2QWG%2C9NZPKBFF0CV9%2C9NZQPT0MWTD0%2C9NZX67J81X6F%2C9P0073G9FW5Z%2C9P008L2LS87F%2C9P00J6DXK9LX%2C9P00SVGWDJCP%2C9P02RMWG3SP9%2C9P03JGQ4S1GC%2C9P0G4TBCCS7J%2C9P0NPLQ9P1DB%2C9P0RGJND5SR0%2C9P0T51BDDWVT%2C9P1303FCXW6X%2C9P1CWNG8F7B5%2C9P1D3TD1KHLR%2C9P1H8K2V0NNP%2C9P1HX8TFF3VW%2C9P1JS86M9SXH%2C9P1N07XDL1D4%2C9P1P5Q3BNM7J%2C9P1P7DWHBDBD%2C9P1Q06WQV414%2C9P1RPXHWZ1C7%2C9P1VK0ZCQGND%2C9P1VNX9Z03N5%2C9P1Z43KRNQD4%2C9P1ZW5K4S44V%2C9P20JCF7BV93%2C9P28J28WGSPZ%2C9P2CHXX6D861%2C9P2FF14JZLL3%2C9P2HHT3VS7MP%2C9P2J5D12GJL5%2C9P2J7WHV0K4N%2C9P2JXK37PFLZ%2C9P2N57MC619K%2C9P2PP895LSBJ%2C9P2RT7TNT37T%2C9P2S2QVRB97N%2C9P2TFCCRKMRD%2C9P2VGCTBMM52%2C9P30BFHZ1BKN%2C9P33VJGVPHVP%2C9P36DQX6W9CS%2C9P3FG98R5X8F%2C9P3PL76N0KWZ%2C9P3QS4LX8BM9%2C9P3SX4QXR5MD%2C9P3T7HVKM6D0%2C9P3XVD4HH30X%2C9P402RWR63H4%2C9P41GS5W1C6L%2C9P43RGDPJ62T%2C9P44PNW2MKHB%2C9P45GGDTFNSM%2C9P46M5JQ2PTF%2C9P47S7NJGWZL%2C9P4D0K92BM7V%2C9P4KMR76PLLQ%2C9P4LSLG7B8CT%2C9P4NJFH17MRT%2C9P4NV23Q6QC2%2C9P5241RBH1SZ%2C9P55XDLRJDHB%2C9P57SQHVWND7%2C9P59J86GHDGL%2C9P5B8CPQ9S7F%2C9P5DGQW39CTS%2C9P5F966564FS%2C9P5MMCTL8MFX%2C9P5QV5XX8S9H&market=AT&languages=en-us&MS-CV=DGU1mcuYo0WMMp%2BF.1"
+          "url": "https://displaycatalog.mp.microsoft.com/v7.0/products?bigIds=9NXVPTB0FXSZ%2C9NXWKGRHT31F%2C9NXWSWBM4H6T%2C9NZ1BL9SMVG4%2C9NZ4T5RFD7KF%2C9NZ90QLG3H0V%2C9NZCJF5VF1NV%2C9NZDHXL9SJJ8%2C9NZG72SH3H4W%2C9NZP7NKR2QWG%2C9NZPKBFF0CV9%2C9NZQPT0MWTD0%2C9NZX67J81X6F%2C9P0073G9FW5Z%2C9P008L2LS87F%2C9P00J6DXK9LX%2C9P00SVGWDJCP%2C9P02RMWG3SP9%2C9P03JGQ4S1GC%2C9P0G4TBCCS7J%2C9P0NPLQ9P1DB%2C9P0RGJND5SR0%2C9P0T51BDDWVT%2C9P1303FCXW6X%2C9P1CWNG8F7B5%2C9P1D3TD1KHLR%2C9P1H8K2V0NNP%2C9P1HX8TFF3VW%2C9P1JS86M9SXH%2C9P1N07XDL1D4%2C9P1P5Q3BNM7J%2C9P1P7DWHBDBD%2C9P1Q06WQV414%2C9P1RPXHWZ1C7%2C9P1VK0ZCQGND%2C9P1VNX9Z03N5%2C9P1Z43KRNQD4%2C9P1ZW5K4S44V%2C9P20JCF7BV93%2C9P28J28WGSPZ%2C9P2CHXX6D861%2C9P2FF14JZLL3%2C9P2HHT3VS7MP%2C9P2J5D12GJL5%2C9P2J7WHV0K4N%2C9P2JXK37PFLZ%2C9P2N57MC619K%2C9P2PP895LSBJ%2C9P2RT7TNT37T%2C9P2S2QVRB97N%2C9P2TFCCRKMRD%2C9P2VGCTBMM52%2C9P30BFHZ1BKN%2C9P33VJGVPHVP%2C9P36DQX6W9CS%2C9P3FG98R5X8F%2C9P3PL76N0KWZ%2C9P3QS4LX8BM9%2C9P3SX4QXR5MD%2C9P3T7HVKM6D0%2C9P3XVD4HH30X%2C9P402RWR63H4%2C9P41GS5W1C6L%2C9P43RGDPJ62T%2C9P44PNW2MKHB%2C9P45GGDTFNSM%2C9P46M5JQ2PTF%2C9P47S7NJGWZL%2C9P4D0K92BM7V%2C9P4KMR76PLLQ%2C9P4LSLG7B8CT%2C9P4NJFH17MRT%2C9P4NV23Q6QC2%2C9P5241RBH1SZ%2C9P55XDLRJDHB%2C9P57SQHVWND7%2C9P59J86GHDGL%2C9P5B8CPQ9S7F%2C9P5DGQW39CTS%2C9P5F966564FS&market=AT&languages=en-us&MS-CV=DGU1mcuYo0WMMp%2BF.1"
         },
         {
           "requested": 80,
           "returned": 80,
           "status": "ok",
-          "url": "https://displaycatalog.mp.microsoft.com/v7.0/products?bigIds=9P5S26314HWQ%2C9P5VB9G9CJ29%2C9P5X4QVLC2XR%2C9P5Z088TJQ5S%2C9P5Z4530318L%2C9P66TM1HLGLX%2C9P686C1GJ91L%2C9P698GM5GR3W%2C9P6X0VL8BXZF%2C9P6Z93565T92%2C9P6ZKL905TMT%2C9P6ZKM2KSSHC%2C9P75CBJ9WT9W%2C9P76M1N37K6K%2C9P77PG7DK0W2%2C9P7L9H478GGV%2C9P7LVXNVQ6K7%2C9P7M1VCXKQVD%2C9P7RQ1QFFF8R%2C9P7S9F02293J%2C9P7SL78VHVMF%2C9P7T44TTDL7M%2C9P7TLX79S7N7%2C9P7Z1D3N8KR7%2C9P81K2C8RBF4%2C9P822XLW9PB8%2C9P82LXD5RH31%2C9P85NL6T3DHP%2C9P861V1542BL%2C9P86LLDCL5CC%2C9P88K6NQW12H%2C9P8DL6W0JBB8%2C9P8FBXKMCLWC%2C9P8H220G3S4P%2C9P8JRMWRQP4H%2C9P8LR42PTRGJ%2C9P8NKVVB0XQJ%2C9P8NSTDMZ11P%2C9P8PS6993LSL%2C9P8RC7S4NRQ3%2C9P8RMKXRML7D%2C9P8S1MN4066K%2C9P8SQQJ5T94B%2C9P8V7HR160B4%2C9P8X6TVW9ZW8%2C9P8XJRLCLH2P%2C9P8XKV2D5DZ5%2C9P91FNMH1GG0%2C9P9278ZMGQLJ%2C9P9446P7D9TZ%2C9P96HK15H8W8%2C9P9FJCK32PMT%2C9P9FTXPKQ35P%2C9P9GX5D8H9DW%2C9P9JZZ79KHDK%2C9P9VNSQK1W3K%2C9P9XGNFNF11R%2C9PB301R051CQ%2C9PB3GGBSG27C%2C9PB3RHWXB9MR%2C9PB5JN044BHZ%2C9PB5T776N2SW%2C9PB7921QZ087%2C9PB86W3JK8Z5%2C9PBB4QHMSDKR%2C9PBC1QFBW563%2C9PBG4MTM3JJC%2C9PBNGCVBGML0%2C9PBRN7JS4XPC%2C9PBWWQGXVMKC%2C9PC1KTWW5PB5%2C9PC288TN7R8K%2C9PC4RWP34M2D%2C9PCJT6TLCGGV%2C9PCR3Z2MSM4T%2C9PCTJZRLV21G%2C9PD0Z90216RJ%2C9PD5BFNZ4V7K%2C9PD5BM2Z8C4L%2C9PD9SZGNCMDZ&market=AT&languages=en-us&MS-CV=DGU1mcuYo0WMMp%2BF.1"
+          "url": "https://displaycatalog.mp.microsoft.com/v7.0/products?bigIds=9P5MMCTL8MFX%2C9P5QV5XX8S9H%2C9P5S26314HWQ%2C9P5VB9G9CJ29%2C9P5X4QVLC2XR%2C9P5Z088TJQ5S%2C9P5Z4530318L%2C9P66TM1HLGLX%2C9P686C1GJ91L%2C9P698GM5GR3W%2C9P6X0VL8BXZF%2C9P6Z93565T92%2C9P6ZKL905TMT%2C9P6ZKM2KSSHC%2C9P743P6195Q5%2C9P75CBJ9WT9W%2C9P76M1N37K6K%2C9P77PG7DK0W2%2C9P7L9H478GGV%2C9P7LVXNVQ6K7%2C9P7M1VCXKQVD%2C9P7RQ1QFFF8R%2C9P7S9F02293J%2C9P7SL78VHVMF%2C9P7T44TTDL7M%2C9P7TLX79S7N7%2C9P7Z1D3N8KR7%2C9P81K2C8RBF4%2C9P822XLW9PB8%2C9P82LXD5RH31%2C9P85NL6T3DHP%2C9P861V1542BL%2C9P86LLDCL5CC%2C9P88K6NQW12H%2C9P8DL6W0JBB8%2C9P8FBXKMCLWC%2C9P8H220G3S4P%2C9P8JRMWRQP4H%2C9P8LR42PTRGJ%2C9P8NKVVB0XQJ%2C9P8NSTDMZ11P%2C9P8PS6993LSL%2C9P8RC7S4NRQ3%2C9P8RMKXRML7D%2C9P8S1MN4066K%2C9P8SQQJ5T94B%2C9P8V7HR160B4%2C9P8X6TVW9ZW8%2C9P8XJRLCLH2P%2C9P8XKV2D5DZ5%2C9P91FNMH1GG0%2C9P9278ZMGQLJ%2C9P9446P7D9TZ%2C9P96HK15H8W8%2C9P9FJCK32PMT%2C9P9FTXPKQ35P%2C9P9GX5D8H9DW%2C9P9JZZ79KHDK%2C9P9VNSQK1W3K%2C9P9XGNFNF11R%2C9PB301R051CQ%2C9PB3GGBSG27C%2C9PB3RHWXB9MR%2C9PB5JN044BHZ%2C9PB5T776N2SW%2C9PB7921QZ087%2C9PB86W3JK8Z5%2C9PBB4QHMSDKR%2C9PBC1QFBW563%2C9PBG4MTM3JJC%2C9PBNGCVBGML0%2C9PBRN7JS4XPC%2C9PBWWQGXVMKC%2C9PC1KTWW5PB5%2C9PC288TN7R8K%2C9PC4RWP34M2D%2C9PCJT6TLCGGV%2C9PCR3Z2MSM4T%2C9PCTJZRLV21G%2C9PD0Z90216RJ&market=AT&languages=en-us&MS-CV=DGU1mcuYo0WMMp%2BF.1"
         },
         {
           "requested": 80,
           "returned": 80,
           "status": "ok",
-          "url": "https://displaycatalog.mp.microsoft.com/v7.0/products?bigIds=9PDC8J1BSV8B%2C9PDC9X7BKZR3%2C9PDCBPJ8C47K%2C9PDCN8Z4HKRN%2C9PDDP6ML6XHF%2C9PDDRVKPF6KG%2C9PDGC1Z6ZHTP%2C9PDH3TB5548T%2C9PDKDBQGG2N2%2C9PDNF24PP2V2%2C9PDPD158GLKD%2C9PDS2N82QNXG%2C9PDZ14P56XRD%2C9PF2ZS4XB4JH%2C9PF432CVQBXT%2C9PF697TG7PP7%2C9PFNXM9G4N83%2C9PFRTPRQ569Q%2C9PFWZMT737GG%2C9PFXKRLVWJ0B%2C9PG0S835V6J5%2C9PGB72NFG5JN%2C9PGC82V0DXFS%2C9PGD71CMDS0Z%2C9PGFSLP8GWQK%2C9PGMNX4HG2C7%2C9PGQ76KP0WJL%2C9PGSDFM3JD85%2C9PGVZ5XPQ9SP%2C9PGZ346PSLN0%2C9PH9X0760B0T%2C9PHFTS44F99K%2C9PHGK0538TXM%2C9PHH1ZWRSZ41%2C9PHK9D8CLQCG%2C9PHKWCSZ0SQJ%2C9PHNM1C4T968%2C9PHPDGTRVGGL%2C9PHR6KG3D1RQ%2C9PHS0189K408%2C9PHTX5QZ035T%2C9PJ06TZX4NMH%2C9PJ45NJCHSFS%2C9PJ6FV3130QZ%2C9PJBKF27C16M%2C9PJD2KMX7TZ6%2C9PJFC8RLNPH5%2C9PJGM0T0827V%2C9PJLNG7448C6%2C9PJNXM82ZX47%2C9PJPCB188SVG%2C9PJPZ1DQD0WM%2C9PJPZK79N5VG%2C9PJRQHMCFQGS%2C9PJTHRNVH62H%2C9PK087LNGJC5%2C9PK09BL31FK1%2C9PK0DZ68LGC0%2C9PK2KH9WR7SB%2C9PK5WS0HXQKQ%2C9PK7TLLPD7GV%2C9PK8PHLCQDF6%2C9PKDX735TR8K%2C9PKF2LDFPXTN%2C9PKFL1XJT73S%2C9PKJ0532DTCW%2C9PKJTP6DTND3%2C9PKP39CL0C8D%2C9PKWHT7G60WQ%2C9PKZN9K2HXJ9%2C9PKZRN4RJRC9%2C9PL427M642BV%2C9PL89B9HCZ9W%2C9PLBH9J0XGR8%2C9PLCL2VB2SC0%2C9PLF73SS7M6J%2C9PLFD17M47K3%2C9PLGBZWN65RG%2C9PLH7R84GJWP%2C9PLKVSWR299F&market=AT&languages=en-us&MS-CV=DGU1mcuYo0WMMp%2BF.1"
+          "url": "https://displaycatalog.mp.microsoft.com/v7.0/products?bigIds=9PD5BFNZ4V7K%2C9PD5BM2Z8C4L%2C9PD9SZGNCMDZ%2C9PDC8J1BSV8B%2C9PDC9X7BKZR3%2C9PDCBPJ8C47K%2C9PDCN8Z4HKRN%2C9PDDP6ML6XHF%2C9PDDRVKPF6KG%2C9PDGC1Z6ZHTP%2C9PDH3TB5548T%2C9PDKDBQGG2N2%2C9PDNF24PP2V2%2C9PDPD158GLKD%2C9PDS2N82QNXG%2C9PDZ14P56XRD%2C9PF2ZS4XB4JH%2C9PF432CVQBXT%2C9PF697TG7PP7%2C9PFNXM9G4N83%2C9PFRTPRQ569Q%2C9PFWZMT737GG%2C9PFXKRLVWJ0B%2C9PG0S835V6J5%2C9PGB72NFG5JN%2C9PGC82V0DXFS%2C9PGD71CMDS0Z%2C9PGFSLP8GWQK%2C9PGMNX4HG2C7%2C9PGQ76KP0WJL%2C9PGSDFM3JD85%2C9PGVZ5XPQ9SP%2C9PGZ346PSLN0%2C9PH9X0760B0T%2C9PHFTS44F99K%2C9PHGK0538TXM%2C9PHH1ZWRSZ41%2C9PHK9D8CLQCG%2C9PHKWCSZ0SQJ%2C9PHNM1C4T968%2C9PHPDGTRVGGL%2C9PHR6KG3D1RQ%2C9PHS0189K408%2C9PHTX5QZ035T%2C9PJ06TZX4NMH%2C9PJ45NJCHSFS%2C9PJ6FV3130QZ%2C9PJBKF27C16M%2C9PJD2KMX7TZ6%2C9PJFC8RLNPH5%2C9PJGM0T0827V%2C9PJLNG7448C6%2C9PJNXM82ZX47%2C9PJPCB188SVG%2C9PJPZ1DQD0WM%2C9PJPZK79N5VG%2C9PJRQHMCFQGS%2C9PJTHRNVH62H%2C9PK087LNGJC5%2C9PK09BL31FK1%2C9PK0DZ68LGC0%2C9PK2KH9WR7SB%2C9PK5WS0HXQKQ%2C9PK7TLLPD7GV%2C9PK8PHLCQDF6%2C9PKDX735TR8K%2C9PKF2LDFPXTN%2C9PKFL1XJT73S%2C9PKJ0532DTCW%2C9PKJTP6DTND3%2C9PKP39CL0C8D%2C9PKWHT7G60WQ%2C9PKZN9K2HXJ9%2C9PKZRN4RJRC9%2C9PL427M642BV%2C9PL89B9HCZ9W%2C9PLBH9J0XGR8%2C9PLCL2VB2SC0%2C9PLF73SS7M6J%2C9PLFD17M47K3&market=AT&languages=en-us&MS-CV=DGU1mcuYo0WMMp%2BF.1"
         },
         {
           "requested": 80,
           "returned": 80,
           "status": "ok",
-          "url": "https://displaycatalog.mp.microsoft.com/v7.0/products?bigIds=9PLMGFWCFZ9G%2C9PLRP6PHV6XP%2C9PLSCHRN5715%2C9PLVVTDHS1P0%2C9PM3J18QM4Q3%2C9PM709J61828%2C9PMBB7NGHV95%2C9PMHGHXLGLJM%2C9PMQDM08SNK9%2C9PMVJR05PFJW%2C9PMX3SK2RMG4%2C9PMXPQ307Z5P%2C9PMZ9LB06T8D%2C9PN0LC4CNLPT%2C9PN3SWBMPJXJ%2C9PN3VDFTB5HZ%2C9PN8M16GG8M4%2C9PNG83MDD6SH%2C9PNGFSX7S117%2C9PNRHXZ6ZSS9%2C9PNRLJNDPP4G%2C9PNRSC0J6DT8%2C9PP7XSG5LDH1%2C9PP837L3Q75D%2C9PPBNCXP0096%2C9PPF72ZH6RP8%2C9PPH71DV44T7%2C9PPJGBJ2LGV9%2C9PPKR9N31BW6%2C9PPP5344B3LS%2C9PPR10S4JNLV%2C9WZDNCRFHWCP%2C9WZDNCRFHWD2%2C9WZDNCRFHWFH%2C9WZDNCRFJBFJ%2CBNBWFH89FCF1%2CBNCZHKWRZ7BR%2CBNKDKQXMXRR2%2CBNKKJL1VRR5P%2CBNN7BPDZ6GQB%2CBNRH7BRC1D02%2CBNSDHDK45KBR%2CBP15SF17LH13%2CBP6V6QZBMFP0%2CBP73LMGB1DFD%2CBP96WRTVD7C1%2CBPBV3PCB0X44%2CBPKDQSSFQ9WV%2CBPL68T0XK96W%2CBPMJ413V6BB2%2CBPN08ZDRPSFK%2CBPNDKQN84N6L%2CBPPR6D5C2GLF%2CBPQZT43FWD49%2CBPR2TBS2KMQJ%2CBPRPQSKXTD1L%2CBPV4GXTDCNSH%2CBQ192SFB694X%2CBQ1W1T1FC14W%2CBQ4M1XWXFKHB%2CBQ9Q620NC614%2CBQ9S8ZKCT3Q7%2CBQ9T0JF0D3L4%2CBQBTGDT4P54J%2CBQG162F04T2L%2CBQMQ3K1BLV1T%2CBQMVWCMB8P59%2CBQND4NQXFFV2%2CBQR7QS0F8SJ3%2CBQRB60PW2SDL%2CBQT21VXFS52F%2CBQVQTL3PCH05%2CBR03N9C6Z9G6%2CBR1D9CR82ZM8%2CBR27BSZ2M3SR%2CBR46KM4D5B9L%2CBR74RLMH966K%2CBR7QJW8V9L2S%2CBR7X7MVBBQKM%2CBR9MPWXFBCRC&market=AT&languages=en-us&MS-CV=DGU1mcuYo0WMMp%2BF.1"
+          "url": "https://displaycatalog.mp.microsoft.com/v7.0/products?bigIds=9PLGBZWN65RG%2C9PLH7R84GJWP%2C9PLKVSWR299F%2C9PLMGFWCFZ9G%2C9PLRP6PHV6XP%2C9PLSCHRN5715%2C9PLVVTDHS1P0%2C9PM3J18QM4Q3%2C9PM709J61828%2C9PMBB7NGHV95%2C9PMHGHXLGLJM%2C9PMQDM08SNK9%2C9PMVJR05PFJW%2C9PMX3SK2RMG4%2C9PMXPQ307Z5P%2C9PMZ9LB06T8D%2C9PN0LC4CNLPT%2C9PN3SWBMPJXJ%2C9PN3VDFTB5HZ%2C9PN8M16GG8M4%2C9PNG83MDD6SH%2C9PNGFSX7S117%2C9PNRHXZ6ZSS9%2C9PNRLJNDPP4G%2C9PNRSC0J6DT8%2C9PP7XSG5LDH1%2C9PP837L3Q75D%2C9PPBNCXP0096%2C9PPF72ZH6RP8%2C9PPH71DV44T7%2C9PPJGBJ2LGV9%2C9PPKR9N31BW6%2C9PPP5344B3LS%2C9PPR10S4JNLV%2C9WZDNCRFHWCP%2C9WZDNCRFHWD2%2C9WZDNCRFHWFH%2C9WZDNCRFJBFJ%2CBNBWFH89FCF1%2CBNCZHKWRZ7BR%2CBNKDKQXMXRR2%2CBNKKJL1VRR5P%2CBNN7BPDZ6GQB%2CBNRH7BRC1D02%2CBNSDHDK45KBR%2CBP15SF17LH13%2CBP6V6QZBMFP0%2CBP73LMGB1DFD%2CBP96WRTVD7C1%2CBPBV3PCB0X44%2CBPKDQSSFQ9WV%2CBPL68T0XK96W%2CBPMJ413V6BB2%2CBPN08ZDRPSFK%2CBPNDKQN84N6L%2CBPPR6D5C2GLF%2CBPQZT43FWD49%2CBPR2TBS2KMQJ%2CBPRPQSKXTD1L%2CBPV4GXTDCNSH%2CBQ192SFB694X%2CBQ1W1T1FC14W%2CBQ4M1XWXFKHB%2CBQ9Q620NC614%2CBQ9S8ZKCT3Q7%2CBQ9T0JF0D3L4%2CBQBTGDT4P54J%2CBQG162F04T2L%2CBQMQ3K1BLV1T%2CBQMVWCMB8P59%2CBQND4NQXFFV2%2CBQR7QS0F8SJ3%2CBQRB60PW2SDL%2CBQT21VXFS52F%2CBQVQTL3PCH05%2CBR03N9C6Z9G6%2CBR1D9CR82ZM8%2CBR27BSZ2M3SR%2CBR46KM4D5B9L%2CBR74RLMH966K&market=AT&languages=en-us&MS-CV=DGU1mcuYo0WMMp%2BF.1"
         },
         {
           "requested": 80,
           "returned": 80,
           "status": "ok",
-          "url": "https://displaycatalog.mp.microsoft.com/v7.0/products?bigIds=BRBRQCVTJG2D%2CBRG51C5MWFSG%2CBRGPD72KHM3Q%2CBRJLJ6RPLQTJ%2CBRJNRZ9N734V%2CBRKMHZX1RCF2%2CBRKX5CRMRTC2%2CBRN6BHDHB58J%2CBRPGP6H8P26F%2CBRQH27C9RGXS%2CBRRC2BP0G9P0%2CBRRVN5198461%2CBRT1K9FV4LRR%2CBRXTM276DLPR%2CBRZHFR5XBLQS%2CBRZZLBF5T245%2CBS1NPTPJGD4G%2CBS34VNW7H61F%2CBS6WJ2L56B10%2CBS9SX4Q6XJRF%2CBSCCQL7DZ9KD%2CBSDX4FNNC0DK%2CBSHMMGRP84N4%2CBSJG7TTSWVJ2%2CBSLTQT4L0RLV%2CBSLX1RNXR6H7%2CBSMZH25V6V46%2CBSNZHRCKC13J%2CBSR9NLHVF1KL%2CBSXDD75Q561F%2CBSXLFN5QQZSC%2CBSXSL6WBJ0V7%2CBSZM480TSWGP%2CBT3KQ8HLLZ6K%2CBT5P2X999VH2%2CBT9FFLG51VVG%2CBTBWBGKPKS97%2CBTCS0LP052HL%2CBTDRTXBKDBRR%2CBTJ0T8C04ZBV%2CBTKN78H28RPV%2CBTMS1PXLQ6P6%2CBTNPS60N3114%2CBTQMHK78ZPF9%2CBTXM0C9C3B1S%2CBV05F8VT7JJ4%2CBV0K9LMLQ9W5%2CBV0NSD4NN4V4%2CBV2ZVP7PJZWL%2CBV5N90RDT0SH%2CBV6BRSLFJW3W%2CBV83SM3191S5%2CBV9CWVQWNS4P%2CBVCRSR6XSDW5%2CBVFB8CBS75R6%2CBVFDTJ1XF6CS%2CBVJLKDG2TX8H%2CBVQ3V30ZXVT5%2CBVR64CDJ01FJ%2CBVTKN6CQ8W5F%2CBW3T6SNS15BH%2CBW6B077FCH11%2CBW85KQB8Q31M%2CBW9TWC8L4JCS%2CBWHFZNSL0PB5%2CBWK0Q0RQMH7V%2CBWMH951M3G3P%2CBWT2GPVWCH2F%2CBWT5L9P3L60X%2CBWVBNCMF22ZK%2CBX03760D0QGN%2CBX1DTCBD1HXJ%2CBX27S00SKW1V%2CBX3JNK07Z6QK%2CBX8FPDDRCLWT%2CBXBJQ1932138%2CBXF9VWKCD6QW%2CBXQQQQ8HRBSF%2CBXRB4ZH2GJHK%2CBXVCFBJBNS17&market=AT&languages=en-us&MS-CV=DGU1mcuYo0WMMp%2BF.1"
+          "url": "https://displaycatalog.mp.microsoft.com/v7.0/products?bigIds=BR7QJW8V9L2S%2CBR7X7MVBBQKM%2CBR9MPWXFBCRC%2CBRBRQCVTJG2D%2CBRG51C5MWFSG%2CBRGPD72KHM3Q%2CBRJLJ6RPLQTJ%2CBRJNRZ9N734V%2CBRKMHZX1RCF2%2CBRKX5CRMRTC2%2CBRN6BHDHB58J%2CBRPGP6H8P26F%2CBRQH27C9RGXS%2CBRRC2BP0G9P0%2CBRRVN5198461%2CBRT1K9FV4LRR%2CBRXTM276DLPR%2CBRZHFR5XBLQS%2CBRZZLBF5T245%2CBS1NPTPJGD4G%2CBS34VNW7H61F%2CBS6WJ2L56B10%2CBS9SX4Q6XJRF%2CBSCCQL7DZ9KD%2CBSDX4FNNC0DK%2CBSHMMGRP84N4%2CBSJG7TTSWVJ2%2CBSLTQT4L0RLV%2CBSLX1RNXR6H7%2CBSMZH25V6V46%2CBSNZHRCKC13J%2CBSR9NLHVF1KL%2CBSXDD75Q561F%2CBSXLFN5QQZSC%2CBSXSL6WBJ0V7%2CBSZM480TSWGP%2CBT3KQ8HLLZ6K%2CBT5P2X999VH2%2CBT9FFLG51VVG%2CBTBWBGKPKS97%2CBTCS0LP052HL%2CBTDRTXBKDBRR%2CBTJ0T8C04ZBV%2CBTKN78H28RPV%2CBTMS1PXLQ6P6%2CBTNPS60N3114%2CBTQMHK78ZPF9%2CBTXM0C9C3B1S%2CBV05F8VT7JJ4%2CBV0K9LMLQ9W5%2CBV0NSD4NN4V4%2CBV2ZVP7PJZWL%2CBV5N90RDT0SH%2CBV6BRSLFJW3W%2CBV83SM3191S5%2CBV9CWVQWNS4P%2CBVCRSR6XSDW5%2CBVFB8CBS75R6%2CBVFDTJ1XF6CS%2CBVJLKDG2TX8H%2CBVQ3V30ZXVT5%2CBVR64CDJ01FJ%2CBVTKN6CQ8W5F%2CBW3T6SNS15BH%2CBW6B077FCH11%2CBW85KQB8Q31M%2CBW9TWC8L4JCS%2CBWHFZNSL0PB5%2CBWK0Q0RQMH7V%2CBWMH951M3G3P%2CBWT2GPVWCH2F%2CBWT5L9P3L60X%2CBWVBNCMF22ZK%2CBX03760D0QGN%2CBX1DTCBD1HXJ%2CBX27S00SKW1V%2CBX3JNK07Z6QK%2CBX8FPDDRCLWT%2CBXBJQ1932138%2CBXF9VWKCD6QW&market=AT&languages=en-us&MS-CV=DGU1mcuYo0WMMp%2BF.1"
         },
         {
           "requested": 80,
           "returned": 80,
           "status": "ok",
-          "url": "https://displaycatalog.mp.microsoft.com/v7.0/products?bigIds=BXVQ8M4J9HNM%2CBXWJNW4170RM%2CBXZ0JDCPRV6C%2CBXZWT67JBZJH%2CBZ2N7TQ0XCF2%2CBZ4WD43D8DTS%2CBZ6W9LRPC26W%2CBZ910SG8ML8X%2CBZ92FB6PWXFJ%2CBZF7N4FQWHNR%2CBZGJRJC1FGF3%2CBZKZFMQG2K2K%2CBZPR04V49BMH%2CBZQQ7HX8PZ05%2CBZW2R4STVDNK%2CC040H652PD98%2CC042M8GWKS34%2CC07KJZRH0L7S%2CC0GWTPD0S8S1%2CC0KJ40T9QD86%2CC0N22P73QZ60%2CC0QDQ0KX4HDV%2CC0RNBFHQ7X96%2CC0SFCF4PBRSZ%2CC0SWGV4560W1%2CC0VQBXFNZ1Q0%2CC0X15TR4NP0B%2CC0X2HNVH08FB%2CC0X6N5963CTW%2CC0Z1N477W100%2CC11KKHB5H7QJ%2CC125W9BG2K0V%2CC17GQF31D617%2CC1C4DZJPBC2V%2CC1DDW4PRF6K5%2CC1SDBNRFXT1D%2CC1WRX8ZD77M9%2CC1ZT6N30L1WH%2CC1ZWH2BZ9TSF%2CC20WW4W29FQ1%2CC22T53SQ7FLM%2CC2484ZR2BWNQ%2CC26K4DVGR45B%2CC27XPR5XDMFT%2CC299QVC2BSJF%2CC29HQ887KH4B%2CC2B4T86TXLRS%2CC2CSDTSCBZ0C%2CC2DCJ95ZXBMS%2CC2DQXX0CB42F%2CC2HDBXXNXT7R%2CC2M8HBNVPT1T%2CC2N9CS4FS1QR%2CC2P985H1H42H%2CC2PB7STLJGS0%2CC2Q32JM0BPZL%2CC2R5R5P2DF3C%2CC2WKJJ9F5936%2CC2XNJC9WK15X%2CC350VBGGCL6P%2CC355T88BBX1S%2CC37XBX7DCBZ0%2CC3B1V55CDL0C%2CC3D891Z6TNQM%2CC3KLDKZBHNCZ%2CC3L4J3H7H12R%2CC3LW50BQJ878%2CC3NHWKLR94M9%2CC3QH42WRGM3R%2CC3SQQG5Q6Z64%2CC3VM0TMWNZ5M%2CC3VVNLQQ54F8%2CC4060P46HH4D%2CC40860J5R2MP%2CC41ZDFQ82M1G%2CC421ZX7RCG0W%2CC42KCJCLX6MX%2CC43H00X6KZRJ%2CC47GZZBMR5WG%2CC48LBRJJCP2L&market=AT&languages=en-us&MS-CV=DGU1mcuYo0WMMp%2BF.1"
+          "url": "https://displaycatalog.mp.microsoft.com/v7.0/products?bigIds=BXQQQQ8HRBSF%2CBXRB4ZH2GJHK%2CBXVCFBJBNS17%2CBXVQ8M4J9HNM%2CBXWJNW4170RM%2CBXZ0JDCPRV6C%2CBXZWT67JBZJH%2CBZ2N7TQ0XCF2%2CBZ4WD43D8DTS%2CBZ6W9LRPC26W%2CBZ910SG8ML8X%2CBZ92FB6PWXFJ%2CBZF7N4FQWHNR%2CBZGJRJC1FGF3%2CBZKZFMQG2K2K%2CBZPR04V49BMH%2CBZQQ7HX8PZ05%2CBZW2R4STVDNK%2CC040H652PD98%2CC042M8GWKS34%2CC07KJZRH0L7S%2CC0GWTPD0S8S1%2CC0KJ40T9QD86%2CC0N22P73QZ60%2CC0QDQ0KX4HDV%2CC0RNBFHQ7X96%2CC0SFCF4PBRSZ%2CC0SWGV4560W1%2CC0VQBXFNZ1Q0%2CC0X15TR4NP0B%2CC0X2HNVH08FB%2CC0X6N5963CTW%2CC0Z1N477W100%2CC11KKHB5H7QJ%2CC125W9BG2K0V%2CC17GQF31D617%2CC1C4DZJPBC2V%2CC1DDW4PRF6K5%2CC1SDBNRFXT1D%2CC1WRX8ZD77M9%2CC1ZT6N30L1WH%2CC1ZWH2BZ9TSF%2CC20WW4W29FQ1%2CC22T53SQ7FLM%2CC2484ZR2BWNQ%2CC26K4DVGR45B%2CC27XPR5XDMFT%2CC299QVC2BSJF%2CC29HQ887KH4B%2CC2B4T86TXLRS%2CC2CSDTSCBZ0C%2CC2DCJ95ZXBMS%2CC2DQXX0CB42F%2CC2HDBXXNXT7R%2CC2M8HBNVPT1T%2CC2N9CS4FS1QR%2CC2P985H1H42H%2CC2PB7STLJGS0%2CC2Q32JM0BPZL%2CC2R5R5P2DF3C%2CC2WKJJ9F5936%2CC2XNJC9WK15X%2CC350VBGGCL6P%2CC355T88BBX1S%2CC37XBX7DCBZ0%2CC3B1V55CDL0C%2CC3D891Z6TNQM%2CC3KLDKZBHNCZ%2CC3L4J3H7H12R%2CC3LW50BQJ878%2CC3NHWKLR94M9%2CC3QH42WRGM3R%2CC3SQQG5Q6Z64%2CC3VM0TMWNZ5M%2CC3VVNLQQ54F8%2CC4060P46HH4D%2CC40860J5R2MP%2CC41ZDFQ82M1G%2CC421ZX7RCG0W%2CC42KCJCLX6MX&market=AT&languages=en-us&MS-CV=DGU1mcuYo0WMMp%2BF.1"
         },
         {
-          "requested": 21,
-          "returned": 21,
+          "requested": 24,
+          "returned": 24,
           "status": "ok",
-          "url": "https://displaycatalog.mp.microsoft.com/v7.0/products?bigIds=C4B8XR1LCXR5%2CC4CBF3FHHCND%2CC4DMGRPNSHXG%2CC4F7ZHLN6B2J%2CC4G76555T4QN%2CC4GH8N6ZXG5L%2CC4GQQJJSZSZJ%2CC4HB1XWT02DK%2CC4HZC7LJG6PX%2CC4LLMHFQ1BXQ%2CC4SG06H48738%2CC4VKLMG1HLZW%2CC4VLMWJWM7BG%2CC4Z7QM8FSXM2%2CC521HDXRTS7F%2CC57L9GR0HHB7%2CC5DZFZ6NC5SQ%2CC5F2XDQPPJKZ%2CC5HHPG1TXDNG%2CC5JGRR1LFVW8%2CC5K89TFLSV19&market=AT&languages=en-us&MS-CV=DGU1mcuYo0WMMp%2BF.1"
+          "url": "https://displaycatalog.mp.microsoft.com/v7.0/products?bigIds=C43H00X6KZRJ%2CC47GZZBMR5WG%2CC48LBRJJCP2L%2CC4B8XR1LCXR5%2CC4CBF3FHHCND%2CC4DMGRPNSHXG%2CC4F7ZHLN6B2J%2CC4G76555T4QN%2CC4GH8N6ZXG5L%2CC4GQQJJSZSZJ%2CC4HB1XWT02DK%2CC4HZC7LJG6PX%2CC4LLMHFQ1BXQ%2CC4SG06H48738%2CC4VKLMG1HLZW%2CC4VLMWJWM7BG%2CC4Z7QM8FSXM2%2CC521HDXRTS7F%2CC57L9GR0HHB7%2CC5DZFZ6NC5SQ%2CC5F2XDQPPJKZ%2CC5HHPG1TXDNG%2CC5JGRR1LFVW8%2CC5K89TFLSV19&market=AT&languages=en-us&MS-CV=DGU1mcuYo0WMMp%2BF.1"
         }
       ],
       "endpoint": "DisplayCatalog",
       "language": "en-us",
       "market": "AT",
-      "requested": 901,
-      "returned": 901
+      "requested": 904,
+      "returned": 904
     },
     "productSwapMap": {
       "9PNQKHFLD2WQ": "9PNJXVCVWD4K"
@@ -109304,6 +109560,7 @@
         "9N72SFQ24KW8",
         "9N732VFPMWKT",
         "9N7358JZPX1Z",
+        "9N74KFV7253H",
         "9N74SVVP5FS4",
         "9N76QGDS5GJR",
         "9N79TQTZTQQ4",
@@ -109329,6 +109586,7 @@
         "9N8NJ74FZTG9",
         "9N8Q6DRTG22H",
         "9N8RKWJT32L4",
+        "9N8RS7CW8CGL",
         "9N9097G0XZMB",
         "9N926481VT1Z",
         "9N92LSHFZ935",
@@ -109665,6 +109923,7 @@
         "9P6Z93565T92",
         "9P6ZKL905TMT",
         "9P6ZKM2KSSHC",
+        "9P743P6195Q5",
         "9P75CBJ9WT9W",
         "9P76M1N37K6K",
         "9P77PG7DK0W2",
@@ -110153,6 +110412,7 @@
         "9N72DFC6GL91",
         "9N732VFPMWKT",
         "9N7358JZPX1Z",
+        "9N74KFV7253H",
         "9N76QGDS5GJR",
         "9N79TQTZTQQ4",
         "9N7CJX93ZGWN",
@@ -110172,6 +110432,7 @@
         "9N8NJ74FZTG9",
         "9N8Q6DRTG22H",
         "9N8RKWJT32L4",
+        "9N8RS7CW8CGL",
         "9N9097G0XZMB",
         "9N926481VT1Z",
         "9N93V5M3TG4N",
@@ -110359,6 +110620,7 @@
         "9P5Z4530318L",
         "9P66TM1HLGLX",
         "9P6X0VL8BXZF",
+        "9P743P6195Q5",
         "9P77PG7DK0W2",
         "9P7L9H478GGV",
         "9P7M1VCXKQVD",
@@ -111126,6 +111388,7 @@
         "9P6Z93565T92",
         "9P6ZKL905TMT",
         "9P6ZKM2KSSHC",
+        "9P743P6195Q5",
         "9P75CBJ9WT9W",
         "9P76M1N37K6K",
         "9P77PG7DK0W2",
@@ -111478,6 +111741,7 @@
       "9N6J4RNFPKKL",
       "9N6KPQ0XMT2B",
       "9N72DFC6GL91",
+      "9N74KFV7253H",
       "9N74SVVP5FS4",
       "9N7H29G7G485",
       "9N7LPX50LSCH",
@@ -111485,6 +111749,7 @@
       "9N8C8L9MVQ89",
       "9N8D2CG0K9LL",
       "9N8KMNW6942X",
+      "9N8RS7CW8CGL",
       "9N93V5M3TG4N",
       "9N9C1TB18R3B",
       "9N9GCWL14F1N",
@@ -111611,6 +111876,7 @@
       "9P6Z93565T92",
       "9P6ZKL905TMT",
       "9P6ZKM2KSSHC",
+      "9P743P6195Q5",
       "9P76M1N37K6K",
       "9P7M1VCXKQVD",
       "9P822XLW9PB8",
@@ -112219,14 +112485,14 @@
   },
   "sourceLists": [
     {
-      "count": 623,
+      "count": 626,
       "description": "Discover your next favorite game",
-      "fetchedAt": "2026-11-05T13:15:12.131Z",
+      "fetchedAt": "2026-11-06T12:59:02.691Z",
       "platform": "console",
       "platformContext": "ConsoleGen8;ConsoleGen9",
       "platformLabel": "Console",
       "siglId": "97c6c862-d28a-4907-a3d5-c401f2296a53",
-      "sourceCount": 623,
+      "sourceCount": 626,
       "status": "ok",
       "subscriptionContext": "cfq7ttc0khs0",
       "swapsApplied": [],
@@ -112236,14 +112502,14 @@
       "url": "https://catalog.gamepass.com/sigls/v3?id=97c6c862-d28a-4907-a3d5-c401f2296a53&language=en-us&market=AT&platformContext=ConsoleGen8%3BConsoleGen9&subscriptionContext=cfq7ttc0khs0"
     },
     {
-      "count": 600,
+      "count": 601,
       "description": "Discover your next favorite game",
-      "fetchedAt": "2026-11-05T13:15:12.131Z",
+      "fetchedAt": "2026-11-06T12:59:02.691Z",
       "platform": "pc",
       "platformContext": "pc",
       "platformLabel": "PC",
       "siglId": "97c6c862-d28a-4907-a3d5-c401f2296a53",
-      "sourceCount": 600,
+      "sourceCount": 601,
       "status": "ok",
       "subscriptionContext": "cfq7ttc0khs0",
       "swapsApplied": [],
@@ -112255,7 +112521,7 @@
     {
       "count": 429,
       "description": "Games included in your Game Pass Premium membership",
-      "fetchedAt": "2026-11-05T13:15:12.131Z",
+      "fetchedAt": "2026-11-06T12:59:02.691Z",
       "platform": "console",
       "platformContext": "ConsoleGen8;ConsoleGen9",
       "platformLabel": "Console",
@@ -112272,7 +112538,7 @@
     {
       "count": 404,
       "description": "Games included in your Game Pass Premium membership",
-      "fetchedAt": "2026-11-05T13:15:12.131Z",
+      "fetchedAt": "2026-11-06T12:59:02.691Z",
       "platform": "pc",
       "platformContext": "pc",
       "platformLabel": "PC",
@@ -112289,7 +112555,7 @@
     {
       "count": 90,
       "description": "Games included in your Game Pass Essential membership",
-      "fetchedAt": "2026-11-05T13:15:12.131Z",
+      "fetchedAt": "2026-11-06T12:59:02.691Z",
       "platform": "console",
       "platformContext": "ConsoleGen8;ConsoleGen9",
       "platformLabel": "Console",
@@ -112306,7 +112572,7 @@
     {
       "count": 83,
       "description": "Games included in your Game Pass Essential membership",
-      "fetchedAt": "2026-11-05T13:15:12.131Z",
+      "fetchedAt": "2026-11-06T12:59:02.691Z",
       "platform": "pc",
       "platformContext": "pc",
       "platformLabel": "PC",
