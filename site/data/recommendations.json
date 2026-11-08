@@ -2,7 +2,7 @@
   "algorithm": "hybrid-tfidf-mmr-v1",
   "catalogHash": "287914b9a70e93b31a41b0efc4d0f73f7107c678efda44748cd80acfe6f17990",
   "familyHash": "fcf905608212bce525d287e35ed26360dfba0fe594bc89eaa2905a20ea6a925c",
-  "generatedAt": "2026-11-07T11:46:19.949Z",
+  "generatedAt": "2026-11-08T11:57:48.597Z",
   "items": {
     "family-0033e88d6465b9e1c8ca00b84303ff450731d8f3f86c0aed81ce4ad6a54b4f5b": {
       "discover": [
