@@ -1,40 +1,40 @@
 {
-  "catalogHash": "afb32ac96f735d95e2c6a6bd779dfa112ae344d23f2246de917cb8b269d2c0e4",
+  "catalogHash": "ea65e8a7aff232879beac7225d452309f8bf781f47563a008f9f7b29c155807f",
   "counts": {
     "diffs": {
       "essentialNotPremium": 0,
       "essentialNotUltimate": 0,
-      "premiumNotEssential": 442,
+      "premiumNotEssential": 440,
       "premiumNotUltimate": 0,
-      "ultimateNotEssential": 786,
-      "ultimateNotPremium": 344
+      "ultimateNotEssential": 785,
+      "ultimateNotPremium": 345
     },
-    "leavingSoon": 16,
+    "leavingSoon": 14,
     "leavingSoonPlatforms": {
-      "console": 14,
-      "pc": 14
+      "console": 13,
+      "pc": 12
     },
     "platforms": {
       "console": 628,
       "pc": 604
     },
     "segments": {
-      "allTiers": 121,
+      "allTiers": 122,
       "essentialOnly": 0,
       "premiumEssential": 0,
       "premiumOnly": 0,
       "ultimateEssential": 0,
-      "ultimateOnly": 344,
-      "ultimatePremium": 442
+      "ultimateOnly": 345,
+      "ultimatePremium": 440
     },
     "tierPlatforms": {
       "essential": {
         "console": 90,
-        "pc": 83
+        "pc": 84
       },
       "premium": {
-        "console": 429,
-        "pc": 404
+        "console": 428,
+        "pc": 403
       },
       "ultimate": {
         "console": 628,
@@ -42,8 +42,8 @@
       }
     },
     "tiers": {
-      "essential": 121,
-      "premium": 563,
+      "essential": 122,
+      "premium": 562,
       "ultimate": 907
     },
     "total": 907
@@ -214,7 +214,6 @@
       "9NMCDQ6RCJKH",
       "9NMF3KXT4P4G",
       "9NMNMS626R59",
-      "9NMNZ4CK59DM",
       "9NMPDV49K4TX",
       "9NMPVJ7TCFD0",
       "9NMS4SFNBGBH",
@@ -350,7 +349,6 @@
       "9PC4RWP34M2D",
       "9PCJT6TLCGGV",
       "9PCR3Z2MSM4T",
-      "9PD0Z90216RJ",
       "9PD9SZGNCMDZ",
       "9PDC8J1BSV8B",
       "9PDCN8Z4HKRN",
@@ -597,6 +595,7 @@
       "9N4ZMKC3GX4M",
       "9N51FH42VQDS",
       "9N51NR4GX891",
+      "9N5DDTDLTWCL",
       "9N5JRWWGMS1R",
       "9N5PKH0KW2L1",
       "9N5VHX8KMVNV",
@@ -761,7 +760,6 @@
       "9NMCDQ6RCJKH",
       "9NMF3KXT4P4G",
       "9NMNMS626R59",
-      "9NMNZ4CK59DM",
       "9NMPDV49K4TX",
       "9NMPVJ7TCFD0",
       "9NMS4SFNBGBH",
@@ -996,7 +994,6 @@
       "9PCJT6TLCGGV",
       "9PCR3Z2MSM4T",
       "9PCTJZRLV21G",
-      "9PD0Z90216RJ",
       "9PD5BFNZ4V7K",
       "9PD9SZGNCMDZ",
       "9PDC8J1BSV8B",
@@ -1326,6 +1323,7 @@
       "9N4WHFF9HJ7H",
       "9N4X39HZ1CSQ",
       "9N4ZMKC3GX4M",
+      "9N5DDTDLTWCL",
       "9N5VHX8KMVNV",
       "9N613NPQ9JJH",
       "9N6J4RNFPKKL",
@@ -6366,12 +6364,12 @@
       "screenshots": [
         "https://store-images.s-microsoft.com/image/apps.52266.14559138935406168.28bbc47b-6ce4-45c1-abaf-5cd6481daa21.bbfbcff2-e3cb-48b1-9a60-6b0cddac4534?w=640&h=360&q=80&format=jpg",
         "https://store-images.s-microsoft.com/image/apps.1122.14559138935406168.40871830-a143-4187-beff-d90748b2cc2e.d6bce15f-6187-4a20-8e14-c28f357835cc?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.65331.14559138935406168.a552728d-ea9c-4436-9368-acd4e635f067.5fe93851-3519-4f59-a3fe-628b6936d886?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.49602.14559138935406168.a552728d-ea9c-4436-9368-acd4e635f067.9ae7f9cb-04dd-4811-a81f-59cd3172ddbc?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.3059.14559138935406168.a552728d-ea9c-4436-9368-acd4e635f067.febea1db-671c-4fee-8403-a6fa8f0f9dc2?w=640&h=360&q=80&format=jpg",
         "https://store-images.s-microsoft.com/image/apps.60909.14559138935406168.40871830-a143-4187-beff-d90748b2cc2e.1b45992a-0500-47ce-bcc8-4f8681ebe1c5?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.48513.14559138935406168.40871830-a143-4187-beff-d90748b2cc2e.cff7380e-23b5-418b-ae18-17ad88d7ae3e?w=640&h=360&q=80&format=jpg",
         "https://store-images.s-microsoft.com/image/apps.34452.14559138935406168.40871830-a143-4187-beff-d90748b2cc2e.e3d815e7-c65f-4061-95c2-c9c43747bfc6?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.44602.14559138935406168.40871830-a143-4187-beff-d90748b2cc2e.16e7941b-a208-44b6-8ea6-35362b840b16?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.11267.14559138935406168.40871830-a143-4187-beff-d90748b2cc2e.650b3ef2-dcbb-4b79-9509-659d9e66ad4d?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.33651.14559138935406168.1e04ae87-0e1e-4b31-9601-59faa11c5b1d.9c108618-3f2f-4b33-bfd8-8df2dc3b2b50?w=640&h=360&q=80&format=jpg"
+        "https://store-images.s-microsoft.com/image/apps.15757.14559138935406168.a552728d-ea9c-4436-9368-acd4e635f067.40e14e32-212a-4a0f-b04a-0bf6de334a9e?w=640&h=360&q=80&format=jpg"
       ],
       "segment": "ultimateOnly",
       "shortDescription": "The Best Selling Shooter of 2025",
@@ -20220,149 +20218,6 @@
     },
     {
       "availableInFR": true,
-      "boxArt": "https://store-images.s-microsoft.com/image/apps.58862.14159410862978133.08a7ac44-5c17-4c0d-a8d6-c3e247e74fcb.136a3e89-555e-4209-b48c-93791d3cbd05",
-      "description": "Step into the dugout and experience the future of football management.",
-      "developer": "Sports Interactive",
-      "familyKey": "football manager 26",
-      "familySchemaVersion": 1,
-      "genres": [
-        "Simulation",
-        "Sports"
-      ],
-      "heroArt": "https://store-images.s-microsoft.com/image/apps.8539.14159410862978133.1c4f3bd5-0a15-470c-8be1-1c69266a4dc3.3d41f085-0cf7-419a-8b62-4b021e6c7527",
-      "id": "family-df865fc878a5f51395e4f520502963d5317e926cd125fb09382fe7836420e13d",
-      "leavingSoon": true,
-      "leavingSoonPlatforms": [
-        "pc"
-      ],
-      "memberships": [
-        "ultimate",
-        "premium"
-      ],
-      "pegiRating": "PEGI 3",
-      "platformByTier": {
-        "premium": [
-          "pc"
-        ],
-        "ultimate": [
-          "pc"
-        ]
-      },
-      "platforms": [
-        "pc"
-      ],
-      "playerModes": [
-        "Single player"
-      ],
-      "poster": "https://store-images.s-microsoft.com/image/apps.16795.14159410862978133.08a7ac44-5c17-4c0d-a8d6-c3e247e74fcb.a9467371-4bb3-44ec-b989-4ed9a79314e9",
-      "primaryVariantId": "9PD0Z90216RJ",
-      "publisher": "SEGA",
-      "ratingId": "PEGI:3",
-      "ratingSystem": "PEGI",
-      "releaseDate": "2025-11-04",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.11666.14159410862978133.59e5ae94-e081-4e9e-ba32-528c4218bab1.dbe653ae-d8f9-4824-a800-a302ee106598?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.28712.14159410862978133.59e5ae94-e081-4e9e-ba32-528c4218bab1.f04762ac-7dee-4c5c-9374-f81c78bf6b5c?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.41865.14159410862978133.e5129505-76e7-4ee9-b539-e34dcd1dce18.e14281bc-e032-4d2b-a366-eaabc4f5a205?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.44194.14159410862978133.e5129505-76e7-4ee9-b539-e34dcd1dce18.ae745fb3-9fee-4e4e-85eb-434c2e80d99f?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.61720.14159410862978133.e5129505-76e7-4ee9-b539-e34dcd1dce18.cf150869-d11c-4e54-b9f0-f16a95f47238?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.50081.14159410862978133.e5129505-76e7-4ee9-b539-e34dcd1dce18.e9ce87d5-895c-458a-89c2-3ba756bb8829?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.37372.14159410862978133.7c5b05a0-1976-489a-bd7a-86c4a37ecd73.713e7564-bf7b-4fec-aaae-f6a1b2a272f7?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.55571.14159410862978133.7c5b05a0-1976-489a-bd7a-86c4a37ecd73.4e4042d2-ab9a-43c7-a2d0-d1be7f5444f1?w=640&h=360&q=80&format=jpg"
-      ],
-      "segment": "ultimatePremium",
-      "shortDescription": "Step into the dugout and experience the future of football management.",
-      "sortTitle": "football manager 26",
-      "supportsCoop": false,
-      "supportsLocalCoop": false,
-      "supportsLocalMultiplayer": false,
-      "supportsMultiplayer": false,
-      "supportsOnlineCoop": false,
-      "supportsOnlineMultiplayer": false,
-      "supportsSinglePlayer": true,
-      "title": "Football Manager 26",
-      "url": "https://www.xbox.com/en-us/games/store/football-manager-26/9PD0Z90216RJ",
-      "variantCount": 1,
-      "variantIds": [
-        "9PD0Z90216RJ"
-      ]
-    },
-    {
-      "availableInFR": true,
-      "boxArt": "https://store-images.s-microsoft.com/image/apps.859.13754609462095808.6e939a74-099e-490d-b009-02e7105155bd.38943d60-aff2-4778-9365-2b30acc02769",
-      "description": "Step into the dugout and experience the future of football management",
-      "developer": "Sports Interactive",
-      "familyKey": "football manager 26 console",
-      "familySchemaVersion": 1,
-      "genres": [
-        "Simulation",
-        "Sports"
-      ],
-      "heroArt": "https://store-images.s-microsoft.com/image/apps.18485.13754609462095808.6e939a74-099e-490d-b009-02e7105155bd.57af7efd-c236-4f6c-ad75-9181b7718799",
-      "id": "family-da3664d837bc8b800308bc82f2b148254a0dc57abfd7cb2944e1abcb345402a2",
-      "leavingSoon": true,
-      "leavingSoonPlatforms": [
-        "console",
-        "pc"
-      ],
-      "memberships": [
-        "ultimate",
-        "premium"
-      ],
-      "pegiRating": "PEGI 3",
-      "platformByTier": {
-        "premium": [
-          "console",
-          "pc"
-        ],
-        "ultimate": [
-          "console",
-          "pc"
-        ]
-      },
-      "platforms": [
-        "console",
-        "pc"
-      ],
-      "playerModes": [
-        "Online multiplayer (2-32)",
-        "Single player"
-      ],
-      "poster": "https://store-images.s-microsoft.com/image/apps.63033.13754609462095808.6e939a74-099e-490d-b009-02e7105155bd.6e09f097-e938-4a50-85b4-6e14b4800029",
-      "primaryVariantId": "9NMNZ4CK59DM",
-      "publisher": "SEGA",
-      "ratingId": "PEGI:3",
-      "ratingSystem": "PEGI",
-      "releaseDate": "2025-11-04",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.64734.13754609462095808.39c57bee-fcbb-4811-982c-c79eb7825846.fd74ae2b-4761-47f3-a2bb-78029bfeb6dc?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.37643.13754609462095808.39c57bee-fcbb-4811-982c-c79eb7825846.78240c2f-6fd4-47ef-bb6a-d854b7b3ce29?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.37246.13754609462095808.39c57bee-fcbb-4811-982c-c79eb7825846.8378ad77-67fd-4767-b3a8-49e71348b4f1?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.24470.13754609462095808.39c57bee-fcbb-4811-982c-c79eb7825846.f2116b36-90db-4269-ad5a-2a9b7fb0f282?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.14233.13754609462095808.39c57bee-fcbb-4811-982c-c79eb7825846.71070e4a-17bf-4149-9a21-3879923e077d?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.6859.13754609462095808.39c57bee-fcbb-4811-982c-c79eb7825846.37938d1f-2863-489c-83f5-b4453a3f2df8?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.13369.13754609462095808.39c57bee-fcbb-4811-982c-c79eb7825846.88b07206-2bcc-47eb-b516-2d9c61776efa?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.49249.13754609462095808.39c57bee-fcbb-4811-982c-c79eb7825846.0043b9e1-d09c-45ca-a974-57b245466e06?w=640&h=360&q=80&format=jpg"
-      ],
-      "segment": "ultimatePremium",
-      "shortDescription": "Step into the dugout and experience the future of football management",
-      "sortTitle": "football manager 26 console",
-      "supportsCoop": false,
-      "supportsLocalCoop": false,
-      "supportsLocalMultiplayer": false,
-      "supportsMultiplayer": true,
-      "supportsOnlineCoop": false,
-      "supportsOnlineMultiplayer": true,
-      "supportsSinglePlayer": true,
-      "title": "Football Manager 26 Console",
-      "url": "https://www.xbox.com/en-us/games/store/football-manager-26-console/9NMNZ4CK59DM",
-      "variantCount": 1,
-      "variantIds": [
-        "9NMNZ4CK59DM"
-      ]
-    },
-    {
-      "availableInFR": true,
       "boxArt": "https://store-images.s-microsoft.com/image/apps.41128.13984136076613493.b5146129-a992-4e04-8b43-ffa40460c569.65fc80a0-aece-4587-8f3f-9537315ddeb9",
       "description": "Choose the club. Shape the squad. Set the tactics. Chase the future only you can see. FM27 is where your footballing beliefs become a reality. Make The Call.",
       "developer": "Sports Interactive",
@@ -20398,14 +20253,14 @@
       "ratingSystem": "PEGI",
       "releaseDate": "2026-11-10",
       "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.58393.13984136076613493.b5146129-a992-4e04-8b43-ffa40460c569.1944a0db-bb8b-4f3f-89c0-93105c6eea95?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.51430.13984136076613493.b5146129-a992-4e04-8b43-ffa40460c569.c5b3516f-67c6-4372-9aad-4476109366b9?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.1041.13984136076613493.b5146129-a992-4e04-8b43-ffa40460c569.c8fdc2f9-43dd-4628-a462-e5fcacb601eb?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.53707.13984136076613493.b5146129-a992-4e04-8b43-ffa40460c569.4a199489-3a5b-4dcd-a716-98ad92b2a17f?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.28147.13984136076613493.b5146129-a992-4e04-8b43-ffa40460c569.8cac9415-46e1-4b37-86bf-40928cc6bf3b?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.21220.13984136076613493.b5146129-a992-4e04-8b43-ffa40460c569.307862c1-10be-4361-99f3-ea1bd81f9ad0?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.47111.13984136076613493.b5146129-a992-4e04-8b43-ffa40460c569.854dd35f-12d0-4541-8743-84d71c3aba4d?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.26896.13984136076613493.81911a4c-fa1c-4613-9601-5c1bec9ebb96.845bc279-f312-45d6-9c19-91425ebc0912?w=640&h=360&q=80&format=jpg"
+        "https://store-images.s-microsoft.com/image/apps.46561.13984136076613493.4ef188e9-e117-4bec-bd49-d4de2c277628.b2395236-d8e0-435a-9ecd-5c398a0a7277?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.27827.13984136076613493.4ef188e9-e117-4bec-bd49-d4de2c277628.e1218f50-6399-4ec3-bb42-b62b7bc0573e?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.61063.13984136076613493.4ef188e9-e117-4bec-bd49-d4de2c277628.c2c968d9-9802-49da-87da-a77a3a935505?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.30945.13984136076613493.4ef188e9-e117-4bec-bd49-d4de2c277628.278875d6-f099-4d7d-b63d-6ea332e684a3?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.36288.13984136076613493.4ef188e9-e117-4bec-bd49-d4de2c277628.7d38097f-7eec-413a-b8a6-fda5f51375c4?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.12015.13984136076613493.4ef188e9-e117-4bec-bd49-d4de2c277628.f4766cdd-4260-4405-95b0-06c5a8f2d5be?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.63023.13984136076613493.4ef188e9-e117-4bec-bd49-d4de2c277628.8149d0bd-af8a-4369-b08b-6ad6890c1c0a?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.39256.13984136076613493.4ef188e9-e117-4bec-bd49-d4de2c277628.5973613f-7713-426e-a702-3acc7e00a480?w=640&h=360&q=80&format=jpg"
       ],
       "segment": "ultimateOnly",
       "shortDescription": "Choose the club. Shape the squad. Set the tactics. Chase the future only you can see. FM27 is where your footballing beliefs become a reality. Make The Call.",
@@ -20422,6 +20277,72 @@
       "variantCount": 1,
       "variantIds": [
         "9N4NKMXDZCX6"
+      ]
+    },
+    {
+      "availableInFR": true,
+      "boxArt": "https://store-images.s-microsoft.com/image/apps.33744.14035709193149319.c0b48782-5397-43ae-95b7-be2ecd468b49.a6635f9e-4fc6-4105-a669-f6e7ab458745",
+      "description": "Choose the club. Set the tactics. Shape the squad. Make the call.",
+      "developer": "Sports Interactive",
+      "familyKey": "football manager 27 console",
+      "familySchemaVersion": 1,
+      "genres": [
+        "Simulation",
+        "Sports"
+      ],
+      "heroArt": "https://store-images.s-microsoft.com/image/apps.40834.14035709193149319.c0b48782-5397-43ae-95b7-be2ecd468b49.f730b60c-825f-463d-a8cf-4d27f2813928",
+      "id": "family-cfd37f7d8d338b9376168937baa4132a0622576ca49cc6216539aa1bd1ae8cad",
+      "leavingSoon": false,
+      "leavingSoonPlatforms": [],
+      "memberships": [
+        "ultimate"
+      ],
+      "pegiRating": "PEGI 3",
+      "platformByTier": {
+        "ultimate": [
+          "console",
+          "pc"
+        ]
+      },
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "playerModes": [
+        "Online multiplayer (2-32)",
+        "Single player"
+      ],
+      "poster": "https://store-images.s-microsoft.com/image/apps.33382.14035709193149319.c0b48782-5397-43ae-95b7-be2ecd468b49.f531ab0a-2ff2-42b3-9b12-e108b709763d",
+      "primaryVariantId": "9N5DDTDLTWCL",
+      "publisher": "SEGA",
+      "ratingId": "PEGI:3",
+      "ratingSystem": "PEGI",
+      "releaseDate": "2026-11-10",
+      "screenshots": [
+        "https://store-images.s-microsoft.com/image/apps.43759.14035709193149319.c0b48782-5397-43ae-95b7-be2ecd468b49.7f62f934-ec26-4982-a581-85e5fae94448?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.26999.14035709193149319.c0b48782-5397-43ae-95b7-be2ecd468b49.6f0f1fa9-c9ea-4888-9b76-a0312c35d015?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.6330.14035709193149319.c0b48782-5397-43ae-95b7-be2ecd468b49.a08f6cdc-1fef-4873-a67a-803dbab26efc?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.16050.14035709193149319.c0b48782-5397-43ae-95b7-be2ecd468b49.fd33b59c-97a8-4da3-b2d2-72cfc57833e2?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.56363.14035709193149319.c0b48782-5397-43ae-95b7-be2ecd468b49.4a65b7f1-4a80-4cfc-93d6-46b58cae7aef?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.40455.14035709193149319.c0b48782-5397-43ae-95b7-be2ecd468b49.ab373daa-f19a-481b-a231-30b55944d2a5?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.20076.14035709193149319.c0b48782-5397-43ae-95b7-be2ecd468b49.6eb33a96-f719-47d3-9ae5-8bf9157e0fe0?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.59460.14035709193149319.c0b48782-5397-43ae-95b7-be2ecd468b49.386139b1-93e9-4228-8b8d-914102fe7efd?w=640&h=360&q=80&format=jpg"
+      ],
+      "segment": "ultimateOnly",
+      "shortDescription": "Choose the club. Set the tactics. Shape the squad. Make the call.",
+      "sortTitle": "football manager 27 console",
+      "supportsCoop": false,
+      "supportsLocalCoop": false,
+      "supportsLocalMultiplayer": false,
+      "supportsMultiplayer": true,
+      "supportsOnlineCoop": false,
+      "supportsOnlineMultiplayer": true,
+      "supportsSinglePlayer": true,
+      "title": "Football Manager 27 Console",
+      "url": "https://www.xbox.com/en-us/games/store/football-manager-27-console/9N5DDTDLTWCL",
+      "variantCount": 1,
+      "variantIds": [
+        "9N5DDTDLTWCL"
       ]
     },
     {
@@ -29757,6 +29678,74 @@
       "variantCount": 1,
       "variantIds": [
         "9WZDNCRFHWD2"
+      ]
+    },
+    {
+      "availableInFR": true,
+      "boxArt": "https://store-images.s-microsoft.com/image/apps.24597.9007199266248115.9cbeff43-bb4e-48be-abec-06ddec39f69e.b62b762c-7e75-4915-a913-eb9f56cf0b54",
+      "description": "Microsoft Sudoku has turned up the brilliance! With NEW levels of difficulty, FOUR (4) themes to choose from, DAILY Challenges, and ALL NEW Irregular and Ice Breaker modes, you may never go back to playing the classic way again. Keep your mind sharp across hundreds of brain training puzzles in bright, FUN colors. Play at your own pace or strive to become a GRANDMASTER today!",
+      "developer": "",
+      "familyKey": "microsoft sudoku",
+      "familySchemaVersion": 1,
+      "genres": [
+        "Puzzle & trivia"
+      ],
+      "heroArt": "https://store-images.s-microsoft.com/image/apps.13501.9007199266248115.9cbeff43-bb4e-48be-abec-06ddec39f69e.c39d5670-2879-4097-a569-bddff46d2389",
+      "id": "family-a847525586f1c5d616360f39ea050162e542bac4f53209f015ef14163a64a32d",
+      "leavingSoon": false,
+      "leavingSoonPlatforms": [],
+      "memberships": [
+        "ultimate",
+        "premium",
+        "essential"
+      ],
+      "pegiRating": "PEGI 3",
+      "platformByTier": {
+        "essential": [
+          "pc"
+        ],
+        "premium": [
+          "pc"
+        ],
+        "ultimate": [
+          "pc"
+        ]
+      },
+      "platforms": [
+        "pc"
+      ],
+      "playerModes": [],
+      "poster": "https://store-images.s-microsoft.com/image/apps.33703.9007199266248115.9cbeff43-bb4e-48be-abec-06ddec39f69e.c5690b38-509d-45a5-b5a3-0bdf1d0e74ec",
+      "primaryVariantId": "9WZDNCRFHV60",
+      "publisher": "Xbox Game Studios",
+      "ratingId": "PEGI:3",
+      "ratingSystem": "PEGI",
+      "releaseDate": "2014-03-06",
+      "screenshots": [
+        "https://store-images.s-microsoft.com/image/apps.19446.9007199266248115.9cbeff43-bb4e-48be-abec-06ddec39f69e.6b6aa569-4a9f-4bbf-9ae7-f9bb0a7b28b0?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.5760.9007199266248115.9cbeff43-bb4e-48be-abec-06ddec39f69e.bf31b141-262f-4b2c-8944-969743eca4ab?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.20346.9007199266248115.9cbeff43-bb4e-48be-abec-06ddec39f69e.28aae37b-655f-435f-9900-239d12cc10a4?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.62386.9007199266248115.9cbeff43-bb4e-48be-abec-06ddec39f69e.2bd19678-6fd5-4475-bb6f-28ec0b8f9516?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.19849.9007199266248115.9cbeff43-bb4e-48be-abec-06ddec39f69e.37eed810-0d95-452e-a1e6-b6c9445d98f2?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.48251.9007199266248115.9cbeff43-bb4e-48be-abec-06ddec39f69e.28acd06c-8420-4ef1-a275-dcf22df6ad7b?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.48495.9007199266248115.9cbeff43-bb4e-48be-abec-06ddec39f69e.147d7432-967d-45b7-a57b-2cf4e867453f?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.33624.9007199266248115.9cbeff43-bb4e-48be-abec-06ddec39f69e.3631395c-c58b-4a56-8930-9fbbf2b46752?w=640&h=360&q=80&format=jpg"
+      ],
+      "segment": "allTiers",
+      "shortDescription": "Microsoft Sudoku has turned up the brilliance! With NEW levels of difficulty, FOUR (4) themes to choose from, DAILY Challenges, and ALL NEW Irregular and Ice Breaker modes, you may never go back to playing the classic way again. Keep your mind sharp across hundreds of brain training puzzles in bright, FUN colors. Play at your own pace or strive to become a GRANDMASTER today!",
+      "sortTitle": "microsoft sudoku",
+      "supportsCoop": false,
+      "supportsLocalCoop": false,
+      "supportsLocalMultiplayer": false,
+      "supportsMultiplayer": false,
+      "supportsOnlineCoop": false,
+      "supportsOnlineMultiplayer": false,
+      "supportsSinglePlayer": false,
+      "title": "Microsoft Sudoku",
+      "url": "https://www.xbox.com/en-us/games/store/microsoft-sudoku/9WZDNCRFHV60",
+      "variantCount": 1,
+      "variantIds": [
+        "9WZDNCRFHV60"
       ]
     },
     {
@@ -48040,7 +48029,7 @@
     },
     {
       "availableInFR": true,
-      "boxArt": "https://store-images.s-microsoft.com/image/apps.22630.63381296256995371.9e10cdbd-1881-4099-9f20-0b0885c216a7.c42b9272-8726-4fb6-b601-bc0ca73363a4",
+      "boxArt": "https://store-images.s-microsoft.com/image/apps.28781.63381296256995371.63fd92c7-ca2f-4730-a89d-ce2b9c6e5a2b.aa326692-8613-4caa-a624-b1e99e495e63",
       "description": "War Thunder is the most comprehensive free-to-play MMO military game dedicated to aviation, armoured vehicles, and naval craft from World War II and the Cold War. Join now and take part in major battles on land, in the air, and at sea, fighting with millions of players from all over the world in an ever-evolving environment.",
       "developer": "Gaijin Distribution Kft",
       "familyKey": "war thunder",
@@ -48050,7 +48039,7 @@
         "Shooter",
         "Simulation"
       ],
-      "heroArt": "https://store-images.s-microsoft.com/image/apps.807.63381296256995371.9e10cdbd-1881-4099-9f20-0b0885c216a7.7d58f477-d384-4f9a-b610-cabcee88978e",
+      "heroArt": "https://store-images.s-microsoft.com/image/apps.15726.63381296256995371.63fd92c7-ca2f-4730-a89d-ce2b9c6e5a2b.e6af7dbb-a869-47ed-b468-99ca8f2b748f",
       "id": "family-b11ffaaba73359a4aa2b1acc98e68691c87f85292e1e9bd0672329a9c8c21f18",
       "leavingSoon": false,
       "leavingSoonPlatforms": [],
@@ -48082,7 +48071,7 @@
         "Online co-op (2-8)",
         "Online multiplayer (2-32)"
       ],
-      "poster": "https://store-images.s-microsoft.com/image/apps.30829.63381296256995371.9e10cdbd-1881-4099-9f20-0b0885c216a7.cea534d7-08cd-4f3f-9bed-765c2c2534cc",
+      "poster": "https://store-images.s-microsoft.com/image/apps.31569.63381296256995371.63fd92c7-ca2f-4730-a89d-ce2b9c6e5a2b.74335df6-275b-4eab-9f85-3553275f2c77",
       "primaryVariantId": "BX1DTCBD1HXJ",
       "publisher": "Gaijin Distribution Kft",
       "ratingId": "PEGI:16",
@@ -51317,37 +51306,37 @@
     "diffs": {
       "essentialNotPremium": 0,
       "essentialNotUltimate": 0,
-      "premiumNotEssential": 379,
+      "premiumNotEssential": 377,
       "premiumNotUltimate": 0,
-      "ultimateNotEssential": 630,
-      "ultimateNotPremium": 251
+      "ultimateNotEssential": 629,
+      "ultimateNotPremium": 252
     },
-    "leavingSoon": 15,
+    "leavingSoon": 13,
     "leavingSoonPlatforms": {
-      "console": 14,
-      "pc": 14
+      "console": 13,
+      "pc": 12
     },
     "platforms": {
       "console": 618,
       "pc": 604
     },
     "segments": {
-      "allTiers": 101,
+      "allTiers": 102,
       "essentialOnly": 0,
       "premiumEssential": 0,
       "premiumOnly": 0,
       "ultimateEssential": 0,
-      "ultimateOnly": 251,
-      "ultimatePremium": 379
+      "ultimateOnly": 252,
+      "ultimatePremium": 377
     },
     "tierPlatforms": {
       "essential": {
         "console": 88,
-        "pc": 83
+        "pc": 84
       },
       "premium": {
-        "console": 425,
-        "pc": 404
+        "console": 424,
+        "pc": 403
       },
       "ultimate": {
         "console": 618,
@@ -51355,8 +51344,8 @@
       }
     },
     "tiers": {
-      "essential": 101,
-      "premium": 480,
+      "essential": 102,
+      "premium": 479,
       "ultimate": 731
     },
     "total": 731
@@ -51688,7 +51677,6 @@
       "family-d9711de6df9af3f63bed7259a3a94688c63d326e94d02cfd66b50e93bce1e85e",
       "family-d9841385af74b9dd0ec816529f97089dc295085da4d1b2962834b917f5860dfc",
       "family-da2a2e3fae55ad59daf11fee6072ed854cf798f5fa2e4773dfc10f0efff33d7f",
-      "family-da3664d837bc8b800308bc82f2b148254a0dc57abfd7cb2944e1abcb345402a2",
       "family-da5b6b8eaceec0b2a1f6238b6a19fdabb5c9e6a8e08ee3f2551df278345855b3",
       "family-da87b1a6c6b30d0ea70e7bad98992bd725cc4385a6b3d475c5b6e376c1772756",
       "family-dc0cac7be3c439ebde8a4206cf943717019b12abe4bf195f77f065b2007e4263",
@@ -51696,7 +51684,6 @@
       "family-ddb1b016785fa19d0bc237a5c0ff9c5a4e51029157881162c5ecd389db299881",
       "family-dee587716260f3c193e7e0a115b5b85d762300b5e6e1b85c914d818dfbdc5d24",
       "family-df1d6de99ce1bff5bcf809eaea7ba9bc8b27868f260494f074b50bcf43e84269",
-      "family-df865fc878a5f51395e4f520502963d5317e926cd125fb09382fe7836420e13d",
       "family-dfc0c39bbbe5aa6d74485ef782bffea40d40838c01cb2e1e2ba1d88fde783f91",
       "family-e01a4caa2a573ed09ab85cd6bb6ed5d57b4e22c1bd51af67ca4f4b526de78e57",
       "family-e078067bbb5f4501d2491682f59dae930661184c1bf8e1b1cb46aacd4a47d705",
@@ -52257,6 +52244,7 @@
       "family-ce2fa162f7a8f7d13fdf6af00b759e44db9cdad021322f5041f074429b4cd4af",
       "family-cf10a5e9db8f9cb9837d5f8b36ccb8c6ac2b0da5331f4f0461d09944943520ab",
       "family-cf40d7a541572f0fb813b8b61ce905e5c66201bee7f8998ea6b3cfe083a7f325",
+      "family-cfd37f7d8d338b9376168937baa4132a0622576ca49cc6216539aa1bd1ae8cad",
       "family-d08487de9d68acc71fa798d17c21735ea8d06611470bc9ca82532cd1226e7ee0",
       "family-d17c9124b646e2aaf1a4fd96726c87043943e3cc1fe4b85e6b386d37dcc86e05",
       "family-d2410fe4491e940bf2dd6d195aaf1080acd45f853202717aedd80fadfb74168a",
@@ -52282,7 +52270,6 @@
       "family-d9841385af74b9dd0ec816529f97089dc295085da4d1b2962834b917f5860dfc",
       "family-d9b4caa1353d01f3b515da2eeb5bee024c3e7d1091b4d2196ac4223f6d2abc2b",
       "family-da2a2e3fae55ad59daf11fee6072ed854cf798f5fa2e4773dfc10f0efff33d7f",
-      "family-da3664d837bc8b800308bc82f2b148254a0dc57abfd7cb2944e1abcb345402a2",
       "family-da5b6b8eaceec0b2a1f6238b6a19fdabb5c9e6a8e08ee3f2551df278345855b3",
       "family-da87b1a6c6b30d0ea70e7bad98992bd725cc4385a6b3d475c5b6e376c1772756",
       "family-db605563b5d1e959ae7b30c02396a799a0f8d8cd357a3032d0f72c09c33d5b92",
@@ -52295,7 +52282,6 @@
       "family-de296195bab80c9883c1b30b90a408a5f0dc255067495872183f993dc8d2472c",
       "family-dee587716260f3c193e7e0a115b5b85d762300b5e6e1b85c914d818dfbdc5d24",
       "family-df1d6de99ce1bff5bcf809eaea7ba9bc8b27868f260494f074b50bcf43e84269",
-      "family-df865fc878a5f51395e4f520502963d5317e926cd125fb09382fe7836420e13d",
       "family-dfc0c39bbbe5aa6d74485ef782bffea40d40838c01cb2e1e2ba1d88fde783f91",
       "family-dfc6affa93b59300d8454614eee13794580843516a8553027d38296de016d64c",
       "family-e01a4caa2a573ed09ab85cd6bb6ed5d57b4e22c1bd51af67ca4f4b526de78e57",
@@ -52584,6 +52570,7 @@
       "family-cd992a18dd2575131bbc3e204d310ceca21e0961103ae1387477a74792b961f6",
       "family-ce2fa162f7a8f7d13fdf6af00b759e44db9cdad021322f5041f074429b4cd4af",
       "family-cf10a5e9db8f9cb9837d5f8b36ccb8c6ac2b0da5331f4f0461d09944943520ab",
+      "family-cfd37f7d8d338b9376168937baa4132a0622576ca49cc6216539aa1bd1ae8cad",
       "family-d2410fe4491e940bf2dd6d195aaf1080acd45f853202717aedd80fadfb74168a",
       "family-d2bfe0d44abac69ab944de54a2b2038d346fa68d30eae431d68880e08b63fd70",
       "family-d826bfab572633aee65c66902d497df8df3d4ba3611148f8ef74dd7858084314",
@@ -52632,7 +52619,7 @@
       "family-fd4705f4895fbd944ea692ce1e49c04e6d85c9eb013becebcca1704d7ea59bf9"
     ]
   },
-  "familyHash": "60580aa004cebab0394860dea2ab55607eca745de4448b738b5db37e2d84c74d",
+  "familyHash": "9990f67df975e4064fb7bfbf2b4c5787baea21efc0bff0f7a28be14748fd45f0",
   "familySegments": {
     "allTiers": [
       "family-012e41cf02148984e24435be4dd5f3b1a699130cc5bbfdc12dd37bbfb5aae9aa",
@@ -52703,6 +52690,7 @@
       "family-a5666b20283c7c3b2df182fd99ecc133676f35d01dc8b012979fe0cfd258d6b5",
       "family-a7310cb65fac4652fe3c89e483a6f048f9a4ba9ff0957302c035cdd764f49464",
       "family-a757123f7615bc815c3578604ce928d8c77aacd6ee6185db2b9b5e8964447cb0",
+      "family-a847525586f1c5d616360f39ea050162e542bac4f53209f015ef14163a64a32d",
       "family-ab72df94f5e48bb94da49e42fc36aaa4fcf74ba0012684a4590d9cbddbb2314e",
       "family-adcf031afe339983058c577331476cd4fa72279fda3c69f4f0d4d2cfad995899",
       "family-b11ffaaba73359a4aa2b1acc98e68691c87f85292e1e9bd0672329a9c8c21f18",
@@ -52947,6 +52935,7 @@
       "family-cd992a18dd2575131bbc3e204d310ceca21e0961103ae1387477a74792b961f6",
       "family-ce2fa162f7a8f7d13fdf6af00b759e44db9cdad021322f5041f074429b4cd4af",
       "family-cf10a5e9db8f9cb9837d5f8b36ccb8c6ac2b0da5331f4f0461d09944943520ab",
+      "family-cfd37f7d8d338b9376168937baa4132a0622576ca49cc6216539aa1bd1ae8cad",
       "family-d2410fe4491e940bf2dd6d195aaf1080acd45f853202717aedd80fadfb74168a",
       "family-d2bfe0d44abac69ab944de54a2b2038d346fa68d30eae431d68880e08b63fd70",
       "family-d826bfab572633aee65c66902d497df8df3d4ba3611148f8ef74dd7858084314",
@@ -53318,7 +53307,6 @@
       "family-d9711de6df9af3f63bed7259a3a94688c63d326e94d02cfd66b50e93bce1e85e",
       "family-d9841385af74b9dd0ec816529f97089dc295085da4d1b2962834b917f5860dfc",
       "family-da2a2e3fae55ad59daf11fee6072ed854cf798f5fa2e4773dfc10f0efff33d7f",
-      "family-da3664d837bc8b800308bc82f2b148254a0dc57abfd7cb2944e1abcb345402a2",
       "family-da5b6b8eaceec0b2a1f6238b6a19fdabb5c9e6a8e08ee3f2551df278345855b3",
       "family-da87b1a6c6b30d0ea70e7bad98992bd725cc4385a6b3d475c5b6e376c1772756",
       "family-dc0cac7be3c439ebde8a4206cf943717019b12abe4bf195f77f065b2007e4263",
@@ -53326,7 +53314,6 @@
       "family-ddb1b016785fa19d0bc237a5c0ff9c5a4e51029157881162c5ecd389db299881",
       "family-dee587716260f3c193e7e0a115b5b85d762300b5e6e1b85c914d818dfbdc5d24",
       "family-df1d6de99ce1bff5bcf809eaea7ba9bc8b27868f260494f074b50bcf43e84269",
-      "family-df865fc878a5f51395e4f520502963d5317e926cd125fb09382fe7836420e13d",
       "family-dfc0c39bbbe5aa6d74485ef782bffea40d40838c01cb2e1e2ba1d88fde783f91",
       "family-e01a4caa2a573ed09ab85cd6bb6ed5d57b4e22c1bd51af67ca4f4b526de78e57",
       "family-e078067bbb5f4501d2491682f59dae930661184c1bf8e1b1cb46aacd4a47d705",
@@ -58469,12 +58456,12 @@
       "screenshots": [
         "https://store-images.s-microsoft.com/image/apps.52266.14559138935406168.28bbc47b-6ce4-45c1-abaf-5cd6481daa21.bbfbcff2-e3cb-48b1-9a60-6b0cddac4534?w=640&h=360&q=80&format=jpg",
         "https://store-images.s-microsoft.com/image/apps.1122.14559138935406168.40871830-a143-4187-beff-d90748b2cc2e.d6bce15f-6187-4a20-8e14-c28f357835cc?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.65331.14559138935406168.a552728d-ea9c-4436-9368-acd4e635f067.5fe93851-3519-4f59-a3fe-628b6936d886?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.49602.14559138935406168.a552728d-ea9c-4436-9368-acd4e635f067.9ae7f9cb-04dd-4811-a81f-59cd3172ddbc?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.3059.14559138935406168.a552728d-ea9c-4436-9368-acd4e635f067.febea1db-671c-4fee-8403-a6fa8f0f9dc2?w=640&h=360&q=80&format=jpg",
         "https://store-images.s-microsoft.com/image/apps.60909.14559138935406168.40871830-a143-4187-beff-d90748b2cc2e.1b45992a-0500-47ce-bcc8-4f8681ebe1c5?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.48513.14559138935406168.40871830-a143-4187-beff-d90748b2cc2e.cff7380e-23b5-418b-ae18-17ad88d7ae3e?w=640&h=360&q=80&format=jpg",
         "https://store-images.s-microsoft.com/image/apps.34452.14559138935406168.40871830-a143-4187-beff-d90748b2cc2e.e3d815e7-c65f-4061-95c2-c9c43747bfc6?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.44602.14559138935406168.40871830-a143-4187-beff-d90748b2cc2e.16e7941b-a208-44b6-8ea6-35362b840b16?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.11267.14559138935406168.40871830-a143-4187-beff-d90748b2cc2e.650b3ef2-dcbb-4b79-9509-659d9e66ad4d?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.33651.14559138935406168.1e04ae87-0e1e-4b31-9601-59faa11c5b1d.9c108618-3f2f-4b33-bfd8-8df2dc3b2b50?w=640&h=360&q=80&format=jpg"
+        "https://store-images.s-microsoft.com/image/apps.15757.14559138935406168.a552728d-ea9c-4436-9368-acd4e635f067.40e14e32-212a-4a0f-b04a-0bf6de334a9e?w=640&h=360&q=80&format=jpg"
       ],
       "segment": "ultimateOnly",
       "shortDescription": "The Best Selling Shooter of 2025",
@@ -73685,135 +73672,6 @@
     },
     {
       "availableInFR": true,
-      "boxArt": "https://store-images.s-microsoft.com/image/apps.58862.14159410862978133.08a7ac44-5c17-4c0d-a8d6-c3e247e74fcb.136a3e89-555e-4209-b48c-93791d3cbd05",
-      "description": "Step into the dugout and experience the future of football management.",
-      "developer": "Sports Interactive",
-      "genres": [
-        "Simulation",
-        "Sports"
-      ],
-      "heroArt": "https://store-images.s-microsoft.com/image/apps.8539.14159410862978133.1c4f3bd5-0a15-470c-8be1-1c69266a4dc3.3d41f085-0cf7-419a-8b62-4b021e6c7527",
-      "id": "9PD0Z90216RJ",
-      "leavingSoon": true,
-      "leavingSoonPlatforms": [
-        "pc"
-      ],
-      "memberships": [
-        "ultimate",
-        "premium"
-      ],
-      "pegiRating": "PEGI 3",
-      "platformByTier": {
-        "premium": [
-          "pc"
-        ],
-        "ultimate": [
-          "pc"
-        ]
-      },
-      "platforms": [
-        "pc"
-      ],
-      "playerModes": [
-        "Single player"
-      ],
-      "poster": "https://store-images.s-microsoft.com/image/apps.16795.14159410862978133.08a7ac44-5c17-4c0d-a8d6-c3e247e74fcb.a9467371-4bb3-44ec-b989-4ed9a79314e9",
-      "publisher": "SEGA",
-      "ratingId": "PEGI:3",
-      "ratingSystem": "PEGI",
-      "releaseDate": "2025-11-04",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.11666.14159410862978133.59e5ae94-e081-4e9e-ba32-528c4218bab1.dbe653ae-d8f9-4824-a800-a302ee106598?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.28712.14159410862978133.59e5ae94-e081-4e9e-ba32-528c4218bab1.f04762ac-7dee-4c5c-9374-f81c78bf6b5c?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.41865.14159410862978133.e5129505-76e7-4ee9-b539-e34dcd1dce18.e14281bc-e032-4d2b-a366-eaabc4f5a205?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.44194.14159410862978133.e5129505-76e7-4ee9-b539-e34dcd1dce18.ae745fb3-9fee-4e4e-85eb-434c2e80d99f?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.61720.14159410862978133.e5129505-76e7-4ee9-b539-e34dcd1dce18.cf150869-d11c-4e54-b9f0-f16a95f47238?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.50081.14159410862978133.e5129505-76e7-4ee9-b539-e34dcd1dce18.e9ce87d5-895c-458a-89c2-3ba756bb8829?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.37372.14159410862978133.7c5b05a0-1976-489a-bd7a-86c4a37ecd73.713e7564-bf7b-4fec-aaae-f6a1b2a272f7?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.55571.14159410862978133.7c5b05a0-1976-489a-bd7a-86c4a37ecd73.4e4042d2-ab9a-43c7-a2d0-d1be7f5444f1?w=640&h=360&q=80&format=jpg"
-      ],
-      "segment": "ultimatePremium",
-      "shortDescription": "Step into the dugout and experience the future of football management.",
-      "sortTitle": "football manager 26",
-      "supportsCoop": false,
-      "supportsLocalCoop": false,
-      "supportsLocalMultiplayer": false,
-      "supportsMultiplayer": false,
-      "supportsOnlineCoop": false,
-      "supportsOnlineMultiplayer": false,
-      "supportsSinglePlayer": true,
-      "title": "Football Manager 26",
-      "url": "https://www.xbox.com/en-us/games/store/football-manager-26/9PD0Z90216RJ"
-    },
-    {
-      "availableInFR": true,
-      "boxArt": "https://store-images.s-microsoft.com/image/apps.859.13754609462095808.6e939a74-099e-490d-b009-02e7105155bd.38943d60-aff2-4778-9365-2b30acc02769",
-      "description": "Step into the dugout and experience the future of football management",
-      "developer": "Sports Interactive",
-      "genres": [
-        "Simulation",
-        "Sports"
-      ],
-      "heroArt": "https://store-images.s-microsoft.com/image/apps.18485.13754609462095808.6e939a74-099e-490d-b009-02e7105155bd.57af7efd-c236-4f6c-ad75-9181b7718799",
-      "id": "9NMNZ4CK59DM",
-      "leavingSoon": true,
-      "leavingSoonPlatforms": [
-        "console",
-        "pc"
-      ],
-      "memberships": [
-        "ultimate",
-        "premium"
-      ],
-      "pegiRating": "PEGI 3",
-      "platformByTier": {
-        "premium": [
-          "console",
-          "pc"
-        ],
-        "ultimate": [
-          "console",
-          "pc"
-        ]
-      },
-      "platforms": [
-        "console",
-        "pc"
-      ],
-      "playerModes": [
-        "Online multiplayer (2-32)",
-        "Single player"
-      ],
-      "poster": "https://store-images.s-microsoft.com/image/apps.63033.13754609462095808.6e939a74-099e-490d-b009-02e7105155bd.6e09f097-e938-4a50-85b4-6e14b4800029",
-      "publisher": "SEGA",
-      "ratingId": "PEGI:3",
-      "ratingSystem": "PEGI",
-      "releaseDate": "2025-11-04",
-      "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.64734.13754609462095808.39c57bee-fcbb-4811-982c-c79eb7825846.fd74ae2b-4761-47f3-a2bb-78029bfeb6dc?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.37643.13754609462095808.39c57bee-fcbb-4811-982c-c79eb7825846.78240c2f-6fd4-47ef-bb6a-d854b7b3ce29?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.37246.13754609462095808.39c57bee-fcbb-4811-982c-c79eb7825846.8378ad77-67fd-4767-b3a8-49e71348b4f1?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.24470.13754609462095808.39c57bee-fcbb-4811-982c-c79eb7825846.f2116b36-90db-4269-ad5a-2a9b7fb0f282?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.14233.13754609462095808.39c57bee-fcbb-4811-982c-c79eb7825846.71070e4a-17bf-4149-9a21-3879923e077d?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.6859.13754609462095808.39c57bee-fcbb-4811-982c-c79eb7825846.37938d1f-2863-489c-83f5-b4453a3f2df8?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.13369.13754609462095808.39c57bee-fcbb-4811-982c-c79eb7825846.88b07206-2bcc-47eb-b516-2d9c61776efa?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.49249.13754609462095808.39c57bee-fcbb-4811-982c-c79eb7825846.0043b9e1-d09c-45ca-a974-57b245466e06?w=640&h=360&q=80&format=jpg"
-      ],
-      "segment": "ultimatePremium",
-      "shortDescription": "Step into the dugout and experience the future of football management",
-      "sortTitle": "football manager 26 console",
-      "supportsCoop": false,
-      "supportsLocalCoop": false,
-      "supportsLocalMultiplayer": false,
-      "supportsMultiplayer": true,
-      "supportsOnlineCoop": false,
-      "supportsOnlineMultiplayer": true,
-      "supportsSinglePlayer": true,
-      "title": "Football Manager 26 Console",
-      "url": "https://www.xbox.com/en-us/games/store/football-manager-26-console/9NMNZ4CK59DM"
-    },
-    {
-      "availableInFR": true,
       "boxArt": "https://store-images.s-microsoft.com/image/apps.41128.13984136076613493.b5146129-a992-4e04-8b43-ffa40460c569.65fc80a0-aece-4587-8f3f-9537315ddeb9",
       "description": "Choose the club. Shape the squad. Set the tactics. Chase the future only you can see. FM27 is where your footballing beliefs become a reality. Make The Call.",
       "developer": "Sports Interactive",
@@ -73846,14 +73704,14 @@
       "ratingSystem": "PEGI",
       "releaseDate": "2026-11-10",
       "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.58393.13984136076613493.b5146129-a992-4e04-8b43-ffa40460c569.1944a0db-bb8b-4f3f-89c0-93105c6eea95?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.51430.13984136076613493.b5146129-a992-4e04-8b43-ffa40460c569.c5b3516f-67c6-4372-9aad-4476109366b9?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.1041.13984136076613493.b5146129-a992-4e04-8b43-ffa40460c569.c8fdc2f9-43dd-4628-a462-e5fcacb601eb?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.53707.13984136076613493.b5146129-a992-4e04-8b43-ffa40460c569.4a199489-3a5b-4dcd-a716-98ad92b2a17f?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.28147.13984136076613493.b5146129-a992-4e04-8b43-ffa40460c569.8cac9415-46e1-4b37-86bf-40928cc6bf3b?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.21220.13984136076613493.b5146129-a992-4e04-8b43-ffa40460c569.307862c1-10be-4361-99f3-ea1bd81f9ad0?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.47111.13984136076613493.b5146129-a992-4e04-8b43-ffa40460c569.854dd35f-12d0-4541-8743-84d71c3aba4d?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.26896.13984136076613493.81911a4c-fa1c-4613-9601-5c1bec9ebb96.845bc279-f312-45d6-9c19-91425ebc0912?w=640&h=360&q=80&format=jpg"
+        "https://store-images.s-microsoft.com/image/apps.46561.13984136076613493.4ef188e9-e117-4bec-bd49-d4de2c277628.b2395236-d8e0-435a-9ecd-5c398a0a7277?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.27827.13984136076613493.4ef188e9-e117-4bec-bd49-d4de2c277628.e1218f50-6399-4ec3-bb42-b62b7bc0573e?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.61063.13984136076613493.4ef188e9-e117-4bec-bd49-d4de2c277628.c2c968d9-9802-49da-87da-a77a3a935505?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.30945.13984136076613493.4ef188e9-e117-4bec-bd49-d4de2c277628.278875d6-f099-4d7d-b63d-6ea332e684a3?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.36288.13984136076613493.4ef188e9-e117-4bec-bd49-d4de2c277628.7d38097f-7eec-413a-b8a6-fda5f51375c4?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.12015.13984136076613493.4ef188e9-e117-4bec-bd49-d4de2c277628.f4766cdd-4260-4405-95b0-06c5a8f2d5be?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.63023.13984136076613493.4ef188e9-e117-4bec-bd49-d4de2c277628.8149d0bd-af8a-4369-b08b-6ad6890c1c0a?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.39256.13984136076613493.4ef188e9-e117-4bec-bd49-d4de2c277628.5973613f-7713-426e-a702-3acc7e00a480?w=640&h=360&q=80&format=jpg"
       ],
       "segment": "ultimateOnly",
       "shortDescription": "Choose the club. Shape the squad. Set the tactics. Chase the future only you can see. FM27 is where your footballing beliefs become a reality. Make The Call.",
@@ -73867,6 +73725,65 @@
       "supportsSinglePlayer": true,
       "title": "Football Manager 27",
       "url": "https://www.xbox.com/en-us/games/store/football-manager-27/9N4NKMXDZCX6"
+    },
+    {
+      "availableInFR": true,
+      "boxArt": "https://store-images.s-microsoft.com/image/apps.33744.14035709193149319.c0b48782-5397-43ae-95b7-be2ecd468b49.a6635f9e-4fc6-4105-a669-f6e7ab458745",
+      "description": "Choose the club. Set the tactics. Shape the squad. Make the call.",
+      "developer": "Sports Interactive",
+      "genres": [
+        "Simulation",
+        "Sports"
+      ],
+      "heroArt": "https://store-images.s-microsoft.com/image/apps.40834.14035709193149319.c0b48782-5397-43ae-95b7-be2ecd468b49.f730b60c-825f-463d-a8cf-4d27f2813928",
+      "id": "9N5DDTDLTWCL",
+      "leavingSoon": false,
+      "leavingSoonPlatforms": [],
+      "memberships": [
+        "ultimate"
+      ],
+      "pegiRating": "PEGI 3",
+      "platformByTier": {
+        "ultimate": [
+          "console",
+          "pc"
+        ]
+      },
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "playerModes": [
+        "Online multiplayer (2-32)",
+        "Single player"
+      ],
+      "poster": "https://store-images.s-microsoft.com/image/apps.33382.14035709193149319.c0b48782-5397-43ae-95b7-be2ecd468b49.f531ab0a-2ff2-42b3-9b12-e108b709763d",
+      "publisher": "SEGA",
+      "ratingId": "PEGI:3",
+      "ratingSystem": "PEGI",
+      "releaseDate": "2026-11-10",
+      "screenshots": [
+        "https://store-images.s-microsoft.com/image/apps.43759.14035709193149319.c0b48782-5397-43ae-95b7-be2ecd468b49.7f62f934-ec26-4982-a581-85e5fae94448?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.26999.14035709193149319.c0b48782-5397-43ae-95b7-be2ecd468b49.6f0f1fa9-c9ea-4888-9b76-a0312c35d015?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.6330.14035709193149319.c0b48782-5397-43ae-95b7-be2ecd468b49.a08f6cdc-1fef-4873-a67a-803dbab26efc?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.16050.14035709193149319.c0b48782-5397-43ae-95b7-be2ecd468b49.fd33b59c-97a8-4da3-b2d2-72cfc57833e2?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.56363.14035709193149319.c0b48782-5397-43ae-95b7-be2ecd468b49.4a65b7f1-4a80-4cfc-93d6-46b58cae7aef?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.40455.14035709193149319.c0b48782-5397-43ae-95b7-be2ecd468b49.ab373daa-f19a-481b-a231-30b55944d2a5?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.20076.14035709193149319.c0b48782-5397-43ae-95b7-be2ecd468b49.6eb33a96-f719-47d3-9ae5-8bf9157e0fe0?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.59460.14035709193149319.c0b48782-5397-43ae-95b7-be2ecd468b49.386139b1-93e9-4228-8b8d-914102fe7efd?w=640&h=360&q=80&format=jpg"
+      ],
+      "segment": "ultimateOnly",
+      "shortDescription": "Choose the club. Set the tactics. Shape the squad. Make the call.",
+      "sortTitle": "football manager 27 console",
+      "supportsCoop": false,
+      "supportsLocalCoop": false,
+      "supportsLocalMultiplayer": false,
+      "supportsMultiplayer": true,
+      "supportsOnlineCoop": false,
+      "supportsOnlineMultiplayer": true,
+      "supportsSinglePlayer": true,
+      "title": "Football Manager 27 Console",
+      "url": "https://www.xbox.com/en-us/games/store/football-manager-27-console/9N5DDTDLTWCL"
     },
     {
       "availableInFR": true,
@@ -83405,6 +83322,67 @@
       "supportsSinglePlayer": true,
       "title": "Microsoft Solitaire Collection",
       "url": "https://www.xbox.com/en-us/games/store/microsoft-solitaire-collection/9WZDNCRFHWD2"
+    },
+    {
+      "availableInFR": true,
+      "boxArt": "https://store-images.s-microsoft.com/image/apps.24597.9007199266248115.9cbeff43-bb4e-48be-abec-06ddec39f69e.b62b762c-7e75-4915-a913-eb9f56cf0b54",
+      "description": "Microsoft Sudoku has turned up the brilliance! With NEW levels of difficulty, FOUR (4) themes to choose from, DAILY Challenges, and ALL NEW Irregular and Ice Breaker modes, you may never go back to playing the classic way again. Keep your mind sharp across hundreds of brain training puzzles in bright, FUN colors. Play at your own pace or strive to become a GRANDMASTER today!",
+      "developer": "",
+      "genres": [
+        "Puzzle & trivia"
+      ],
+      "heroArt": "https://store-images.s-microsoft.com/image/apps.13501.9007199266248115.9cbeff43-bb4e-48be-abec-06ddec39f69e.c39d5670-2879-4097-a569-bddff46d2389",
+      "id": "9WZDNCRFHV60",
+      "leavingSoon": false,
+      "leavingSoonPlatforms": [],
+      "memberships": [
+        "ultimate",
+        "premium",
+        "essential"
+      ],
+      "pegiRating": "PEGI 3",
+      "platformByTier": {
+        "essential": [
+          "pc"
+        ],
+        "premium": [
+          "pc"
+        ],
+        "ultimate": [
+          "pc"
+        ]
+      },
+      "platforms": [
+        "pc"
+      ],
+      "playerModes": [],
+      "poster": "https://store-images.s-microsoft.com/image/apps.33703.9007199266248115.9cbeff43-bb4e-48be-abec-06ddec39f69e.c5690b38-509d-45a5-b5a3-0bdf1d0e74ec",
+      "publisher": "Xbox Game Studios",
+      "ratingId": "PEGI:3",
+      "ratingSystem": "PEGI",
+      "releaseDate": "2014-03-06",
+      "screenshots": [
+        "https://store-images.s-microsoft.com/image/apps.19446.9007199266248115.9cbeff43-bb4e-48be-abec-06ddec39f69e.6b6aa569-4a9f-4bbf-9ae7-f9bb0a7b28b0?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.5760.9007199266248115.9cbeff43-bb4e-48be-abec-06ddec39f69e.bf31b141-262f-4b2c-8944-969743eca4ab?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.20346.9007199266248115.9cbeff43-bb4e-48be-abec-06ddec39f69e.28aae37b-655f-435f-9900-239d12cc10a4?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.62386.9007199266248115.9cbeff43-bb4e-48be-abec-06ddec39f69e.2bd19678-6fd5-4475-bb6f-28ec0b8f9516?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.19849.9007199266248115.9cbeff43-bb4e-48be-abec-06ddec39f69e.37eed810-0d95-452e-a1e6-b6c9445d98f2?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.48251.9007199266248115.9cbeff43-bb4e-48be-abec-06ddec39f69e.28acd06c-8420-4ef1-a275-dcf22df6ad7b?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.48495.9007199266248115.9cbeff43-bb4e-48be-abec-06ddec39f69e.147d7432-967d-45b7-a57b-2cf4e867453f?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.33624.9007199266248115.9cbeff43-bb4e-48be-abec-06ddec39f69e.3631395c-c58b-4a56-8930-9fbbf2b46752?w=640&h=360&q=80&format=jpg"
+      ],
+      "segment": "allTiers",
+      "shortDescription": "Microsoft Sudoku has turned up the brilliance! With NEW levels of difficulty, FOUR (4) themes to choose from, DAILY Challenges, and ALL NEW Irregular and Ice Breaker modes, you may never go back to playing the classic way again. Keep your mind sharp across hundreds of brain training puzzles in bright, FUN colors. Play at your own pace or strive to become a GRANDMASTER today!",
+      "sortTitle": "microsoft sudoku",
+      "supportsCoop": false,
+      "supportsLocalCoop": false,
+      "supportsLocalMultiplayer": false,
+      "supportsMultiplayer": false,
+      "supportsOnlineCoop": false,
+      "supportsOnlineMultiplayer": false,
+      "supportsSinglePlayer": false,
+      "title": "Microsoft Sudoku",
+      "url": "https://www.xbox.com/en-us/games/store/microsoft-sudoku/9WZDNCRFHV60"
     },
     {
       "availableInFR": true,
@@ -103393,7 +103371,7 @@
     },
     {
       "availableInFR": true,
-      "boxArt": "https://store-images.s-microsoft.com/image/apps.22630.63381296256995371.9e10cdbd-1881-4099-9f20-0b0885c216a7.c42b9272-8726-4fb6-b601-bc0ca73363a4",
+      "boxArt": "https://store-images.s-microsoft.com/image/apps.28781.63381296256995371.63fd92c7-ca2f-4730-a89d-ce2b9c6e5a2b.aa326692-8613-4caa-a624-b1e99e495e63",
       "description": "War Thunder is the most comprehensive free-to-play MMO military game dedicated to aviation, armoured vehicles, and naval craft from World War II and the Cold War. Join now and take part in major battles on land, in the air, and at sea, fighting with millions of players from all over the world in an ever-evolving environment.",
       "developer": "Gaijin Distribution Kft",
       "genres": [
@@ -103401,7 +103379,7 @@
         "Shooter",
         "Simulation"
       ],
-      "heroArt": "https://store-images.s-microsoft.com/image/apps.807.63381296256995371.9e10cdbd-1881-4099-9f20-0b0885c216a7.7d58f477-d384-4f9a-b610-cabcee88978e",
+      "heroArt": "https://store-images.s-microsoft.com/image/apps.15726.63381296256995371.63fd92c7-ca2f-4730-a89d-ce2b9c6e5a2b.e6af7dbb-a869-47ed-b468-99ca8f2b748f",
       "id": "BX1DTCBD1HXJ",
       "leavingSoon": false,
       "leavingSoonPlatforms": [],
@@ -103433,7 +103411,7 @@
         "Online co-op (2-8)",
         "Online multiplayer (2-32)"
       ],
-      "poster": "https://store-images.s-microsoft.com/image/apps.30829.63381296256995371.9e10cdbd-1881-4099-9f20-0b0885c216a7.cea534d7-08cd-4f3f-9bed-765c2c2534cc",
+      "poster": "https://store-images.s-microsoft.com/image/apps.31569.63381296256995371.63fd92c7-ca2f-4730-a89d-ce2b9c6e5a2b.74335df6-275b-4eab-9f85-3553275f2c77",
       "publisher": "Gaijin Distribution Kft",
       "ratingId": "PEGI:16",
       "ratingSystem": "PEGI",
@@ -107015,7 +106993,7 @@
       "url": "https://www.xbox.com/en-us/games/store/zumas-revenge/BR9MPWXFBCRC"
     }
   ],
-  "generatedAt": "2026-11-10T13:30:35.930Z",
+  "generatedAt": "2026-11-11T12:45:26.857Z",
   "labels": {
     "diffs": {
       "essentialNotPremium": "Essential not Premium",
@@ -107053,13 +107031,11 @@
       "9NBZ7Z3JRXQ8",
       "9ND3HTTQ0GKB",
       "9NG06CSMM97P",
-      "9NMNZ4CK59DM",
       "9NPDN9R45JX4",
       "9NRHQLZX3900",
       "9P0NPLQ9P1DB",
       "9P81K2C8RBF4",
       "9P8XJRLCLH2P",
-      "9PD0Z90216RJ",
       "9PHTX5QZ035T",
       "BRJNRZ9N734V",
       "BX03760D0QGN"
@@ -107070,7 +107046,6 @@
       "9N6639H7VGH4",
       "9NBZ7Z3JRXQ8",
       "9ND3HTTQ0GKB",
-      "9NMNZ4CK59DM",
       "9NPDN9R45JX4",
       "9NRHQLZX3900",
       "9P0NPLQ9P1DB",
@@ -107086,13 +107061,11 @@
       "9NBZ7Z3JRXQ8",
       "9ND3HTTQ0GKB",
       "9NG06CSMM97P",
-      "9NMNZ4CK59DM",
       "9NPDN9R45JX4",
       "9NRHQLZX3900",
       "9P0NPLQ9P1DB",
       "9P81K2C8RBF4",
       "9P8XJRLCLH2P",
-      "9PD0Z90216RJ",
       "9PHTX5QZ035T",
       "BX03760D0QGN"
     ],
@@ -107103,28 +107076,28 @@
   },
   "leavingSoonSourceLists": [
     {
-      "count": 14,
+      "count": 13,
       "description": "Don't want the fun to end? Save on these games now.",
-      "fetchedAt": "2026-11-10T13:30:35.930Z",
+      "fetchedAt": "2026-11-11T12:45:26.857Z",
       "kind": "leavingSoon",
       "platform": "console",
       "platformLabel": "Console",
       "siglId": "393f05bf-e596-4ef6-9487-6d4fa0eab987",
-      "sourceCount": 14,
+      "sourceCount": 13,
       "status": "ok",
       "swapsApplied": [],
       "title": "Leaving soon",
       "url": "https://catalog.gamepass.com/sigls/v2?id=393f05bf-e596-4ef6-9487-6d4fa0eab987&language=en-us&market=AT"
     },
     {
-      "count": 14,
+      "count": 12,
       "description": "Don't want the fun to end? Save on these games now.",
-      "fetchedAt": "2026-11-10T13:30:35.930Z",
+      "fetchedAt": "2026-11-11T12:45:26.857Z",
       "kind": "leavingSoon",
       "platform": "pc",
       "platformLabel": "PC",
       "siglId": "cc7fc951-d00f-410e-9e02-5e4628e04163",
-      "sourceCount": 14,
+      "sourceCount": 12,
       "status": "ok",
       "swapsApplied": [],
       "title": "Leaving soon",
@@ -107221,6 +107194,7 @@
         "9PLCL2VB2SC0",
         "9PNG83MDD6SH",
         "9PNRSC0J6DT8",
+        "9WZDNCRFHV60",
         "9WZDNCRFHWCP",
         "9WZDNCRFHWD2",
         "BPQZT43FWD49",
@@ -107344,6 +107318,7 @@
         "9PLCL2VB2SC0",
         "9PNG83MDD6SH",
         "9PNRSC0J6DT8",
+        "9WZDNCRFHV60",
         "9WZDNCRFHWCP",
         "9WZDNCRFHWD2",
         "BPQZT43FWD49",
@@ -107591,7 +107566,6 @@
         "9NMCRMS6WN78",
         "9NMF3KXT4P4G",
         "9NMNMS626R59",
-        "9NMNZ4CK59DM",
         "9NMPDV49K4TX",
         "9NMPVJ7TCFD0",
         "9NMS4SFNBGBH",
@@ -107751,7 +107725,6 @@
         "9PC4RWP34M2D",
         "9PCJT6TLCGGV",
         "9PCR3Z2MSM4T",
-        "9PD0Z90216RJ",
         "9PD5BM2Z8C4L",
         "9PD9SZGNCMDZ",
         "9PDC8J1BSV8B",
@@ -107817,6 +107790,7 @@
         "9PPH71DV44T7",
         "9PPP5344B3LS",
         "9PPR10S4JNLV",
+        "9WZDNCRFHV60",
         "9WZDNCRFHWCP",
         "9WZDNCRFHWD2",
         "9WZDNCRFHWFH",
@@ -107968,19 +107942,19 @@
           "requested": 80,
           "returned": 80,
           "status": "ok",
-          "url": "https://displaycatalog.mp.microsoft.com/v7.0/products?bigIds=9N21ZCV0JW6V%2C9N255K81XBD3%2C9N2GWLMCHJTN%2C9N2HB4MWG7HM%2C9N2J0FGV30DX%2C9N2PS831S84N%2C9N2S04LGXXH4%2C9N2SB04LKPFP%2C9N36BLQF3FX6%2C9N3DKKRHSJBT%2C9N3DWR830CVN%2C9N3F1LW9HC6C%2C9N3F9256SF8K%2C9N3KQH8183GD%2C9N3LGKGF3CC2%2C9N3NTDPJCD9Z%2C9N3XQQ1LHJ4X%2C9N40901WDQJD%2C9N42CT1J5WGW%2C9N42SSSX2MTG%2C9N431PX143P8%2C9N436FQM30HX%2C9N464X6CT772%2C9N4J937WLFPZ%2C9N4NKMXDZCX6%2C9N4PT8HGCDHQ%2C9N4TT1T7H400%2C9N4W31HSMVVD%2C9N4WHFF9HJ7H%2C9N4X0WFZ2STM%2C9N4X39HZ1CSQ%2C9N4ZMKC3GX4M%2C9N51FH42VQDS%2C9N51NR4GX891%2C9N5JRWWGMS1R%2C9N5K7HWXL4Q6%2C9N5PKH0KW2L1%2C9N5VHX8KMVNV%2C9N613NPQ9JJH%2C9N6639H7VGH4%2C9N66JJQFX3RX%2C9N6J4RNFPKKL%2C9N6JF50HZFW9%2C9N6KPQ0XMT2B%2C9N6PHQ93Z451%2C9N6WN0ZHZQ6W%2C9N6Z8DQXSQWH%2C9N7271QN4SGB%2C9N72DFC6GL91%2C9N72SFQ24KW8%2C9N732VFPMWKT%2C9N7358JZPX1Z%2C9N74KFV7253H%2C9N74SVVP5FS4%2C9N76QGDS5GJR%2C9N79TQTZTQQ4%2C9N7CJX93ZGWN%2C9N7GCF5SGCXC%2C9N7H29G7G485%2C9N7LPX50LSCH%2C9N7MVHP2R7VP%2C9N7P8GVMF6SS%2C9N7TFFRRZCC9%2C9N7V5R3VLMJZ%2C9N8117TM8JL3%2C9N863WLSHZGV%2C9N8BRH7PGJMJ%2C9N8C07SS8C9D%2C9N8C8L9MVQ89%2C9N8CD0XZKLP4%2C9N8D2CG0K9LL%2C9N8FQ28Z6QX3%2C9N8H4RRSRV2S%2C9N8KMNW6942X%2C9N8N7NZSVTG3%2C9N8NJ74FZTG9%2C9N8Q6DRTG22H%2C9N8RKWJT32L4%2C9N8RS7CW8CGL%2C9N9097G0XZMB&market=AT&languages=en-us&MS-CV=DGU1mcuYo0WMMp%2BF.1"
+          "url": "https://displaycatalog.mp.microsoft.com/v7.0/products?bigIds=9N21ZCV0JW6V%2C9N255K81XBD3%2C9N2GWLMCHJTN%2C9N2HB4MWG7HM%2C9N2J0FGV30DX%2C9N2PS831S84N%2C9N2S04LGXXH4%2C9N2SB04LKPFP%2C9N36BLQF3FX6%2C9N3DKKRHSJBT%2C9N3DWR830CVN%2C9N3F1LW9HC6C%2C9N3F9256SF8K%2C9N3KQH8183GD%2C9N3LGKGF3CC2%2C9N3NTDPJCD9Z%2C9N3XQQ1LHJ4X%2C9N40901WDQJD%2C9N42CT1J5WGW%2C9N42SSSX2MTG%2C9N431PX143P8%2C9N436FQM30HX%2C9N464X6CT772%2C9N4J937WLFPZ%2C9N4NKMXDZCX6%2C9N4PT8HGCDHQ%2C9N4TT1T7H400%2C9N4W31HSMVVD%2C9N4WHFF9HJ7H%2C9N4X0WFZ2STM%2C9N4X39HZ1CSQ%2C9N4ZMKC3GX4M%2C9N51FH42VQDS%2C9N51NR4GX891%2C9N5DDTDLTWCL%2C9N5JRWWGMS1R%2C9N5K7HWXL4Q6%2C9N5PKH0KW2L1%2C9N5VHX8KMVNV%2C9N613NPQ9JJH%2C9N6639H7VGH4%2C9N66JJQFX3RX%2C9N6J4RNFPKKL%2C9N6JF50HZFW9%2C9N6KPQ0XMT2B%2C9N6PHQ93Z451%2C9N6WN0ZHZQ6W%2C9N6Z8DQXSQWH%2C9N7271QN4SGB%2C9N72DFC6GL91%2C9N72SFQ24KW8%2C9N732VFPMWKT%2C9N7358JZPX1Z%2C9N74KFV7253H%2C9N74SVVP5FS4%2C9N76QGDS5GJR%2C9N79TQTZTQQ4%2C9N7CJX93ZGWN%2C9N7GCF5SGCXC%2C9N7H29G7G485%2C9N7LPX50LSCH%2C9N7MVHP2R7VP%2C9N7P8GVMF6SS%2C9N7TFFRRZCC9%2C9N7V5R3VLMJZ%2C9N8117TM8JL3%2C9N863WLSHZGV%2C9N8BRH7PGJMJ%2C9N8C07SS8C9D%2C9N8C8L9MVQ89%2C9N8CD0XZKLP4%2C9N8D2CG0K9LL%2C9N8FQ28Z6QX3%2C9N8H4RRSRV2S%2C9N8KMNW6942X%2C9N8N7NZSVTG3%2C9N8NJ74FZTG9%2C9N8Q6DRTG22H%2C9N8RKWJT32L4%2C9N8RS7CW8CGL&market=AT&languages=en-us&MS-CV=DGU1mcuYo0WMMp%2BF.1"
         },
         {
           "requested": 80,
           "returned": 80,
           "status": "ok",
-          "url": "https://displaycatalog.mp.microsoft.com/v7.0/products?bigIds=9N926481VT1Z%2C9N92LSHFZ935%2C9N93V5M3TG4N%2C9N944N1WP67T%2C9N94NCGM1Q2N%2C9N9C1TB18R3B%2C9N9C8SV0S16W%2C9N9DKMNL85XZ%2C9N9GCWL14F1N%2C9N9K5QP9G3GL%2C9N9PCZWHVP2L%2C9N9PDJ7Z8S2R%2C9N9QJG4S82B5%2C9N9X9PC8V9CP%2C9NB6BVL3MTG4%2C9NB993S1TWSH%2C9NBFGKQLMV33%2C9NBLGGH1Z6FB%2C9NBLGGH1Z6FQ%2C9NBLGGH3SHM5%2C9NBLGGH43KZB%2C9NBLGGH4PBBM%2C9NBLGGH4SPK6%2C9NBLGGH515BD%2C9NBLGGH5342P%2C9NBLGGH5WLR0%2C9NBLGGH6H0RV%2C9NBLHDB0WLHZ%2C9NBNXX6V9J43%2C9NBR2VXT87SJ%2C9NBZ7Z3JRXQ8%2C9NBZ9JF6TFMD%2C9NC0071DJ6XC%2C9NC4PV16GVT1%2C9NC7NRD0CM11%2C9NC9M1NCZ7SD%2C9NCDMPCPDTQF%2C9NCJSXWZTP88%2C9NCJWHHMVHR0%2C9NCLP4LV5K7Z%2C9NCNBWZSHZR5%2C9NCQ70MVCK24%2C9NCT87FKQ4GM%2C9NCT9L7NFHX7%2C9NCZ8W65H33V%2C9ND19JDMBS3R%2C9ND3HTTQ0GKB%2C9NDBKK9G0FHL%2C9NDC5LJS839S%2C9NDJLXD2X2DM%2C9NDJPHS21XXG%2C9NDJX252Q5BW%2C9NDKFJ6XDX2M%2C9NDLJ3HM721L%2C9NDP79SDLLLH%2C9NDV7FRVD7ML%2C9NF0D13RPX5L%2C9NF0RBL8SZL6%2C9NF5S7MLM8XT%2C9NF6TK6D2DL9%2C9NF6XPSBTTGB%2C9NF83PRZK6K3%2C9NFB47H2SDRX%2C9NFKN56ZBMR0%2C9NFQ1XMXDLN6%2C9NFT3TR6MN9W%2C9NFTC552K3GJ%2C9NFZSND3LPPN%2C9NG06CSMM97P%2C9NG07QJNK38J%2C9NG2F1Q062VV%2C9NG3KNWZ7RZ7%2C9NG66K0Z31LH%2C9NGCFDHR2MV3%2C9NGDQGHWZX13%2C9NGH1FK0RJGL%2C9NGL4GBPXM1G%2C9NGLST31DG26%2C9NGP0DJVKSFL%2C9NH019ZFFHTV&market=AT&languages=en-us&MS-CV=DGU1mcuYo0WMMp%2BF.1"
+          "url": "https://displaycatalog.mp.microsoft.com/v7.0/products?bigIds=9N9097G0XZMB%2C9N926481VT1Z%2C9N92LSHFZ935%2C9N93V5M3TG4N%2C9N944N1WP67T%2C9N94NCGM1Q2N%2C9N9C1TB18R3B%2C9N9C8SV0S16W%2C9N9DKMNL85XZ%2C9N9GCWL14F1N%2C9N9K5QP9G3GL%2C9N9PCZWHVP2L%2C9N9PDJ7Z8S2R%2C9N9QJG4S82B5%2C9N9X9PC8V9CP%2C9NB6BVL3MTG4%2C9NB993S1TWSH%2C9NBFGKQLMV33%2C9NBLGGH1Z6FB%2C9NBLGGH1Z6FQ%2C9NBLGGH3SHM5%2C9NBLGGH43KZB%2C9NBLGGH4PBBM%2C9NBLGGH4SPK6%2C9NBLGGH515BD%2C9NBLGGH5342P%2C9NBLGGH5WLR0%2C9NBLGGH6H0RV%2C9NBLHDB0WLHZ%2C9NBNXX6V9J43%2C9NBR2VXT87SJ%2C9NBZ7Z3JRXQ8%2C9NBZ9JF6TFMD%2C9NC0071DJ6XC%2C9NC4PV16GVT1%2C9NC7NRD0CM11%2C9NC9M1NCZ7SD%2C9NCDMPCPDTQF%2C9NCJSXWZTP88%2C9NCJWHHMVHR0%2C9NCLP4LV5K7Z%2C9NCNBWZSHZR5%2C9NCQ70MVCK24%2C9NCT87FKQ4GM%2C9NCT9L7NFHX7%2C9NCZ8W65H33V%2C9ND19JDMBS3R%2C9ND3HTTQ0GKB%2C9NDBKK9G0FHL%2C9NDC5LJS839S%2C9NDJLXD2X2DM%2C9NDJPHS21XXG%2C9NDJX252Q5BW%2C9NDKFJ6XDX2M%2C9NDLJ3HM721L%2C9NDP79SDLLLH%2C9NDV7FRVD7ML%2C9NF0D13RPX5L%2C9NF0RBL8SZL6%2C9NF5S7MLM8XT%2C9NF6TK6D2DL9%2C9NF6XPSBTTGB%2C9NF83PRZK6K3%2C9NFB47H2SDRX%2C9NFKN56ZBMR0%2C9NFQ1XMXDLN6%2C9NFT3TR6MN9W%2C9NFTC552K3GJ%2C9NFZSND3LPPN%2C9NG06CSMM97P%2C9NG07QJNK38J%2C9NG2F1Q062VV%2C9NG3KNWZ7RZ7%2C9NG66K0Z31LH%2C9NGCFDHR2MV3%2C9NGDQGHWZX13%2C9NGH1FK0RJGL%2C9NGL4GBPXM1G%2C9NGLST31DG26%2C9NGP0DJVKSFL&market=AT&languages=en-us&MS-CV=DGU1mcuYo0WMMp%2BF.1"
         },
         {
           "requested": 80,
           "returned": 80,
           "status": "ok",
-          "url": "https://displaycatalog.mp.microsoft.com/v7.0/products?bigIds=9NH0MSG29X6L%2C9NH8K4B707H0%2C9NHCT85MKHCV%2C9NHCW3R1JB1C%2C9NHKL695M9F2%2C9NHMC3SJBGZK%2C9NHMR19TS1M0%2C9NJ2FD5HJ7SB%2C9NJ2SFHNCCRV%2C9NJ5WV40PD08%2C9NJ67TQQ51Z0%2C9NJ71RH89RJ5%2C9NJC29JG70LM%2C9NJCVGS6T30K%2C9NJJVQZ3BVPX%2C9NJRRVNZ8MRJ%2C9NJRSC0B0K88%2C9NJWFF2KHL6H%2C9NJWTJSVGVLJ%2C9NK039GWVTVC%2C9NK13T4QFPQW%2C9NK2DT3K7DTF%2C9NK4NC5LFCQ7%2C9NK4NTBFWW81%2C9NK8947Z28XL%2C9NK9K07FDPJV%2C9NKBDN695GTT%2C9NKCCHCFTHV2%2C9NKD0MLJ3Z3X%2C9NKDZ44LZR2R%2C9NKFLWWM9CZ1%2C9NKFS43DLFFL%2C9NKGNMNK3K3Z%2C9NKHKBQJSSC3%2C9NKV34XDW014%2C9NKX70BBCDRN%2C9NL3468NRPBG%2C9NL4714VTLRS%2C9NL9QN69HCL7%2C9NLB6V0GNC9P%2C9NLD3ZRWF8DT%2C9NLFKBTNP2VJ%2C9NLFZVMSQ7CC%2C9NLHVWSFB0FC%2C9NLKS78C4F3Z%2C9NLNTDTW66CC%2C9NLRT31Z4RWM%2C9NLT5XR52ZS7%2C9NLZH0VNVSKR%2C9NLZZ74TFD7P%2C9NM395CH685J%2C9NM4WQ7TTH3J%2C9NM50L0DXX1W%2C9NM6NMBJ7ZK4%2C9NM7J25GMDHP%2C9NM857B8P3SC%2C9NM8GHT6CXN4%2C9NMB4T25W817%2C9NMBJQ0265ZK%2C9NMCDQ6RCJKH%2C9NMCRMS6WN78%2C9NMF3KXT4P4G%2C9NMNMS626R59%2C9NMNZ4CK59DM%2C9NMPDV49K4TX%2C9NMPVJ7TCFD0%2C9NMS4SFNBGBH%2C9NMW7RJ8FP94%2C9NN1M88HL5M6%2C9NN3HCKW5TPC%2C9NNFG8BQRCXL%2C9NNHK7K8RV9C%2C9NNKJNRKFT0G%2C9NNLBL0T2Z43%2C9NNM7PKZN3JF%2C9NNNMBXFFG4W%2C9NNPSTWT06VM%2C9NP1LC5MX609%2C9NP1P1WFS0LB%2C9NP6CV98V8M7&market=AT&languages=en-us&MS-CV=DGU1mcuYo0WMMp%2BF.1"
+          "url": "https://displaycatalog.mp.microsoft.com/v7.0/products?bigIds=9NH019ZFFHTV%2C9NH0MSG29X6L%2C9NH8K4B707H0%2C9NHCT85MKHCV%2C9NHCW3R1JB1C%2C9NHKL695M9F2%2C9NHMC3SJBGZK%2C9NHMR19TS1M0%2C9NJ2FD5HJ7SB%2C9NJ2SFHNCCRV%2C9NJ5WV40PD08%2C9NJ67TQQ51Z0%2C9NJ71RH89RJ5%2C9NJC29JG70LM%2C9NJCVGS6T30K%2C9NJJVQZ3BVPX%2C9NJRRVNZ8MRJ%2C9NJRSC0B0K88%2C9NJWFF2KHL6H%2C9NJWTJSVGVLJ%2C9NK039GWVTVC%2C9NK13T4QFPQW%2C9NK2DT3K7DTF%2C9NK4NC5LFCQ7%2C9NK4NTBFWW81%2C9NK8947Z28XL%2C9NK9K07FDPJV%2C9NKBDN695GTT%2C9NKCCHCFTHV2%2C9NKD0MLJ3Z3X%2C9NKDZ44LZR2R%2C9NKFLWWM9CZ1%2C9NKFS43DLFFL%2C9NKGNMNK3K3Z%2C9NKHKBQJSSC3%2C9NKV34XDW014%2C9NKX70BBCDRN%2C9NL3468NRPBG%2C9NL4714VTLRS%2C9NL9QN69HCL7%2C9NLB6V0GNC9P%2C9NLD3ZRWF8DT%2C9NLFKBTNP2VJ%2C9NLFZVMSQ7CC%2C9NLHVWSFB0FC%2C9NLKS78C4F3Z%2C9NLNTDTW66CC%2C9NLRT31Z4RWM%2C9NLT5XR52ZS7%2C9NLZH0VNVSKR%2C9NLZZ74TFD7P%2C9NM395CH685J%2C9NM4WQ7TTH3J%2C9NM50L0DXX1W%2C9NM6NMBJ7ZK4%2C9NM7J25GMDHP%2C9NM857B8P3SC%2C9NM8GHT6CXN4%2C9NMB4T25W817%2C9NMBJQ0265ZK%2C9NMCDQ6RCJKH%2C9NMCRMS6WN78%2C9NMF3KXT4P4G%2C9NMNMS626R59%2C9NMPDV49K4TX%2C9NMPVJ7TCFD0%2C9NMS4SFNBGBH%2C9NMW7RJ8FP94%2C9NN1M88HL5M6%2C9NN3HCKW5TPC%2C9NNFG8BQRCXL%2C9NNHK7K8RV9C%2C9NNKJNRKFT0G%2C9NNLBL0T2Z43%2C9NNM7PKZN3JF%2C9NNNMBXFFG4W%2C9NNPSTWT06VM%2C9NP1LC5MX609%2C9NP1P1WFS0LB%2C9NP6CV98V8M7&market=AT&languages=en-us&MS-CV=DGU1mcuYo0WMMp%2BF.1"
         },
         {
           "requested": 80,
@@ -108004,13 +107978,13 @@
           "requested": 80,
           "returned": 80,
           "status": "ok",
-          "url": "https://displaycatalog.mp.microsoft.com/v7.0/products?bigIds=9PCR3Z2MSM4T%2C9PCTJZRLV21G%2C9PD0Z90216RJ%2C9PD5BFNZ4V7K%2C9PD5BM2Z8C4L%2C9PD9SZGNCMDZ%2C9PDC8J1BSV8B%2C9PDC9X7BKZR3%2C9PDCBPJ8C47K%2C9PDCN8Z4HKRN%2C9PDDP6ML6XHF%2C9PDDRVKPF6KG%2C9PDGC1Z6ZHTP%2C9PDH3TB5548T%2C9PDKDBQGG2N2%2C9PDNF24PP2V2%2C9PDPD158GLKD%2C9PDS2N82QNXG%2C9PDZ14P56XRD%2C9PF2ZS4XB4JH%2C9PF432CVQBXT%2C9PF697TG7PP7%2C9PFNXM9G4N83%2C9PFRTPRQ569Q%2C9PFWZMT737GG%2C9PFXKRLVWJ0B%2C9PG0S835V6J5%2C9PGB72NFG5JN%2C9PGC82V0DXFS%2C9PGD71CMDS0Z%2C9PGFSLP8GWQK%2C9PGMNX4HG2C7%2C9PGQ76KP0WJL%2C9PGSDFM3JD85%2C9PGVZ5XPQ9SP%2C9PGZ346PSLN0%2C9PH9X0760B0T%2C9PHFTS44F99K%2C9PHGK0538TXM%2C9PHH1ZWRSZ41%2C9PHK9D8CLQCG%2C9PHKWCSZ0SQJ%2C9PHNM1C4T968%2C9PHPDGTRVGGL%2C9PHR6KG3D1RQ%2C9PHS0189K408%2C9PHTX5QZ035T%2C9PJ06TZX4NMH%2C9PJ45NJCHSFS%2C9PJ6FV3130QZ%2C9PJBKF27C16M%2C9PJD2KMX7TZ6%2C9PJFC8RLNPH5%2C9PJGM0T0827V%2C9PJLNG7448C6%2C9PJNXM82ZX47%2C9PJPCB188SVG%2C9PJPZ1DQD0WM%2C9PJPZK79N5VG%2C9PJRQHMCFQGS%2C9PJTHRNVH62H%2C9PK087LNGJC5%2C9PK09BL31FK1%2C9PK0DZ68LGC0%2C9PK2KH9WR7SB%2C9PK5WS0HXQKQ%2C9PK7TLLPD7GV%2C9PK8PHLCQDF6%2C9PKDX735TR8K%2C9PKF2LDFPXTN%2C9PKFL1XJT73S%2C9PKJ0532DTCW%2C9PKJTP6DTND3%2C9PKP39CL0C8D%2C9PKWHT7G60WQ%2C9PKZN9K2HXJ9%2C9PKZRN4RJRC9%2C9PL427M642BV%2C9PL89B9HCZ9W%2C9PLBH9J0XGR8&market=AT&languages=en-us&MS-CV=DGU1mcuYo0WMMp%2BF.1"
+          "url": "https://displaycatalog.mp.microsoft.com/v7.0/products?bigIds=9PCR3Z2MSM4T%2C9PCTJZRLV21G%2C9PD5BFNZ4V7K%2C9PD5BM2Z8C4L%2C9PD9SZGNCMDZ%2C9PDC8J1BSV8B%2C9PDC9X7BKZR3%2C9PDCBPJ8C47K%2C9PDCN8Z4HKRN%2C9PDDP6ML6XHF%2C9PDDRVKPF6KG%2C9PDGC1Z6ZHTP%2C9PDH3TB5548T%2C9PDKDBQGG2N2%2C9PDNF24PP2V2%2C9PDPD158GLKD%2C9PDS2N82QNXG%2C9PDZ14P56XRD%2C9PF2ZS4XB4JH%2C9PF432CVQBXT%2C9PF697TG7PP7%2C9PFNXM9G4N83%2C9PFRTPRQ569Q%2C9PFWZMT737GG%2C9PFXKRLVWJ0B%2C9PG0S835V6J5%2C9PGB72NFG5JN%2C9PGC82V0DXFS%2C9PGD71CMDS0Z%2C9PGFSLP8GWQK%2C9PGMNX4HG2C7%2C9PGQ76KP0WJL%2C9PGSDFM3JD85%2C9PGVZ5XPQ9SP%2C9PGZ346PSLN0%2C9PH9X0760B0T%2C9PHFTS44F99K%2C9PHGK0538TXM%2C9PHH1ZWRSZ41%2C9PHK9D8CLQCG%2C9PHKWCSZ0SQJ%2C9PHNM1C4T968%2C9PHPDGTRVGGL%2C9PHR6KG3D1RQ%2C9PHS0189K408%2C9PHTX5QZ035T%2C9PJ06TZX4NMH%2C9PJ45NJCHSFS%2C9PJ6FV3130QZ%2C9PJBKF27C16M%2C9PJD2KMX7TZ6%2C9PJFC8RLNPH5%2C9PJGM0T0827V%2C9PJLNG7448C6%2C9PJNXM82ZX47%2C9PJPCB188SVG%2C9PJPZ1DQD0WM%2C9PJPZK79N5VG%2C9PJRQHMCFQGS%2C9PJTHRNVH62H%2C9PK087LNGJC5%2C9PK09BL31FK1%2C9PK0DZ68LGC0%2C9PK2KH9WR7SB%2C9PK5WS0HXQKQ%2C9PK7TLLPD7GV%2C9PK8PHLCQDF6%2C9PKDX735TR8K%2C9PKF2LDFPXTN%2C9PKFL1XJT73S%2C9PKJ0532DTCW%2C9PKJTP6DTND3%2C9PKP39CL0C8D%2C9PKWHT7G60WQ%2C9PKZN9K2HXJ9%2C9PKZRN4RJRC9%2C9PL427M642BV%2C9PL89B9HCZ9W%2C9PLBH9J0XGR8%2C9PLCL2VB2SC0&market=AT&languages=en-us&MS-CV=DGU1mcuYo0WMMp%2BF.1"
         },
         {
           "requested": 80,
           "returned": 80,
           "status": "ok",
-          "url": "https://displaycatalog.mp.microsoft.com/v7.0/products?bigIds=9PLCL2VB2SC0%2C9PLF73SS7M6J%2C9PLFD17M47K3%2C9PLGBZWN65RG%2C9PLH7R84GJWP%2C9PLKVSWR299F%2C9PLMGFWCFZ9G%2C9PLRP6PHV6XP%2C9PLSCHRN5715%2C9PLVVTDHS1P0%2C9PM3J18QM4Q3%2C9PM709J61828%2C9PMBB7NGHV95%2C9PMHGHXLGLJM%2C9PMQDM08SNK9%2C9PMVJR05PFJW%2C9PMX3SK2RMG4%2C9PMXPQ307Z5P%2C9PMZ9LB06T8D%2C9PN0LC4CNLPT%2C9PN3SWBMPJXJ%2C9PN3VDFTB5HZ%2C9PN8M16GG8M4%2C9PNG83MDD6SH%2C9PNGFSX7S117%2C9PNRHXZ6ZSS9%2C9PNRLJNDPP4G%2C9PNRSC0J6DT8%2C9PP7XSG5LDH1%2C9PP837L3Q75D%2C9PPBNCXP0096%2C9PPF72ZH6RP8%2C9PPH71DV44T7%2C9PPJGBJ2LGV9%2C9PPKR9N31BW6%2C9PPP5344B3LS%2C9PPR10S4JNLV%2C9WZDNCRFHWCP%2C9WZDNCRFHWD2%2C9WZDNCRFHWFH%2C9WZDNCRFJBFJ%2CBNBWFH89FCF1%2CBNCZHKWRZ7BR%2CBNKDKQXMXRR2%2CBNKKJL1VRR5P%2CBNN7BPDZ6GQB%2CBNRH7BRC1D02%2CBNSDHDK45KBR%2CBP15SF17LH13%2CBP6V6QZBMFP0%2CBP73LMGB1DFD%2CBP96WRTVD7C1%2CBPBV3PCB0X44%2CBPKDQSSFQ9WV%2CBPL68T0XK96W%2CBPMJ413V6BB2%2CBPN08ZDRPSFK%2CBPNDKQN84N6L%2CBPPR6D5C2GLF%2CBPQZT43FWD49%2CBPR2TBS2KMQJ%2CBPRPQSKXTD1L%2CBPV4GXTDCNSH%2CBQ192SFB694X%2CBQ1W1T1FC14W%2CBQ4M1XWXFKHB%2CBQ9Q620NC614%2CBQ9S8ZKCT3Q7%2CBQ9T0JF0D3L4%2CBQBTGDT4P54J%2CBQG162F04T2L%2CBQMQ3K1BLV1T%2CBQMVWCMB8P59%2CBQND4NQXFFV2%2CBQR7QS0F8SJ3%2CBQRB60PW2SDL%2CBQT21VXFS52F%2CBQVQTL3PCH05%2CBR03N9C6Z9G6%2CBR1D9CR82ZM8&market=AT&languages=en-us&MS-CV=DGU1mcuYo0WMMp%2BF.1"
+          "url": "https://displaycatalog.mp.microsoft.com/v7.0/products?bigIds=9PLF73SS7M6J%2C9PLFD17M47K3%2C9PLGBZWN65RG%2C9PLH7R84GJWP%2C9PLKVSWR299F%2C9PLMGFWCFZ9G%2C9PLRP6PHV6XP%2C9PLSCHRN5715%2C9PLVVTDHS1P0%2C9PM3J18QM4Q3%2C9PM709J61828%2C9PMBB7NGHV95%2C9PMHGHXLGLJM%2C9PMQDM08SNK9%2C9PMVJR05PFJW%2C9PMX3SK2RMG4%2C9PMXPQ307Z5P%2C9PMZ9LB06T8D%2C9PN0LC4CNLPT%2C9PN3SWBMPJXJ%2C9PN3VDFTB5HZ%2C9PN8M16GG8M4%2C9PNG83MDD6SH%2C9PNGFSX7S117%2C9PNRHXZ6ZSS9%2C9PNRLJNDPP4G%2C9PNRSC0J6DT8%2C9PP7XSG5LDH1%2C9PP837L3Q75D%2C9PPBNCXP0096%2C9PPF72ZH6RP8%2C9PPH71DV44T7%2C9PPJGBJ2LGV9%2C9PPKR9N31BW6%2C9PPP5344B3LS%2C9PPR10S4JNLV%2C9WZDNCRFHV60%2C9WZDNCRFHWCP%2C9WZDNCRFHWD2%2C9WZDNCRFHWFH%2C9WZDNCRFJBFJ%2CBNBWFH89FCF1%2CBNCZHKWRZ7BR%2CBNKDKQXMXRR2%2CBNKKJL1VRR5P%2CBNN7BPDZ6GQB%2CBNRH7BRC1D02%2CBNSDHDK45KBR%2CBP15SF17LH13%2CBP6V6QZBMFP0%2CBP73LMGB1DFD%2CBP96WRTVD7C1%2CBPBV3PCB0X44%2CBPKDQSSFQ9WV%2CBPL68T0XK96W%2CBPMJ413V6BB2%2CBPN08ZDRPSFK%2CBPNDKQN84N6L%2CBPPR6D5C2GLF%2CBPQZT43FWD49%2CBPR2TBS2KMQJ%2CBPRPQSKXTD1L%2CBPV4GXTDCNSH%2CBQ192SFB694X%2CBQ1W1T1FC14W%2CBQ4M1XWXFKHB%2CBQ9Q620NC614%2CBQ9S8ZKCT3Q7%2CBQ9T0JF0D3L4%2CBQBTGDT4P54J%2CBQG162F04T2L%2CBQMQ3K1BLV1T%2CBQMVWCMB8P59%2CBQND4NQXFFV2%2CBQR7QS0F8SJ3%2CBQRB60PW2SDL%2CBQT21VXFS52F%2CBQVQTL3PCH05%2CBR03N9C6Z9G6%2CBR1D9CR82ZM8&market=AT&languages=en-us&MS-CV=DGU1mcuYo0WMMp%2BF.1"
         },
         {
           "requested": 80,
@@ -108122,6 +108096,7 @@
         "9PLCL2VB2SC0",
         "9PNG83MDD6SH",
         "9PNRSC0J6DT8",
+        "9WZDNCRFHV60",
         "9WZDNCRFHWCP",
         "9WZDNCRFHWD2",
         "BPQZT43FWD49",
@@ -108326,6 +108301,7 @@
         "9PK8PHLCQDF6",
         "9PLCL2VB2SC0",
         "9PNG83MDD6SH",
+        "9WZDNCRFHV60",
         "9WZDNCRFHWCP",
         "9WZDNCRFHWD2",
         "BPQZT43FWD49",
@@ -108548,7 +108524,6 @@
         "9NMCRMS6WN78",
         "9NMF3KXT4P4G",
         "9NMNMS626R59",
-        "9NMNZ4CK59DM",
         "9NMPDV49K4TX",
         "9NMPVJ7TCFD0",
         "9NMS4SFNBGBH",
@@ -108708,7 +108683,6 @@
         "9PC4RWP34M2D",
         "9PCJT6TLCGGV",
         "9PCR3Z2MSM4T",
-        "9PD0Z90216RJ",
         "9PD5BM2Z8C4L",
         "9PD9SZGNCMDZ",
         "9PDC8J1BSV8B",
@@ -108774,6 +108748,7 @@
         "9PPH71DV44T7",
         "9PPP5344B3LS",
         "9PPR10S4JNLV",
+        "9WZDNCRFHV60",
         "9WZDNCRFHWCP",
         "9WZDNCRFHWD2",
         "9WZDNCRFHWFH",
@@ -109050,7 +109025,6 @@
         "9NMCDQ6RCJKH",
         "9NMF3KXT4P4G",
         "9NMNMS626R59",
-        "9NMNZ4CK59DM",
         "9NMPVJ7TCFD0",
         "9NN3HCKW5TPC",
         "9NNFG8BQRCXL",
@@ -109518,7 +109492,6 @@
         "9NMCRMS6WN78",
         "9NMF3KXT4P4G",
         "9NMNMS626R59",
-        "9NMNZ4CK59DM",
         "9NMPDV49K4TX",
         "9NMPVJ7TCFD0",
         "9NMS4SFNBGBH",
@@ -109666,7 +109639,6 @@
         "9PC4RWP34M2D",
         "9PCJT6TLCGGV",
         "9PCR3Z2MSM4T",
-        "9PD0Z90216RJ",
         "9PD5BM2Z8C4L",
         "9PD9SZGNCMDZ",
         "9PDC8J1BSV8B",
@@ -109722,6 +109694,7 @@
         "9PPH71DV44T7",
         "9PPP5344B3LS",
         "9PPR10S4JNLV",
+        "9WZDNCRFHV60",
         "9WZDNCRFHWCP",
         "9WZDNCRFHWD2",
         "9WZDNCRFHWFH",
@@ -109865,6 +109838,7 @@
         "9N4ZMKC3GX4M",
         "9N51FH42VQDS",
         "9N51NR4GX891",
+        "9N5DDTDLTWCL",
         "9N5JRWWGMS1R",
         "9N5K7HWXL4Q6",
         "9N5PKH0KW2L1",
@@ -110054,7 +110028,6 @@
         "9NMCRMS6WN78",
         "9NMF3KXT4P4G",
         "9NMNMS626R59",
-        "9NMNZ4CK59DM",
         "9NMPDV49K4TX",
         "9NMPVJ7TCFD0",
         "9NMS4SFNBGBH",
@@ -110313,7 +110286,6 @@
         "9PCJT6TLCGGV",
         "9PCR3Z2MSM4T",
         "9PCTJZRLV21G",
-        "9PD0Z90216RJ",
         "9PD5BFNZ4V7K",
         "9PD5BM2Z8C4L",
         "9PD9SZGNCMDZ",
@@ -110428,6 +110400,7 @@
         "9PPKR9N31BW6",
         "9PPP5344B3LS",
         "9PPR10S4JNLV",
+        "9WZDNCRFHV60",
         "9WZDNCRFHWCP",
         "9WZDNCRFHWD2",
         "9WZDNCRFHWFH",
@@ -110724,6 +110697,7 @@
         "9N4X39HZ1CSQ",
         "9N51FH42VQDS",
         "9N51NR4GX891",
+        "9N5DDTDLTWCL",
         "9N5JRWWGMS1R",
         "9N5K7HWXL4Q6",
         "9N5PKH0KW2L1",
@@ -110839,7 +110813,6 @@
         "9NMCDQ6RCJKH",
         "9NMF3KXT4P4G",
         "9NMNMS626R59",
-        "9NMNZ4CK59DM",
         "9NMPVJ7TCFD0",
         "9NN3HCKW5TPC",
         "9NNFG8BQRCXL",
@@ -111391,6 +111364,7 @@
         "9N4ZMKC3GX4M",
         "9N51FH42VQDS",
         "9N51NR4GX891",
+        "9N5DDTDLTWCL",
         "9N5K7HWXL4Q6",
         "9N5PKH0KW2L1",
         "9N5VHX8KMVNV",
@@ -111552,7 +111526,6 @@
         "9NMCRMS6WN78",
         "9NMF3KXT4P4G",
         "9NMNMS626R59",
-        "9NMNZ4CK59DM",
         "9NMPDV49K4TX",
         "9NMPVJ7TCFD0",
         "9NMS4SFNBGBH",
@@ -111774,7 +111747,6 @@
         "9PCJT6TLCGGV",
         "9PCR3Z2MSM4T",
         "9PCTJZRLV21G",
-        "9PD0Z90216RJ",
         "9PD5BM2Z8C4L",
         "9PD9SZGNCMDZ",
         "9PDC8J1BSV8B",
@@ -111868,6 +111840,7 @@
         "9PPKR9N31BW6",
         "9PPP5344B3LS",
         "9PPR10S4JNLV",
+        "9WZDNCRFHV60",
         "9WZDNCRFHWCP",
         "9WZDNCRFHWD2",
         "9WZDNCRFHWFH",
@@ -111976,6 +111949,7 @@
       "9PLCL2VB2SC0",
       "9PNG83MDD6SH",
       "9PNRSC0J6DT8",
+      "9WZDNCRFHV60",
       "9WZDNCRFHWCP",
       "9WZDNCRFHWD2",
       "BPQZT43FWD49",
@@ -112067,6 +112041,7 @@
       "9N4WHFF9HJ7H",
       "9N4X39HZ1CSQ",
       "9N4ZMKC3GX4M",
+      "9N5DDTDLTWCL",
       "9N5VHX8KMVNV",
       "9N613NPQ9JJH",
       "9N6J4RNFPKKL",
@@ -112534,7 +112509,6 @@
       "9NMCDQ6RCJKH",
       "9NMF3KXT4P4G",
       "9NMNMS626R59",
-      "9NMNZ4CK59DM",
       "9NMPDV49K4TX",
       "9NMPVJ7TCFD0",
       "9NMS4SFNBGBH",
@@ -112670,7 +112644,6 @@
       "9PC4RWP34M2D",
       "9PCJT6TLCGGV",
       "9PCR3Z2MSM4T",
-      "9PD0Z90216RJ",
       "9PD9SZGNCMDZ",
       "9PDC8J1BSV8B",
       "9PDCN8Z4HKRN",
@@ -112820,7 +112793,7 @@
     {
       "count": 628,
       "description": "Discover your next favorite game",
-      "fetchedAt": "2026-11-10T13:30:35.930Z",
+      "fetchedAt": "2026-11-11T12:45:26.857Z",
       "platform": "console",
       "platformContext": "ConsoleGen8;ConsoleGen9",
       "platformLabel": "Console",
@@ -112837,7 +112810,7 @@
     {
       "count": 604,
       "description": "Discover your next favorite game",
-      "fetchedAt": "2026-11-10T13:30:35.930Z",
+      "fetchedAt": "2026-11-11T12:45:26.857Z",
       "platform": "pc",
       "platformContext": "pc",
       "platformLabel": "PC",
@@ -112852,14 +112825,14 @@
       "url": "https://catalog.gamepass.com/sigls/v3?id=97c6c862-d28a-4907-a3d5-c401f2296a53&language=en-us&market=AT&platformContext=pc&subscriptionContext=cfq7ttc0khs0"
     },
     {
-      "count": 429,
+      "count": 428,
       "description": "Games included in your Game Pass Premium membership",
-      "fetchedAt": "2026-11-10T13:30:35.930Z",
+      "fetchedAt": "2026-11-11T12:45:26.857Z",
       "platform": "console",
       "platformContext": "ConsoleGen8;ConsoleGen9",
       "platformLabel": "Console",
       "siglId": "09a72c0d-c466-426a-9580-b78955d8173a",
-      "sourceCount": 429,
+      "sourceCount": 428,
       "status": "ok",
       "subscriptionContext": "cfq7ttc0p85b",
       "swapsApplied": [],
@@ -112869,14 +112842,14 @@
       "url": "https://catalog.gamepass.com/sigls/v3?id=09a72c0d-c466-426a-9580-b78955d8173a&language=en-us&market=AT&platformContext=ConsoleGen8%3BConsoleGen9&subscriptionContext=cfq7ttc0p85b"
     },
     {
-      "count": 404,
+      "count": 403,
       "description": "Games included in your Game Pass Premium membership",
-      "fetchedAt": "2026-11-10T13:30:35.930Z",
+      "fetchedAt": "2026-11-11T12:45:26.857Z",
       "platform": "pc",
       "platformContext": "pc",
       "platformLabel": "PC",
       "siglId": "09a72c0d-c466-426a-9580-b78955d8173a",
-      "sourceCount": 404,
+      "sourceCount": 403,
       "status": "ok",
       "subscriptionContext": "cfq7ttc0p85b",
       "swapsApplied": [],
@@ -112888,7 +112861,7 @@
     {
       "count": 90,
       "description": "Games included in your Game Pass Essential membership",
-      "fetchedAt": "2026-11-10T13:30:35.930Z",
+      "fetchedAt": "2026-11-11T12:45:26.857Z",
       "platform": "console",
       "platformContext": "ConsoleGen8;ConsoleGen9",
       "platformLabel": "Console",
@@ -112903,14 +112876,14 @@
       "url": "https://catalog.gamepass.com/sigls/v3?id=34031711-5a70-4196-bab7-45757dc2294e&language=en-us&market=AT&platformContext=ConsoleGen8%3BConsoleGen9&subscriptionContext=cfq7ttc0k5dj"
     },
     {
-      "count": 83,
+      "count": 84,
       "description": "Games included in your Game Pass Essential membership",
-      "fetchedAt": "2026-11-10T13:30:35.930Z",
+      "fetchedAt": "2026-11-11T12:45:26.857Z",
       "platform": "pc",
       "platformContext": "pc",
       "platformLabel": "PC",
       "siglId": "34031711-5a70-4196-bab7-45757dc2294e",
-      "sourceCount": 83,
+      "sourceCount": 84,
       "status": "ok",
       "subscriptionContext": "cfq7ttc0k5dj",
       "swapsApplied": [],
