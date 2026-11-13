@@ -1,12 +1,12 @@
 {
-  "catalogHash": "ef8a254bc1f0601e8d6c85a1cedb8fae13d689d4caad26eafc39be747df75141",
+  "catalogHash": "3229fe939c032797452bf6e93f405f772d9d0def7776ec790fd42ab631cdd1cf",
   "counts": {
     "diffs": {
       "essentialNotPremium": 0,
       "essentialNotUltimate": 0,
-      "premiumNotEssential": 442,
+      "premiumNotEssential": 443,
       "premiumNotUltimate": 0,
-      "ultimateNotEssential": 788,
+      "ultimateNotEssential": 789,
       "ultimateNotPremium": 346
     },
     "leavingSoon": 13,
@@ -15,8 +15,8 @@
       "pc": 12
     },
     "platforms": {
-      "console": 631,
-      "pc": 607
+      "console": 632,
+      "pc": 610
     },
     "segments": {
       "allTiers": 122,
@@ -25,7 +25,7 @@
       "premiumOnly": 0,
       "ultimateEssential": 0,
       "ultimateOnly": 346,
-      "ultimatePremium": 442
+      "ultimatePremium": 443
     },
     "tierPlatforms": {
       "essential": {
@@ -33,20 +33,20 @@
         "pc": 84
       },
       "premium": {
-        "console": 430,
-        "pc": 405
+        "console": 431,
+        "pc": 408
       },
       "ultimate": {
-        "console": 631,
-        "pc": 607
+        "console": 632,
+        "pc": 610
       }
     },
     "tiers": {
       "essential": 122,
-      "premium": 564,
-      "ultimate": 910
+      "premium": 565,
+      "ultimate": 911
     },
-    "total": 910
+    "total": 911
   },
   "diffs": {
     "essentialNotPremium": [],
@@ -433,6 +433,7 @@
       "BSXSL6WBJ0V7",
       "BT9FFLG51VVG",
       "BTBWBGKPKS97",
+      "BTHC2G28X9H4",
       "BTNPS60N3114",
       "BV0K9LMLQ9W5",
       "BV0NSD4NN4V4",
@@ -1171,6 +1172,7 @@
       "BTBWBGKPKS97",
       "BTCS0LP052HL",
       "BTDRTXBKDBRR",
+      "BTHC2G28X9H4",
       "BTJ0T8C04ZBV",
       "BTMS1PXLQ6P6",
       "BTNPS60N3114",
@@ -1780,10 +1782,10 @@
     },
     {
       "availableInFR": true,
-      "boxArt": "https://store-images.s-microsoft.com/image/apps.30483.13735777332261166.046c4476-2fdb-4636-af17-eba2edfec19a.664f1e7f-e451-42b0-ab21-894af5236c52",
+      "boxArt": "https://store-images.s-microsoft.com/image/apps.3227.13735777332261166.ccc1adb2-25e3-4d4c-82ac-c5a7a8061a9f.acd12fc2-2318-40d7-b2fb-9e72c15ad955",
       "description": "A fast-paced roguelike kingdom builder. Grow your empire and fight massive battles against powerful rival kings. Break the game with thousands of insane builds to become the King of Kings.",
       "developer": "Sad Socket",
-      "familyKey": "9 kings game preview",
+      "familyKey": "9 kings",
       "familySchemaVersion": 1,
       "genres": [
         "Card & board",
@@ -1791,7 +1793,7 @@
         "Strategy"
       ],
       "heroArt": "https://store-images.s-microsoft.com/image/apps.47011.13735777332261166.046c4476-2fdb-4636-af17-eba2edfec19a.50b0e73b-c5c2-4cdc-81bb-18db3c0dbe49",
-      "id": "family-41fe6d7ce85ab6917cef2eeb01d41fe2cd472eb8692de5fbd59215ea5d8e5f5b",
+      "id": "family-cdb142fe29756abdb2a615e2609d37ce924f6546871726343f69f8e64b081b91",
       "leavingSoon": false,
       "leavingSoonPlatforms": [],
       "memberships": [
@@ -1814,25 +1816,25 @@
         "Online multiplayer (9)",
         "Single player"
       ],
-      "poster": "https://store-images.s-microsoft.com/image/apps.35509.13735777332261166.046c4476-2fdb-4636-af17-eba2edfec19a.b42db9c9-6f64-4b73-87f2-50f1121929ce",
+      "poster": "https://store-images.s-microsoft.com/image/apps.59638.13735777332261166.ccc1adb2-25e3-4d4c-82ac-c5a7a8061a9f.ce3dc6c1-ae4a-4e2d-adfc-a1449dc8667f",
       "primaryVariantId": "9NNM7PKZN3JF",
       "publisher": "Hooded Horse",
       "ratingId": "PEGI:12",
       "ratingSystem": "PEGI",
-      "releaseDate": "2025-08-14",
+      "releaseDate": "2026-11-12",
       "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.46499.13735777332261166.5394db02-c668-41cb-a4ca-b8088edda9f3.5f9003da-3d2d-4fb8-99fb-34d3ab3cd581?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.57804.13735777332261166.5394db02-c668-41cb-a4ca-b8088edda9f3.00a5b184-45fa-41ea-85fa-e770641e469b?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.36263.13735777332261166.7837b516-85da-4b9f-adc2-28b4958b4d04.a176c208-906a-4f87-8bc7-641a5982daf3?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.21636.13735777332261166.5394db02-c668-41cb-a4ca-b8088edda9f3.bb68010f-7f54-45a4-84eb-58567e8e0307?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.16986.13735777332261166.5394db02-c668-41cb-a4ca-b8088edda9f3.b1f7b7a2-be53-4426-9ee3-10ea31d8274f?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.61130.13735777332261166.5394db02-c668-41cb-a4ca-b8088edda9f3.0009f321-c2e8-4021-bf2d-d27df53c2d54?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.31450.13735777332261166.6a166aa1-af7b-4a6a-8f4f-b80d388b1aac.79a01273-7944-4e09-96ad-f4420379e8ea?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.45547.13735777332261166.5394db02-c668-41cb-a4ca-b8088edda9f3.983abf6b-040f-43af-9694-f3530901c457?w=640&h=360&q=80&format=jpg"
+        "https://store-images.s-microsoft.com/image/apps.56916.13735777332261166.ccc1adb2-25e3-4d4c-82ac-c5a7a8061a9f.00fada54-ea61-48e7-9fa7-0f751698d29a?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.60232.13735777332261166.ccc1adb2-25e3-4d4c-82ac-c5a7a8061a9f.4623a21a-57ac-454a-a702-da9637baa143?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.63861.13735777332261166.ccc1adb2-25e3-4d4c-82ac-c5a7a8061a9f.0a623085-8bf6-4ff5-addd-77d546d894a8?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.44388.13735777332261166.ccc1adb2-25e3-4d4c-82ac-c5a7a8061a9f.0b6fc44e-4bb6-4735-8523-4d919e082856?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.47047.13735777332261166.ccc1adb2-25e3-4d4c-82ac-c5a7a8061a9f.50e71124-23cf-4439-992c-928509af7afd?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.44896.13735777332261166.ccc1adb2-25e3-4d4c-82ac-c5a7a8061a9f.397661f8-bf26-4754-b365-1d479499a2f8?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.47153.13735777332261166.ccc1adb2-25e3-4d4c-82ac-c5a7a8061a9f.2091ac76-6b45-4a76-9ed7-8da62201d39a?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.39752.13735777332261166.ccc1adb2-25e3-4d4c-82ac-c5a7a8061a9f.aefd24bf-3812-416c-8d0c-ecc45e11dd81?w=640&h=360&q=80&format=jpg"
       ],
       "segment": "ultimatePremium",
       "shortDescription": "A fast-paced roguelike kingdom builder. Grow your empire and fight massive battles against powerful rival kings. Break the game with thousands of insane builds to become the King of Kings.",
-      "sortTitle": "9 kings (game preview)",
+      "sortTitle": "9 kings",
       "supportsCoop": false,
       "supportsLocalCoop": false,
       "supportsLocalMultiplayer": false,
@@ -1840,8 +1842,8 @@
       "supportsOnlineCoop": false,
       "supportsOnlineMultiplayer": true,
       "supportsSinglePlayer": true,
-      "title": "9 Kings (Game Preview)",
-      "url": "https://www.xbox.com/en-us/games/store/9-kings-game-preview/9NNM7PKZN3JF",
+      "title": "9 Kings",
+      "url": "https://www.xbox.com/en-us/games/store/9-kings/9NNM7PKZN3JF",
       "variantCount": 1,
       "variantIds": [
         "9NNM7PKZN3JF"
@@ -6368,14 +6370,14 @@
       "ratingSystem": "PEGI",
       "releaseDate": "2025-10-10",
       "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.52266.14559138935406168.28bbc47b-6ce4-45c1-abaf-5cd6481daa21.bbfbcff2-e3cb-48b1-9a60-6b0cddac4534?w=640&h=360&q=80&format=jpg",
         "https://store-images.s-microsoft.com/image/apps.1122.14559138935406168.40871830-a143-4187-beff-d90748b2cc2e.d6bce15f-6187-4a20-8e14-c28f357835cc?w=640&h=360&q=80&format=jpg",
         "https://store-images.s-microsoft.com/image/apps.65331.14559138935406168.a552728d-ea9c-4436-9368-acd4e635f067.5fe93851-3519-4f59-a3fe-628b6936d886?w=640&h=360&q=80&format=jpg",
         "https://store-images.s-microsoft.com/image/apps.49602.14559138935406168.a552728d-ea9c-4436-9368-acd4e635f067.9ae7f9cb-04dd-4811-a81f-59cd3172ddbc?w=640&h=360&q=80&format=jpg",
         "https://store-images.s-microsoft.com/image/apps.3059.14559138935406168.a552728d-ea9c-4436-9368-acd4e635f067.febea1db-671c-4fee-8403-a6fa8f0f9dc2?w=640&h=360&q=80&format=jpg",
         "https://store-images.s-microsoft.com/image/apps.60909.14559138935406168.40871830-a143-4187-beff-d90748b2cc2e.1b45992a-0500-47ce-bcc8-4f8681ebe1c5?w=640&h=360&q=80&format=jpg",
         "https://store-images.s-microsoft.com/image/apps.34452.14559138935406168.40871830-a143-4187-beff-d90748b2cc2e.e3d815e7-c65f-4061-95c2-c9c43747bfc6?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.15757.14559138935406168.a552728d-ea9c-4436-9368-acd4e635f067.40e14e32-212a-4a0f-b04a-0bf6de334a9e?w=640&h=360&q=80&format=jpg"
+        "https://store-images.s-microsoft.com/image/apps.15757.14559138935406168.a552728d-ea9c-4436-9368-acd4e635f067.40e14e32-212a-4a0f-b04a-0bf6de334a9e?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.55561.14559138935406168.a552728d-ea9c-4436-9368-acd4e635f067.025dbd2d-610f-46e8-9ae1-039f3457eb84?w=640&h=360&q=80&format=jpg"
       ],
       "segment": "ultimateOnly",
       "shortDescription": "The Best Selling Shooter of 2025",
@@ -16262,16 +16264,21 @@
       "pegiRating": "PEGI 12",
       "platformByTier": {
         "premium": [
-          "console"
+          "console",
+          "pc"
         ],
         "ultimate": [
-          "console"
+          "console",
+          "pc"
         ]
       },
       "platforms": [
-        "console"
+        "console",
+        "pc"
       ],
-      "playerModes": [],
+      "playerModes": [
+        "Single player"
+      ],
       "poster": "https://store-images.s-microsoft.com/image/apps.42981.63316511565903586.d62160f8-6032-426e-af13-d87fe2d204a7.f3794cc2-595b-4388-8533-73979efc2e4a",
       "primaryVariantId": "BXVCFBJBNS17",
       "publisher": "Bethesda Softworks",
@@ -16297,7 +16304,7 @@
       "supportsMultiplayer": false,
       "supportsOnlineCoop": false,
       "supportsOnlineMultiplayer": false,
-      "supportsSinglePlayer": false,
+      "supportsSinglePlayer": true,
       "title": "The Elder Scrolls III: Morrowind",
       "url": "https://www.xbox.com/en-us/games/store/the-elder-scrolls-iii-morrowind/BXVCFBJBNS17",
       "variantCount": 2,
@@ -22734,6 +22741,75 @@
     },
     {
       "availableInFR": true,
+      "boxArt": "https://store-images.s-microsoft.com/image/apps.5601.70863828853700397.56ab1f4a-a316-4055-8172-52200337d56f.20e8bf52-785b-499a-8671-e6c628861c5b",
+      "description": "Xbox 360 hard drive is required to use this item GAME-PLAY ALERT: This game has been fully tested to successfully play on your Xbox 360 console. However, in some cases, you may see some minor irregularities with audio/video for brief periods. For more details, see www.xbox.com/xboxoriginals. Take on the role of Cooper, a kid on a mission to rescue his girlfriend, who has been \"grabbed by the ghoulies.\" Venture through haunted and ominous Ghoulhaven Hall and battle it out with a variety of monst…",
+      "developer": "Rare®",
+      "familyKey": "grabbed by the ghoulies",
+      "familySchemaVersion": 1,
+      "genres": [
+        "Action & adventure"
+      ],
+      "heroArt": "https://store-images.s-microsoft.com/image/apps.41069.70863828853700397.56ab1f4a-a316-4055-8172-52200337d56f.72337d92-a8dc-4082-9774-479feb7044ea",
+      "id": "family-2dba58c3377649ef7a4426fff7ebd1d12fa27be758543397ed476730ad119c11",
+      "leavingSoon": false,
+      "leavingSoonPlatforms": [],
+      "memberships": [
+        "ultimate",
+        "premium"
+      ],
+      "pegiRating": "PEGI 3",
+      "platformByTier": {
+        "premium": [
+          "console",
+          "pc"
+        ],
+        "ultimate": [
+          "console",
+          "pc"
+        ]
+      },
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "playerModes": [
+        "Single player"
+      ],
+      "poster": "https://store-images.s-microsoft.com/image/apps.59433.70863828853700397.56ab1f4a-a316-4055-8172-52200337d56f.d0e37ded-a86f-4757-9ed4-1f68d310e177",
+      "primaryVariantId": "BTHC2G28X9H4",
+      "publisher": "Microsoft",
+      "ratingId": "PEGI:3",
+      "ratingSystem": "PEGI",
+      "releaseDate": "2003-11-21",
+      "screenshots": [
+        "https://store-images.s-microsoft.com/image/apps.31007.70863828853700397.56ab1f4a-a316-4055-8172-52200337d56f.ad713508-197b-4eae-810d-15c4b1741893?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.34537.70863828853700397.56ab1f4a-a316-4055-8172-52200337d56f.4db211bd-620f-40c4-95ac-dc6f97b62bd3?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.34542.70863828853700397.56ab1f4a-a316-4055-8172-52200337d56f.59f6f33c-6d8d-48c6-b932-3e7d1353377a?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.26157.70863828853700397.56ab1f4a-a316-4055-8172-52200337d56f.3413fbdd-af02-4264-8e9b-41febb6af4cc?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.6299.70863828853700397.56ab1f4a-a316-4055-8172-52200337d56f.6cb05929-bd71-428e-b949-033fdda88136?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.18104.70863828853700397.56ab1f4a-a316-4055-8172-52200337d56f.ddb0476b-5eb5-41df-a1fc-ae48867e47a5?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.51974.70863828853700397.56ab1f4a-a316-4055-8172-52200337d56f.271cc5e0-1221-4507-a26f-9eea3566193c?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.31642.70863828853700397.56ab1f4a-a316-4055-8172-52200337d56f.3bb1ec86-12c7-4e84-a468-20c7f88a21ea?w=640&h=360&q=80&format=jpg"
+      ],
+      "segment": "ultimatePremium",
+      "shortDescription": "Xbox 360 hard drive is required to use this item GAME-PLAY ALERT: This game has been fully tested to successfully play on your Xbox 360 console. However, in some cases, you may see some minor irregularities with audio/video for brief periods. For more details, see www.xbox.com/xboxoriginals. Take on the role of Cooper, a kid on a mission to rescue his girlfriend, who has been \"grabbed by the ghoulies.\" Venture through haunted and ominous Ghoulhaven Hall and battle it out with a variety of monst…",
+      "sortTitle": "grabbed by the ghoulies™",
+      "supportsCoop": false,
+      "supportsLocalCoop": false,
+      "supportsLocalMultiplayer": false,
+      "supportsMultiplayer": false,
+      "supportsOnlineCoop": false,
+      "supportsOnlineMultiplayer": false,
+      "supportsSinglePlayer": true,
+      "title": "Grabbed by the Ghoulies™",
+      "url": "https://www.xbox.com/en-us/games/store/grabbed-by-the-ghouliestm/BTHC2G28X9H4",
+      "variantCount": 1,
+      "variantIds": [
+        "BTHC2G28X9H4"
+      ]
+    },
+    {
+      "availableInFR": true,
       "boxArt": "https://store-images.s-microsoft.com/image/apps.32418.14119486704236036.abde8f1d-835f-498a-a443-5a7c4d6c7932.8d3deadc-c733-456f-970d-8b3f90a5e322",
       "description": "This game is a work in progress. It may or may not change over time or release as a final product. Purchase only if you are comfortable with the current state of the unfinished game. GRAVHOUNDS is a 1–4 player co-op action builder. Drop into hostile planets as a pack, build and defend your base in physics-driven mayhem, and extract with everything you can carry before you become alien chow.",
       "developer": "Octopus Panic, Inc",
@@ -26971,15 +27047,16 @@
     },
     {
       "availableInFR": true,
-      "boxArt": "https://store-images.s-microsoft.com/image/apps.2406.13846114870355423.c6d5bbc2-3a52-4589-8bbf-606749aa483c.beec8181-1284-48cd-ab19-5707462c15e4",
-      "description": "An online multiplayer, pottery party brawler where teams of colorful spirits sculpt ceramic battle armor on a pottery wheel, and the size and shape of your pots determine your play-style and abilities",
+      "boxArt": "https://store-images.s-microsoft.com/image/apps.57392.13846114870355423.e43ee5b3-300f-4323-b45f-d8368f69215d.ad130bf2-bb5c-4ab1-aa06-9a8ca642050f",
+      "description": "A multiplayer pottery party brawler all about creation and destruction. Assemble a team, sculpt your pot body out of clay, and enter the fray with one of three online modes or with some local co-op.",
       "developer": "Double Fine Productions",
       "familyKey": "kiln",
       "familySchemaVersion": 1,
       "genres": [
-        "Action & adventure"
+        "Action & adventure",
+        "Fighting"
       ],
-      "heroArt": "https://store-images.s-microsoft.com/image/apps.20929.13846114870355423.c6d5bbc2-3a52-4589-8bbf-606749aa483c.baefbe6e-d0f1-4fef-b5b5-5a40b9fffc4d",
+      "heroArt": "https://store-images.s-microsoft.com/image/apps.17375.13846114870355423.e43ee5b3-300f-4323-b45f-d8368f69215d.ff270445-c3d8-4764-81a8-a21272c69e8e",
       "id": "family-6a08b2471ed7a61896f6b515b6c8abc864550ddfab93b8aee5fa8180e5259158",
       "leavingSoon": false,
       "leavingSoonPlatforms": [],
@@ -26998,32 +27075,34 @@
         "pc"
       ],
       "playerModes": [
+        "Local multiplayer (2-4)",
+        "Online co-op",
         "Online multiplayer (2-8)"
       ],
-      "poster": "https://store-images.s-microsoft.com/image/apps.8202.13846114870355423.c6d5bbc2-3a52-4589-8bbf-606749aa483c.212d1263-476d-49c3-972d-3bc343d29dc0",
+      "poster": "https://store-images.s-microsoft.com/image/apps.48716.13846114870355423.e43ee5b3-300f-4323-b45f-d8368f69215d.b91169a5-fc95-467b-998b-0635ba722f98",
       "primaryVariantId": "9MW53ZKZH168",
-      "publisher": "Xbox Game Studios",
+      "publisher": "Double Fine Productions",
       "ratingId": "PEGI:7",
       "ratingSystem": "PEGI",
       "releaseDate": "2026-04-23",
       "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.13374.13846114870355423.c6d5bbc2-3a52-4589-8bbf-606749aa483c.0ea137bc-1885-4f7a-a710-c237a0815e7b?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.4049.13846114870355423.c6d5bbc2-3a52-4589-8bbf-606749aa483c.0839f57d-437b-4b9b-93fb-c72590df51e4?w=640&h=360&q=80&format=jpg",
         "https://store-images.s-microsoft.com/image/apps.51926.13846114870355423.c6d5bbc2-3a52-4589-8bbf-606749aa483c.8d0d227d-3c62-480d-b46a-43d8cfbcc71f?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.11517.13846114870355423.c6d5bbc2-3a52-4589-8bbf-606749aa483c.1cc901b5-a003-4a32-97c2-c005cf5d78c3?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.53021.13846114870355423.e43ee5b3-300f-4323-b45f-d8368f69215d.ce0edb44-bd67-44bb-8071-9242bc53edf9?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.19926.13846114870355423.c6d5bbc2-3a52-4589-8bbf-606749aa483c.fe1b9be6-6c37-43bb-ae11-410617f72cb8?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.4049.13846114870355423.c6d5bbc2-3a52-4589-8bbf-606749aa483c.0839f57d-437b-4b9b-93fb-c72590df51e4?w=640&h=360&q=80&format=jpg",
         "https://store-images.s-microsoft.com/image/apps.10326.13846114870355423.c6d5bbc2-3a52-4589-8bbf-606749aa483c.cdd31b6d-8e83-424b-9357-d80d088507c2?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.43501.13846114870355423.c6d5bbc2-3a52-4589-8bbf-606749aa483c.7845f8fb-28b1-4974-ae4c-4fd4aa74f5b1?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.24944.13846114870355423.c6d5bbc2-3a52-4589-8bbf-606749aa483c.9e939096-d3a0-4b4c-a7c5-67d07b6e04d2?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.12974.13846114870355423.e43ee5b3-300f-4323-b45f-d8368f69215d.3557cc2d-d39a-496a-9c25-2d44132d9bcd?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.40031.13846114870355423.e43ee5b3-300f-4323-b45f-d8368f69215d.38d76ca5-fa32-4f99-9cb5-453f5519076a?w=640&h=360&q=80&format=jpg",
         "https://store-images.s-microsoft.com/image/apps.2401.13846114870355423.c6d5bbc2-3a52-4589-8bbf-606749aa483c.3633e8d7-6b2f-453b-996d-4abdc09473a2?w=640&h=360&q=80&format=jpg"
       ],
       "segment": "ultimateOnly",
-      "shortDescription": "An online multiplayer, pottery party brawler where teams of colorful spirits sculpt ceramic battle armor on a pottery wheel, and the size and shape of your pots determine your play-style and abilities",
+      "shortDescription": "A multiplayer pottery party brawler all about creation and destruction. Assemble a team, sculpt your pot body out of clay, and enter the fray with one of three online modes or with some local co-op.",
       "sortTitle": "kiln",
-      "supportsCoop": false,
+      "supportsCoop": true,
       "supportsLocalCoop": false,
-      "supportsLocalMultiplayer": false,
+      "supportsLocalMultiplayer": true,
       "supportsMultiplayer": true,
-      "supportsOnlineCoop": false,
+      "supportsOnlineCoop": true,
       "supportsOnlineMultiplayer": true,
       "supportsSinglePlayer": false,
       "title": "Kiln",
@@ -33401,7 +33480,7 @@
     },
     {
       "availableInFR": true,
-      "boxArt": "https://store-images.s-microsoft.com/image/apps.60896.13916126641198036.09cb027a-0db0-4ac0-8459-ee6b87dc11cc.7ea3d42a-d6af-4971-9e27-8ce46e068504",
+      "boxArt": "https://store-images.s-microsoft.com/image/apps.53079.13916126641198036.7e5a4785-388f-47fb-b99e-33d1a78b811a.c1c0d7b0-d3fe-4dfb-bf76-d64828cc295e",
       "description": "Once Human is a multiplayer survival game set in the strange worlds.Join forces with friends to fight for survival, construct your sanctuary, and conquer terrifying aberrations to unravel the truth behind the apocalypse.",
       "developer": "NETEASE INTERACTIVE ENTERTAINMENT PTE.LTD",
       "familyKey": "once human",
@@ -33412,7 +33491,7 @@
         "Role playing",
         "Shooter"
       ],
-      "heroArt": "https://store-images.s-microsoft.com/image/apps.34360.13916126641198036.09cb027a-0db0-4ac0-8459-ee6b87dc11cc.e895c540-5b17-4918-b98e-fc33815dc308",
+      "heroArt": "https://store-images.s-microsoft.com/image/apps.8947.13916126641198036.7e5a4785-388f-47fb-b99e-33d1a78b811a.023e8116-6473-4d50-9b95-624b77ce8cf4",
       "id": "family-790f371fcd22dca3ed9d62bd4a6ac8d94a4a1296eb2ef4abb2ce1744142806d2",
       "leavingSoon": false,
       "leavingSoonPlatforms": [],
@@ -33444,7 +33523,7 @@
         "Online co-op",
         "Online multiplayer (2-100)"
       ],
-      "poster": "https://store-images.s-microsoft.com/image/apps.6246.13916126641198036.09cb027a-0db0-4ac0-8459-ee6b87dc11cc.41b67786-ad5b-43c9-acbb-7ea6151faf32",
+      "poster": "https://store-images.s-microsoft.com/image/apps.17259.13916126641198036.7e5a4785-388f-47fb-b99e-33d1a78b811a.4b270173-ed40-4d92-9b17-05fd926d9aef",
       "primaryVariantId": "9N0QWXC09MPT",
       "publisher": "NETEASE INTERACTIVE ENTERTAINMENT PTE.LTD",
       "ratingId": "PEGI:18",
@@ -51515,9 +51594,9 @@
     "diffs": {
       "essentialNotPremium": 0,
       "essentialNotUltimate": 0,
-      "premiumNotEssential": 379,
+      "premiumNotEssential": 380,
       "premiumNotUltimate": 0,
-      "ultimateNotEssential": 632,
+      "ultimateNotEssential": 633,
       "ultimateNotPremium": 253
     },
     "leavingSoon": 12,
@@ -51526,8 +51605,8 @@
       "pc": 12
     },
     "platforms": {
-      "console": 621,
-      "pc": 607
+      "console": 622,
+      "pc": 609
     },
     "segments": {
       "allTiers": 102,
@@ -51536,7 +51615,7 @@
       "premiumOnly": 0,
       "ultimateEssential": 0,
       "ultimateOnly": 253,
-      "ultimatePremium": 379
+      "ultimatePremium": 380
     },
     "tierPlatforms": {
       "essential": {
@@ -51544,20 +51623,20 @@
         "pc": 84
       },
       "premium": {
-        "console": 426,
-        "pc": 405
+        "console": 427,
+        "pc": 407
       },
       "ultimate": {
-        "console": 621,
-        "pc": 607
+        "console": 622,
+        "pc": 609
       }
     },
     "tiers": {
       "essential": 102,
-      "premium": 481,
-      "ultimate": 734
+      "premium": 482,
+      "ultimate": 735
     },
-    "total": 734
+    "total": 735
   },
   "familyDiffs": {
     "essentialNotPremium": [],
@@ -51634,6 +51713,7 @@
       "family-2b4ecebbcbf342e8a7b787e4eeb2febf18f86475658dc5fbe30f7ddd8f69d2fb",
       "family-2bb78f743a3430b74aaa44eada214e0f01bcc63209484122ac96c015be1018d4",
       "family-2bfd83eb00796e648971b9f7e064030c5ad743ea07ed385facd22a8323ceafa9",
+      "family-2dba58c3377649ef7a4426fff7ebd1d12fa27be758543397ed476730ad119c11",
       "family-2de3253233abe3896a6583c853316ab80332aa27d279c4972856dddaeac4beba",
       "family-2e42b44629b9c16325eac4df94d27cee6a58d47f658f9a0b3871f5e6613803de",
       "family-2ffe83ab79f3b8b996fac38ac949f1720162ed3b28ced1b04c1fd8efde963d61",
@@ -51662,7 +51742,6 @@
       "family-40e70c34d179a8f71784c859a0844f9bd4298259b5c942405d18fc107236d5a3",
       "family-417995f1ce431bcbc0dc44ae3e06058c45273ff0531d851208b8b1d130b8ebd9",
       "family-41de1fe345e849c6b01046ac234ff9684347b7c90f65bd5cfcb570763caae57c",
-      "family-41fe6d7ce85ab6917cef2eeb01d41fe2cd472eb8692de5fbd59215ea5d8e5f5b",
       "family-4242366ca69a3dcb77f60f234bb947a0823030e9ac99edbbf7110546f7575266",
       "family-42dc9c9b1c689f2e782e0944105ba43979ad3e87198dd38f4d0068882af5866e",
       "family-42e38217405e4dbde9efb9283d2ba28c948d63fce55de1dc81e344936ba74311",
@@ -51868,6 +51947,7 @@
       "family-cc93c1f45e2177decc3f8b9559bab5a4674ad50cc03a578075e624d030441048",
       "family-cc9896fd8d1a29611a82ac795253558b935b4fb2298ea7f600c837c60de7e96f",
       "family-cd199cc849043a99ee23607c34b8dd2b6d26946f26aac6eef8234eaba0664958",
+      "family-cdb142fe29756abdb2a615e2609d37ce924f6546871726343f69f8e64b081b91",
       "family-cdc1b05bfa92b2a0bb8ec56304f331a1bb6231bc4454fe4dc09c5ec83de61cad",
       "family-cf40d7a541572f0fb813b8b61ce905e5c66201bee7f8998ea6b3cfe083a7f325",
       "family-d08487de9d68acc71fa798d17c21735ea8d06611470bc9ca82532cd1226e7ee0",
@@ -52061,6 +52141,7 @@
       "family-2bfd83eb00796e648971b9f7e064030c5ad743ea07ed385facd22a8323ceafa9",
       "family-2c1a4af8a9b3d3dc89cdb47adb2523040581ded80ed7e74dde7322559762ce28",
       "family-2d8f00be983565100b18dc869286ff757ad9f16531dbcb6a63cfc82225ab17f6",
+      "family-2dba58c3377649ef7a4426fff7ebd1d12fa27be758543397ed476730ad119c11",
       "family-2de3253233abe3896a6583c853316ab80332aa27d279c4972856dddaeac4beba",
       "family-2e127ee93bb08a3c814b661d2236a46ace145ec504072c5ab0bbc117809e3753",
       "family-2e2ddef2cceed6608ac85003b0a15117c3c18efc481d35a81e4bff24cb12d333",
@@ -52110,7 +52191,6 @@
       "family-4148b7803d4c8c912501e336a2d6d0233d05de68c8036262bb278f84e43b58f9",
       "family-417995f1ce431bcbc0dc44ae3e06058c45273ff0531d851208b8b1d130b8ebd9",
       "family-41de1fe345e849c6b01046ac234ff9684347b7c90f65bd5cfcb570763caae57c",
-      "family-41fe6d7ce85ab6917cef2eeb01d41fe2cd472eb8692de5fbd59215ea5d8e5f5b",
       "family-4242366ca69a3dcb77f60f234bb947a0823030e9ac99edbbf7110546f7575266",
       "family-4270e5a2436244dd355f3fb52e64e3e6bfcbe4fa8a0a24f0afc08653fbd7e8ce",
       "family-42dc9c9b1c689f2e782e0944105ba43979ad3e87198dd38f4d0068882af5866e",
@@ -52454,6 +52534,7 @@
       "family-cd199cc849043a99ee23607c34b8dd2b6d26946f26aac6eef8234eaba0664958",
       "family-cd1bb1eb85459a4ed294438dcc34d57e432117be9ba0c7155aa5afad61e3194a",
       "family-cd992a18dd2575131bbc3e204d310ceca21e0961103ae1387477a74792b961f6",
+      "family-cdb142fe29756abdb2a615e2609d37ce924f6546871726343f69f8e64b081b91",
       "family-cdc1b05bfa92b2a0bb8ec56304f331a1bb6231bc4454fe4dc09c5ec83de61cad",
       "family-ce2fa162f7a8f7d13fdf6af00b759e44db9cdad021322f5041f074429b4cd4af",
       "family-cf10a5e9db8f9cb9837d5f8b36ccb8c6ac2b0da5331f4f0461d09944943520ab",
@@ -52834,7 +52915,7 @@
       "family-fd4705f4895fbd944ea692ce1e49c04e6d85c9eb013becebcca1704d7ea59bf9"
     ]
   },
-  "familyHash": "378a1e43c8521f34d3e175841c9c999a152a066d1b12766446de117bc0d08387",
+  "familyHash": "e4ad775a02dfc6029650a21648396fa853d85dbb132db7f1050963c2673805e1",
   "familySegments": {
     "allTiers": [
       "family-012e41cf02148984e24435be4dd5f3b1a699130cc5bbfdc12dd37bbfb5aae9aa",
@@ -53271,6 +53352,7 @@
       "family-2b4ecebbcbf342e8a7b787e4eeb2febf18f86475658dc5fbe30f7ddd8f69d2fb",
       "family-2bb78f743a3430b74aaa44eada214e0f01bcc63209484122ac96c015be1018d4",
       "family-2bfd83eb00796e648971b9f7e064030c5ad743ea07ed385facd22a8323ceafa9",
+      "family-2dba58c3377649ef7a4426fff7ebd1d12fa27be758543397ed476730ad119c11",
       "family-2de3253233abe3896a6583c853316ab80332aa27d279c4972856dddaeac4beba",
       "family-2e42b44629b9c16325eac4df94d27cee6a58d47f658f9a0b3871f5e6613803de",
       "family-2ffe83ab79f3b8b996fac38ac949f1720162ed3b28ced1b04c1fd8efde963d61",
@@ -53299,7 +53381,6 @@
       "family-40e70c34d179a8f71784c859a0844f9bd4298259b5c942405d18fc107236d5a3",
       "family-417995f1ce431bcbc0dc44ae3e06058c45273ff0531d851208b8b1d130b8ebd9",
       "family-41de1fe345e849c6b01046ac234ff9684347b7c90f65bd5cfcb570763caae57c",
-      "family-41fe6d7ce85ab6917cef2eeb01d41fe2cd472eb8692de5fbd59215ea5d8e5f5b",
       "family-4242366ca69a3dcb77f60f234bb947a0823030e9ac99edbbf7110546f7575266",
       "family-42dc9c9b1c689f2e782e0944105ba43979ad3e87198dd38f4d0068882af5866e",
       "family-42e38217405e4dbde9efb9283d2ba28c948d63fce55de1dc81e344936ba74311",
@@ -53505,6 +53586,7 @@
       "family-cc93c1f45e2177decc3f8b9559bab5a4674ad50cc03a578075e624d030441048",
       "family-cc9896fd8d1a29611a82ac795253558b935b4fb2298ea7f600c837c60de7e96f",
       "family-cd199cc849043a99ee23607c34b8dd2b6d26946f26aac6eef8234eaba0664958",
+      "family-cdb142fe29756abdb2a615e2609d37ce924f6546871726343f69f8e64b081b91",
       "family-cdc1b05bfa92b2a0bb8ec56304f331a1bb6231bc4454fe4dc09c5ec83de61cad",
       "family-cf40d7a541572f0fb813b8b61ce905e5c66201bee7f8998ea6b3cfe083a7f325",
       "family-d08487de9d68acc71fa798d17c21735ea8d06611470bc9ca82532cd1226e7ee0",
@@ -53712,7 +53794,7 @@
     },
     {
       "availableInFR": true,
-      "boxArt": "https://store-images.s-microsoft.com/image/apps.30483.13735777332261166.046c4476-2fdb-4636-af17-eba2edfec19a.664f1e7f-e451-42b0-ab21-894af5236c52",
+      "boxArt": "https://store-images.s-microsoft.com/image/apps.3227.13735777332261166.ccc1adb2-25e3-4d4c-82ac-c5a7a8061a9f.acd12fc2-2318-40d7-b2fb-9e72c15ad955",
       "description": "A fast-paced roguelike kingdom builder. Grow your empire and fight massive battles against powerful rival kings. Break the game with thousands of insane builds to become the King of Kings.",
       "developer": "Sad Socket",
       "genres": [
@@ -53744,24 +53826,24 @@
         "Online multiplayer (9)",
         "Single player"
       ],
-      "poster": "https://store-images.s-microsoft.com/image/apps.35509.13735777332261166.046c4476-2fdb-4636-af17-eba2edfec19a.b42db9c9-6f64-4b73-87f2-50f1121929ce",
+      "poster": "https://store-images.s-microsoft.com/image/apps.59638.13735777332261166.ccc1adb2-25e3-4d4c-82ac-c5a7a8061a9f.ce3dc6c1-ae4a-4e2d-adfc-a1449dc8667f",
       "publisher": "Hooded Horse",
       "ratingId": "PEGI:12",
       "ratingSystem": "PEGI",
-      "releaseDate": "2025-08-14",
+      "releaseDate": "2026-11-12",
       "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.46499.13735777332261166.5394db02-c668-41cb-a4ca-b8088edda9f3.5f9003da-3d2d-4fb8-99fb-34d3ab3cd581?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.57804.13735777332261166.5394db02-c668-41cb-a4ca-b8088edda9f3.00a5b184-45fa-41ea-85fa-e770641e469b?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.36263.13735777332261166.7837b516-85da-4b9f-adc2-28b4958b4d04.a176c208-906a-4f87-8bc7-641a5982daf3?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.21636.13735777332261166.5394db02-c668-41cb-a4ca-b8088edda9f3.bb68010f-7f54-45a4-84eb-58567e8e0307?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.16986.13735777332261166.5394db02-c668-41cb-a4ca-b8088edda9f3.b1f7b7a2-be53-4426-9ee3-10ea31d8274f?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.61130.13735777332261166.5394db02-c668-41cb-a4ca-b8088edda9f3.0009f321-c2e8-4021-bf2d-d27df53c2d54?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.31450.13735777332261166.6a166aa1-af7b-4a6a-8f4f-b80d388b1aac.79a01273-7944-4e09-96ad-f4420379e8ea?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.45547.13735777332261166.5394db02-c668-41cb-a4ca-b8088edda9f3.983abf6b-040f-43af-9694-f3530901c457?w=640&h=360&q=80&format=jpg"
+        "https://store-images.s-microsoft.com/image/apps.56916.13735777332261166.ccc1adb2-25e3-4d4c-82ac-c5a7a8061a9f.00fada54-ea61-48e7-9fa7-0f751698d29a?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.60232.13735777332261166.ccc1adb2-25e3-4d4c-82ac-c5a7a8061a9f.4623a21a-57ac-454a-a702-da9637baa143?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.63861.13735777332261166.ccc1adb2-25e3-4d4c-82ac-c5a7a8061a9f.0a623085-8bf6-4ff5-addd-77d546d894a8?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.44388.13735777332261166.ccc1adb2-25e3-4d4c-82ac-c5a7a8061a9f.0b6fc44e-4bb6-4735-8523-4d919e082856?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.47047.13735777332261166.ccc1adb2-25e3-4d4c-82ac-c5a7a8061a9f.50e71124-23cf-4439-992c-928509af7afd?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.44896.13735777332261166.ccc1adb2-25e3-4d4c-82ac-c5a7a8061a9f.397661f8-bf26-4754-b365-1d479499a2f8?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.47153.13735777332261166.ccc1adb2-25e3-4d4c-82ac-c5a7a8061a9f.2091ac76-6b45-4a76-9ed7-8da62201d39a?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.39752.13735777332261166.ccc1adb2-25e3-4d4c-82ac-c5a7a8061a9f.aefd24bf-3812-416c-8d0c-ecc45e11dd81?w=640&h=360&q=80&format=jpg"
       ],
       "segment": "ultimatePremium",
       "shortDescription": "A fast-paced roguelike kingdom builder. Grow your empire and fight massive battles against powerful rival kings. Break the game with thousands of insane builds to become the King of Kings.",
-      "sortTitle": "9 kings (game preview)",
+      "sortTitle": "9 kings",
       "supportsCoop": false,
       "supportsLocalCoop": false,
       "supportsLocalMultiplayer": false,
@@ -53769,8 +53851,8 @@
       "supportsOnlineCoop": false,
       "supportsOnlineMultiplayer": true,
       "supportsSinglePlayer": true,
-      "title": "9 Kings (Game Preview)",
-      "url": "https://www.xbox.com/en-us/games/store/9-kings-game-preview/9NNM7PKZN3JF"
+      "title": "9 Kings",
+      "url": "https://www.xbox.com/en-us/games/store/9-kings/9NNM7PKZN3JF"
     },
     {
       "availableInFR": true,
@@ -58672,14 +58754,14 @@
       "ratingSystem": "PEGI",
       "releaseDate": "2025-10-10",
       "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.52266.14559138935406168.28bbc47b-6ce4-45c1-abaf-5cd6481daa21.bbfbcff2-e3cb-48b1-9a60-6b0cddac4534?w=640&h=360&q=80&format=jpg",
         "https://store-images.s-microsoft.com/image/apps.1122.14559138935406168.40871830-a143-4187-beff-d90748b2cc2e.d6bce15f-6187-4a20-8e14-c28f357835cc?w=640&h=360&q=80&format=jpg",
         "https://store-images.s-microsoft.com/image/apps.65331.14559138935406168.a552728d-ea9c-4436-9368-acd4e635f067.5fe93851-3519-4f59-a3fe-628b6936d886?w=640&h=360&q=80&format=jpg",
         "https://store-images.s-microsoft.com/image/apps.49602.14559138935406168.a552728d-ea9c-4436-9368-acd4e635f067.9ae7f9cb-04dd-4811-a81f-59cd3172ddbc?w=640&h=360&q=80&format=jpg",
         "https://store-images.s-microsoft.com/image/apps.3059.14559138935406168.a552728d-ea9c-4436-9368-acd4e635f067.febea1db-671c-4fee-8403-a6fa8f0f9dc2?w=640&h=360&q=80&format=jpg",
         "https://store-images.s-microsoft.com/image/apps.60909.14559138935406168.40871830-a143-4187-beff-d90748b2cc2e.1b45992a-0500-47ce-bcc8-4f8681ebe1c5?w=640&h=360&q=80&format=jpg",
         "https://store-images.s-microsoft.com/image/apps.34452.14559138935406168.40871830-a143-4187-beff-d90748b2cc2e.e3d815e7-c65f-4061-95c2-c9c43747bfc6?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.15757.14559138935406168.a552728d-ea9c-4436-9368-acd4e635f067.40e14e32-212a-4a0f-b04a-0bf6de334a9e?w=640&h=360&q=80&format=jpg"
+        "https://store-images.s-microsoft.com/image/apps.15757.14559138935406168.a552728d-ea9c-4436-9368-acd4e635f067.40e14e32-212a-4a0f-b04a-0bf6de334a9e?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.55561.14559138935406168.a552728d-ea9c-4436-9368-acd4e635f067.025dbd2d-610f-46e8-9ae1-039f3457eb84?w=640&h=360&q=80&format=jpg"
       ],
       "segment": "ultimateOnly",
       "shortDescription": "The Best Selling Shooter of 2025",
@@ -69589,16 +69671,21 @@
       "pegiRating": "PEGI 12",
       "platformByTier": {
         "premium": [
-          "console"
+          "console",
+          "pc"
         ],
         "ultimate": [
-          "console"
+          "console",
+          "pc"
         ]
       },
       "platforms": [
-        "console"
+        "console",
+        "pc"
       ],
-      "playerModes": [],
+      "playerModes": [
+        "Single player"
+      ],
       "poster": "https://store-images.s-microsoft.com/image/apps.42981.63316511565903586.d62160f8-6032-426e-af13-d87fe2d204a7.f3794cc2-595b-4388-8533-73979efc2e4a",
       "publisher": "Bethesda Softworks",
       "ratingId": "PEGI:12",
@@ -69623,7 +69710,7 @@
       "supportsMultiplayer": false,
       "supportsOnlineCoop": false,
       "supportsOnlineMultiplayer": false,
-      "supportsSinglePlayer": false,
+      "supportsSinglePlayer": true,
       "title": "The Elder Scrolls III: Morrowind",
       "url": "https://www.xbox.com/en-us/games/store/the-elder-scrolls-iii-morrowind/BXVCFBJBNS17"
     },
@@ -69646,16 +69733,21 @@
       "pegiRating": "PEGI 12",
       "platformByTier": {
         "premium": [
-          "console"
+          "console",
+          "pc"
         ],
         "ultimate": [
-          "console"
+          "console",
+          "pc"
         ]
       },
       "platforms": [
-        "console"
+        "console",
+        "pc"
       ],
-      "playerModes": [],
+      "playerModes": [
+        "Single player"
+      ],
       "poster": "https://store-images.s-microsoft.com/image/apps.42981.64058972034305073.b87da33f-b9c2-4c9d-b9fa-46986dbd7e0b.40f58cd1-d126-4194-b732-c48649121908",
       "publisher": "Bethesda Softworks",
       "ratingId": "PEGI:12",
@@ -69680,7 +69772,7 @@
       "supportsMultiplayer": false,
       "supportsOnlineCoop": false,
       "supportsOnlineMultiplayer": false,
-      "supportsSinglePlayer": false,
+      "supportsSinglePlayer": true,
       "title": "The Elder Scrolls III: Morrowind",
       "url": "https://www.xbox.com/en-us/games/store/the-elder-scrolls-iii-morrowind/BZ4WD43D8DTS"
     },
@@ -76204,6 +76296,68 @@
     },
     {
       "availableInFR": true,
+      "boxArt": "https://store-images.s-microsoft.com/image/apps.5601.70863828853700397.56ab1f4a-a316-4055-8172-52200337d56f.20e8bf52-785b-499a-8671-e6c628861c5b",
+      "description": "Xbox 360 hard drive is required to use this item GAME-PLAY ALERT: This game has been fully tested to successfully play on your Xbox 360 console. However, in some cases, you may see some minor irregularities with audio/video for brief periods. For more details, see www.xbox.com/xboxoriginals. Take on the role of Cooper, a kid on a mission to rescue his girlfriend, who has been \"grabbed by the ghoulies.\" Venture through haunted and ominous Ghoulhaven Hall and battle it out with a variety of monst…",
+      "developer": "Rare®",
+      "genres": [
+        "Action & adventure"
+      ],
+      "heroArt": "https://store-images.s-microsoft.com/image/apps.41069.70863828853700397.56ab1f4a-a316-4055-8172-52200337d56f.72337d92-a8dc-4082-9774-479feb7044ea",
+      "id": "BTHC2G28X9H4",
+      "leavingSoon": false,
+      "leavingSoonPlatforms": [],
+      "memberships": [
+        "ultimate",
+        "premium"
+      ],
+      "pegiRating": "PEGI 3",
+      "platformByTier": {
+        "premium": [
+          "console",
+          "pc"
+        ],
+        "ultimate": [
+          "console",
+          "pc"
+        ]
+      },
+      "platforms": [
+        "console",
+        "pc"
+      ],
+      "playerModes": [
+        "Single player"
+      ],
+      "poster": "https://store-images.s-microsoft.com/image/apps.59433.70863828853700397.56ab1f4a-a316-4055-8172-52200337d56f.d0e37ded-a86f-4757-9ed4-1f68d310e177",
+      "publisher": "Microsoft",
+      "ratingId": "PEGI:3",
+      "ratingSystem": "PEGI",
+      "releaseDate": "2003-11-21",
+      "screenshots": [
+        "https://store-images.s-microsoft.com/image/apps.31007.70863828853700397.56ab1f4a-a316-4055-8172-52200337d56f.ad713508-197b-4eae-810d-15c4b1741893?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.34537.70863828853700397.56ab1f4a-a316-4055-8172-52200337d56f.4db211bd-620f-40c4-95ac-dc6f97b62bd3?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.34542.70863828853700397.56ab1f4a-a316-4055-8172-52200337d56f.59f6f33c-6d8d-48c6-b932-3e7d1353377a?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.26157.70863828853700397.56ab1f4a-a316-4055-8172-52200337d56f.3413fbdd-af02-4264-8e9b-41febb6af4cc?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.6299.70863828853700397.56ab1f4a-a316-4055-8172-52200337d56f.6cb05929-bd71-428e-b949-033fdda88136?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.18104.70863828853700397.56ab1f4a-a316-4055-8172-52200337d56f.ddb0476b-5eb5-41df-a1fc-ae48867e47a5?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.51974.70863828853700397.56ab1f4a-a316-4055-8172-52200337d56f.271cc5e0-1221-4507-a26f-9eea3566193c?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.31642.70863828853700397.56ab1f4a-a316-4055-8172-52200337d56f.3bb1ec86-12c7-4e84-a468-20c7f88a21ea?w=640&h=360&q=80&format=jpg"
+      ],
+      "segment": "ultimatePremium",
+      "shortDescription": "Xbox 360 hard drive is required to use this item GAME-PLAY ALERT: This game has been fully tested to successfully play on your Xbox 360 console. However, in some cases, you may see some minor irregularities with audio/video for brief periods. For more details, see www.xbox.com/xboxoriginals. Take on the role of Cooper, a kid on a mission to rescue his girlfriend, who has been \"grabbed by the ghoulies.\" Venture through haunted and ominous Ghoulhaven Hall and battle it out with a variety of monst…",
+      "sortTitle": "grabbed by the ghoulies™",
+      "supportsCoop": false,
+      "supportsLocalCoop": false,
+      "supportsLocalMultiplayer": false,
+      "supportsMultiplayer": false,
+      "supportsOnlineCoop": false,
+      "supportsOnlineMultiplayer": false,
+      "supportsSinglePlayer": true,
+      "title": "Grabbed by the Ghoulies™",
+      "url": "https://www.xbox.com/en-us/games/store/grabbed-by-the-ghouliestm/BTHC2G28X9H4"
+    },
+    {
+      "availableInFR": true,
       "boxArt": "https://store-images.s-microsoft.com/image/apps.32418.14119486704236036.abde8f1d-835f-498a-a443-5a7c4d6c7932.8d3deadc-c733-456f-970d-8b3f90a5e322",
       "description": "This game is a work in progress. It may or may not change over time or release as a final product. Purchase only if you are comfortable with the current state of the unfinished game. GRAVHOUNDS is a 1–4 player co-op action builder. Drop into hostile planets as a pack, build and defend your base in physics-driven mayhem, and extract with everything you can carry before you become alien chow.",
       "developer": "Octopus Panic, Inc",
@@ -80581,13 +80735,14 @@
     },
     {
       "availableInFR": true,
-      "boxArt": "https://store-images.s-microsoft.com/image/apps.2406.13846114870355423.c6d5bbc2-3a52-4589-8bbf-606749aa483c.beec8181-1284-48cd-ab19-5707462c15e4",
-      "description": "An online multiplayer, pottery party brawler where teams of colorful spirits sculpt ceramic battle armor on a pottery wheel, and the size and shape of your pots determine your play-style and abilities",
+      "boxArt": "https://store-images.s-microsoft.com/image/apps.57392.13846114870355423.e43ee5b3-300f-4323-b45f-d8368f69215d.ad130bf2-bb5c-4ab1-aa06-9a8ca642050f",
+      "description": "A multiplayer pottery party brawler all about creation and destruction. Assemble a team, sculpt your pot body out of clay, and enter the fray with one of three online modes or with some local co-op.",
       "developer": "Double Fine Productions",
       "genres": [
-        "Action & adventure"
+        "Action & adventure",
+        "Fighting"
       ],
-      "heroArt": "https://store-images.s-microsoft.com/image/apps.20929.13846114870355423.c6d5bbc2-3a52-4589-8bbf-606749aa483c.baefbe6e-d0f1-4fef-b5b5-5a40b9fffc4d",
+      "heroArt": "https://store-images.s-microsoft.com/image/apps.17375.13846114870355423.e43ee5b3-300f-4323-b45f-d8368f69215d.ff270445-c3d8-4764-81a8-a21272c69e8e",
       "id": "9MW53ZKZH168",
       "leavingSoon": false,
       "leavingSoonPlatforms": [],
@@ -80606,31 +80761,33 @@
         "pc"
       ],
       "playerModes": [
-        "Online multiplayer (2-8)"
+        "Local multiplayer (2-4)",
+        "Online multiplayer (2-8)",
+        "Online co-op"
       ],
-      "poster": "https://store-images.s-microsoft.com/image/apps.8202.13846114870355423.c6d5bbc2-3a52-4589-8bbf-606749aa483c.212d1263-476d-49c3-972d-3bc343d29dc0",
-      "publisher": "Xbox Game Studios",
+      "poster": "https://store-images.s-microsoft.com/image/apps.48716.13846114870355423.e43ee5b3-300f-4323-b45f-d8368f69215d.b91169a5-fc95-467b-998b-0635ba722f98",
+      "publisher": "Double Fine Productions",
       "ratingId": "PEGI:7",
       "ratingSystem": "PEGI",
       "releaseDate": "2026-04-23",
       "screenshots": [
-        "https://store-images.s-microsoft.com/image/apps.13374.13846114870355423.c6d5bbc2-3a52-4589-8bbf-606749aa483c.0ea137bc-1885-4f7a-a710-c237a0815e7b?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.4049.13846114870355423.c6d5bbc2-3a52-4589-8bbf-606749aa483c.0839f57d-437b-4b9b-93fb-c72590df51e4?w=640&h=360&q=80&format=jpg",
         "https://store-images.s-microsoft.com/image/apps.51926.13846114870355423.c6d5bbc2-3a52-4589-8bbf-606749aa483c.8d0d227d-3c62-480d-b46a-43d8cfbcc71f?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.11517.13846114870355423.c6d5bbc2-3a52-4589-8bbf-606749aa483c.1cc901b5-a003-4a32-97c2-c005cf5d78c3?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.53021.13846114870355423.e43ee5b3-300f-4323-b45f-d8368f69215d.ce0edb44-bd67-44bb-8071-9242bc53edf9?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.19926.13846114870355423.c6d5bbc2-3a52-4589-8bbf-606749aa483c.fe1b9be6-6c37-43bb-ae11-410617f72cb8?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.4049.13846114870355423.c6d5bbc2-3a52-4589-8bbf-606749aa483c.0839f57d-437b-4b9b-93fb-c72590df51e4?w=640&h=360&q=80&format=jpg",
         "https://store-images.s-microsoft.com/image/apps.10326.13846114870355423.c6d5bbc2-3a52-4589-8bbf-606749aa483c.cdd31b6d-8e83-424b-9357-d80d088507c2?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.43501.13846114870355423.c6d5bbc2-3a52-4589-8bbf-606749aa483c.7845f8fb-28b1-4974-ae4c-4fd4aa74f5b1?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.24944.13846114870355423.c6d5bbc2-3a52-4589-8bbf-606749aa483c.9e939096-d3a0-4b4c-a7c5-67d07b6e04d2?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.12974.13846114870355423.e43ee5b3-300f-4323-b45f-d8368f69215d.3557cc2d-d39a-496a-9c25-2d44132d9bcd?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.40031.13846114870355423.e43ee5b3-300f-4323-b45f-d8368f69215d.38d76ca5-fa32-4f99-9cb5-453f5519076a?w=640&h=360&q=80&format=jpg",
         "https://store-images.s-microsoft.com/image/apps.2401.13846114870355423.c6d5bbc2-3a52-4589-8bbf-606749aa483c.3633e8d7-6b2f-453b-996d-4abdc09473a2?w=640&h=360&q=80&format=jpg"
       ],
       "segment": "ultimateOnly",
-      "shortDescription": "An online multiplayer, pottery party brawler where teams of colorful spirits sculpt ceramic battle armor on a pottery wheel, and the size and shape of your pots determine your play-style and abilities",
+      "shortDescription": "A multiplayer pottery party brawler all about creation and destruction. Assemble a team, sculpt your pot body out of clay, and enter the fray with one of three online modes or with some local co-op.",
       "sortTitle": "kiln",
-      "supportsCoop": false,
+      "supportsCoop": true,
       "supportsLocalCoop": false,
-      "supportsLocalMultiplayer": false,
+      "supportsLocalMultiplayer": true,
       "supportsMultiplayer": true,
-      "supportsOnlineCoop": false,
+      "supportsOnlineCoop": true,
       "supportsOnlineMultiplayer": true,
       "supportsSinglePlayer": false,
       "title": "Kiln",
@@ -87517,7 +87674,7 @@
     },
     {
       "availableInFR": true,
-      "boxArt": "https://store-images.s-microsoft.com/image/apps.60896.13916126641198036.09cb027a-0db0-4ac0-8459-ee6b87dc11cc.7ea3d42a-d6af-4971-9e27-8ce46e068504",
+      "boxArt": "https://store-images.s-microsoft.com/image/apps.53079.13916126641198036.7e5a4785-388f-47fb-b99e-33d1a78b811a.c1c0d7b0-d3fe-4dfb-bf76-d64828cc295e",
       "description": "Once Human is a multiplayer survival game set in the strange worlds.Join forces with friends to fight for survival, construct your sanctuary, and conquer terrifying aberrations to unravel the truth behind the apocalypse.",
       "developer": "NETEASE INTERACTIVE ENTERTAINMENT PTE.LTD",
       "genres": [
@@ -87526,7 +87683,7 @@
         "Role playing",
         "Shooter"
       ],
-      "heroArt": "https://store-images.s-microsoft.com/image/apps.34360.13916126641198036.09cb027a-0db0-4ac0-8459-ee6b87dc11cc.e895c540-5b17-4918-b98e-fc33815dc308",
+      "heroArt": "https://store-images.s-microsoft.com/image/apps.8947.13916126641198036.7e5a4785-388f-47fb-b99e-33d1a78b811a.023e8116-6473-4d50-9b95-624b77ce8cf4",
       "id": "9N0QWXC09MPT",
       "leavingSoon": false,
       "leavingSoonPlatforms": [],
@@ -87558,7 +87715,7 @@
         "Online multiplayer (2-100)",
         "Online co-op"
       ],
-      "poster": "https://store-images.s-microsoft.com/image/apps.6246.13916126641198036.09cb027a-0db0-4ac0-8459-ee6b87dc11cc.41b67786-ad5b-43c9-acbb-7ea6151faf32",
+      "poster": "https://store-images.s-microsoft.com/image/apps.17259.13916126641198036.7e5a4785-388f-47fb-b99e-33d1a78b811a.4b270173-ed40-4d92-9b17-05fd926d9aef",
       "publisher": "NETEASE INTERACTIVE ENTERTAINMENT PTE.LTD",
       "ratingId": "PEGI:18",
       "ratingSystem": "PEGI",
@@ -107393,7 +107550,7 @@
       "url": "https://www.xbox.com/en-us/games/store/zumas-revenge/BR9MPWXFBCRC"
     }
   ],
-  "generatedAt": "2026-11-12T13:48:43.232Z",
+  "generatedAt": "2026-11-13T13:10:17.724Z",
   "labels": {
     "diffs": {
       "essentialNotPremium": "Essential not Premium",
@@ -107476,7 +107633,7 @@
     {
       "count": 12,
       "description": "Don't want the fun to end? Save on these games now.",
-      "fetchedAt": "2026-11-12T13:48:43.232Z",
+      "fetchedAt": "2026-11-13T13:10:17.724Z",
       "kind": "leavingSoon",
       "platform": "console",
       "platformLabel": "Console",
@@ -107490,7 +107647,7 @@
     {
       "count": 12,
       "description": "Don't want the fun to end? Save on these games now.",
-      "fetchedAt": "2026-11-12T13:48:43.232Z",
+      "fetchedAt": "2026-11-13T13:10:17.724Z",
       "kind": "leavingSoon",
       "platform": "pc",
       "platformLabel": "PC",
@@ -107506,8 +107663,8 @@
   "metadata": {
     "familyGrouping": {
       "collapsedProductCount": 176,
-      "familyCount": 734,
-      "productCount": 910,
+      "familyCount": 735,
+      "productCount": 911,
       "schemaVersion": 1,
       "strategy": "conservative-normalized-title"
     },
@@ -108238,6 +108395,7 @@
         "BSZM480TSWGP",
         "BT9FFLG51VVG",
         "BTBWBGKPKS97",
+        "BTHC2G28X9H4",
         "BTKN78H28RPV",
         "BTNPS60N3114",
         "BTQMHK78ZPF9",
@@ -108390,26 +108548,26 @@
           "requested": 80,
           "returned": 80,
           "status": "ok",
-          "url": "https://displaycatalog.mp.microsoft.com/v7.0/products?bigIds=BQVQTL3PCH05%2CBR03N9C6Z9G6%2CBR1D9CR82ZM8%2CBR27BSZ2M3SR%2CBR46KM4D5B9L%2CBR74RLMH966K%2CBR7QJW8V9L2S%2CBR7X7MVBBQKM%2CBR9MPWXFBCRC%2CBRBRQCVTJG2D%2CBRG51C5MWFSG%2CBRGPD72KHM3Q%2CBRJLJ6RPLQTJ%2CBRJNRZ9N734V%2CBRKMHZX1RCF2%2CBRKX5CRMRTC2%2CBRN6BHDHB58J%2CBRPGP6H8P26F%2CBRQH27C9RGXS%2CBRRC2BP0G9P0%2CBRRVN5198461%2CBRT1K9FV4LRR%2CBRXTM276DLPR%2CBRZHFR5XBLQS%2CBRZZLBF5T245%2CBS1NPTPJGD4G%2CBS34VNW7H61F%2CBS6WJ2L56B10%2CBS9SX4Q6XJRF%2CBSCCQL7DZ9KD%2CBSDX4FNNC0DK%2CBSHMMGRP84N4%2CBSJG7TTSWVJ2%2CBSLTQT4L0RLV%2CBSLX1RNXR6H7%2CBSMZH25V6V46%2CBSNZHRCKC13J%2CBSR9NLHVF1KL%2CBSXDD75Q561F%2CBSXLFN5QQZSC%2CBSXSL6WBJ0V7%2CBSZM480TSWGP%2CBT3KQ8HLLZ6K%2CBT5P2X999VH2%2CBT9FFLG51VVG%2CBTBWBGKPKS97%2CBTCS0LP052HL%2CBTDRTXBKDBRR%2CBTJ0T8C04ZBV%2CBTKN78H28RPV%2CBTMS1PXLQ6P6%2CBTNPS60N3114%2CBTQMHK78ZPF9%2CBTXM0C9C3B1S%2CBV05F8VT7JJ4%2CBV0K9LMLQ9W5%2CBV0NSD4NN4V4%2CBV2ZVP7PJZWL%2CBV5N90RDT0SH%2CBV6BRSLFJW3W%2CBV83SM3191S5%2CBV9CWVQWNS4P%2CBVCRSR6XSDW5%2CBVFB8CBS75R6%2CBVFDTJ1XF6CS%2CBVJLKDG2TX8H%2CBVQ3V30ZXVT5%2CBVR64CDJ01FJ%2CBVTKN6CQ8W5F%2CBW3T6SNS15BH%2CBW6B077FCH11%2CBW85KQB8Q31M%2CBW9TWC8L4JCS%2CBWHFZNSL0PB5%2CBWK0Q0RQMH7V%2CBWMH951M3G3P%2CBWT2GPVWCH2F%2CBWT5L9P3L60X%2CBWVBNCMF22ZK%2CBX03760D0QGN&market=AT&languages=en-us&MS-CV=DGU1mcuYo0WMMp%2BF.1"
+          "url": "https://displaycatalog.mp.microsoft.com/v7.0/products?bigIds=BQVQTL3PCH05%2CBR03N9C6Z9G6%2CBR1D9CR82ZM8%2CBR27BSZ2M3SR%2CBR46KM4D5B9L%2CBR74RLMH966K%2CBR7QJW8V9L2S%2CBR7X7MVBBQKM%2CBR9MPWXFBCRC%2CBRBRQCVTJG2D%2CBRG51C5MWFSG%2CBRGPD72KHM3Q%2CBRJLJ6RPLQTJ%2CBRJNRZ9N734V%2CBRKMHZX1RCF2%2CBRKX5CRMRTC2%2CBRN6BHDHB58J%2CBRPGP6H8P26F%2CBRQH27C9RGXS%2CBRRC2BP0G9P0%2CBRRVN5198461%2CBRT1K9FV4LRR%2CBRXTM276DLPR%2CBRZHFR5XBLQS%2CBRZZLBF5T245%2CBS1NPTPJGD4G%2CBS34VNW7H61F%2CBS6WJ2L56B10%2CBS9SX4Q6XJRF%2CBSCCQL7DZ9KD%2CBSDX4FNNC0DK%2CBSHMMGRP84N4%2CBSJG7TTSWVJ2%2CBSLTQT4L0RLV%2CBSLX1RNXR6H7%2CBSMZH25V6V46%2CBSNZHRCKC13J%2CBSR9NLHVF1KL%2CBSXDD75Q561F%2CBSXLFN5QQZSC%2CBSXSL6WBJ0V7%2CBSZM480TSWGP%2CBT3KQ8HLLZ6K%2CBT5P2X999VH2%2CBT9FFLG51VVG%2CBTBWBGKPKS97%2CBTCS0LP052HL%2CBTDRTXBKDBRR%2CBTHC2G28X9H4%2CBTJ0T8C04ZBV%2CBTKN78H28RPV%2CBTMS1PXLQ6P6%2CBTNPS60N3114%2CBTQMHK78ZPF9%2CBTXM0C9C3B1S%2CBV05F8VT7JJ4%2CBV0K9LMLQ9W5%2CBV0NSD4NN4V4%2CBV2ZVP7PJZWL%2CBV5N90RDT0SH%2CBV6BRSLFJW3W%2CBV83SM3191S5%2CBV9CWVQWNS4P%2CBVCRSR6XSDW5%2CBVFB8CBS75R6%2CBVFDTJ1XF6CS%2CBVJLKDG2TX8H%2CBVQ3V30ZXVT5%2CBVR64CDJ01FJ%2CBVTKN6CQ8W5F%2CBW3T6SNS15BH%2CBW6B077FCH11%2CBW85KQB8Q31M%2CBW9TWC8L4JCS%2CBWHFZNSL0PB5%2CBWK0Q0RQMH7V%2CBWMH951M3G3P%2CBWT2GPVWCH2F%2CBWT5L9P3L60X%2CBWVBNCMF22ZK&market=AT&languages=en-us&MS-CV=DGU1mcuYo0WMMp%2BF.1"
         },
         {
           "requested": 80,
           "returned": 80,
           "status": "ok",
-          "url": "https://displaycatalog.mp.microsoft.com/v7.0/products?bigIds=BX1DTCBD1HXJ%2CBX27S00SKW1V%2CBX3JNK07Z6QK%2CBX8FPDDRCLWT%2CBXBJQ1932138%2CBXF9VWKCD6QW%2CBXQQQQ8HRBSF%2CBXRB4ZH2GJHK%2CBXVCFBJBNS17%2CBXVQ8M4J9HNM%2CBXWJNW4170RM%2CBXZ0JDCPRV6C%2CBXZWT67JBZJH%2CBZ2N7TQ0XCF2%2CBZ4WD43D8DTS%2CBZ6W9LRPC26W%2CBZ910SG8ML8X%2CBZ92FB6PWXFJ%2CBZF7N4FQWHNR%2CBZGJRJC1FGF3%2CBZKZFMQG2K2K%2CBZPR04V49BMH%2CBZQQ7HX8PZ05%2CBZW2R4STVDNK%2CC040H652PD98%2CC042M8GWKS34%2CC07KJZRH0L7S%2CC0GWTPD0S8S1%2CC0KJ40T9QD86%2CC0N22P73QZ60%2CC0QDQ0KX4HDV%2CC0RNBFHQ7X96%2CC0SFCF4PBRSZ%2CC0SWGV4560W1%2CC0VQBXFNZ1Q0%2CC0X15TR4NP0B%2CC0X2HNVH08FB%2CC0X6N5963CTW%2CC0Z1N477W100%2CC11KKHB5H7QJ%2CC125W9BG2K0V%2CC17GQF31D617%2CC1C4DZJPBC2V%2CC1DDW4PRF6K5%2CC1SDBNRFXT1D%2CC1WRX8ZD77M9%2CC1ZT6N30L1WH%2CC1ZWH2BZ9TSF%2CC20WW4W29FQ1%2CC22T53SQ7FLM%2CC2484ZR2BWNQ%2CC26K4DVGR45B%2CC27XPR5XDMFT%2CC299QVC2BSJF%2CC29HQ887KH4B%2CC2B4T86TXLRS%2CC2CSDTSCBZ0C%2CC2DCJ95ZXBMS%2CC2DQXX0CB42F%2CC2HDBXXNXT7R%2CC2M8HBNVPT1T%2CC2N9CS4FS1QR%2CC2P985H1H42H%2CC2PB7STLJGS0%2CC2Q32JM0BPZL%2CC2R5R5P2DF3C%2CC2WKJJ9F5936%2CC2XNJC9WK15X%2CC350VBGGCL6P%2CC355T88BBX1S%2CC37XBX7DCBZ0%2CC3B1V55CDL0C%2CC3D891Z6TNQM%2CC3KLDKZBHNCZ%2CC3L4J3H7H12R%2CC3LW50BQJ878%2CC3NHWKLR94M9%2CC3QH42WRGM3R%2CC3SQQG5Q6Z64%2CC3VM0TMWNZ5M&market=AT&languages=en-us&MS-CV=DGU1mcuYo0WMMp%2BF.1"
+          "url": "https://displaycatalog.mp.microsoft.com/v7.0/products?bigIds=BX03760D0QGN%2CBX1DTCBD1HXJ%2CBX27S00SKW1V%2CBX3JNK07Z6QK%2CBX8FPDDRCLWT%2CBXBJQ1932138%2CBXF9VWKCD6QW%2CBXQQQQ8HRBSF%2CBXRB4ZH2GJHK%2CBXVCFBJBNS17%2CBXVQ8M4J9HNM%2CBXWJNW4170RM%2CBXZ0JDCPRV6C%2CBXZWT67JBZJH%2CBZ2N7TQ0XCF2%2CBZ4WD43D8DTS%2CBZ6W9LRPC26W%2CBZ910SG8ML8X%2CBZ92FB6PWXFJ%2CBZF7N4FQWHNR%2CBZGJRJC1FGF3%2CBZKZFMQG2K2K%2CBZPR04V49BMH%2CBZQQ7HX8PZ05%2CBZW2R4STVDNK%2CC040H652PD98%2CC042M8GWKS34%2CC07KJZRH0L7S%2CC0GWTPD0S8S1%2CC0KJ40T9QD86%2CC0N22P73QZ60%2CC0QDQ0KX4HDV%2CC0RNBFHQ7X96%2CC0SFCF4PBRSZ%2CC0SWGV4560W1%2CC0VQBXFNZ1Q0%2CC0X15TR4NP0B%2CC0X2HNVH08FB%2CC0X6N5963CTW%2CC0Z1N477W100%2CC11KKHB5H7QJ%2CC125W9BG2K0V%2CC17GQF31D617%2CC1C4DZJPBC2V%2CC1DDW4PRF6K5%2CC1SDBNRFXT1D%2CC1WRX8ZD77M9%2CC1ZT6N30L1WH%2CC1ZWH2BZ9TSF%2CC20WW4W29FQ1%2CC22T53SQ7FLM%2CC2484ZR2BWNQ%2CC26K4DVGR45B%2CC27XPR5XDMFT%2CC299QVC2BSJF%2CC29HQ887KH4B%2CC2B4T86TXLRS%2CC2CSDTSCBZ0C%2CC2DCJ95ZXBMS%2CC2DQXX0CB42F%2CC2HDBXXNXT7R%2CC2M8HBNVPT1T%2CC2N9CS4FS1QR%2CC2P985H1H42H%2CC2PB7STLJGS0%2CC2Q32JM0BPZL%2CC2R5R5P2DF3C%2CC2WKJJ9F5936%2CC2XNJC9WK15X%2CC350VBGGCL6P%2CC355T88BBX1S%2CC37XBX7DCBZ0%2CC3B1V55CDL0C%2CC3D891Z6TNQM%2CC3KLDKZBHNCZ%2CC3L4J3H7H12R%2CC3LW50BQJ878%2CC3NHWKLR94M9%2CC3QH42WRGM3R%2CC3SQQG5Q6Z64&market=AT&languages=en-us&MS-CV=DGU1mcuYo0WMMp%2BF.1"
         },
         {
-          "requested": 30,
-          "returned": 30,
+          "requested": 31,
+          "returned": 31,
           "status": "ok",
-          "url": "https://displaycatalog.mp.microsoft.com/v7.0/products?bigIds=C3VVNLQQ54F8%2CC4060P46HH4D%2CC40860J5R2MP%2CC41ZDFQ82M1G%2CC421ZX7RCG0W%2CC42KCJCLX6MX%2CC43H00X6KZRJ%2CC47GZZBMR5WG%2CC48LBRJJCP2L%2CC4B8XR1LCXR5%2CC4CBF3FHHCND%2CC4DMGRPNSHXG%2CC4F7ZHLN6B2J%2CC4G76555T4QN%2CC4GH8N6ZXG5L%2CC4GQQJJSZSZJ%2CC4HB1XWT02DK%2CC4HZC7LJG6PX%2CC4LLMHFQ1BXQ%2CC4SG06H48738%2CC4VKLMG1HLZW%2CC4VLMWJWM7BG%2CC4Z7QM8FSXM2%2CC521HDXRTS7F%2CC57L9GR0HHB7%2CC5DZFZ6NC5SQ%2CC5F2XDQPPJKZ%2CC5HHPG1TXDNG%2CC5JGRR1LFVW8%2CC5K89TFLSV19&market=AT&languages=en-us&MS-CV=DGU1mcuYo0WMMp%2BF.1"
+          "url": "https://displaycatalog.mp.microsoft.com/v7.0/products?bigIds=C3VM0TMWNZ5M%2CC3VVNLQQ54F8%2CC4060P46HH4D%2CC40860J5R2MP%2CC41ZDFQ82M1G%2CC421ZX7RCG0W%2CC42KCJCLX6MX%2CC43H00X6KZRJ%2CC47GZZBMR5WG%2CC48LBRJJCP2L%2CC4B8XR1LCXR5%2CC4CBF3FHHCND%2CC4DMGRPNSHXG%2CC4F7ZHLN6B2J%2CC4G76555T4QN%2CC4GH8N6ZXG5L%2CC4GQQJJSZSZJ%2CC4HB1XWT02DK%2CC4HZC7LJG6PX%2CC4LLMHFQ1BXQ%2CC4SG06H48738%2CC4VKLMG1HLZW%2CC4VLMWJWM7BG%2CC4Z7QM8FSXM2%2CC521HDXRTS7F%2CC57L9GR0HHB7%2CC5DZFZ6NC5SQ%2CC5F2XDQPPJKZ%2CC5HHPG1TXDNG%2CC5JGRR1LFVW8%2CC5K89TFLSV19&market=AT&languages=en-us&MS-CV=DGU1mcuYo0WMMp%2BF.1"
         }
       ],
       "endpoint": "DisplayCatalog",
       "language": "en-us",
       "market": "AT",
-      "requested": 910,
-      "returned": 910
+      "requested": 911,
+      "returned": 911
     },
     "productSwapMap": {
       "9PNQKHFLD2WQ": "9PNJXVCVWD4K"
@@ -109198,6 +109356,7 @@
         "BSZM480TSWGP",
         "BT9FFLG51VVG",
         "BTBWBGKPKS97",
+        "BTHC2G28X9H4",
         "BTKN78H28RPV",
         "BTNPS60N3114",
         "BTQMHK78ZPF9",
@@ -109630,6 +109789,7 @@
         "BSZM480TSWGP",
         "BT9FFLG51VVG",
         "BTBWBGKPKS97",
+        "BTHC2G28X9H4",
         "BTKN78H28RPV",
         "BTNPS60N3114",
         "BTQMHK78ZPF9",
@@ -110112,11 +110272,14 @@
         "BSLX1RNXR6H7",
         "BSMZH25V6V46",
         "BSR9NLHVF1KL",
+        "BTHC2G28X9H4",
         "BVFB8CBS75R6",
         "BWMH951M3G3P",
         "BWT2GPVWCH2F",
         "BX03760D0QGN",
         "BX1DTCBD1HXJ",
+        "BXVCFBJBNS17",
+        "BZ4WD43D8DTS",
         "C17GQF31D617",
         "C1ZT6N30L1WH",
         "C20WW4W29FQ1",
@@ -110898,6 +111061,7 @@
         "BTBWBGKPKS97",
         "BTCS0LP052HL",
         "BTDRTXBKDBRR",
+        "BTHC2G28X9H4",
         "BTJ0T8C04ZBV",
         "BTKN78H28RPV",
         "BTMS1PXLQ6P6",
@@ -111531,6 +111695,7 @@
         "BTBWBGKPKS97",
         "BTCS0LP052HL",
         "BTDRTXBKDBRR",
+        "BTHC2G28X9H4",
         "BTJ0T8C04ZBV",
         "BTKN78H28RPV",
         "BTMS1PXLQ6P6",
@@ -112268,11 +112433,14 @@
         "BSMZH25V6V46",
         "BSR9NLHVF1KL",
         "BT5P2X999VH2",
+        "BTHC2G28X9H4",
         "BVFB8CBS75R6",
         "BWMH951M3G3P",
         "BWT2GPVWCH2F",
         "BX03760D0QGN",
         "BX1DTCBD1HXJ",
+        "BXVCFBJBNS17",
+        "BZ4WD43D8DTS",
         "C17GQF31D617",
         "C1ZT6N30L1WH",
         "C20WW4W29FQ1",
@@ -113144,6 +113312,7 @@
       "BSXSL6WBJ0V7",
       "BT9FFLG51VVG",
       "BTBWBGKPKS97",
+      "BTHC2G28X9H4",
       "BTNPS60N3114",
       "BV0K9LMLQ9W5",
       "BV0NSD4NN4V4",
@@ -113209,14 +113378,14 @@
   },
   "sourceLists": [
     {
-      "count": 631,
+      "count": 632,
       "description": "Discover your next favorite game",
-      "fetchedAt": "2026-11-12T13:48:43.232Z",
+      "fetchedAt": "2026-11-13T13:10:17.724Z",
       "platform": "console",
       "platformContext": "ConsoleGen8;ConsoleGen9",
       "platformLabel": "Console",
       "siglId": "97c6c862-d28a-4907-a3d5-c401f2296a53",
-      "sourceCount": 631,
+      "sourceCount": 632,
       "status": "ok",
       "subscriptionContext": "cfq7ttc0khs0",
       "swapsApplied": [],
@@ -113226,14 +113395,14 @@
       "url": "https://catalog.gamepass.com/sigls/v3?id=97c6c862-d28a-4907-a3d5-c401f2296a53&language=en-us&market=AT&platformContext=ConsoleGen8%3BConsoleGen9&subscriptionContext=cfq7ttc0khs0"
     },
     {
-      "count": 607,
+      "count": 610,
       "description": "Discover your next favorite game",
-      "fetchedAt": "2026-11-12T13:48:43.232Z",
+      "fetchedAt": "2026-11-13T13:10:17.724Z",
       "platform": "pc",
       "platformContext": "pc",
       "platformLabel": "PC",
       "siglId": "97c6c862-d28a-4907-a3d5-c401f2296a53",
-      "sourceCount": 607,
+      "sourceCount": 610,
       "status": "ok",
       "subscriptionContext": "cfq7ttc0khs0",
       "swapsApplied": [],
@@ -113243,14 +113412,14 @@
       "url": "https://catalog.gamepass.com/sigls/v3?id=97c6c862-d28a-4907-a3d5-c401f2296a53&language=en-us&market=AT&platformContext=pc&subscriptionContext=cfq7ttc0khs0"
     },
     {
-      "count": 430,
+      "count": 431,
       "description": "Games included in your Game Pass Premium membership",
-      "fetchedAt": "2026-11-12T13:48:43.232Z",
+      "fetchedAt": "2026-11-13T13:10:17.724Z",
       "platform": "console",
       "platformContext": "ConsoleGen8;ConsoleGen9",
       "platformLabel": "Console",
       "siglId": "09a72c0d-c466-426a-9580-b78955d8173a",
-      "sourceCount": 430,
+      "sourceCount": 431,
       "status": "ok",
       "subscriptionContext": "cfq7ttc0p85b",
       "swapsApplied": [],
@@ -113260,14 +113429,14 @@
       "url": "https://catalog.gamepass.com/sigls/v3?id=09a72c0d-c466-426a-9580-b78955d8173a&language=en-us&market=AT&platformContext=ConsoleGen8%3BConsoleGen9&subscriptionContext=cfq7ttc0p85b"
     },
     {
-      "count": 405,
+      "count": 408,
       "description": "Games included in your Game Pass Premium membership",
-      "fetchedAt": "2026-11-12T13:48:43.232Z",
+      "fetchedAt": "2026-11-13T13:10:17.724Z",
       "platform": "pc",
       "platformContext": "pc",
       "platformLabel": "PC",
       "siglId": "09a72c0d-c466-426a-9580-b78955d8173a",
-      "sourceCount": 405,
+      "sourceCount": 408,
       "status": "ok",
       "subscriptionContext": "cfq7ttc0p85b",
       "swapsApplied": [],
@@ -113279,7 +113448,7 @@
     {
       "count": 90,
       "description": "Games included in your Game Pass Essential membership",
-      "fetchedAt": "2026-11-12T13:48:43.232Z",
+      "fetchedAt": "2026-11-13T13:10:17.724Z",
       "platform": "console",
       "platformContext": "ConsoleGen8;ConsoleGen9",
       "platformLabel": "Console",
@@ -113296,7 +113465,7 @@
     {
       "count": 84,
       "description": "Games included in your Game Pass Essential membership",
-      "fetchedAt": "2026-11-12T13:48:43.232Z",
+      "fetchedAt": "2026-11-13T13:10:17.724Z",
       "platform": "pc",
       "platformContext": "pc",
       "platformLabel": "PC",

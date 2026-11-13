@@ -1,38 +1,41 @@
 {
-  "actionRunNumber": "44",
-  "actionRunUrl": "https://github.com/ppazour/catabox/actions/runs/43230832500",
+  "actionRunNumber": "45",
+  "actionRunUrl": "https://github.com/ppazour/catabox/actions/runs/43431310204",
   "baseline": false,
-  "catalogGeneratedAt": "2026-11-12T13:48:43.232Z",
-  "catalogHash": "ef8a254bc1f0601e8d6c85a1cedb8fae13d689d4caad26eafc39be747df75141",
+  "catalogGeneratedAt": "2026-11-13T13:10:17.724Z",
+  "catalogHash": "3229fe939c032797452bf6e93f405f772d9d0def7776ec790fd42ab631cdd1cf",
   "changed": true,
   "errors": [],
   "eventCounts": {
-    "added": 4,
+    "added": 2,
+    "platform_added": 2,
     "removed": 1
   },
   "familyChanged": true,
   "familyEventCounts": {
-    "added": 4,
+    "added": 2,
+    "platform_added": 2,
     "removed": 1
   },
-  "familyHash": "378a1e43c8521f34d3e175841c9c999a152a066d1b12766446de117bc0d08387",
-  "generatedAt": "2026-11-12T13:48:43.232Z",
+  "familyHash": "e4ad775a02dfc6029650a21648396fa853d85dbb132db7f1050963c2673805e1",
+  "generatedAt": "2026-11-13T13:10:17.724Z",
   "language": "en-us",
-  "lastGoodCatalogHash": "ea65e8a7aff232879beac7225d452309f8bf781f47563a008f9f7b29c155807f",
-  "lastGoodGeneratedAt": "2026-11-11T12:45:26.857Z",
+  "lastGoodCatalogHash": "ef8a254bc1f0601e8d6c85a1cedb8fae13d689d4caad26eafc39be747df75141",
+  "lastGoodGeneratedAt": "2026-11-12T13:48:43.232Z",
   "leavingSoonAdded": [],
   "leavingSoonTotal": 12,
   "market": "AT",
   "productChanged": true,
   "productEventCounts": {
-    "added": 3
+    "added": 1,
+    "platform_added": 4
   },
-  "productTotal": 910,
+  "productTotal": 911,
   "sourceHealth": {
     "displayCatalog": {
       "missingProductIds": [],
-      "requested": 910,
-      "returned": 910,
+      "requested": 911,
+      "returned": 911,
       "status": "ok"
     },
     "leavingSoon": [
@@ -53,33 +56,33 @@
     ],
     "sigls": [
       {
-        "count": 631,
+        "count": 632,
         "platform": "console",
-        "sourceCount": 631,
+        "sourceCount": 632,
         "status": "ok",
         "tier": "ultimate",
         "url": "https://catalog.gamepass.com/sigls/v3?id=97c6c862-d28a-4907-a3d5-c401f2296a53&language=en-us&market=AT&platformContext=ConsoleGen8%3BConsoleGen9&subscriptionContext=cfq7ttc0khs0"
       },
       {
-        "count": 607,
+        "count": 610,
         "platform": "pc",
-        "sourceCount": 607,
+        "sourceCount": 610,
         "status": "ok",
         "tier": "ultimate",
         "url": "https://catalog.gamepass.com/sigls/v3?id=97c6c862-d28a-4907-a3d5-c401f2296a53&language=en-us&market=AT&platformContext=pc&subscriptionContext=cfq7ttc0khs0"
       },
       {
-        "count": 430,
+        "count": 431,
         "platform": "console",
-        "sourceCount": 430,
+        "sourceCount": 431,
         "status": "ok",
         "tier": "premium",
         "url": "https://catalog.gamepass.com/sigls/v3?id=09a72c0d-c466-426a-9580-b78955d8173a&language=en-us&market=AT&platformContext=ConsoleGen8%3BConsoleGen9&subscriptionContext=cfq7ttc0p85b"
       },
       {
-        "count": 405,
+        "count": 408,
         "platform": "pc",
-        "sourceCount": 405,
+        "sourceCount": 408,
         "status": "ok",
         "tier": "premium",
         "url": "https://catalog.gamepass.com/sigls/v3?id=09a72c0d-c466-426a-9580-b78955d8173a&language=en-us&market=AT&platformContext=pc&subscriptionContext=cfq7ttc0p85b"
@@ -103,6 +106,6 @@
     ]
   },
   "state": "success",
-  "total": 734,
+  "total": 735,
   "warnings": []
 }
