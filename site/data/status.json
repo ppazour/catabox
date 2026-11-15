@@ -1,24 +1,33 @@
 {
-  "actionRunNumber": "46",
-  "actionRunUrl": "https://github.com/ppazour/catabox/actions/runs/43593798270",
+  "actionRunNumber": "47",
+  "actionRunUrl": "https://github.com/ppazour/catabox/actions/runs/43715586307",
   "baseline": false,
-  "catalogGeneratedAt": "2026-11-14T12:14:19.352Z",
-  "catalogHash": "3229fe939c032797452bf6e93f405f772d9d0def7776ec790fd42ab631cdd1cf",
-  "changed": false,
+  "catalogGeneratedAt": "2026-11-15T12:47:09.493Z",
+  "catalogHash": "6432acc87ad652354262e5a43110212dd8ae9957a7190c75c8be53612a42d433",
+  "changed": true,
   "errors": [],
-  "eventCounts": {},
-  "familyChanged": false,
-  "familyEventCounts": {},
-  "familyHash": "e4ad775a02dfc6029650a21648396fa853d85dbb132db7f1050963c2673805e1",
-  "generatedAt": "2026-11-14T12:14:19.352Z",
+  "eventCounts": {
+    "platform_added": 9,
+    "tier_added": 8
+  },
+  "familyChanged": true,
+  "familyEventCounts": {
+    "platform_added": 9,
+    "tier_added": 8
+  },
+  "familyHash": "0d8c7a6003f8abc4b519d22bc93bd2063dba90665a0a034793aec9f7a11388c0",
+  "generatedAt": "2026-11-15T12:47:09.493Z",
   "language": "en-us",
   "lastGoodCatalogHash": "3229fe939c032797452bf6e93f405f772d9d0def7776ec790fd42ab631cdd1cf",
-  "lastGoodGeneratedAt": "2026-11-13T13:10:17.724Z",
+  "lastGoodGeneratedAt": "2026-11-14T12:14:19.352Z",
   "leavingSoonAdded": [],
   "leavingSoonTotal": 12,
   "market": "AT",
-  "productChanged": false,
-  "productEventCounts": {},
+  "productChanged": true,
+  "productEventCounts": {
+    "platform_added": 9,
+    "tier_added": 9
+  },
   "productTotal": 911,
   "sourceHealth": {
     "displayCatalog": {
@@ -77,17 +86,17 @@
         "url": "https://catalog.gamepass.com/sigls/v3?id=09a72c0d-c466-426a-9580-b78955d8173a&language=en-us&market=AT&platformContext=pc&subscriptionContext=cfq7ttc0p85b"
       },
       {
-        "count": 90,
+        "count": 98,
         "platform": "console",
-        "sourceCount": 90,
+        "sourceCount": 98,
         "status": "ok",
         "tier": "essential",
         "url": "https://catalog.gamepass.com/sigls/v3?id=34031711-5a70-4196-bab7-45757dc2294e&language=en-us&market=AT&platformContext=ConsoleGen8%3BConsoleGen9&subscriptionContext=cfq7ttc0k5dj"
       },
       {
-        "count": 84,
+        "count": 85,
         "platform": "pc",
-        "sourceCount": 84,
+        "sourceCount": 85,
         "status": "ok",
         "tier": "essential",
         "url": "https://catalog.gamepass.com/sigls/v3?id=34031711-5a70-4196-bab7-45757dc2294e&language=en-us&market=AT&platformContext=pc&subscriptionContext=cfq7ttc0k5dj"
