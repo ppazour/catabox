@@ -1,13 +1,13 @@
 {
-  "catalogHash": "538a021efb4ac5cdf1cff624f7844726c5310209508e75f91edcd7ffca5c0bed",
+  "catalogHash": "bf30b85712ab98e6bfbd3c756009f9e2cacc99645bc83b97cc24ceb2cf4d3499",
   "counts": {
     "diffs": {
       "essentialNotPremium": 0,
       "essentialNotUltimate": 0,
-      "premiumNotEssential": 425,
+      "premiumNotEssential": 427,
       "premiumNotUltimate": 0,
-      "ultimateNotEssential": 770,
-      "ultimateNotPremium": 345
+      "ultimateNotEssential": 769,
+      "ultimateNotPremium": 342
     },
     "leavingSoon": 9,
     "leavingSoonPlatforms": {
@@ -19,22 +19,22 @@
       "pc": 599
     },
     "segments": {
-      "allTiers": 129,
+      "allTiers": 130,
       "essentialOnly": 0,
       "premiumEssential": 0,
       "premiumOnly": 0,
       "ultimateEssential": 0,
-      "ultimateOnly": 345,
-      "ultimatePremium": 425
+      "ultimateOnly": 342,
+      "ultimatePremium": 427
     },
     "tierPlatforms": {
       "essential": {
-        "console": 97,
-        "pc": 84
+        "console": 98,
+        "pc": 85
       },
       "premium": {
-        "console": 421,
-        "pc": 398
+        "console": 424,
+        "pc": 401
       },
       "ultimate": {
         "console": 621,
@@ -42,8 +42,8 @@
       }
     },
     "tiers": {
-      "essential": 129,
-      "premium": 554,
+      "essential": 130,
+      "premium": 557,
       "ultimate": 899
     },
     "total": 899
@@ -171,6 +171,7 @@
       "9NDV7FRVD7ML",
       "9NF0D13RPX5L",
       "9NF5S7MLM8XT",
+      "9NF6XPSBTTGB",
       "9NF83PRZK6K3",
       "9NFKN56ZBMR0",
       "9NFQ1XMXDLN6",
@@ -352,6 +353,8 @@
       "9PDNF24PP2V2",
       "9PDPD158GLKD",
       "9PDS2N82QNXG",
+      "9PF697TG7PP7",
+      "9PFNXM9G4N83",
       "9PFRTPRQ569Q",
       "9PFXKRLVWJ0B",
       "9PGFSLP8GWQK",
@@ -420,7 +423,6 @@
       "BSXLFN5QQZSC",
       "BT9FFLG51VVG",
       "BTBWBGKPKS97",
-      "BTHC2G28X9H4",
       "BTNPS60N3114",
       "BV0NSD4NN4V4",
       "BV5N90RDT0SH",
@@ -1140,7 +1142,6 @@
       "BTBWBGKPKS97",
       "BTCS0LP052HL",
       "BTDRTXBKDBRR",
-      "BTHC2G28X9H4",
       "BTJ0T8C04ZBV",
       "BTMS1PXLQ6P6",
       "BTNPS60N3114",
@@ -1324,7 +1325,6 @@
       "9NDLJ3HM721L",
       "9NDP79SDLLLH",
       "9NF6TK6D2DL9",
-      "9NF6XPSBTTGB",
       "9NFB47H2SDRX",
       "9NFT3TR6MN9W",
       "9NFZSND3LPPN",
@@ -1459,8 +1459,6 @@
       "9PDGC1Z6ZHTP",
       "9PDH3TB5548T",
       "9PDZ14P56XRD",
-      "9PF697TG7PP7",
-      "9PFNXM9G4N83",
       "9PFWZMT737GG",
       "9PG0S835V6J5",
       "9PGC82V0DXFS",
@@ -9320,10 +9318,15 @@
       "leavingSoon": false,
       "leavingSoonPlatforms": [],
       "memberships": [
-        "ultimate"
+        "ultimate",
+        "premium"
       ],
       "pegiRating": "PEGI 12",
       "platformByTier": {
+        "premium": [
+          "console",
+          "pc"
+        ],
         "ultimate": [
           "console",
           "pc"
@@ -9352,7 +9355,7 @@
         "https://store-images.s-microsoft.com/image/apps.20463.14206254537148158.a098af48-504b-470b-a76b-dc0ca032561a.bd50037d-b270-48db-83ca-f4fca487a38c?w=640&h=360&q=80&format=jpg",
         "https://store-images.s-microsoft.com/image/apps.47205.14206254537148158.a098af48-504b-470b-a76b-dc0ca032561a.9e222ce9-bf35-47ae-8a7b-46e8f60be736?w=640&h=360&q=80&format=jpg"
       ],
-      "segment": "ultimateOnly",
+      "segment": "ultimatePremium",
       "shortDescription": "Journey to the far corners of the Earth and unearth ancient horrors in this Lovecraftian narrative puzzle adventure and sequel to 2020’s critically acclaimed Call of the Sea",
       "sortTitle": "call of the elder gods",
       "supportsCoop": false,
@@ -22456,10 +22459,15 @@
       "leavingSoonPlatforms": [],
       "memberships": [
         "ultimate",
-        "premium"
+        "premium",
+        "essential"
       ],
       "pegiRating": "PEGI 3",
       "platformByTier": {
+        "essential": [
+          "console",
+          "pc"
+        ],
         "premium": [
           "console",
           "pc"
@@ -22492,7 +22500,7 @@
         "https://store-images.s-microsoft.com/image/apps.51974.70863828853700397.56ab1f4a-a316-4055-8172-52200337d56f.271cc5e0-1221-4507-a26f-9eea3566193c?w=640&h=360&q=80&format=jpg",
         "https://store-images.s-microsoft.com/image/apps.31642.70863828853700397.56ab1f4a-a316-4055-8172-52200337d56f.3bb1ec86-12c7-4e84-a468-20c7f88a21ea?w=640&h=360&q=80&format=jpg"
       ],
-      "segment": "ultimatePremium",
+      "segment": "allTiers",
       "shortDescription": "Xbox 360 hard drive is required to use this item GAME-PLAY ALERT: This game has been fully tested to successfully play on your Xbox 360 console. However, in some cases, you may see some minor irregularities with audio/video for brief periods. For more details, see www.xbox.com/xboxoriginals. Take on the role of Cooper, a kid on a mission to rescue his girlfriend, who has been \"grabbed by the ghoulies.\" Venture through haunted and ominous Ghoulhaven Hall and battle it out with a variety of monst…",
       "sortTitle": "grabbed by the ghoulies™",
       "supportsCoop": false,
@@ -24519,10 +24527,15 @@
       "leavingSoon": false,
       "leavingSoonPlatforms": [],
       "memberships": [
-        "ultimate"
+        "ultimate",
+        "premium"
       ],
       "pegiRating": "PEGI 18",
       "platformByTier": {
+        "premium": [
+          "console",
+          "pc"
+        ],
         "ultimate": [
           "console",
           "pc"
@@ -24551,7 +24564,7 @@
         "https://store-images.s-microsoft.com/image/apps.63050.13600359535610445.f7a34dd3-7908-4175-b489-40eb2c48ccf4.4b12968e-b5c2-4c9c-8a51-0487220b2d2a?w=640&h=360&q=80&format=jpg",
         "https://store-images.s-microsoft.com/image/apps.54106.13600359535610445.f7a34dd3-7908-4175-b489-40eb2c48ccf4.66a84014-e00b-4f86-9250-a2cc7975df9d?w=640&h=360&q=80&format=jpg"
       ],
-      "segment": "ultimateOnly",
+      "segment": "ultimatePremium",
       "shortDescription": "An intergalactic conspiracy threatens the fate of humanity! Team up with a wide cast of talking alien guns as you shoot, stab, and skate your way through the exotic locales to take down the bad guys and save your favorite species (humans)!",
       "sortTitle": "high on life 2",
       "supportsCoop": false,
@@ -38226,10 +38239,15 @@
       "leavingSoon": false,
       "leavingSoonPlatforms": [],
       "memberships": [
-        "ultimate"
+        "ultimate",
+        "premium"
       ],
       "pegiRating": "PEGI 12",
       "platformByTier": {
+        "premium": [
+          "console",
+          "pc"
+        ],
         "ultimate": [
           "console",
           "pc"
@@ -38260,7 +38278,7 @@
         "https://store-images.s-microsoft.com/image/apps.743.14201145446258372.e9f6bd4a-8cbe-4dc4-8262-9cc854ef7c1c.2d6ec5fa-d1be-4e1e-95d0-2dec7424b8a1?w=640&h=360&q=80&format=jpg",
         "https://store-images.s-microsoft.com/image/apps.23990.14201145446258372.e9f6bd4a-8cbe-4dc4-8262-9cc854ef7c1c.b8a14586-4179-4545-9e9f-73f72906c511?w=640&h=360&q=80&format=jpg"
       ],
-      "segment": "ultimateOnly",
+      "segment": "ultimatePremium",
       "shortDescription": "Roadside Research is a 1 to 4 player co-op gas station simulator. Except you’re aliens. And undercover. Do very human things like restocking shelves while preparing for the invasion. Just don’t get caught.",
       "sortTitle": "roadside research (game preview)",
       "supportsCoop": true,
@@ -50803,10 +50821,10 @@
     "diffs": {
       "essentialNotPremium": 0,
       "essentialNotUltimate": 0,
-      "premiumNotEssential": 363,
+      "premiumNotEssential": 365,
       "premiumNotUltimate": 0,
-      "ultimateNotEssential": 615,
-      "ultimateNotPremium": 252
+      "ultimateNotEssential": 614,
+      "ultimateNotPremium": 249
     },
     "leavingSoon": 8,
     "leavingSoonPlatforms": {
@@ -50818,22 +50836,22 @@
       "pc": 598
     },
     "segments": {
-      "allTiers": 109,
+      "allTiers": 110,
       "essentialOnly": 0,
       "premiumEssential": 0,
       "premiumOnly": 0,
       "ultimateEssential": 0,
-      "ultimateOnly": 252,
-      "ultimatePremium": 363
+      "ultimateOnly": 249,
+      "ultimatePremium": 365
     },
     "tierPlatforms": {
       "essential": {
-        "console": 95,
-        "pc": 84
+        "console": 96,
+        "pc": 85
       },
       "premium": {
-        "console": 417,
-        "pc": 397
+        "console": 420,
+        "pc": 400
       },
       "ultimate": {
         "console": 611,
@@ -50841,8 +50859,8 @@
       }
     },
     "tiers": {
-      "essential": 109,
-      "premium": 472,
+      "essential": 110,
+      "premium": 475,
       "ultimate": 724
     },
     "total": 724
@@ -50921,7 +50939,6 @@
       "family-2b4ecebbcbf342e8a7b787e4eeb2febf18f86475658dc5fbe30f7ddd8f69d2fb",
       "family-2bb78f743a3430b74aaa44eada214e0f01bcc63209484122ac96c015be1018d4",
       "family-2bfd83eb00796e648971b9f7e064030c5ad743ea07ed385facd22a8323ceafa9",
-      "family-2dba58c3377649ef7a4426fff7ebd1d12fa27be758543397ed476730ad119c11",
       "family-2de3253233abe3896a6583c853316ab80332aa27d279c4972856dddaeac4beba",
       "family-2ffe83ab79f3b8b996fac38ac949f1720162ed3b28ced1b04c1fd8efde963d61",
       "family-303faf3d0c12b53fafe644aa97dbf4a36622363cbe29b5efc912da4be73f7f0c",
@@ -50981,6 +50998,7 @@
       "family-5d2ab8f485a9ef7c631d9378e1409852c4071bf59fa220ff33ccb0838cddf74b",
       "family-5d653a14f1992a78bd3e0025b096d1cd6dda4eb8e328b0acc74d5206217b4c50",
       "family-5dd5aef5ce375a734f736a34b189fe4de325b83754aa6a42f08f35f860e340cc",
+      "family-5ff171e5c0467b9f46b3390429b2bb23f9d579bfb2fb9dc42a99a5ca982a7ee3",
       "family-60ad278cdb45136a84bf6c33a6e97edcb11759677da65bebfa0c44dbb3b72ca7",
       "family-60f08348cf95d531ebc654d42cb81d47aa959bbacc25b34d6d7a6f1dd06a1d61",
       "family-61b316d310e3cb14c965ef4c9672435019fadb0d9fb07a74e7f20e0b3053d860",
@@ -51101,6 +51119,7 @@
       "family-ad5b5570dca6983f1efda06536b30e3c4fc57f2c8c4b2b90fe2ce5dd034e62f3",
       "family-ad661948881da68893a0e630d40212acf63c1514389bb6a477eee625413ec8ef",
       "family-adb8c0bf8267c440aec0e84794c11470621a4e637bff4c7b6b7685929ed5446b",
+      "family-ae835c5f6354765df398ca6fa7937ee1caec431975c98f66d29fce4a490be19a",
       "family-aeb2594fd0e8971f1c6ac2e0d8c3f412d2d27618b0f7f668dd57e646b7d5e35d",
       "family-af18f228d9a81e04132158792101c90bf09b82664a5ef2d7f1b4955483de9dc6",
       "family-b04c8a7e1fcf669c26df91bef2f4163fb1dc905bb0c66997b1b4b5f95dd4205c",
@@ -51126,6 +51145,7 @@
       "family-c0b8b4064e0f3867ab909c02ae87d22c5f211f6f4353fdcd845350d224d11730",
       "family-c0d990ff2d7253dc56ba399193c3e2a9cc9d4f2a49a3f4fbe7ad73ed001be703",
       "family-c0fcaa0559d24e9d645c25038b3438fd73fdd3a8fca503914aa5f6633212a25e",
+      "family-c166b8f513ee8c3c62bed07c26301f5da1601f29d404e8ace86953be4f06cf90",
       "family-c4003c420c34f447519a89a9851757a1e509ac347a3163c063c06b8badb2160c",
       "family-c55866f61f2592aca0a954a40b48e2b8ab1be33776701ac13ec0160803f82842",
       "family-c5b338efcdb2281a8a7be1f4b1ae9becc7cbc1c4bffc36368348eb9d9b6f8f2d",
@@ -51332,7 +51352,6 @@
       "family-2bfd83eb00796e648971b9f7e064030c5ad743ea07ed385facd22a8323ceafa9",
       "family-2c1a4af8a9b3d3dc89cdb47adb2523040581ded80ed7e74dde7322559762ce28",
       "family-2d8f00be983565100b18dc869286ff757ad9f16531dbcb6a63cfc82225ab17f6",
-      "family-2dba58c3377649ef7a4426fff7ebd1d12fa27be758543397ed476730ad119c11",
       "family-2de3253233abe3896a6583c853316ab80332aa27d279c4972856dddaeac4beba",
       "family-2e127ee93bb08a3c814b661d2236a46ace145ec504072c5ab0bbc117809e3753",
       "family-2e2ddef2cceed6608ac85003b0a15117c3c18efc481d35a81e4bff24cb12d333",
@@ -51933,7 +51952,6 @@
       "family-5d2fa5a8be5834d35234405a0cc38856f10bcbbdfd1e78db9840a6266227fab4",
       "family-5da0a272d98259d3155c7e58650a937e70d61498887a3cdd28d3b7bbbf0add9f",
       "family-5ec85e05524f74a6c242fc57c13b6fde04b54a5b50cc221e7f609bd5862c1d80",
-      "family-5ff171e5c0467b9f46b3390429b2bb23f9d579bfb2fb9dc42a99a5ca982a7ee3",
       "family-602b5fb66033eab409dedad22ace5236afa4c6c15cec6bc2dfa41241c563f0d1",
       "family-60827072de1fee191502412dc07e95c6ccbff6920e9431ada55a1bb4450d8ded",
       "family-60b2a672c5ac32bd9c8de312094792c9109185bc6015fb2b7b78a08c894e1cf5",
@@ -51997,7 +52015,6 @@
       "family-a70d260ce3566e1cebb2b3ce6ce23d0a61ac36facff9ee3ffdf7463d3f1a7c43",
       "family-a7a23b09b69e31ed24897ae720ce61457362ca6d3c0f369a5e2f049720917a0e",
       "family-ae1b04560bb42bf9c990e83cce258fa27ef112499d7c4ec73418772b948cac5a",
-      "family-ae835c5f6354765df398ca6fa7937ee1caec431975c98f66d29fce4a490be19a",
       "family-ae99f05887c85447a665c373f029d94554a9a123f2030d1fb55daa179782d2e6",
       "family-af2295c6a944715456761cbecccdb48ea20fa80eea128b591924566773c44c5e",
       "family-af6d0ace7382937cf78922680df60797f2c6f08fe582d4e8959d0d17c8c7e8ee",
@@ -52018,7 +52035,6 @@
       "family-c0032a99b2954c5a0dd8bb10c1f75f5d60d15d707bb6573dff43292cfa7be52f",
       "family-c03b3d06a0dfe9829a4e1be84273b1e792cc19548a2f446420edeaf7354d2148",
       "family-c0e40b9437f3b3e02b498063e9661c4eac37717afd9362e8d7c5911f8f7947d1",
-      "family-c166b8f513ee8c3c62bed07c26301f5da1601f29d404e8ace86953be4f06cf90",
       "family-c2bfa7a92d5103550b6d9561794687048dd564da37a62e2e5d63fef3a1e3e8c6",
       "family-c31761deb994de99f9ebbde4e4d1266a99a9f5ad1ed2c186481872ab66cf9c58",
       "family-c34688fc01222371f38b47d97c87103733cbdfea112f9baa4f127f8d46d9d38f",
@@ -52088,7 +52104,7 @@
       "family-fd4705f4895fbd944ea692ce1e49c04e6d85c9eb013becebcca1704d7ea59bf9"
     ]
   },
-  "familyHash": "62f12a609796a4d1853023232cc5b91d2fab1060689c82134a676f96587202a6",
+  "familyHash": "15651faea35865b8636269184d254ad3d03ea0cbbc20421e61c7459446d886c7",
   "familySegments": {
     "allTiers": [
       "family-012e41cf02148984e24435be4dd5f3b1a699130cc5bbfdc12dd37bbfb5aae9aa",
@@ -52113,6 +52129,7 @@
       "family-2917f1af8568ad2f83ba8776de77bc6c07d0d4eca7ddc299ab0cbfc382b91b6f",
       "family-2c5d758e3a35dc0eba2321a1734df19e6d436b5da99adcc646940fd4eb677f1f",
       "family-2cdb48eb7d49d1a7c94264eca22c48d3608c87929ede1429e7c3ae133e2d185a",
+      "family-2dba58c3377649ef7a4426fff7ebd1d12fa27be758543397ed476730ad119c11",
       "family-2e42b44629b9c16325eac4df94d27cee6a58d47f658f9a0b3871f5e6613803de",
       "family-2fb9b9a521e06cabe00239eeac716f1b33f74520aa6a9ec4e40e08916ae92641",
       "family-304f21c28aebc1a44102f749dc240997d89b2350c8fceb56401da0b01dc01da0",
@@ -52305,7 +52322,6 @@
       "family-5d2fa5a8be5834d35234405a0cc38856f10bcbbdfd1e78db9840a6266227fab4",
       "family-5da0a272d98259d3155c7e58650a937e70d61498887a3cdd28d3b7bbbf0add9f",
       "family-5ec85e05524f74a6c242fc57c13b6fde04b54a5b50cc221e7f609bd5862c1d80",
-      "family-5ff171e5c0467b9f46b3390429b2bb23f9d579bfb2fb9dc42a99a5ca982a7ee3",
       "family-602b5fb66033eab409dedad22ace5236afa4c6c15cec6bc2dfa41241c563f0d1",
       "family-60827072de1fee191502412dc07e95c6ccbff6920e9431ada55a1bb4450d8ded",
       "family-60b2a672c5ac32bd9c8de312094792c9109185bc6015fb2b7b78a08c894e1cf5",
@@ -52369,7 +52385,6 @@
       "family-a70d260ce3566e1cebb2b3ce6ce23d0a61ac36facff9ee3ffdf7463d3f1a7c43",
       "family-a7a23b09b69e31ed24897ae720ce61457362ca6d3c0f369a5e2f049720917a0e",
       "family-ae1b04560bb42bf9c990e83cce258fa27ef112499d7c4ec73418772b948cac5a",
-      "family-ae835c5f6354765df398ca6fa7937ee1caec431975c98f66d29fce4a490be19a",
       "family-ae99f05887c85447a665c373f029d94554a9a123f2030d1fb55daa179782d2e6",
       "family-af2295c6a944715456761cbecccdb48ea20fa80eea128b591924566773c44c5e",
       "family-af6d0ace7382937cf78922680df60797f2c6f08fe582d4e8959d0d17c8c7e8ee",
@@ -52390,7 +52405,6 @@
       "family-c0032a99b2954c5a0dd8bb10c1f75f5d60d15d707bb6573dff43292cfa7be52f",
       "family-c03b3d06a0dfe9829a4e1be84273b1e792cc19548a2f446420edeaf7354d2148",
       "family-c0e40b9437f3b3e02b498063e9661c4eac37717afd9362e8d7c5911f8f7947d1",
-      "family-c166b8f513ee8c3c62bed07c26301f5da1601f29d404e8ace86953be4f06cf90",
       "family-c2bfa7a92d5103550b6d9561794687048dd564da37a62e2e5d63fef3a1e3e8c6",
       "family-c31761deb994de99f9ebbde4e4d1266a99a9f5ad1ed2c186481872ab66cf9c58",
       "family-c34688fc01222371f38b47d97c87103733cbdfea112f9baa4f127f8d46d9d38f",
@@ -52530,7 +52544,6 @@
       "family-2b4ecebbcbf342e8a7b787e4eeb2febf18f86475658dc5fbe30f7ddd8f69d2fb",
       "family-2bb78f743a3430b74aaa44eada214e0f01bcc63209484122ac96c015be1018d4",
       "family-2bfd83eb00796e648971b9f7e064030c5ad743ea07ed385facd22a8323ceafa9",
-      "family-2dba58c3377649ef7a4426fff7ebd1d12fa27be758543397ed476730ad119c11",
       "family-2de3253233abe3896a6583c853316ab80332aa27d279c4972856dddaeac4beba",
       "family-2ffe83ab79f3b8b996fac38ac949f1720162ed3b28ced1b04c1fd8efde963d61",
       "family-303faf3d0c12b53fafe644aa97dbf4a36622363cbe29b5efc912da4be73f7f0c",
@@ -52590,6 +52603,7 @@
       "family-5d2ab8f485a9ef7c631d9378e1409852c4071bf59fa220ff33ccb0838cddf74b",
       "family-5d653a14f1992a78bd3e0025b096d1cd6dda4eb8e328b0acc74d5206217b4c50",
       "family-5dd5aef5ce375a734f736a34b189fe4de325b83754aa6a42f08f35f860e340cc",
+      "family-5ff171e5c0467b9f46b3390429b2bb23f9d579bfb2fb9dc42a99a5ca982a7ee3",
       "family-60ad278cdb45136a84bf6c33a6e97edcb11759677da65bebfa0c44dbb3b72ca7",
       "family-60f08348cf95d531ebc654d42cb81d47aa959bbacc25b34d6d7a6f1dd06a1d61",
       "family-61b316d310e3cb14c965ef4c9672435019fadb0d9fb07a74e7f20e0b3053d860",
@@ -52710,6 +52724,7 @@
       "family-ad5b5570dca6983f1efda06536b30e3c4fc57f2c8c4b2b90fe2ce5dd034e62f3",
       "family-ad661948881da68893a0e630d40212acf63c1514389bb6a477eee625413ec8ef",
       "family-adb8c0bf8267c440aec0e84794c11470621a4e637bff4c7b6b7685929ed5446b",
+      "family-ae835c5f6354765df398ca6fa7937ee1caec431975c98f66d29fce4a490be19a",
       "family-aeb2594fd0e8971f1c6ac2e0d8c3f412d2d27618b0f7f668dd57e646b7d5e35d",
       "family-af18f228d9a81e04132158792101c90bf09b82664a5ef2d7f1b4955483de9dc6",
       "family-b04c8a7e1fcf669c26df91bef2f4163fb1dc905bb0c66997b1b4b5f95dd4205c",
@@ -52735,6 +52750,7 @@
       "family-c0b8b4064e0f3867ab909c02ae87d22c5f211f6f4353fdcd845350d224d11730",
       "family-c0d990ff2d7253dc56ba399193c3e2a9cc9d4f2a49a3f4fbe7ad73ed001be703",
       "family-c0fcaa0559d24e9d645c25038b3438fd73fdd3a8fca503914aa5f6633212a25e",
+      "family-c166b8f513ee8c3c62bed07c26301f5da1601f29d404e8ace86953be4f06cf90",
       "family-c4003c420c34f447519a89a9851757a1e509ac347a3163c063c06b8badb2160c",
       "family-c55866f61f2592aca0a954a40b48e2b8ab1be33776701ac13ec0160803f82842",
       "family-c5b338efcdb2281a8a7be1f4b1ae9becc7cbc1c4bffc36368348eb9d9b6f8f2d",
@@ -61042,10 +61058,15 @@
       "leavingSoon": false,
       "leavingSoonPlatforms": [],
       "memberships": [
-        "ultimate"
+        "ultimate",
+        "premium"
       ],
       "pegiRating": "PEGI 12",
       "platformByTier": {
+        "premium": [
+          "console",
+          "pc"
+        ],
         "ultimate": [
           "console",
           "pc"
@@ -61073,7 +61094,7 @@
         "https://store-images.s-microsoft.com/image/apps.20463.14206254537148158.a098af48-504b-470b-a76b-dc0ca032561a.bd50037d-b270-48db-83ca-f4fca487a38c?w=640&h=360&q=80&format=jpg",
         "https://store-images.s-microsoft.com/image/apps.47205.14206254537148158.a098af48-504b-470b-a76b-dc0ca032561a.9e222ce9-bf35-47ae-8a7b-46e8f60be736?w=640&h=360&q=80&format=jpg"
       ],
-      "segment": "ultimateOnly",
+      "segment": "ultimatePremium",
       "shortDescription": "Journey to the far corners of the Earth and unearth ancient horrors in this Lovecraftian narrative puzzle adventure and sequel to 2020’s critically acclaimed Call of the Sea",
       "sortTitle": "call of the elder gods",
       "supportsCoop": false,
@@ -75238,10 +75259,15 @@
       "leavingSoonPlatforms": [],
       "memberships": [
         "ultimate",
-        "premium"
+        "premium",
+        "essential"
       ],
       "pegiRating": "PEGI 3",
       "platformByTier": {
+        "essential": [
+          "console",
+          "pc"
+        ],
         "premium": [
           "console",
           "pc"
@@ -75273,7 +75299,7 @@
         "https://store-images.s-microsoft.com/image/apps.51974.70863828853700397.56ab1f4a-a316-4055-8172-52200337d56f.271cc5e0-1221-4507-a26f-9eea3566193c?w=640&h=360&q=80&format=jpg",
         "https://store-images.s-microsoft.com/image/apps.31642.70863828853700397.56ab1f4a-a316-4055-8172-52200337d56f.3bb1ec86-12c7-4e84-a468-20c7f88a21ea?w=640&h=360&q=80&format=jpg"
       ],
-      "segment": "ultimatePremium",
+      "segment": "allTiers",
       "shortDescription": "Xbox 360 hard drive is required to use this item GAME-PLAY ALERT: This game has been fully tested to successfully play on your Xbox 360 console. However, in some cases, you may see some minor irregularities with audio/video for brief periods. For more details, see www.xbox.com/xboxoriginals. Take on the role of Cooper, a kid on a mission to rescue his girlfriend, who has been \"grabbed by the ghoulies.\" Venture through haunted and ominous Ghoulhaven Hall and battle it out with a variety of monst…",
       "sortTitle": "grabbed by the ghoulies™",
       "supportsCoop": false,
@@ -77411,10 +77437,15 @@
       "leavingSoon": false,
       "leavingSoonPlatforms": [],
       "memberships": [
-        "ultimate"
+        "ultimate",
+        "premium"
       ],
       "pegiRating": "PEGI 18",
       "platformByTier": {
+        "premium": [
+          "console",
+          "pc"
+        ],
         "ultimate": [
           "console",
           "pc"
@@ -77442,7 +77473,7 @@
         "https://store-images.s-microsoft.com/image/apps.63050.13600359535610445.f7a34dd3-7908-4175-b489-40eb2c48ccf4.4b12968e-b5c2-4c9c-8a51-0487220b2d2a?w=640&h=360&q=80&format=jpg",
         "https://store-images.s-microsoft.com/image/apps.54106.13600359535610445.f7a34dd3-7908-4175-b489-40eb2c48ccf4.66a84014-e00b-4f86-9250-a2cc7975df9d?w=640&h=360&q=80&format=jpg"
       ],
-      "segment": "ultimateOnly",
+      "segment": "ultimatePremium",
       "shortDescription": "An intergalactic conspiracy threatens the fate of humanity! Team up with a wide cast of talking alien guns as you shoot, stab, and skate your way through the exotic locales to take down the bad guys and save your favorite species (humans)!",
       "sortTitle": "high on life 2",
       "supportsCoop": false,
@@ -92001,10 +92032,15 @@
       "leavingSoon": false,
       "leavingSoonPlatforms": [],
       "memberships": [
-        "ultimate"
+        "ultimate",
+        "premium"
       ],
       "pegiRating": "PEGI 12",
       "platformByTier": {
+        "premium": [
+          "console",
+          "pc"
+        ],
         "ultimate": [
           "console",
           "pc"
@@ -92034,7 +92070,7 @@
         "https://store-images.s-microsoft.com/image/apps.743.14201145446258372.e9f6bd4a-8cbe-4dc4-8262-9cc854ef7c1c.2d6ec5fa-d1be-4e1e-95d0-2dec7424b8a1?w=640&h=360&q=80&format=jpg",
         "https://store-images.s-microsoft.com/image/apps.23990.14201145446258372.e9f6bd4a-8cbe-4dc4-8262-9cc854ef7c1c.b8a14586-4179-4545-9e9f-73f72906c511?w=640&h=360&q=80&format=jpg"
       ],
-      "segment": "ultimateOnly",
+      "segment": "ultimatePremium",
       "shortDescription": "Roadside Research is a 1 to 4 player co-op gas station simulator. Except you’re aliens. And undercover. Do very human things like restocking shelves while preparing for the invasion. Just don’t get caught.",
       "sortTitle": "roadside research (game preview)",
       "supportsCoop": true,
@@ -105980,7 +106016,7 @@
       "url": "https://www.xbox.com/en-us/games/store/zumas-revenge/BR9MPWXFBCRC"
     }
   ],
-  "generatedAt": "2026-11-17T14:30:13.535Z",
+  "generatedAt": "2026-11-18T14:05:49.544Z",
   "labels": {
     "diffs": {
       "essentialNotPremium": "Essential not Premium",
@@ -106051,7 +106087,7 @@
     {
       "count": 8,
       "description": "Don't want the fun to end? Save on these games now.",
-      "fetchedAt": "2026-11-17T14:30:13.535Z",
+      "fetchedAt": "2026-11-18T14:05:49.544Z",
       "kind": "leavingSoon",
       "platform": "console",
       "platformLabel": "Console",
@@ -106065,7 +106101,7 @@
     {
       "count": 8,
       "description": "Don't want the fun to end? Save on these games now.",
-      "fetchedAt": "2026-11-17T14:30:13.535Z",
+      "fetchedAt": "2026-11-18T14:05:49.544Z",
       "kind": "leavingSoon",
       "platform": "pc",
       "platformLabel": "PC",
@@ -106187,6 +106223,7 @@
         "BSR9NLHVF1KL",
         "BSXSL6WBJ0V7",
         "BSZM480TSWGP",
+        "BTHC2G28X9H4",
         "BTKN78H28RPV",
         "BTQMHK78ZPF9",
         "BV0K9LMLQ9W5",
@@ -106318,6 +106355,7 @@
         "BSR9NLHVF1KL",
         "BSXSL6WBJ0V7",
         "BSZM480TSWGP",
+        "BTHC2G28X9H4",
         "BTKN78H28RPV",
         "BTQMHK78ZPF9",
         "BV0K9LMLQ9W5",
@@ -106499,6 +106537,7 @@
         "9NF0D13RPX5L",
         "9NF0RBL8SZL6",
         "9NF5S7MLM8XT",
+        "9NF6XPSBTTGB",
         "9NF83PRZK6K3",
         "9NFKN56ZBMR0",
         "9NFQ1XMXDLN6",
@@ -106719,6 +106758,8 @@
         "9PDS2N82QNXG",
         "9PF2ZS4XB4JH",
         "9PF432CVQBXT",
+        "9PF697TG7PP7",
+        "9PFNXM9G4N83",
         "9PFRTPRQ569Q",
         "9PFXKRLVWJ0B",
         "9PGB72NFG5JN",
@@ -107095,6 +107136,7 @@
         "BSR9NLHVF1KL",
         "BSXSL6WBJ0V7",
         "BSZM480TSWGP",
+        "BTHC2G28X9H4",
         "BTKN78H28RPV",
         "BTQMHK78ZPF9",
         "BV0K9LMLQ9W5",
@@ -107194,6 +107236,7 @@
         "BSR9NLHVF1KL",
         "BSXSL6WBJ0V7",
         "BSZM480TSWGP",
+        "BTHC2G28X9H4",
         "BTKN78H28RPV",
         "BTQMHK78ZPF9",
         "BV0K9LMLQ9W5",
@@ -107304,6 +107347,7 @@
         "BSLX1RNXR6H7",
         "BSMZH25V6V46",
         "BSR9NLHVF1KL",
+        "BTHC2G28X9H4",
         "BVFB8CBS75R6",
         "BX1DTCBD1HXJ",
         "C17GQF31D617",
@@ -107463,6 +107507,7 @@
         "9NF0D13RPX5L",
         "9NF0RBL8SZL6",
         "9NF5S7MLM8XT",
+        "9NF6XPSBTTGB",
         "9NF83PRZK6K3",
         "9NFKN56ZBMR0",
         "9NFQ1XMXDLN6",
@@ -107683,6 +107728,8 @@
         "9PDS2N82QNXG",
         "9PF2ZS4XB4JH",
         "9PF432CVQBXT",
+        "9PF697TG7PP7",
+        "9PFNXM9G4N83",
         "9PFRTPRQ569Q",
         "9PFXKRLVWJ0B",
         "9PGB72NFG5JN",
@@ -107976,6 +108023,7 @@
         "9NDJX252Q5BW",
         "9NF0D13RPX5L",
         "9NF5S7MLM8XT",
+        "9NF6XPSBTTGB",
         "9NF83PRZK6K3",
         "9NFQ1XMXDLN6",
         "9NFTC552K3GJ",
@@ -108126,6 +108174,8 @@
         "9PDPD158GLKD",
         "9PF2ZS4XB4JH",
         "9PF432CVQBXT",
+        "9PF697TG7PP7",
+        "9PFNXM9G4N83",
         "9PFRTPRQ569Q",
         "9PGD71CMDS0Z",
         "9PGFSLP8GWQK",
@@ -108422,6 +108472,7 @@
         "9NDV7FRVD7ML",
         "9NF0RBL8SZL6",
         "9NF5S7MLM8XT",
+        "9NF6XPSBTTGB",
         "9NF83PRZK6K3",
         "9NFKN56ZBMR0",
         "9NFQ1XMXDLN6",
@@ -108622,6 +108673,8 @@
         "9PDNF24PP2V2",
         "9PDS2N82QNXG",
         "9PF2ZS4XB4JH",
+        "9PF697TG7PP7",
+        "9PFNXM9G4N83",
         "9PFRTPRQ569Q",
         "9PFXKRLVWJ0B",
         "9PGB72NFG5JN",
@@ -110922,6 +110975,7 @@
       "BSR9NLHVF1KL",
       "BSXSL6WBJ0V7",
       "BSZM480TSWGP",
+      "BTHC2G28X9H4",
       "BTKN78H28RPV",
       "BTQMHK78ZPF9",
       "BV0K9LMLQ9W5",
@@ -111032,7 +111086,6 @@
       "9NDLJ3HM721L",
       "9NDP79SDLLLH",
       "9NF6TK6D2DL9",
-      "9NF6XPSBTTGB",
       "9NFB47H2SDRX",
       "9NFT3TR6MN9W",
       "9NFZSND3LPPN",
@@ -111167,8 +111220,6 @@
       "9PDGC1Z6ZHTP",
       "9PDH3TB5548T",
       "9PDZ14P56XRD",
-      "9PF697TG7PP7",
-      "9PFNXM9G4N83",
       "9PFWZMT737GG",
       "9PG0S835V6J5",
       "9PGC82V0DXFS",
@@ -111426,6 +111477,7 @@
       "9NDV7FRVD7ML",
       "9NF0D13RPX5L",
       "9NF5S7MLM8XT",
+      "9NF6XPSBTTGB",
       "9NF83PRZK6K3",
       "9NFKN56ZBMR0",
       "9NFQ1XMXDLN6",
@@ -111607,6 +111659,8 @@
       "9PDNF24PP2V2",
       "9PDPD158GLKD",
       "9PDS2N82QNXG",
+      "9PF697TG7PP7",
+      "9PFNXM9G4N83",
       "9PFRTPRQ569Q",
       "9PFXKRLVWJ0B",
       "9PGFSLP8GWQK",
@@ -111675,7 +111729,6 @@
       "BSXLFN5QQZSC",
       "BT9FFLG51VVG",
       "BTBWBGKPKS97",
-      "BTHC2G28X9H4",
       "BTNPS60N3114",
       "BV0NSD4NN4V4",
       "BV5N90RDT0SH",
@@ -111738,7 +111791,7 @@
     {
       "count": 621,
       "description": "Discover your next favorite game",
-      "fetchedAt": "2026-11-17T14:30:13.535Z",
+      "fetchedAt": "2026-11-18T14:05:49.544Z",
       "platform": "console",
       "platformContext": "ConsoleGen8;ConsoleGen9",
       "platformLabel": "Console",
@@ -111755,7 +111808,7 @@
     {
       "count": 599,
       "description": "Discover your next favorite game",
-      "fetchedAt": "2026-11-17T14:30:13.535Z",
+      "fetchedAt": "2026-11-18T14:05:49.544Z",
       "platform": "pc",
       "platformContext": "pc",
       "platformLabel": "PC",
@@ -111770,14 +111823,14 @@
       "url": "https://catalog.gamepass.com/sigls/v3?id=97c6c862-d28a-4907-a3d5-c401f2296a53&language=en-us&market=AT&platformContext=pc&subscriptionContext=cfq7ttc0khs0"
     },
     {
-      "count": 421,
+      "count": 424,
       "description": "Games included in your Game Pass Premium membership",
-      "fetchedAt": "2026-11-17T14:30:13.535Z",
+      "fetchedAt": "2026-11-18T14:05:49.544Z",
       "platform": "console",
       "platformContext": "ConsoleGen8;ConsoleGen9",
       "platformLabel": "Console",
       "siglId": "09a72c0d-c466-426a-9580-b78955d8173a",
-      "sourceCount": 421,
+      "sourceCount": 424,
       "status": "ok",
       "subscriptionContext": "cfq7ttc0p85b",
       "swapsApplied": [],
@@ -111787,14 +111840,14 @@
       "url": "https://catalog.gamepass.com/sigls/v3?id=09a72c0d-c466-426a-9580-b78955d8173a&language=en-us&market=AT&platformContext=ConsoleGen8%3BConsoleGen9&subscriptionContext=cfq7ttc0p85b"
     },
     {
-      "count": 398,
+      "count": 401,
       "description": "Games included in your Game Pass Premium membership",
-      "fetchedAt": "2026-11-17T14:30:13.535Z",
+      "fetchedAt": "2026-11-18T14:05:49.544Z",
       "platform": "pc",
       "platformContext": "pc",
       "platformLabel": "PC",
       "siglId": "09a72c0d-c466-426a-9580-b78955d8173a",
-      "sourceCount": 398,
+      "sourceCount": 401,
       "status": "ok",
       "subscriptionContext": "cfq7ttc0p85b",
       "swapsApplied": [],
@@ -111804,14 +111857,14 @@
       "url": "https://catalog.gamepass.com/sigls/v3?id=09a72c0d-c466-426a-9580-b78955d8173a&language=en-us&market=AT&platformContext=pc&subscriptionContext=cfq7ttc0p85b"
     },
     {
-      "count": 97,
+      "count": 98,
       "description": "Games included in your Game Pass Essential membership",
-      "fetchedAt": "2026-11-17T14:30:13.535Z",
+      "fetchedAt": "2026-11-18T14:05:49.544Z",
       "platform": "console",
       "platformContext": "ConsoleGen8;ConsoleGen9",
       "platformLabel": "Console",
       "siglId": "34031711-5a70-4196-bab7-45757dc2294e",
-      "sourceCount": 97,
+      "sourceCount": 98,
       "status": "ok",
       "subscriptionContext": "cfq7ttc0k5dj",
       "swapsApplied": [],
@@ -111821,14 +111874,14 @@
       "url": "https://catalog.gamepass.com/sigls/v3?id=34031711-5a70-4196-bab7-45757dc2294e&language=en-us&market=AT&platformContext=ConsoleGen8%3BConsoleGen9&subscriptionContext=cfq7ttc0k5dj"
     },
     {
-      "count": 84,
+      "count": 85,
       "description": "Games included in your Game Pass Essential membership",
-      "fetchedAt": "2026-11-17T14:30:13.535Z",
+      "fetchedAt": "2026-11-18T14:05:49.544Z",
       "platform": "pc",
       "platformContext": "pc",
       "platformLabel": "PC",
       "siglId": "34031711-5a70-4196-bab7-45757dc2294e",
-      "sourceCount": 84,
+      "sourceCount": 85,
       "status": "ok",
       "subscriptionContext": "cfq7ttc0k5dj",
       "swapsApplied": [],
