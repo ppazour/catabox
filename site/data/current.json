@@ -1,13 +1,13 @@
 {
-  "catalogHash": "bf30b85712ab98e6bfbd3c756009f9e2cacc99645bc83b97cc24ceb2cf4d3499",
+  "catalogHash": "3f51fd5236f215643395b3f6d1bae21cf78b25b08cdb0ab88665d11d498f5f22",
   "counts": {
     "diffs": {
       "essentialNotPremium": 0,
       "essentialNotUltimate": 0,
-      "premiumNotEssential": 427,
+      "premiumNotEssential": 428,
       "premiumNotUltimate": 0,
       "ultimateNotEssential": 769,
-      "ultimateNotPremium": 342
+      "ultimateNotPremium": 341
     },
     "leavingSoon": 9,
     "leavingSoonPlatforms": {
@@ -24,8 +24,8 @@
       "premiumEssential": 0,
       "premiumOnly": 0,
       "ultimateEssential": 0,
-      "ultimateOnly": 342,
-      "ultimatePremium": 427
+      "ultimateOnly": 341,
+      "ultimatePremium": 428
     },
     "tierPlatforms": {
       "essential": {
@@ -33,8 +33,8 @@
         "pc": 85
       },
       "premium": {
-        "console": 424,
-        "pc": 401
+        "console": 425,
+        "pc": 402
       },
       "ultimate": {
         "console": 621,
@@ -43,7 +43,7 @@
     },
     "tiers": {
       "essential": 130,
-      "premium": 557,
+      "premium": 558,
       "ultimate": 899
     },
     "total": 899
@@ -248,6 +248,7 @@
       "9NT0PNTL6B79",
       "9NTM9HXNLSZX",
       "9NTRS771L8HL",
+      "9NTXGKBW2HSM",
       "9NV0Q705NQ2N",
       "9NVC9KWJVLT0",
       "9NVQBQ3F6W9W",
@@ -1377,7 +1378,6 @@
       "9NTB0ZG811GR",
       "9NTFPTBXDDT3",
       "9NTK0V6ZK6T8",
-      "9NTXGKBW2HSM",
       "9NTZH69PZSH0",
       "9NV01PJJLXN2",
       "9NV3L234VGXD",
@@ -7083,10 +7083,15 @@
       "leavingSoon": false,
       "leavingSoonPlatforms": [],
       "memberships": [
-        "ultimate"
+        "ultimate",
+        "premium"
       ],
       "pegiRating": "PEGI 18",
       "platformByTier": {
+        "premium": [
+          "console",
+          "pc"
+        ],
         "ultimate": [
           "console",
           "pc"
@@ -7114,7 +7119,7 @@
         "https://store-images.s-microsoft.com/image/apps.40693.14405259644338008.f21b8d19-b15c-4c53-8317-578bc22237ab.edfbb076-ef67-4006-9171-d51ae0d81932?w=640&h=360&q=80&format=jpg",
         "https://store-images.s-microsoft.com/image/apps.51214.14405259644338008.f21b8d19-b15c-4c53-8317-578bc22237ab.66d504ab-7913-413f-b44e-a5dc41164f2e?w=640&h=360&q=80&format=jpg"
       ],
-      "segment": "ultimateOnly",
+      "segment": "ultimatePremium",
       "shortDescription": "The Blackjack-inspired rogue-lite deck builder where you gamble your way out of hell. Stack broken cards, bend the rules, and unleash insane combos. Read your enemy, bribe the ferryman, and escape the afterlife.",
       "sortTitle": "black jacket",
       "supportsCoop": false,
@@ -33111,14 +33116,14 @@
       "ratingSystem": "PEGI",
       "releaseDate": "2026-08-25",
       "screenshots": [
+        "https://store-images.s-microsoft.com/image/apps.26020.13916126641198036.25d08fd0-6cdc-402a-887f-677933e745b4.f779deac-925c-4575-855f-e637a56dd298?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.20259.13916126641198036.25d08fd0-6cdc-402a-887f-677933e745b4.cbb3e1a9-bcfa-4367-807a-eae3dba0beab?w=640&h=360&q=80&format=jpg",
         "https://store-images.s-microsoft.com/image/apps.63777.13916126641198036.d27e322f-c487-46ec-9a3c-e76ba4bdd576.a4756958-14a6-4b21-bc33-05b126be6c1c?w=640&h=360&q=80&format=jpg",
         "https://store-images.s-microsoft.com/image/apps.49397.13916126641198036.d27e322f-c487-46ec-9a3c-e76ba4bdd576.6f1e268a-d78f-41db-8e62-7de39ba833b1?w=640&h=360&q=80&format=jpg",
         "https://store-images.s-microsoft.com/image/apps.62020.13916126641198036.d27e322f-c487-46ec-9a3c-e76ba4bdd576.cb4211cc-c200-4b42-baa5-b364ba25781c?w=640&h=360&q=80&format=jpg",
         "https://store-images.s-microsoft.com/image/apps.21652.13916126641198036.d27e322f-c487-46ec-9a3c-e76ba4bdd576.ba403201-83b6-4d12-85fe-86ecd6a41a85?w=640&h=360&q=80&format=jpg",
         "https://store-images.s-microsoft.com/image/apps.47920.13916126641198036.93e1b525-8641-4737-a69b-7287498c268a.4a40b209-5310-4d84-a122-d33e4703e781?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.28889.13916126641198036.93e1b525-8641-4737-a69b-7287498c268a.299f6d7f-f507-4ab7-8c12-98dc50916c83?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.32845.13916126641198036.93e1b525-8641-4737-a69b-7287498c268a.731c672a-ded2-4fbf-8e54-0b54bdb1320c?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.55701.13916126641198036.93e1b525-8641-4737-a69b-7287498c268a.95b8f90e-4bf9-458e-bf53-a7f6133549c8?w=640&h=360&q=80&format=jpg"
+        "https://store-images.s-microsoft.com/image/apps.28889.13916126641198036.93e1b525-8641-4737-a69b-7287498c268a.299f6d7f-f507-4ab7-8c12-98dc50916c83?w=640&h=360&q=80&format=jpg"
       ],
       "segment": "allTiers",
       "shortDescription": "Once Human is a multiplayer survival game set in the strange worlds.Join forces with friends to fight for survival, construct your sanctuary, and conquer terrifying aberrations to unravel the truth behind the apocalypse.",
@@ -50821,10 +50826,10 @@
     "diffs": {
       "essentialNotPremium": 0,
       "essentialNotUltimate": 0,
-      "premiumNotEssential": 365,
+      "premiumNotEssential": 366,
       "premiumNotUltimate": 0,
       "ultimateNotEssential": 614,
-      "ultimateNotPremium": 249
+      "ultimateNotPremium": 248
     },
     "leavingSoon": 8,
     "leavingSoonPlatforms": {
@@ -50841,8 +50846,8 @@
       "premiumEssential": 0,
       "premiumOnly": 0,
       "ultimateEssential": 0,
-      "ultimateOnly": 249,
-      "ultimatePremium": 365
+      "ultimateOnly": 248,
+      "ultimatePremium": 366
     },
     "tierPlatforms": {
       "essential": {
@@ -50850,8 +50855,8 @@
         "pc": 85
       },
       "premium": {
-        "console": 420,
-        "pc": 400
+        "console": 421,
+        "pc": 401
       },
       "ultimate": {
         "console": 611,
@@ -50860,7 +50865,7 @@
     },
     "tiers": {
       "essential": 110,
-      "premium": 475,
+      "premium": 476,
       "ultimate": 724
     },
     "total": 724
@@ -50940,6 +50945,7 @@
       "family-2bb78f743a3430b74aaa44eada214e0f01bcc63209484122ac96c015be1018d4",
       "family-2bfd83eb00796e648971b9f7e064030c5ad743ea07ed385facd22a8323ceafa9",
       "family-2de3253233abe3896a6583c853316ab80332aa27d279c4972856dddaeac4beba",
+      "family-2e127ee93bb08a3c814b661d2236a46ace145ec504072c5ab0bbc117809e3753",
       "family-2ffe83ab79f3b8b996fac38ac949f1720162ed3b28ced1b04c1fd8efde963d61",
       "family-303faf3d0c12b53fafe644aa97dbf4a36622363cbe29b5efc912da4be73f7f0c",
       "family-333e2a5665c69e6fe9ac32d59560af2c054eb4fe3ce3b706b6da9f6897002c37",
@@ -51898,7 +51904,6 @@
       "family-2a7f8996d9aa1cca3e0d8ff996827209e572c78dc630b326e2df8c148c5b1d7e",
       "family-2c1a4af8a9b3d3dc89cdb47adb2523040581ded80ed7e74dde7322559762ce28",
       "family-2d8f00be983565100b18dc869286ff757ad9f16531dbcb6a63cfc82225ab17f6",
-      "family-2e127ee93bb08a3c814b661d2236a46ace145ec504072c5ab0bbc117809e3753",
       "family-2e2ddef2cceed6608ac85003b0a15117c3c18efc481d35a81e4bff24cb12d333",
       "family-2e6bac02c6b6e3412ea7f7bc1e5e04de43f54a2bb7d2099ae4e135282f667170",
       "family-2f4ab37452c36a02935fc48b7c7df4b0920d824c9a0f6ec70d894d90bd1fa285",
@@ -52104,7 +52109,7 @@
       "family-fd4705f4895fbd944ea692ce1e49c04e6d85c9eb013becebcca1704d7ea59bf9"
     ]
   },
-  "familyHash": "15651faea35865b8636269184d254ad3d03ea0cbbc20421e61c7459446d886c7",
+  "familyHash": "17e608e742776c8e9140432e4f42112abbf0379e2b75a36495e1f4105856e281",
   "familySegments": {
     "allTiers": [
       "family-012e41cf02148984e24435be4dd5f3b1a699130cc5bbfdc12dd37bbfb5aae9aa",
@@ -52268,7 +52273,6 @@
       "family-2a7f8996d9aa1cca3e0d8ff996827209e572c78dc630b326e2df8c148c5b1d7e",
       "family-2c1a4af8a9b3d3dc89cdb47adb2523040581ded80ed7e74dde7322559762ce28",
       "family-2d8f00be983565100b18dc869286ff757ad9f16531dbcb6a63cfc82225ab17f6",
-      "family-2e127ee93bb08a3c814b661d2236a46ace145ec504072c5ab0bbc117809e3753",
       "family-2e2ddef2cceed6608ac85003b0a15117c3c18efc481d35a81e4bff24cb12d333",
       "family-2e6bac02c6b6e3412ea7f7bc1e5e04de43f54a2bb7d2099ae4e135282f667170",
       "family-2f4ab37452c36a02935fc48b7c7df4b0920d824c9a0f6ec70d894d90bd1fa285",
@@ -52545,6 +52549,7 @@
       "family-2bb78f743a3430b74aaa44eada214e0f01bcc63209484122ac96c015be1018d4",
       "family-2bfd83eb00796e648971b9f7e064030c5ad743ea07ed385facd22a8323ceafa9",
       "family-2de3253233abe3896a6583c853316ab80332aa27d279c4972856dddaeac4beba",
+      "family-2e127ee93bb08a3c814b661d2236a46ace145ec504072c5ab0bbc117809e3753",
       "family-2ffe83ab79f3b8b996fac38ac949f1720162ed3b28ced1b04c1fd8efde963d61",
       "family-303faf3d0c12b53fafe644aa97dbf4a36622363cbe29b5efc912da4be73f7f0c",
       "family-333e2a5665c69e6fe9ac32d59560af2c054eb4fe3ce3b706b6da9f6897002c37",
@@ -58659,10 +58664,15 @@
       "leavingSoon": false,
       "leavingSoonPlatforms": [],
       "memberships": [
-        "ultimate"
+        "ultimate",
+        "premium"
       ],
       "pegiRating": "PEGI 18",
       "platformByTier": {
+        "premium": [
+          "console",
+          "pc"
+        ],
         "ultimate": [
           "console",
           "pc"
@@ -58689,7 +58699,7 @@
         "https://store-images.s-microsoft.com/image/apps.40693.14405259644338008.f21b8d19-b15c-4c53-8317-578bc22237ab.edfbb076-ef67-4006-9171-d51ae0d81932?w=640&h=360&q=80&format=jpg",
         "https://store-images.s-microsoft.com/image/apps.51214.14405259644338008.f21b8d19-b15c-4c53-8317-578bc22237ab.66d504ab-7913-413f-b44e-a5dc41164f2e?w=640&h=360&q=80&format=jpg"
       ],
-      "segment": "ultimateOnly",
+      "segment": "ultimatePremium",
       "shortDescription": "The Blackjack-inspired rogue-lite deck builder where you gamble your way out of hell. Stack broken cards, bend the rules, and unleash insane combos. Read your enemy, bribe the ferryman, and escape the afterlife.",
       "sortTitle": "black jacket",
       "supportsCoop": false,
@@ -59453,7 +59463,7 @@
     },
     {
       "availableInFR": true,
-      "boxArt": "https://store-images.s-microsoft.com/image/apps.54575.13891464908023063.a2b61e88-13f6-441b-9e30-86dbd5d67e01.9a535c78-96cc-466f-b15e-b4c99c64c13c",
+      "boxArt": "https://store-images.s-microsoft.com/image/apps.48463.65958767407690020.98622844-3c98-4c9a-8967-6c15ee09f981.adf3db9a-a0f7-4d86-a27c-37393190d7e8",
       "description": "An epic platform fighter for up to 8 players online or locally. Try casual free-for-alls, ranked matches, or invite friends to a private room. And it's free! Play cross-platform with millions of players on PlayStation, Xbox, Nintendo Switch, iOS, Android and Steam! Frequent updates. Over fifty Legends.",
       "developer": "Blue Mammoth Games",
       "genres": [
@@ -59492,7 +59502,7 @@
         "Online multiplayer (2-8)",
         "Single player"
       ],
-      "poster": "https://store-images.s-microsoft.com/image/apps.55045.13891464908023063.a2b61e88-13f6-441b-9e30-86dbd5d67e01.2b2358ef-ce4a-4ec4-bc0d-d5173d8c3e45",
+      "poster": "https://store-images.s-microsoft.com/image/apps.40855.65958767407690020.98622844-3c98-4c9a-8967-6c15ee09f981.3dd74b10-70e4-419f-a91f-4c72fb9dd2af",
       "publisher": "Ubisoft",
       "ratingId": "PEGI:7",
       "ratingSystem": "PEGI",
@@ -86566,14 +86576,14 @@
       "ratingSystem": "PEGI",
       "releaseDate": "2026-08-25",
       "screenshots": [
+        "https://store-images.s-microsoft.com/image/apps.26020.13916126641198036.25d08fd0-6cdc-402a-887f-677933e745b4.f779deac-925c-4575-855f-e637a56dd298?w=640&h=360&q=80&format=jpg",
+        "https://store-images.s-microsoft.com/image/apps.20259.13916126641198036.25d08fd0-6cdc-402a-887f-677933e745b4.cbb3e1a9-bcfa-4367-807a-eae3dba0beab?w=640&h=360&q=80&format=jpg",
         "https://store-images.s-microsoft.com/image/apps.63777.13916126641198036.d27e322f-c487-46ec-9a3c-e76ba4bdd576.a4756958-14a6-4b21-bc33-05b126be6c1c?w=640&h=360&q=80&format=jpg",
         "https://store-images.s-microsoft.com/image/apps.49397.13916126641198036.d27e322f-c487-46ec-9a3c-e76ba4bdd576.6f1e268a-d78f-41db-8e62-7de39ba833b1?w=640&h=360&q=80&format=jpg",
         "https://store-images.s-microsoft.com/image/apps.62020.13916126641198036.d27e322f-c487-46ec-9a3c-e76ba4bdd576.cb4211cc-c200-4b42-baa5-b364ba25781c?w=640&h=360&q=80&format=jpg",
         "https://store-images.s-microsoft.com/image/apps.21652.13916126641198036.d27e322f-c487-46ec-9a3c-e76ba4bdd576.ba403201-83b6-4d12-85fe-86ecd6a41a85?w=640&h=360&q=80&format=jpg",
         "https://store-images.s-microsoft.com/image/apps.47920.13916126641198036.93e1b525-8641-4737-a69b-7287498c268a.4a40b209-5310-4d84-a122-d33e4703e781?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.28889.13916126641198036.93e1b525-8641-4737-a69b-7287498c268a.299f6d7f-f507-4ab7-8c12-98dc50916c83?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.32845.13916126641198036.93e1b525-8641-4737-a69b-7287498c268a.731c672a-ded2-4fbf-8e54-0b54bdb1320c?w=640&h=360&q=80&format=jpg",
-        "https://store-images.s-microsoft.com/image/apps.55701.13916126641198036.93e1b525-8641-4737-a69b-7287498c268a.95b8f90e-4bf9-458e-bf53-a7f6133549c8?w=640&h=360&q=80&format=jpg"
+        "https://store-images.s-microsoft.com/image/apps.28889.13916126641198036.93e1b525-8641-4737-a69b-7287498c268a.299f6d7f-f507-4ab7-8c12-98dc50916c83?w=640&h=360&q=80&format=jpg"
       ],
       "segment": "allTiers",
       "shortDescription": "Once Human is a multiplayer survival game set in the strange worlds.Join forces with friends to fight for survival, construct your sanctuary, and conquer terrifying aberrations to unravel the truth behind the apocalypse.",
@@ -106016,7 +106026,7 @@
       "url": "https://www.xbox.com/en-us/games/store/zumas-revenge/BR9MPWXFBCRC"
     }
   ],
-  "generatedAt": "2026-11-18T14:05:49.544Z",
+  "generatedAt": "2026-11-19T14:28:20.057Z",
   "labels": {
     "diffs": {
       "essentialNotPremium": "Essential not Premium",
@@ -106087,7 +106097,7 @@
     {
       "count": 8,
       "description": "Don't want the fun to end? Save on these games now.",
-      "fetchedAt": "2026-11-18T14:05:49.544Z",
+      "fetchedAt": "2026-11-19T14:28:20.057Z",
       "kind": "leavingSoon",
       "platform": "console",
       "platformLabel": "Console",
@@ -106101,7 +106111,7 @@
     {
       "count": 8,
       "description": "Don't want the fun to end? Save on these games now.",
-      "fetchedAt": "2026-11-18T14:05:49.544Z",
+      "fetchedAt": "2026-11-19T14:28:20.057Z",
       "kind": "leavingSoon",
       "platform": "pc",
       "platformLabel": "PC",
@@ -106631,6 +106641,7 @@
         "9NT4X7P8B9NB",
         "9NTM9HXNLSZX",
         "9NTRS771L8HL",
+        "9NTXGKBW2HSM",
         "9NV0Q705NQ2N",
         "9NV8W1KJSQLL",
         "9NVC9KWJVLT0",
@@ -107601,6 +107612,7 @@
         "9NT4X7P8B9NB",
         "9NTM9HXNLSZX",
         "9NTRS771L8HL",
+        "9NTXGKBW2HSM",
         "9NV0Q705NQ2N",
         "9NV8W1KJSQLL",
         "9NVC9KWJVLT0",
@@ -108086,6 +108098,7 @@
         "9NT3WC6RKBVQ",
         "9NT4X7P8B9NB",
         "9NTRS771L8HL",
+        "9NTXGKBW2HSM",
         "9NV8W1KJSQLL",
         "9NVC9KWJVLT0",
         "9NVQBQ3F6W9W",
@@ -108556,6 +108569,7 @@
         "9NT4X7P8B9NB",
         "9NTM9HXNLSZX",
         "9NTRS771L8HL",
+        "9NTXGKBW2HSM",
         "9NV0Q705NQ2N",
         "9NV8W1KJSQLL",
         "9NVC9KWJVLT0",
@@ -111138,7 +111152,6 @@
       "9NTB0ZG811GR",
       "9NTFPTBXDDT3",
       "9NTK0V6ZK6T8",
-      "9NTXGKBW2HSM",
       "9NTZH69PZSH0",
       "9NV01PJJLXN2",
       "9NV3L234VGXD",
@@ -111554,6 +111567,7 @@
       "9NT0PNTL6B79",
       "9NTM9HXNLSZX",
       "9NTRS771L8HL",
+      "9NTXGKBW2HSM",
       "9NV0Q705NQ2N",
       "9NVC9KWJVLT0",
       "9NVQBQ3F6W9W",
@@ -111791,7 +111805,7 @@
     {
       "count": 621,
       "description": "Discover your next favorite game",
-      "fetchedAt": "2026-11-18T14:05:49.544Z",
+      "fetchedAt": "2026-11-19T14:28:20.057Z",
       "platform": "console",
       "platformContext": "ConsoleGen8;ConsoleGen9",
       "platformLabel": "Console",
@@ -111808,7 +111822,7 @@
     {
       "count": 599,
       "description": "Discover your next favorite game",
-      "fetchedAt": "2026-11-18T14:05:49.544Z",
+      "fetchedAt": "2026-11-19T14:28:20.057Z",
       "platform": "pc",
       "platformContext": "pc",
       "platformLabel": "PC",
@@ -111823,14 +111837,14 @@
       "url": "https://catalog.gamepass.com/sigls/v3?id=97c6c862-d28a-4907-a3d5-c401f2296a53&language=en-us&market=AT&platformContext=pc&subscriptionContext=cfq7ttc0khs0"
     },
     {
-      "count": 424,
+      "count": 425,
       "description": "Games included in your Game Pass Premium membership",
-      "fetchedAt": "2026-11-18T14:05:49.544Z",
+      "fetchedAt": "2026-11-19T14:28:20.057Z",
       "platform": "console",
       "platformContext": "ConsoleGen8;ConsoleGen9",
       "platformLabel": "Console",
       "siglId": "09a72c0d-c466-426a-9580-b78955d8173a",
-      "sourceCount": 424,
+      "sourceCount": 425,
       "status": "ok",
       "subscriptionContext": "cfq7ttc0p85b",
       "swapsApplied": [],
@@ -111840,14 +111854,14 @@
       "url": "https://catalog.gamepass.com/sigls/v3?id=09a72c0d-c466-426a-9580-b78955d8173a&language=en-us&market=AT&platformContext=ConsoleGen8%3BConsoleGen9&subscriptionContext=cfq7ttc0p85b"
     },
     {
-      "count": 401,
+      "count": 402,
       "description": "Games included in your Game Pass Premium membership",
-      "fetchedAt": "2026-11-18T14:05:49.544Z",
+      "fetchedAt": "2026-11-19T14:28:20.057Z",
       "platform": "pc",
       "platformContext": "pc",
       "platformLabel": "PC",
       "siglId": "09a72c0d-c466-426a-9580-b78955d8173a",
-      "sourceCount": 401,
+      "sourceCount": 402,
       "status": "ok",
       "subscriptionContext": "cfq7ttc0p85b",
       "swapsApplied": [],
@@ -111859,7 +111873,7 @@
     {
       "count": 98,
       "description": "Games included in your Game Pass Essential membership",
-      "fetchedAt": "2026-11-18T14:05:49.544Z",
+      "fetchedAt": "2026-11-19T14:28:20.057Z",
       "platform": "console",
       "platformContext": "ConsoleGen8;ConsoleGen9",
       "platformLabel": "Console",
@@ -111876,7 +111890,7 @@
     {
       "count": 85,
       "description": "Games included in your Game Pass Essential membership",
-      "fetchedAt": "2026-11-18T14:05:49.544Z",
+      "fetchedAt": "2026-11-19T14:28:20.057Z",
       "platform": "pc",
       "platformContext": "pc",
       "platformLabel": "PC",

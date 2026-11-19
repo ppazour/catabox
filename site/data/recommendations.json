@@ -1,8 +1,8 @@
 {
   "algorithm": "hybrid-tfidf-mmr-v1",
-  "catalogHash": "bf30b85712ab98e6bfbd3c756009f9e2cacc99645bc83b97cc24ceb2cf4d3499",
-  "familyHash": "15651faea35865b8636269184d254ad3d03ea0cbbc20421e61c7459446d886c7",
-  "generatedAt": "2026-11-18T14:05:49.544Z",
+  "catalogHash": "3f51fd5236f215643395b3f6d1bae21cf78b25b08cdb0ab88665d11d498f5f22",
+  "familyHash": "17e608e742776c8e9140432e4f42112abbf0379e2b75a36495e1f4105856e281",
+  "generatedAt": "2026-11-19T14:28:20.057Z",
   "items": {
     "family-0033e88d6465b9e1c8ca00b84303ff450731d8f3f86c0aed81ce4ad6a54b4f5b": {
       "discover": [
@@ -8324,7 +8324,7 @@
           "score": 0.290204
         },
         {
-          "id": "family-a03e9b5cf625cf6212bdc884240ebcfdc2cb0d1957f40612ae1378f5ef7d2692",
+          "id": "family-2e127ee93bb08a3c814b661d2236a46ace145ec504072c5ab0bbc117809e3753",
           "reasons": [
             "sharedGenre",
             "sharedPlayerMode",
@@ -8333,7 +8333,7 @@
             "sameTier",
             "samePlatform"
           ],
-          "score": 0.272233
+          "score": 0.280248
         },
         {
           "id": "family-a3ad14715a213209fe4552d3d7bb57171fbccb81a2fdf3bf09a16495e4d4f3ba",
@@ -8348,18 +8348,6 @@
           "score": 0.266438
         },
         {
-          "id": "family-60ad278cdb45136a84bf6c33a6e97edcb11759677da65bebfa0c44dbb3b72ca7",
-          "reasons": [
-            "sharedGenre",
-            "sharedPlayerMode",
-            "closeReleaseEra",
-            "sharedKeywords",
-            "sameTier",
-            "samePlatform"
-          ],
-          "score": 0.264217
-        },
-        {
           "id": "family-885db7c06dd3949c7b8310f6e4a431212d3e7f19b6f8868a367a39764e602f32",
           "reasons": [
             "sharedGenre",
@@ -8371,6 +8359,18 @@
           "score": 0.262889
         },
         {
+          "id": "family-60ad278cdb45136a84bf6c33a6e97edcb11759677da65bebfa0c44dbb3b72ca7",
+          "reasons": [
+            "sharedGenre",
+            "sharedPlayerMode",
+            "closeReleaseEra",
+            "sharedKeywords",
+            "sameTier",
+            "samePlatform"
+          ],
+          "score": 0.257413
+        },
+        {
           "id": "family-d7d83a0b13d08c949157e815909a0e5248b33b4f99e06c5cfee1a9bf07635f7d",
           "reasons": [
             "sharedGenre",
@@ -8379,7 +8379,7 @@
             "sameTier",
             "samePlatform"
           ],
-          "score": 0.254417
+          "score": 0.254667
         },
         {
           "id": "family-5a054a30bcfa6e870e9e387113d99017086a0c2e6d4c890b6efd0b4a37f1ef28",
@@ -8466,6 +8466,18 @@
           "score": 0.413852
         },
         {
+          "id": "family-2e127ee93bb08a3c814b661d2236a46ace145ec504072c5ab0bbc117809e3753",
+          "reasons": [
+            "sharedGenre",
+            "sharedPlayerMode",
+            "closeReleaseEra",
+            "sharedKeywords",
+            "sameTier",
+            "samePlatform"
+          ],
+          "score": 0.408312
+        },
+        {
           "id": "family-60ad278cdb45136a84bf6c33a6e97edcb11759677da65bebfa0c44dbb3b72ca7",
           "reasons": [
             "sharedGenre",
@@ -8511,18 +8523,6 @@
             "samePlatform"
           ],
           "score": 0.383064
-        },
-        {
-          "id": "family-2e127ee93bb08a3c814b661d2236a46ace145ec504072c5ab0bbc117809e3753",
-          "reasons": [
-            "sharedGenre",
-            "sharedPlayerMode",
-            "closeReleaseEra",
-            "sharedKeywords",
-            "sameTier",
-            "samePlatform"
-          ],
-          "score": 0.378312
         },
         {
           "id": "family-d7d83a0b13d08c949157e815909a0e5248b33b4f99e06c5cfee1a9bf07635f7d",
@@ -8610,6 +8610,18 @@
           "score": 0.413852
         },
         {
+          "id": "family-2e127ee93bb08a3c814b661d2236a46ace145ec504072c5ab0bbc117809e3753",
+          "reasons": [
+            "sharedGenre",
+            "sharedPlayerMode",
+            "closeReleaseEra",
+            "sharedKeywords",
+            "sameTier",
+            "samePlatform"
+          ],
+          "score": 0.408312
+        },
+        {
           "id": "family-60ad278cdb45136a84bf6c33a6e97edcb11759677da65bebfa0c44dbb3b72ca7",
           "reasons": [
             "sharedGenre",
@@ -8655,18 +8667,6 @@
             "samePlatform"
           ],
           "score": 0.383064
-        },
-        {
-          "id": "family-2e127ee93bb08a3c814b661d2236a46ace145ec504072c5ab0bbc117809e3753",
-          "reasons": [
-            "sharedGenre",
-            "sharedPlayerMode",
-            "closeReleaseEra",
-            "sharedKeywords",
-            "sameTier",
-            "samePlatform"
-          ],
-          "score": 0.378312
         },
         {
           "id": "family-d7d83a0b13d08c949157e815909a0e5248b33b4f99e06c5cfee1a9bf07635f7d",
@@ -17660,6 +17660,17 @@
           "score": 0.423623
         },
         {
+          "id": "family-2e127ee93bb08a3c814b661d2236a46ace145ec504072c5ab0bbc117809e3753",
+          "reasons": [
+            "sharedGenre",
+            "sharedPlayerMode",
+            "closeReleaseEra",
+            "sameTier",
+            "samePlatform"
+          ],
+          "score": 0.404667
+        },
+        {
           "id": "family-60ad278cdb45136a84bf6c33a6e97edcb11759677da65bebfa0c44dbb3b72ca7",
           "reasons": [
             "sharedGenre",
@@ -17750,16 +17761,6 @@
             "samePlatform"
           ],
           "score": 0.383239
-        },
-        {
-          "id": "family-3f8fc3b663cca2dfe4c724ad19ae08e527901c75f678dfbf08c273de7ff63f05",
-          "reasons": [
-            "sharedGenre",
-            "sharedPlayerMode",
-            "sameTier",
-            "samePlatform"
-          ],
-          "score": 0.38
         }
       ],
       "similar": [
@@ -17801,6 +17802,17 @@
           "score": 0.423623
         },
         {
+          "id": "family-2e127ee93bb08a3c814b661d2236a46ace145ec504072c5ab0bbc117809e3753",
+          "reasons": [
+            "sharedGenre",
+            "sharedPlayerMode",
+            "closeReleaseEra",
+            "sameTier",
+            "samePlatform"
+          ],
+          "score": 0.404667
+        },
+        {
           "id": "family-60ad278cdb45136a84bf6c33a6e97edcb11759677da65bebfa0c44dbb3b72ca7",
           "reasons": [
             "sharedGenre",
@@ -17891,16 +17903,6 @@
             "samePlatform"
           ],
           "score": 0.383239
-        },
-        {
-          "id": "family-3f8fc3b663cca2dfe4c724ad19ae08e527901c75f678dfbf08c273de7ff63f05",
-          "reasons": [
-            "sharedGenre",
-            "sharedPlayerMode",
-            "sameTier",
-            "samePlatform"
-          ],
-          "score": 0.38
         }
       ]
     },
@@ -37652,6 +37654,17 @@
           "score": 0.2225
         },
         {
+          "id": "family-2e127ee93bb08a3c814b661d2236a46ace145ec504072c5ab0bbc117809e3753",
+          "reasons": [
+            "sharedGenre",
+            "sharedPlayerMode",
+            "closeReleaseEra",
+            "sameTier",
+            "samePlatform"
+          ],
+          "score": 0.221936
+        },
+        {
           "id": "family-06a3e51e88a8fb55c6d4caa096b7efb8d112fba2eb7a5fdd2e9a7c25854638a9",
           "reasons": [
             "sharedGenre",
@@ -37672,17 +37685,6 @@
             "samePlatform"
           ],
           "score": 0.217357
-        },
-        {
-          "id": "family-a03e9b5cf625cf6212bdc884240ebcfdc2cb0d1957f40612ae1378f5ef7d2692",
-          "reasons": [
-            "sharedGenre",
-            "sharedPlayerMode",
-            "closeReleaseEra",
-            "sameTier",
-            "samePlatform"
-          ],
-          "score": 0.216685
         }
       ],
       "sameMode": [
@@ -37731,6 +37733,17 @@
           "score": 0.35
         },
         {
+          "id": "family-2e127ee93bb08a3c814b661d2236a46ace145ec504072c5ab0bbc117809e3753",
+          "reasons": [
+            "sharedGenre",
+            "sharedPlayerMode",
+            "closeReleaseEra",
+            "sameTier",
+            "samePlatform"
+          ],
+          "score": 0.35
+        },
+        {
           "id": "family-5ff171e5c0467b9f46b3390429b2bb23f9d579bfb2fb9dc42a99a5ca982a7ee3",
           "reasons": [
             "sharedGenre",
@@ -37807,17 +37820,6 @@
             "samePlatform"
           ],
           "score": 0.342
-        },
-        {
-          "id": "family-bc9e24eeb0de3b959648b0b716d99e04a7535b9f9572bcbc6a73c1bd7624edca",
-          "reasons": [
-            "sharedGenre",
-            "sharedPlayerMode",
-            "closeReleaseEra",
-            "sameTier",
-            "samePlatform"
-          ],
-          "score": 0.338
         }
       ],
       "similar": [
@@ -37866,6 +37868,17 @@
           "score": 0.35
         },
         {
+          "id": "family-2e127ee93bb08a3c814b661d2236a46ace145ec504072c5ab0bbc117809e3753",
+          "reasons": [
+            "sharedGenre",
+            "sharedPlayerMode",
+            "closeReleaseEra",
+            "sameTier",
+            "samePlatform"
+          ],
+          "score": 0.35
+        },
+        {
           "id": "family-5ff171e5c0467b9f46b3390429b2bb23f9d579bfb2fb9dc42a99a5ca982a7ee3",
           "reasons": [
             "sharedGenre",
@@ -37942,17 +37955,6 @@
             "samePlatform"
           ],
           "score": 0.342
-        },
-        {
-          "id": "family-bc9e24eeb0de3b959648b0b716d99e04a7535b9f9572bcbc6a73c1bd7624edca",
-          "reasons": [
-            "sharedGenre",
-            "sharedPlayerMode",
-            "closeReleaseEra",
-            "sameTier",
-            "samePlatform"
-          ],
-          "score": 0.338
         }
       ]
     },
@@ -38075,7 +38077,7 @@
           "score": 0.112556
         },
         {
-          "id": "family-2e127ee93bb08a3c814b661d2236a46ace145ec504072c5ab0bbc117809e3753",
+          "id": "family-452d2127c0cdfefa4506a2ab7f62a06d2b299cebcf72da22a85b51a0d569c5a3",
           "reasons": [
             "sharedGenre",
             "closeReleaseEra",
@@ -38083,7 +38085,7 @@
             "sameTier",
             "samePlatform"
           ],
-          "score": 0.112329
+          "score": 0.109293
         }
       ],
       "sameMode": [],
@@ -54051,7 +54053,7 @@
             "sameTier",
             "samePlatform"
           ],
-          "score": 0.479985
+          "score": 0.509985
         },
         {
           "id": "family-60ad278cdb45136a84bf6c33a6e97edcb11759677da65bebfa0c44dbb3b72ca7",
@@ -54063,18 +54065,7 @@
             "sameTier",
             "samePlatform"
           ],
-          "score": 0.31449
-        },
-        {
-          "id": "family-67fc405833a9ae0baa7b95aff817e8c5ea5bc2a97933107429d4b03fd72fc6f4",
-          "reasons": [
-            "sharedGenre",
-            "sharedPlayerMode",
-            "closeReleaseEra",
-            "sameTier",
-            "samePlatform"
-          ],
-          "score": 0.281158
+          "score": 0.34449
         },
         {
           "id": "family-f8d657b872c11aa9409ac15d9ebb125ddb5fbc81238a45da1077796ca723e66f",
@@ -54086,7 +54077,7 @@
             "sameTier",
             "samePlatform"
           ],
-          "score": 0.258237
+          "score": 0.288237
         },
         {
           "id": "family-ec24b7d55e72a362c47ed099660bf146de472a3193e662295df2bb01a40e1503",
@@ -54098,7 +54089,7 @@
             "sameTier",
             "samePlatform"
           ],
-          "score": 0.254782
+          "score": 0.284782
         },
         {
           "id": "family-8f08a52c3b6e5b4b69ad09b0b139aef26cbe21fda4f45236a4efc61cee2615c3",
@@ -54109,7 +54100,7 @@
             "sameTier",
             "samePlatform"
           ],
-          "score": 0.250677
+          "score": 0.280988
         },
         {
           "id": "family-d7d83a0b13d08c949157e815909a0e5248b33b4f99e06c5cfee1a9bf07635f7d",
@@ -54121,17 +54112,7 @@
             "sameTier",
             "samePlatform"
           ],
-          "score": 0.24096
-        },
-        {
-          "id": "family-3f8fc3b663cca2dfe4c724ad19ae08e527901c75f678dfbf08c273de7ff63f05",
-          "reasons": [
-            "sharedGenre",
-            "sharedPlayerMode",
-            "sameTier",
-            "samePlatform"
-          ],
-          "score": 0.239028
+          "score": 0.27096
         },
         {
           "id": "family-06a3e51e88a8fb55c6d4caa096b7efb8d112fba2eb7a5fdd2e9a7c25854638a9",
@@ -54143,19 +54124,7 @@
             "sameTier",
             "samePlatform"
           ],
-          "score": 0.236504
-        },
-        {
-          "id": "family-a3ad14715a213209fe4552d3d7bb57171fbccb81a2fdf3bf09a16495e4d4f3ba",
-          "reasons": [
-            "sharedGenre",
-            "sharedPlayerMode",
-            "closeReleaseEra",
-            "sharedKeywords",
-            "sameTier",
-            "samePlatform"
-          ],
-          "score": 0.235164
+          "score": 0.266504
         },
         {
           "id": "family-885db7c06dd3949c7b8310f6e4a431212d3e7f19b6f8868a367a39764e602f32",
@@ -54166,7 +54135,31 @@
             "sameTier",
             "samePlatform"
           ],
-          "score": 0.232889
+          "score": 0.262889
+        },
+        {
+          "id": "family-c01be315dad9a8c4afaf870fcefe6ceed53db70f802f48ab1f728171c5b76941",
+          "reasons": [
+            "sharedGenre",
+            "sharedPlayerMode",
+            "closeReleaseEra",
+            "sharedKeywords",
+            "sameTier",
+            "samePlatform"
+          ],
+          "score": 0.261116
+        },
+        {
+          "id": "family-7cd131e602d880c0f9aa945cea505ce62ead2b8b09985f2aed96cebba176c4c2",
+          "reasons": [
+            "sharedGenre",
+            "sharedPlayerMode",
+            "closeReleaseEra",
+            "sharedKeywords",
+            "sameTier",
+            "samePlatform"
+          ],
+          "score": 0.259748
         },
         {
           "id": "family-6b4650b4dc3751451aad166a9b90e26aac0c06ae3728207308fca61c75c53fae",
@@ -54178,7 +54171,18 @@
             "sameTier",
             "samePlatform"
           ],
-          "score": 0.222217
+          "score": 0.252217
+        },
+        {
+          "id": "family-ea4aadeaf8f6dcc40ab406dbcdb69da004edaf0f803e8f7c11419f0ec8170bdc",
+          "reasons": [
+            "sharedGenre",
+            "sharedPlayerMode",
+            "closeReleaseEra",
+            "sameTier",
+            "samePlatform"
+          ],
+          "score": 0.246529
         }
       ],
       "sameMode": [
@@ -54192,7 +54196,7 @@
             "sameTier",
             "samePlatform"
           ],
-          "score": 0.479985
+          "score": 0.509985
         },
         {
           "id": "family-60ad278cdb45136a84bf6c33a6e97edcb11759677da65bebfa0c44dbb3b72ca7",
@@ -54204,29 +54208,7 @@
             "sameTier",
             "samePlatform"
           ],
-          "score": 0.456268
-        },
-        {
-          "id": "family-67fc405833a9ae0baa7b95aff817e8c5ea5bc2a97933107429d4b03fd72fc6f4",
-          "reasons": [
-            "sharedGenre",
-            "sharedPlayerMode",
-            "closeReleaseEra",
-            "sameTier",
-            "samePlatform"
-          ],
-          "score": 0.391667
-        },
-        {
-          "id": "family-c0032a99b2954c5a0dd8bb10c1f75f5d60d15d707bb6573dff43292cfa7be52f",
-          "reasons": [
-            "sharedGenre",
-            "sharedPlayerMode",
-            "closeReleaseEra",
-            "sameTier",
-            "samePlatform"
-          ],
-          "score": 0.391667
+          "score": 0.486268
         },
         {
           "id": "family-ec24b7d55e72a362c47ed099660bf146de472a3193e662295df2bb01a40e1503",
@@ -54238,7 +54220,7 @@
             "sameTier",
             "samePlatform"
           ],
-          "score": 0.389118
+          "score": 0.419118
         },
         {
           "id": "family-8f08a52c3b6e5b4b69ad09b0b139aef26cbe21fda4f45236a4efc61cee2615c3",
@@ -54249,7 +54231,7 @@
             "sameTier",
             "samePlatform"
           ],
-          "score": 0.380667
+          "score": 0.410667
         },
         {
           "id": "family-06a3e51e88a8fb55c6d4caa096b7efb8d112fba2eb7a5fdd2e9a7c25854638a9",
@@ -54261,7 +54243,7 @@
             "sameTier",
             "samePlatform"
           ],
-          "score": 0.378312
+          "score": 0.408312
         },
         {
           "id": "family-f8d657b872c11aa9409ac15d9ebb125ddb5fbc81238a45da1077796ca723e66f",
@@ -54273,7 +54255,7 @@
             "sameTier",
             "samePlatform"
           ],
-          "score": 0.377174
+          "score": 0.407174
         },
         {
           "id": "family-0d91edc9364398919024801ff917e233e00ab2a240e7d8206cca4ebde4289780",
@@ -54284,7 +54266,7 @@
             "sameTier",
             "samePlatform"
           ],
-          "score": 0.374667
+          "score": 0.404667
         },
         {
           "id": "family-885db7c06dd3949c7b8310f6e4a431212d3e7f19b6f8868a367a39764e602f32",
@@ -54295,19 +54277,7 @@
             "sameTier",
             "samePlatform"
           ],
-          "score": 0.374667
-        },
-        {
-          "id": "family-d8ee80df39c3873c04b3b7e8464e11a942b3575ca913ad54056ad9e0a6504117",
-          "reasons": [
-            "sharedGenre",
-            "sharedPlayerMode",
-            "closeReleaseEra",
-            "sharedKeywords",
-            "sameTier",
-            "samePlatform"
-          ],
-          "score": 0.369704
+          "score": 0.404667
         },
         {
           "id": "family-7cd131e602d880c0f9aa945cea505ce62ead2b8b09985f2aed96cebba176c4c2",
@@ -54319,7 +54289,43 @@
             "sameTier",
             "samePlatform"
           ],
-          "score": 0.365693
+          "score": 0.395693
+        },
+        {
+          "id": "family-d7d83a0b13d08c949157e815909a0e5248b33b4f99e06c5cfee1a9bf07635f7d",
+          "reasons": [
+            "sharedGenre",
+            "sharedPlayerMode",
+            "closeReleaseEra",
+            "sharedKeywords",
+            "sameTier",
+            "samePlatform"
+          ],
+          "score": 0.390543
+        },
+        {
+          "id": "family-c01be315dad9a8c4afaf870fcefe6ceed53db70f802f48ab1f728171c5b76941",
+          "reasons": [
+            "sharedGenre",
+            "sharedPlayerMode",
+            "closeReleaseEra",
+            "sharedKeywords",
+            "sameTier",
+            "samePlatform"
+          ],
+          "score": 0.373577
+        },
+        {
+          "id": "family-899908425c7c84090878f970f1fe681a86ffaeb970baa7b0852386e7f7a23ae5",
+          "reasons": [
+            "sharedGenre",
+            "sharedPlayerMode",
+            "closeReleaseEra",
+            "sharedKeywords",
+            "sameTier",
+            "samePlatform"
+          ],
+          "score": 0.372245
         }
       ],
       "similar": [
@@ -54333,7 +54339,7 @@
             "sameTier",
             "samePlatform"
           ],
-          "score": 0.479985
+          "score": 0.509985
         },
         {
           "id": "family-60ad278cdb45136a84bf6c33a6e97edcb11759677da65bebfa0c44dbb3b72ca7",
@@ -54345,29 +54351,7 @@
             "sameTier",
             "samePlatform"
           ],
-          "score": 0.456268
-        },
-        {
-          "id": "family-67fc405833a9ae0baa7b95aff817e8c5ea5bc2a97933107429d4b03fd72fc6f4",
-          "reasons": [
-            "sharedGenre",
-            "sharedPlayerMode",
-            "closeReleaseEra",
-            "sameTier",
-            "samePlatform"
-          ],
-          "score": 0.391667
-        },
-        {
-          "id": "family-c0032a99b2954c5a0dd8bb10c1f75f5d60d15d707bb6573dff43292cfa7be52f",
-          "reasons": [
-            "sharedGenre",
-            "sharedPlayerMode",
-            "closeReleaseEra",
-            "sameTier",
-            "samePlatform"
-          ],
-          "score": 0.391667
+          "score": 0.486268
         },
         {
           "id": "family-ec24b7d55e72a362c47ed099660bf146de472a3193e662295df2bb01a40e1503",
@@ -54379,7 +54363,7 @@
             "sameTier",
             "samePlatform"
           ],
-          "score": 0.389118
+          "score": 0.419118
         },
         {
           "id": "family-8f08a52c3b6e5b4b69ad09b0b139aef26cbe21fda4f45236a4efc61cee2615c3",
@@ -54390,7 +54374,7 @@
             "sameTier",
             "samePlatform"
           ],
-          "score": 0.380667
+          "score": 0.410667
         },
         {
           "id": "family-06a3e51e88a8fb55c6d4caa096b7efb8d112fba2eb7a5fdd2e9a7c25854638a9",
@@ -54402,7 +54386,7 @@
             "sameTier",
             "samePlatform"
           ],
-          "score": 0.378312
+          "score": 0.408312
         },
         {
           "id": "family-f8d657b872c11aa9409ac15d9ebb125ddb5fbc81238a45da1077796ca723e66f",
@@ -54414,7 +54398,7 @@
             "sameTier",
             "samePlatform"
           ],
-          "score": 0.377174
+          "score": 0.407174
         },
         {
           "id": "family-0d91edc9364398919024801ff917e233e00ab2a240e7d8206cca4ebde4289780",
@@ -54425,7 +54409,7 @@
             "sameTier",
             "samePlatform"
           ],
-          "score": 0.374667
+          "score": 0.404667
         },
         {
           "id": "family-885db7c06dd3949c7b8310f6e4a431212d3e7f19b6f8868a367a39764e602f32",
@@ -54436,19 +54420,7 @@
             "sameTier",
             "samePlatform"
           ],
-          "score": 0.374667
-        },
-        {
-          "id": "family-d8ee80df39c3873c04b3b7e8464e11a942b3575ca913ad54056ad9e0a6504117",
-          "reasons": [
-            "sharedGenre",
-            "sharedPlayerMode",
-            "closeReleaseEra",
-            "sharedKeywords",
-            "sameTier",
-            "samePlatform"
-          ],
-          "score": 0.369704
+          "score": 0.404667
         },
         {
           "id": "family-7cd131e602d880c0f9aa945cea505ce62ead2b8b09985f2aed96cebba176c4c2",
@@ -54460,7 +54432,43 @@
             "sameTier",
             "samePlatform"
           ],
-          "score": 0.365693
+          "score": 0.395693
+        },
+        {
+          "id": "family-d7d83a0b13d08c949157e815909a0e5248b33b4f99e06c5cfee1a9bf07635f7d",
+          "reasons": [
+            "sharedGenre",
+            "sharedPlayerMode",
+            "closeReleaseEra",
+            "sharedKeywords",
+            "sameTier",
+            "samePlatform"
+          ],
+          "score": 0.390543
+        },
+        {
+          "id": "family-c01be315dad9a8c4afaf870fcefe6ceed53db70f802f48ab1f728171c5b76941",
+          "reasons": [
+            "sharedGenre",
+            "sharedPlayerMode",
+            "closeReleaseEra",
+            "sharedKeywords",
+            "sameTier",
+            "samePlatform"
+          ],
+          "score": 0.373577
+        },
+        {
+          "id": "family-899908425c7c84090878f970f1fe681a86ffaeb970baa7b0852386e7f7a23ae5",
+          "reasons": [
+            "sharedGenre",
+            "sharedPlayerMode",
+            "closeReleaseEra",
+            "sharedKeywords",
+            "sameTier",
+            "samePlatform"
+          ],
+          "score": 0.372245
         }
       ]
     },
@@ -71732,16 +71740,6 @@
           "score": 0.244279
         },
         {
-          "id": "family-2e127ee93bb08a3c814b661d2236a46ace145ec504072c5ab0bbc117809e3753",
-          "reasons": [
-            "sharedGenre",
-            "sharedPlayerMode",
-            "sameTier",
-            "samePlatform"
-          ],
-          "score": 0.236991
-        },
-        {
           "id": "family-cb6a192ae212d5a161d02d4eff3c1b7a3c5e3a9649d85364e5d4ab224b52e7b0",
           "reasons": [
             "sharedGenre",
@@ -71783,6 +71781,16 @@
             "samePlatform"
           ],
           "score": 0.212167
+        },
+        {
+          "id": "family-2e127ee93bb08a3c814b661d2236a46ace145ec504072c5ab0bbc117809e3753",
+          "reasons": [
+            "sharedGenre",
+            "sharedPlayerMode",
+            "sameTier",
+            "samePlatform"
+          ],
+          "score": 0.203019
         },
         {
           "id": "family-178281b5385698223cdb72dac6083fd86385669fac06880733555bc9bd8e5316",
@@ -71894,16 +71902,6 @@
           "score": 0.361044
         },
         {
-          "id": "family-2e127ee93bb08a3c814b661d2236a46ace145ec504072c5ab0bbc117809e3753",
-          "reasons": [
-            "sharedGenre",
-            "sharedPlayerMode",
-            "sameTier",
-            "samePlatform"
-          ],
-          "score": 0.356667
-        },
-        {
           "id": "family-ec8426896e18d1a2e92b00c42a741cc9385efe99db6f2d7f2b8b47f6faba0b10",
           "reasons": [
             "samePublisher",
@@ -71934,6 +71932,17 @@
             "samePlatform"
           ],
           "score": 0.35
+        },
+        {
+          "id": "family-239ba3c8a7f95618540a3eb9af6500a4e279664d190615366c163b85b0eaf8cd",
+          "reasons": [
+            "sharedGenre",
+            "samePublisher",
+            "sharedPlayerMode",
+            "sameTier",
+            "samePlatform"
+          ],
+          "score": 0.346667
         }
       ],
       "similar": [
@@ -72036,16 +72045,6 @@
           "score": 0.361044
         },
         {
-          "id": "family-2e127ee93bb08a3c814b661d2236a46ace145ec504072c5ab0bbc117809e3753",
-          "reasons": [
-            "sharedGenre",
-            "sharedPlayerMode",
-            "sameTier",
-            "samePlatform"
-          ],
-          "score": 0.356667
-        },
-        {
           "id": "family-ec8426896e18d1a2e92b00c42a741cc9385efe99db6f2d7f2b8b47f6faba0b10",
           "reasons": [
             "samePublisher",
@@ -72065,6 +72064,17 @@
             "samePlatform"
           ],
           "score": 0.355
+        },
+        {
+          "id": "family-0af3fca9c8fafefdcfcb4e5aaf34daf798ed2223cd80656b1232cdae0c8964a9",
+          "reasons": [
+            "samePublisher",
+            "sharedPlayerMode",
+            "closeReleaseEra",
+            "sameTier",
+            "samePlatform"
+          ],
+          "score": 0.35
         }
       ]
     },
@@ -110138,15 +110148,16 @@
     "family-60ad278cdb45136a84bf6c33a6e97edcb11759677da65bebfa0c44dbb3b72ca7": {
       "discover": [
         {
-          "id": "family-a03e9b5cf625cf6212bdc884240ebcfdc2cb0d1957f40612ae1378f5ef7d2692",
+          "id": "family-2e127ee93bb08a3c814b661d2236a46ace145ec504072c5ab0bbc117809e3753",
           "reasons": [
             "sharedGenre",
             "sharedPlayerMode",
             "closeReleaseEra",
+            "sharedKeywords",
             "sameTier",
             "samePlatform"
           ],
-          "score": 0.464
+          "score": 0.486268
         },
         {
           "id": "family-ec24b7d55e72a362c47ed099660bf146de472a3193e662295df2bb01a40e1503",
@@ -110158,19 +110169,18 @@
             "sameTier",
             "samePlatform"
           ],
-          "score": 0.31233
+          "score": 0.311581
         },
         {
-          "id": "family-2e127ee93bb08a3c814b661d2236a46ace145ec504072c5ab0bbc117809e3753",
+          "id": "family-a03e9b5cf625cf6212bdc884240ebcfdc2cb0d1957f40612ae1378f5ef7d2692",
           "reasons": [
             "sharedGenre",
             "sharedPlayerMode",
             "closeReleaseEra",
-            "sharedKeywords",
             "sameTier",
             "samePlatform"
           ],
-          "score": 0.309606
+          "score": 0.308171
         },
         {
           "id": "family-8f08a52c3b6e5b4b69ad09b0b139aef26cbe21fda4f45236a4efc61cee2615c3",
@@ -110273,21 +110283,10 @@
             "sameTier",
             "samePlatform"
           ],
-          "score": 0.254386
+          "score": 0.253904
         }
       ],
       "sameMode": [
-        {
-          "id": "family-a03e9b5cf625cf6212bdc884240ebcfdc2cb0d1957f40612ae1378f5ef7d2692",
-          "reasons": [
-            "sharedGenre",
-            "sharedPlayerMode",
-            "closeReleaseEra",
-            "sameTier",
-            "samePlatform"
-          ],
-          "score": 0.464
-        },
         {
           "id": "family-2e127ee93bb08a3c814b661d2236a46ace145ec504072c5ab0bbc117809e3753",
           "reasons": [
@@ -110298,7 +110297,18 @@
             "sameTier",
             "samePlatform"
           ],
-          "score": 0.456268
+          "score": 0.486268
+        },
+        {
+          "id": "family-a03e9b5cf625cf6212bdc884240ebcfdc2cb0d1957f40612ae1378f5ef7d2692",
+          "reasons": [
+            "sharedGenre",
+            "sharedPlayerMode",
+            "closeReleaseEra",
+            "sameTier",
+            "samePlatform"
+          ],
+          "score": 0.464
         },
         {
           "id": "family-ec24b7d55e72a362c47ed099660bf146de472a3193e662295df2bb01a40e1503",
@@ -110418,17 +110428,6 @@
       ],
       "similar": [
         {
-          "id": "family-a03e9b5cf625cf6212bdc884240ebcfdc2cb0d1957f40612ae1378f5ef7d2692",
-          "reasons": [
-            "sharedGenre",
-            "sharedPlayerMode",
-            "closeReleaseEra",
-            "sameTier",
-            "samePlatform"
-          ],
-          "score": 0.464
-        },
-        {
           "id": "family-2e127ee93bb08a3c814b661d2236a46ace145ec504072c5ab0bbc117809e3753",
           "reasons": [
             "sharedGenre",
@@ -110438,7 +110437,18 @@
             "sameTier",
             "samePlatform"
           ],
-          "score": 0.456268
+          "score": 0.486268
+        },
+        {
+          "id": "family-a03e9b5cf625cf6212bdc884240ebcfdc2cb0d1957f40612ae1378f5ef7d2692",
+          "reasons": [
+            "sharedGenre",
+            "sharedPlayerMode",
+            "closeReleaseEra",
+            "sameTier",
+            "samePlatform"
+          ],
+          "score": 0.464
         },
         {
           "id": "family-ec24b7d55e72a362c47ed099660bf146de472a3193e662295df2bb01a40e1503",
@@ -115788,17 +115798,6 @@
           "score": 0.294124
         },
         {
-          "id": "family-2e127ee93bb08a3c814b661d2236a46ace145ec504072c5ab0bbc117809e3753",
-          "reasons": [
-            "sharedGenre",
-            "sharedPlayerMode",
-            "closeReleaseEra",
-            "sameTier",
-            "samePlatform"
-          ],
-          "score": 0.271991
-        },
-        {
           "id": "family-3f8fc3b663cca2dfe4c724ad19ae08e527901c75f678dfbf08c273de7ff63f05",
           "reasons": [
             "sharedGenre",
@@ -115844,6 +115843,17 @@
           "score": 0.252261
         },
         {
+          "id": "family-2e127ee93bb08a3c814b661d2236a46ace145ec504072c5ab0bbc117809e3753",
+          "reasons": [
+            "sharedGenre",
+            "sharedPlayerMode",
+            "closeReleaseEra",
+            "sameTier",
+            "samePlatform"
+          ],
+          "score": 0.236186
+        },
+        {
           "id": "family-ffb062588f4b40a90fd4262682d4bf15e855894ce4747060750dab20f01e6d73",
           "reasons": [
             "sharedGenre",
@@ -115881,17 +115891,6 @@
           "score": 0.222731
         },
         {
-          "id": "family-60ad278cdb45136a84bf6c33a6e97edcb11759677da65bebfa0c44dbb3b72ca7",
-          "reasons": [
-            "sharedGenre",
-            "sharedPlayerMode",
-            "closeReleaseEra",
-            "sameTier",
-            "samePlatform"
-          ],
-          "score": 0.222252
-        },
-        {
           "id": "family-bc2ab01c7985e74cb371cb450c54acc9ceccc186185fe25708b235a4a3ecac3f",
           "reasons": [
             "sharedGenre",
@@ -115902,6 +115901,18 @@
             "samePlatform"
           ],
           "score": 0.220723
+        },
+        {
+          "id": "family-9e7888ceb09d05a40f4cbd0666c564709484d0c3a29211ea7813c21079348653",
+          "reasons": [
+            "sharedGenre",
+            "sharedPlayerMode",
+            "closeReleaseEra",
+            "sharedKeywords",
+            "sameTier",
+            "samePlatform"
+          ],
+          "score": 0.214617
         }
       ],
       "sameMode": [
@@ -115981,17 +115992,6 @@
           "score": 0.403
         },
         {
-          "id": "family-2e127ee93bb08a3c814b661d2236a46ace145ec504072c5ab0bbc117809e3753",
-          "reasons": [
-            "sharedGenre",
-            "sharedPlayerMode",
-            "closeReleaseEra",
-            "sameTier",
-            "samePlatform"
-          ],
-          "score": 0.391667
-        },
-        {
           "id": "family-3f8fc3b663cca2dfe4c724ad19ae08e527901c75f678dfbf08c273de7ff63f05",
           "reasons": [
             "sharedGenre",
@@ -116035,6 +116035,17 @@
             "samePlatform"
           ],
           "score": 0.362282
+        },
+        {
+          "id": "family-2e127ee93bb08a3c814b661d2236a46ace145ec504072c5ab0bbc117809e3753",
+          "reasons": [
+            "sharedGenre",
+            "sharedPlayerMode",
+            "closeReleaseEra",
+            "sameTier",
+            "samePlatform"
+          ],
+          "score": 0.361667
         },
         {
           "id": "family-60ad278cdb45136a84bf6c33a6e97edcb11759677da65bebfa0c44dbb3b72ca7",
@@ -116125,17 +116136,6 @@
           "score": 0.403
         },
         {
-          "id": "family-2e127ee93bb08a3c814b661d2236a46ace145ec504072c5ab0bbc117809e3753",
-          "reasons": [
-            "sharedGenre",
-            "sharedPlayerMode",
-            "closeReleaseEra",
-            "sameTier",
-            "samePlatform"
-          ],
-          "score": 0.391667
-        },
-        {
           "id": "family-3f8fc3b663cca2dfe4c724ad19ae08e527901c75f678dfbf08c273de7ff63f05",
           "reasons": [
             "sharedGenre",
@@ -116179,6 +116179,17 @@
             "samePlatform"
           ],
           "score": 0.362282
+        },
+        {
+          "id": "family-2e127ee93bb08a3c814b661d2236a46ace145ec504072c5ab0bbc117809e3753",
+          "reasons": [
+            "sharedGenre",
+            "sharedPlayerMode",
+            "closeReleaseEra",
+            "sameTier",
+            "samePlatform"
+          ],
+          "score": 0.361667
         },
         {
           "id": "family-60ad278cdb45136a84bf6c33a6e97edcb11759677da65bebfa0c44dbb3b72ca7",
@@ -136518,6 +136529,18 @@
           "score": 0.313612
         },
         {
+          "id": "family-2e127ee93bb08a3c814b661d2236a46ace145ec504072c5ab0bbc117809e3753",
+          "reasons": [
+            "sharedGenre",
+            "sharedPlayerMode",
+            "closeReleaseEra",
+            "sharedKeywords",
+            "sameTier",
+            "samePlatform"
+          ],
+          "score": 0.270212
+        },
+        {
           "id": "family-d88731ced7b33cd8b3c75c3d56230094c2cf0f37b6a106e36967a64e6086f1bd",
           "reasons": [
             "sharedGenre",
@@ -136542,17 +136565,6 @@
           "score": 0.266909
         },
         {
-          "id": "family-60ad278cdb45136a84bf6c33a6e97edcb11759677da65bebfa0c44dbb3b72ca7",
-          "reasons": [
-            "sharedGenre",
-            "sharedPlayerMode",
-            "closeReleaseEra",
-            "sameTier",
-            "samePlatform"
-          ],
-          "score": 0.266186
-        },
-        {
           "id": "family-5dd5aef5ce375a734f736a34b189fe4de325b83754aa6a42f08f35f860e340cc",
           "reasons": [
             "sharedGenre",
@@ -136564,7 +136576,7 @@
           "score": 0.249653
         },
         {
-          "id": "family-a03e9b5cf625cf6212bdc884240ebcfdc2cb0d1957f40612ae1378f5ef7d2692",
+          "id": "family-60ad278cdb45136a84bf6c33a6e97edcb11759677da65bebfa0c44dbb3b72ca7",
           "reasons": [
             "sharedGenre",
             "sharedPlayerMode",
@@ -136572,7 +136584,7 @@
             "sameTier",
             "samePlatform"
           ],
-          "score": 0.243889
+          "score": 0.243085
         },
         {
           "id": "family-aab8187e1bb05ece1416d1464f7dbc4d7f1a79506050776b9535667a9d78902e",
@@ -136620,7 +136632,7 @@
           "score": 0.232694
         },
         {
-          "id": "family-ea4aadeaf8f6dcc40ab406dbcdb69da004edaf0f803e8f7c11419f0ec8170bdc",
+          "id": "family-a03e9b5cf625cf6212bdc884240ebcfdc2cb0d1957f40612ae1378f5ef7d2692",
           "reasons": [
             "sharedGenre",
             "sharedPlayerMode",
@@ -136628,7 +136640,7 @@
             "sameTier",
             "samePlatform"
           ],
-          "score": 0.229148
+          "score": 0.229838
         }
       ],
       "sameMode": [
@@ -136695,6 +136707,18 @@
           "score": 0.433
         },
         {
+          "id": "family-2e127ee93bb08a3c814b661d2236a46ace145ec504072c5ab0bbc117809e3753",
+          "reasons": [
+            "sharedGenre",
+            "sharedPlayerMode",
+            "closeReleaseEra",
+            "sharedKeywords",
+            "sameTier",
+            "samePlatform"
+          ],
+          "score": 0.395693
+        },
+        {
           "id": "family-d8ee80df39c3873c04b3b7e8464e11a942b3575ca913ad54056ad9e0a6504117",
           "reasons": [
             "sharedGenre",
@@ -136764,18 +136788,6 @@
             "samePlatform"
           ],
           "score": 0.373605
-        },
-        {
-          "id": "family-899908425c7c84090878f970f1fe681a86ffaeb970baa7b0852386e7f7a23ae5",
-          "reasons": [
-            "sharedGenre",
-            "sharedPlayerMode",
-            "closeReleaseEra",
-            "sharedKeywords",
-            "sameTier",
-            "samePlatform"
-          ],
-          "score": 0.37034
         }
       ],
       "similar": [
@@ -136842,6 +136854,18 @@
           "score": 0.433
         },
         {
+          "id": "family-2e127ee93bb08a3c814b661d2236a46ace145ec504072c5ab0bbc117809e3753",
+          "reasons": [
+            "sharedGenre",
+            "sharedPlayerMode",
+            "closeReleaseEra",
+            "sharedKeywords",
+            "sameTier",
+            "samePlatform"
+          ],
+          "score": 0.395693
+        },
+        {
           "id": "family-d8ee80df39c3873c04b3b7e8464e11a942b3575ca913ad54056ad9e0a6504117",
           "reasons": [
             "sharedGenre",
@@ -136911,18 +136935,6 @@
             "samePlatform"
           ],
           "score": 0.373605
-        },
-        {
-          "id": "family-899908425c7c84090878f970f1fe681a86ffaeb970baa7b0852386e7f7a23ae5",
-          "reasons": [
-            "sharedGenre",
-            "sharedPlayerMode",
-            "closeReleaseEra",
-            "sharedKeywords",
-            "sameTier",
-            "samePlatform"
-          ],
-          "score": 0.37034
         }
       ]
     },
@@ -150372,6 +150384,17 @@
           "score": 0.258417
         },
         {
+          "id": "family-2e127ee93bb08a3c814b661d2236a46ace145ec504072c5ab0bbc117809e3753",
+          "reasons": [
+            "sharedGenre",
+            "sharedPlayerMode",
+            "closeReleaseEra",
+            "sameTier",
+            "samePlatform"
+          ],
+          "score": 0.248838
+        },
+        {
           "id": "family-c01be315dad9a8c4afaf870fcefe6ceed53db70f802f48ab1f728171c5b76941",
           "reasons": [
             "sharedGenre",
@@ -150380,7 +150403,7 @@
             "sameTier",
             "samePlatform"
           ],
-          "score": 0.244872
+          "score": 0.243184
         },
         {
           "id": "family-20d3161318d2def42885901e8d397ffe7535f1712f60c1599c7471c6b8ad674f",
@@ -150414,17 +150437,6 @@
             "samePlatform"
           ],
           "score": 0.233893
-        },
-        {
-          "id": "family-d8ee80df39c3873c04b3b7e8464e11a942b3575ca913ad54056ad9e0a6504117",
-          "reasons": [
-            "sharedGenre",
-            "sharedPlayerMode",
-            "closeReleaseEra",
-            "sameTier",
-            "samePlatform"
-          ],
-          "score": 0.233049
         }
       ],
       "sameMode": [
@@ -150463,6 +150475,17 @@
         },
         {
           "id": "family-06a3e51e88a8fb55c6d4caa096b7efb8d112fba2eb7a5fdd2e9a7c25854638a9",
+          "reasons": [
+            "sharedGenre",
+            "sharedPlayerMode",
+            "closeReleaseEra",
+            "sameTier",
+            "samePlatform"
+          ],
+          "score": 0.404667
+        },
+        {
+          "id": "family-2e127ee93bb08a3c814b661d2236a46ace145ec504072c5ab0bbc117809e3753",
           "reasons": [
             "sharedGenre",
             "sharedPlayerMode",
@@ -150515,17 +150538,6 @@
             "samePlatform"
           ],
           "score": 0.378
-        },
-        {
-          "id": "family-2e127ee93bb08a3c814b661d2236a46ace145ec504072c5ab0bbc117809e3753",
-          "reasons": [
-            "sharedGenre",
-            "sharedPlayerMode",
-            "closeReleaseEra",
-            "sameTier",
-            "samePlatform"
-          ],
-          "score": 0.374667
         },
         {
           "id": "family-e11ce8457515f977e08752075c67c7890f87d1c0f0891bfef93293e2ed81c857",
@@ -150607,6 +150619,17 @@
           "score": 0.404667
         },
         {
+          "id": "family-2e127ee93bb08a3c814b661d2236a46ace145ec504072c5ab0bbc117809e3753",
+          "reasons": [
+            "sharedGenre",
+            "sharedPlayerMode",
+            "closeReleaseEra",
+            "sameTier",
+            "samePlatform"
+          ],
+          "score": 0.404667
+        },
+        {
           "id": "family-60ad278cdb45136a84bf6c33a6e97edcb11759677da65bebfa0c44dbb3b72ca7",
           "reasons": [
             "sharedGenre",
@@ -150649,17 +150672,6 @@
             "samePlatform"
           ],
           "score": 0.378
-        },
-        {
-          "id": "family-2e127ee93bb08a3c814b661d2236a46ace145ec504072c5ab0bbc117809e3753",
-          "reasons": [
-            "sharedGenre",
-            "sharedPlayerMode",
-            "closeReleaseEra",
-            "sameTier",
-            "samePlatform"
-          ],
-          "score": 0.374667
         },
         {
           "id": "family-e11ce8457515f977e08752075c67c7890f87d1c0f0891bfef93293e2ed81c857",
@@ -155319,6 +155331,17 @@
           "score": 0.263889
         },
         {
+          "id": "family-2e127ee93bb08a3c814b661d2236a46ace145ec504072c5ab0bbc117809e3753",
+          "reasons": [
+            "sharedGenre",
+            "sharedPlayerMode",
+            "closeReleaseEra",
+            "sameTier",
+            "samePlatform"
+          ],
+          "score": 0.254838
+        },
+        {
           "id": "family-034e655370f3d5608df67b29a02695c018d57d4f3f329c215314c48f0b63b7a3",
           "reasons": [
             "sharedGenre",
@@ -155361,17 +155384,6 @@
             "samePlatform"
           ],
           "score": 0.246
-        },
-        {
-          "id": "family-47a44135674331a8c7308fc780ead5dbdaae29953cf164ceb1079d938dd7d9d6",
-          "reasons": [
-            "sharedGenre",
-            "sharedPlayerMode",
-            "closeReleaseEra",
-            "sameTier",
-            "samePlatform"
-          ],
-          "score": 0.244166
         }
       ],
       "sameMode": [
@@ -155438,6 +155450,17 @@
           "score": 0.424404
         },
         {
+          "id": "family-2e127ee93bb08a3c814b661d2236a46ace145ec504072c5ab0bbc117809e3753",
+          "reasons": [
+            "sharedGenre",
+            "sharedPlayerMode",
+            "closeReleaseEra",
+            "sameTier",
+            "samePlatform"
+          ],
+          "score": 0.410667
+        },
+        {
           "id": "family-60ad278cdb45136a84bf6c33a6e97edcb11759677da65bebfa0c44dbb3b72ca7",
           "reasons": [
             "sharedGenre",
@@ -155494,17 +155517,6 @@
             "samePlatform"
           ],
           "score": 0.384
-        },
-        {
-          "id": "family-2e127ee93bb08a3c814b661d2236a46ace145ec504072c5ab0bbc117809e3753",
-          "reasons": [
-            "sharedGenre",
-            "sharedPlayerMode",
-            "closeReleaseEra",
-            "sameTier",
-            "samePlatform"
-          ],
-          "score": 0.380667
         },
         {
           "id": "family-3f8fc3b663cca2dfe4c724ad19ae08e527901c75f678dfbf08c273de7ff63f05",
@@ -155581,6 +155593,17 @@
           "score": 0.424404
         },
         {
+          "id": "family-2e127ee93bb08a3c814b661d2236a46ace145ec504072c5ab0bbc117809e3753",
+          "reasons": [
+            "sharedGenre",
+            "sharedPlayerMode",
+            "closeReleaseEra",
+            "sameTier",
+            "samePlatform"
+          ],
+          "score": 0.410667
+        },
+        {
           "id": "family-60ad278cdb45136a84bf6c33a6e97edcb11759677da65bebfa0c44dbb3b72ca7",
           "reasons": [
             "sharedGenre",
@@ -155637,17 +155660,6 @@
             "samePlatform"
           ],
           "score": 0.384
-        },
-        {
-          "id": "family-2e127ee93bb08a3c814b661d2236a46ace145ec504072c5ab0bbc117809e3753",
-          "reasons": [
-            "sharedGenre",
-            "sharedPlayerMode",
-            "closeReleaseEra",
-            "sameTier",
-            "samePlatform"
-          ],
-          "score": 0.380667
         },
         {
           "id": "family-3f8fc3b663cca2dfe4c724ad19ae08e527901c75f678dfbf08c273de7ff63f05",
@@ -159716,13 +159728,13 @@
           "score": 0.074555
         },
         {
-          "id": "family-2e127ee93bb08a3c814b661d2236a46ace145ec504072c5ab0bbc117809e3753",
+          "id": "family-24ac0fc72a8a5ff3fbabc1e688e961e9bf15f167dc77449e0f93101e68c2274e",
           "reasons": [
             "sharedGenre",
             "sameTier",
             "samePlatform"
           ],
-          "score": 0.071991
+          "score": 0.063686
         }
       ],
       "sameMode": [],
@@ -176103,7 +176115,7 @@
             "sameTier",
             "samePlatform"
           ],
-          "score": 0.479985
+          "score": 0.509985
         },
         {
           "id": "family-60ad278cdb45136a84bf6c33a6e97edcb11759677da65bebfa0c44dbb3b72ca7",
@@ -176114,7 +176126,7 @@
             "sameTier",
             "samePlatform"
           ],
-          "score": 0.324585
+          "score": 0.315418
         },
         {
           "id": "family-0d91edc9364398919024801ff917e233e00ab2a240e7d8206cca4ebde4289780",
@@ -176140,6 +176152,17 @@
           "score": 0.287019
         },
         {
+          "id": "family-ec24b7d55e72a362c47ed099660bf146de472a3193e662295df2bb01a40e1503",
+          "reasons": [
+            "sharedGenre",
+            "sharedPlayerMode",
+            "closeReleaseEra",
+            "sameTier",
+            "samePlatform"
+          ],
+          "score": 0.274889
+        },
+        {
           "id": "family-d7d83a0b13d08c949157e815909a0e5248b33b4f99e06c5cfee1a9bf07635f7d",
           "reasons": [
             "sharedGenre",
@@ -176149,7 +176172,7 @@
             "sameTier",
             "samePlatform"
           ],
-          "score": 0.275863
+          "score": 0.27203
         },
         {
           "id": "family-06a3e51e88a8fb55c6d4caa096b7efb8d112fba2eb7a5fdd2e9a7c25854638a9",
@@ -176161,18 +176184,7 @@
             "sameTier",
             "samePlatform"
           ],
-          "score": 0.275494
-        },
-        {
-          "id": "family-ec24b7d55e72a362c47ed099660bf146de472a3193e662295df2bb01a40e1503",
-          "reasons": [
-            "sharedGenre",
-            "sharedPlayerMode",
-            "closeReleaseEra",
-            "sameTier",
-            "samePlatform"
-          ],
-          "score": 0.274889
+          "score": 0.270924
         },
         {
           "id": "family-6b4650b4dc3751451aad166a9b90e26aac0c06ae3728207308fca61c75c53fae",
@@ -176244,7 +176256,7 @@
             "sameTier",
             "samePlatform"
           ],
-          "score": 0.479985
+          "score": 0.509985
         },
         {
           "id": "family-60ad278cdb45136a84bf6c33a6e97edcb11759677da65bebfa0c44dbb3b72ca7",
@@ -176385,7 +176397,7 @@
             "sameTier",
             "samePlatform"
           ],
-          "score": 0.479985
+          "score": 0.509985
         },
         {
           "id": "family-60ad278cdb45136a84bf6c33a6e97edcb11759677da65bebfa0c44dbb3b72ca7",
@@ -212467,17 +212479,6 @@
           "score": 0.299711
         },
         {
-          "id": "family-2e127ee93bb08a3c814b661d2236a46ace145ec504072c5ab0bbc117809e3753",
-          "reasons": [
-            "sharedGenre",
-            "sharedPlayerMode",
-            "closeReleaseEra",
-            "sameTier",
-            "samePlatform"
-          ],
-          "score": 0.271991
-        },
-        {
           "id": "family-3f8fc3b663cca2dfe4c724ad19ae08e527901c75f678dfbf08c273de7ff63f05",
           "reasons": [
             "sharedGenre",
@@ -212523,6 +212524,17 @@
           "score": 0.241079
         },
         {
+          "id": "family-2e127ee93bb08a3c814b661d2236a46ace145ec504072c5ab0bbc117809e3753",
+          "reasons": [
+            "sharedGenre",
+            "sharedPlayerMode",
+            "closeReleaseEra",
+            "sameTier",
+            "samePlatform"
+          ],
+          "score": 0.236186
+        },
+        {
           "id": "family-5dd5aef5ce375a734f736a34b189fe4de325b83754aa6a42f08f35f860e340cc",
           "reasons": [
             "sharedGenre",
@@ -212555,7 +212567,7 @@
             "sameTier",
             "samePlatform"
           ],
-          "score": 0.222252
+          "score": 0.213085
         },
         {
           "id": "family-899908425c7c84090878f970f1fe681a86ffaeb970baa7b0852386e7f7a23ae5",
@@ -212570,15 +212582,15 @@
           "score": 0.20932
         },
         {
-          "id": "family-a03e9b5cf625cf6212bdc884240ebcfdc2cb0d1957f40612ae1378f5ef7d2692",
+          "id": "family-27f56d7c1b47ff89c495df86e969eae4ae4230e0bd8dd12234af674181c5047c",
           "reasons": [
-            "sharedGenre",
             "sharedPlayerMode",
             "closeReleaseEra",
+            "sharedKeywords",
             "sameTier",
             "samePlatform"
           ],
-          "score": 0.209005
+          "score": 0.207471
         }
       ],
       "sameMode": [
@@ -212657,17 +212669,6 @@
           "score": 0.403
         },
         {
-          "id": "family-2e127ee93bb08a3c814b661d2236a46ace145ec504072c5ab0bbc117809e3753",
-          "reasons": [
-            "sharedGenre",
-            "sharedPlayerMode",
-            "closeReleaseEra",
-            "sameTier",
-            "samePlatform"
-          ],
-          "score": 0.391667
-        },
-        {
           "id": "family-3f8fc3b663cca2dfe4c724ad19ae08e527901c75f678dfbf08c273de7ff63f05",
           "reasons": [
             "sharedGenre",
@@ -212687,6 +212688,17 @@
             "samePlatform"
           ],
           "score": 0.363333
+        },
+        {
+          "id": "family-2e127ee93bb08a3c814b661d2236a46ace145ec504072c5ab0bbc117809e3753",
+          "reasons": [
+            "sharedGenre",
+            "sharedPlayerMode",
+            "closeReleaseEra",
+            "sameTier",
+            "samePlatform"
+          ],
+          "score": 0.361667
         },
         {
           "id": "family-60ad278cdb45136a84bf6c33a6e97edcb11759677da65bebfa0c44dbb3b72ca7",
@@ -212799,17 +212811,6 @@
           "score": 0.403
         },
         {
-          "id": "family-2e127ee93bb08a3c814b661d2236a46ace145ec504072c5ab0bbc117809e3753",
-          "reasons": [
-            "sharedGenre",
-            "sharedPlayerMode",
-            "closeReleaseEra",
-            "sameTier",
-            "samePlatform"
-          ],
-          "score": 0.391667
-        },
-        {
           "id": "family-3f8fc3b663cca2dfe4c724ad19ae08e527901c75f678dfbf08c273de7ff63f05",
           "reasons": [
             "sharedGenre",
@@ -212829,6 +212830,17 @@
             "samePlatform"
           ],
           "score": 0.363333
+        },
+        {
+          "id": "family-2e127ee93bb08a3c814b661d2236a46ace145ec504072c5ab0bbc117809e3753",
+          "reasons": [
+            "sharedGenre",
+            "sharedPlayerMode",
+            "closeReleaseEra",
+            "sameTier",
+            "samePlatform"
+          ],
+          "score": 0.361667
         },
         {
           "id": "family-60ad278cdb45136a84bf6c33a6e97edcb11759677da65bebfa0c44dbb3b72ca7",
@@ -213170,7 +213182,7 @@
           "score": 0.278889
         },
         {
-          "id": "family-60ad278cdb45136a84bf6c33a6e97edcb11759677da65bebfa0c44dbb3b72ca7",
+          "id": "family-2e127ee93bb08a3c814b661d2236a46ace145ec504072c5ab0bbc117809e3753",
           "reasons": [
             "sharedGenre",
             "sharedPlayerMode",
@@ -213179,7 +213191,7 @@
             "sameTier",
             "samePlatform"
           ],
-          "score": 0.265183
+          "score": 0.270707
         },
         {
           "id": "family-35e5493cd13568f223bafb607ee8220e1a0bf8e22f9a08e850b3a30c5bffa1e8",
@@ -213263,7 +213275,7 @@
           "score": 0.236286
         },
         {
-          "id": "family-885db7c06dd3949c7b8310f6e4a431212d3e7f19b6f8868a367a39764e602f32",
+          "id": "family-ec24b7d55e72a362c47ed099660bf146de472a3193e662295df2bb01a40e1503",
           "reasons": [
             "sharedGenre",
             "sharedPlayerMode",
@@ -213271,7 +213283,7 @@
             "sameTier",
             "samePlatform"
           ],
-          "score": 0.233685
+          "score": 0.235269
         }
       ],
       "sameMode": [
@@ -235353,6 +235365,18 @@
           "score": 0.245058
         },
         {
+          "id": "family-2e127ee93bb08a3c814b661d2236a46ace145ec504072c5ab0bbc117809e3753",
+          "reasons": [
+            "sharedGenre",
+            "sharedPlayerMode",
+            "closeReleaseEra",
+            "sharedKeywords",
+            "sameTier",
+            "samePlatform"
+          ],
+          "score": 0.21992
+        },
+        {
           "id": "family-7f714efbdb1a08a7088ffd9d8fd2db983e29ab2aba4c20e602369af50234f553",
           "reasons": [
             "sharedGenre",
@@ -235399,6 +235423,16 @@
           "score": 0.212093
         },
         {
+          "id": "family-3fcd3a140c4d7cbdb831dc747fa6314d55070f9529bb2105cea57d65cd306343",
+          "reasons": [
+            "sharedGenre",
+            "sharedPlayerMode",
+            "sameTier",
+            "samePlatform"
+          ],
+          "score": 0.205833
+        },
+        {
           "id": "family-ec24b7d55e72a362c47ed099660bf146de472a3193e662295df2bb01a40e1503",
           "reasons": [
             "sharedGenre",
@@ -235408,17 +235442,7 @@
             "sameTier",
             "samePlatform"
           ],
-          "score": 0.209435
-        },
-        {
-          "id": "family-3fcd3a140c4d7cbdb831dc747fa6314d55070f9529bb2105cea57d65cd306343",
-          "reasons": [
-            "sharedGenre",
-            "sharedPlayerMode",
-            "sameTier",
-            "samePlatform"
-          ],
-          "score": 0.205833
+          "score": 0.197989
         },
         {
           "id": "family-4242366ca69a3dcb77f60f234bb947a0823030e9ac99edbbf7110546f7575266",
@@ -235430,16 +235454,6 @@
             "samePlatform"
           ],
           "score": 0.197111
-        },
-        {
-          "id": "family-452d2127c0cdfefa4506a2ab7f62a06d2b299cebcf72da22a85b51a0d569c5a3",
-          "reasons": [
-            "sharedPlayerMode",
-            "closeReleaseEra",
-            "sameTier",
-            "samePlatform"
-          ],
-          "score": 0.190278
         }
       ],
       "sameMode": [
@@ -235577,16 +235591,16 @@
           "score": 0.324337
         },
         {
-          "id": "family-67fc405833a9ae0baa7b95aff817e8c5ea5bc2a97933107429d4b03fd72fc6f4",
+          "id": "family-2e127ee93bb08a3c814b661d2236a46ace145ec504072c5ab0bbc117809e3753",
           "reasons": [
             "sharedGenre",
-            "samePublisher",
             "sharedPlayerMode",
             "closeReleaseEra",
+            "sharedKeywords",
             "sameTier",
             "samePlatform"
           ],
-          "score": 0.32
+          "score": 0.323718
         }
       ],
       "similar": [
@@ -235724,16 +235738,16 @@
           "score": 0.324337
         },
         {
-          "id": "family-67fc405833a9ae0baa7b95aff817e8c5ea5bc2a97933107429d4b03fd72fc6f4",
+          "id": "family-2e127ee93bb08a3c814b661d2236a46ace145ec504072c5ab0bbc117809e3753",
           "reasons": [
             "sharedGenre",
-            "samePublisher",
             "sharedPlayerMode",
             "closeReleaseEra",
+            "sharedKeywords",
             "sameTier",
             "samePlatform"
           ],
-          "score": 0.32
+          "score": 0.323718
         }
       ]
     },
@@ -243556,6 +243570,18 @@
           "score": 0.236222
         },
         {
+          "id": "family-2e127ee93bb08a3c814b661d2236a46ace145ec504072c5ab0bbc117809e3753",
+          "reasons": [
+            "sharedGenre",
+            "sharedPlayerMode",
+            "closeReleaseEra",
+            "sharedKeywords",
+            "sameTier",
+            "samePlatform"
+          ],
+          "score": 0.234714
+        },
+        {
           "id": "family-42dc9c9b1c689f2e782e0944105ba43979ad3e87198dd38f4d0068882af5866e",
           "reasons": [
             "sharedGenre",
@@ -243577,17 +243603,6 @@
             "samePlatform"
           ],
           "score": 0.234419
-        },
-        {
-          "id": "family-20d3161318d2def42885901e8d397ffe7535f1712f60c1599c7471c6b8ad674f",
-          "reasons": [
-            "sharedGenre",
-            "sharedPlayerMode",
-            "closeReleaseEra",
-            "sameTier",
-            "samePlatform"
-          ],
-          "score": 0.232815
         }
       ],
       "sameMode": [
@@ -243602,6 +243617,18 @@
             "samePlatform"
           ],
           "score": 0.391363
+        },
+        {
+          "id": "family-2e127ee93bb08a3c814b661d2236a46ace145ec504072c5ab0bbc117809e3753",
+          "reasons": [
+            "sharedGenre",
+            "sharedPlayerMode",
+            "closeReleaseEra",
+            "sharedKeywords",
+            "sameTier",
+            "samePlatform"
+          ],
+          "score": 0.390543
         },
         {
           "id": "family-ec24b7d55e72a362c47ed099660bf146de472a3193e662295df2bb01a40e1503",
@@ -243704,18 +243731,6 @@
             "samePlatform"
           ],
           "score": 0.360624
-        },
-        {
-          "id": "family-2e127ee93bb08a3c814b661d2236a46ace145ec504072c5ab0bbc117809e3753",
-          "reasons": [
-            "sharedGenre",
-            "sharedPlayerMode",
-            "closeReleaseEra",
-            "sharedKeywords",
-            "sameTier",
-            "samePlatform"
-          ],
-          "score": 0.360543
         },
         {
           "id": "family-f8d657b872c11aa9409ac15d9ebb125ddb5fbc81238a45da1077796ca723e66f",
@@ -243743,6 +243758,18 @@
           "score": 0.391363
         },
         {
+          "id": "family-2e127ee93bb08a3c814b661d2236a46ace145ec504072c5ab0bbc117809e3753",
+          "reasons": [
+            "sharedGenre",
+            "sharedPlayerMode",
+            "closeReleaseEra",
+            "sharedKeywords",
+            "sameTier",
+            "samePlatform"
+          ],
+          "score": 0.390543
+        },
+        {
           "id": "family-ec24b7d55e72a362c47ed099660bf146de472a3193e662295df2bb01a40e1503",
           "reasons": [
             "sharedGenre",
@@ -243843,18 +243870,6 @@
             "samePlatform"
           ],
           "score": 0.360624
-        },
-        {
-          "id": "family-2e127ee93bb08a3c814b661d2236a46ace145ec504072c5ab0bbc117809e3753",
-          "reasons": [
-            "sharedGenre",
-            "sharedPlayerMode",
-            "closeReleaseEra",
-            "sharedKeywords",
-            "sameTier",
-            "samePlatform"
-          ],
-          "score": 0.360543
         },
         {
           "id": "family-f8d657b872c11aa9409ac15d9ebb125ddb5fbc81238a45da1077796ca723e66f",
@@ -246647,18 +246662,6 @@
           "score": 0.255346
         },
         {
-          "id": "family-2e127ee93bb08a3c814b661d2236a46ace145ec504072c5ab0bbc117809e3753",
-          "reasons": [
-            "sharedGenre",
-            "sharedPlayerMode",
-            "closeReleaseEra",
-            "sharedKeywords",
-            "sameTier",
-            "samePlatform"
-          ],
-          "score": 0.250807
-        },
-        {
           "id": "family-60ad278cdb45136a84bf6c33a6e97edcb11759677da65bebfa0c44dbb3b72ca7",
           "reasons": [
             "sharedGenre",
@@ -246668,7 +246671,7 @@
             "sameTier",
             "samePlatform"
           ],
-          "score": 0.226891
+          "score": 0.23197
         },
         {
           "id": "family-c5cabe5d42651f864909e8c5ffc5c772405f11d4254bed9cd4afbf5fe9a68cbd",
@@ -246682,6 +246685,17 @@
           "score": 0.226578
         },
         {
+          "id": "family-e06929756cab25142590dec7bae8f10e70297c80249a871e4533baaedfc1e27a",
+          "reasons": [
+            "sharedPlayerMode",
+            "closeReleaseEra",
+            "sharedKeywords",
+            "sameTier",
+            "samePlatform"
+          ],
+          "score": 0.224303
+        },
+        {
           "id": "family-06a3e51e88a8fb55c6d4caa096b7efb8d112fba2eb7a5fdd2e9a7c25854638a9",
           "reasons": [
             "sharedGenre",
@@ -246692,17 +246706,6 @@
             "samePlatform"
           ],
           "score": 0.221276
-        },
-        {
-          "id": "family-e06929756cab25142590dec7bae8f10e70297c80249a871e4533baaedfc1e27a",
-          "reasons": [
-            "sharedPlayerMode",
-            "closeReleaseEra",
-            "sharedKeywords",
-            "sameTier",
-            "samePlatform"
-          ],
-          "score": 0.214003
         },
         {
           "id": "family-aab8187e1bb05ece1416d1464f7dbc4d7f1a79506050776b9535667a9d78902e",
@@ -246737,6 +246740,18 @@
             "samePlatform"
           ],
           "score": 0.207889
+        },
+        {
+          "id": "family-dc01028831198e9a32b55a04c8ceda8c861b96148d3a37b562e5ad853b8ca32b",
+          "reasons": [
+            "sharedGenre",
+            "sharedPlayerMode",
+            "closeReleaseEra",
+            "sharedKeywords",
+            "sameTier",
+            "samePlatform"
+          ],
+          "score": 0.206633
         }
       ],
       "sameMode": [
@@ -246852,18 +246867,6 @@
           "score": 0.374667
         },
         {
-          "id": "family-2e127ee93bb08a3c814b661d2236a46ace145ec504072c5ab0bbc117809e3753",
-          "reasons": [
-            "sharedGenre",
-            "sharedPlayerMode",
-            "closeReleaseEra",
-            "sharedKeywords",
-            "sameTier",
-            "samePlatform"
-          ],
-          "score": 0.369704
-        },
-        {
           "id": "family-60ad278cdb45136a84bf6c33a6e97edcb11759677da65bebfa0c44dbb3b72ca7",
           "reasons": [
             "sharedGenre",
@@ -246886,6 +246889,17 @@
             "samePlatform"
           ],
           "score": 0.3499
+        },
+        {
+          "id": "family-885db7c06dd3949c7b8310f6e4a431212d3e7f19b6f8868a367a39764e602f32",
+          "reasons": [
+            "sharedGenre",
+            "sharedPlayerMode",
+            "closeReleaseEra",
+            "sameTier",
+            "samePlatform"
+          ],
+          "score": 0.349667
         }
       ],
       "similar": [
@@ -247001,18 +247015,6 @@
           "score": 0.374667
         },
         {
-          "id": "family-2e127ee93bb08a3c814b661d2236a46ace145ec504072c5ab0bbc117809e3753",
-          "reasons": [
-            "sharedGenre",
-            "sharedPlayerMode",
-            "closeReleaseEra",
-            "sharedKeywords",
-            "sameTier",
-            "samePlatform"
-          ],
-          "score": 0.369704
-        },
-        {
           "id": "family-60ad278cdb45136a84bf6c33a6e97edcb11759677da65bebfa0c44dbb3b72ca7",
           "reasons": [
             "sharedGenre",
@@ -247035,6 +247037,17 @@
             "samePlatform"
           ],
           "score": 0.3499
+        },
+        {
+          "id": "family-885db7c06dd3949c7b8310f6e4a431212d3e7f19b6f8868a367a39764e602f32",
+          "reasons": [
+            "sharedGenre",
+            "sharedPlayerMode",
+            "closeReleaseEra",
+            "sameTier",
+            "samePlatform"
+          ],
+          "score": 0.349667
         }
       ]
     },
@@ -257411,16 +257424,15 @@
           "score": 0.238184
         },
         {
-          "id": "family-2e127ee93bb08a3c814b661d2236a46ace145ec504072c5ab0bbc117809e3753",
+          "id": "family-ec0a4d1ec88a7aa40641f257c5ac7091d21371ea0a6f24ebf9203a4981780df4",
           "reasons": [
-            "sharedGenre",
             "sharedPlayerMode",
             "closeReleaseEra",
             "sharedKeywords",
             "sameTier",
             "samePlatform"
           ],
-          "score": 0.209034
+          "score": 0.209015
         },
         {
           "id": "family-6b4650b4dc3751451aad166a9b90e26aac0c06ae3728207308fca61c75c53fae",
@@ -257433,17 +257445,6 @@
             "samePlatform"
           ],
           "score": 0.207952
-        },
-        {
-          "id": "family-ec0a4d1ec88a7aa40641f257c5ac7091d21371ea0a6f24ebf9203a4981780df4",
-          "reasons": [
-            "sharedPlayerMode",
-            "closeReleaseEra",
-            "sharedKeywords",
-            "sameTier",
-            "samePlatform"
-          ],
-          "score": 0.200958
         },
         {
           "id": "family-a152ffdae1da6e31a73a9c49e9d4d3eb7c3964ea3722042b09b9d823e3ac0393",
@@ -257490,6 +257491,18 @@
             "samePlatform"
           ],
           "score": 0.185
+        },
+        {
+          "id": "family-2e127ee93bb08a3c814b661d2236a46ace145ec504072c5ab0bbc117809e3753",
+          "reasons": [
+            "sharedGenre",
+            "sharedPlayerMode",
+            "closeReleaseEra",
+            "sharedKeywords",
+            "sameTier",
+            "samePlatform"
+          ],
+          "score": 0.184968
         },
         {
           "id": "family-9e7888ceb09d05a40f4cbd0666c564709484d0c3a29211ea7813c21079348653",
@@ -257624,18 +257637,6 @@
           "score": 0.332432
         },
         {
-          "id": "family-2e127ee93bb08a3c814b661d2236a46ace145ec504072c5ab0bbc117809e3753",
-          "reasons": [
-            "sharedGenre",
-            "sharedPlayerMode",
-            "closeReleaseEra",
-            "sharedKeywords",
-            "sameTier",
-            "samePlatform"
-          ],
-          "score": 0.32871
-        },
-        {
           "id": "family-1168d957e00f96cb4e328dfcc97bb4cfed38a36bc4c82d42dad92c748a88a220",
           "reasons": [
             "samePublisher",
@@ -257645,6 +257646,17 @@
             "samePlatform"
           ],
           "score": 0.319
+        },
+        {
+          "id": "family-d8ee80df39c3873c04b3b7e8464e11a942b3575ca913ad54056ad9e0a6504117",
+          "reasons": [
+            "sharedPlayerMode",
+            "closeReleaseEra",
+            "sharedKeywords",
+            "sameTier",
+            "samePlatform"
+          ],
+          "score": 0.314442
         }
       ],
       "similar": [
@@ -257767,18 +257779,6 @@
           "score": 0.332432
         },
         {
-          "id": "family-2e127ee93bb08a3c814b661d2236a46ace145ec504072c5ab0bbc117809e3753",
-          "reasons": [
-            "sharedGenre",
-            "sharedPlayerMode",
-            "closeReleaseEra",
-            "sharedKeywords",
-            "sameTier",
-            "samePlatform"
-          ],
-          "score": 0.32871
-        },
-        {
           "id": "family-1168d957e00f96cb4e328dfcc97bb4cfed38a36bc4c82d42dad92c748a88a220",
           "reasons": [
             "samePublisher",
@@ -257788,6 +257788,17 @@
             "samePlatform"
           ],
           "score": 0.319
+        },
+        {
+          "id": "family-d8ee80df39c3873c04b3b7e8464e11a942b3575ca913ad54056ad9e0a6504117",
+          "reasons": [
+            "sharedPlayerMode",
+            "closeReleaseEra",
+            "sharedKeywords",
+            "sameTier",
+            "samePlatform"
+          ],
+          "score": 0.314442
         }
       ]
     },
@@ -269749,7 +269760,7 @@
           "score": 0.254689
         },
         {
-          "id": "family-06a3e51e88a8fb55c6d4caa096b7efb8d112fba2eb7a5fdd2e9a7c25854638a9",
+          "id": "family-2e127ee93bb08a3c814b661d2236a46ace145ec504072c5ab0bbc117809e3753",
           "reasons": [
             "sharedGenre",
             "sharedPlayerMode",
@@ -269757,7 +269768,7 @@
             "sameTier",
             "samePlatform"
           ],
-          "score": 0.251596
+          "score": 0.253047
         },
         {
           "id": "family-eeb2c6163161f1a16638cb16e59bb4a9910692d749d3088fd505a7079b96b75d",
@@ -269771,7 +269782,7 @@
           "score": 0.250084
         },
         {
-          "id": "family-8f08a52c3b6e5b4b69ad09b0b139aef26cbe21fda4f45236a4efc61cee2615c3",
+          "id": "family-962e3cc8885e69e17d5dfb94e6c2147d6fadef617e3a33b31ee88c4b403f8822",
           "reasons": [
             "sharedGenre",
             "sharedPlayerMode",
@@ -269779,7 +269790,7 @@
             "sameTier",
             "samePlatform"
           ],
-          "score": 0.249065
+          "score": 0.246379
         },
         {
           "id": "family-64fa0aa780ed9221af0664108b17211c54f7e831a9e0723ec2bd7d4cc53d074c",
@@ -272341,6 +272352,18 @@
           "score": 0.264417
         },
         {
+          "id": "family-2e127ee93bb08a3c814b661d2236a46ace145ec504072c5ab0bbc117809e3753",
+          "reasons": [
+            "sharedGenre",
+            "sharedPlayerMode",
+            "closeReleaseEra",
+            "sharedKeywords",
+            "sameTier",
+            "samePlatform"
+          ],
+          "score": 0.263289
+        },
+        {
           "id": "family-20d3161318d2def42885901e8d397ffe7535f1712f60c1599c7471c6b8ad674f",
           "reasons": [
             "sharedGenre",
@@ -272361,18 +272384,6 @@
             "samePlatform"
           ],
           "score": 0.247297
-        },
-        {
-          "id": "family-916cbe82ae5d7bd226e69f86d84cf4a0cbf65c1aa9b1e0265635291d108dba25",
-          "reasons": [
-            "sharedGenre",
-            "sharedPlayerMode",
-            "closeReleaseEra",
-            "sharedKeywords",
-            "sameTier",
-            "samePlatform"
-          ],
-          "score": 0.245457
         }
       ],
       "sameMode": [
@@ -272412,6 +272423,18 @@
           "score": 0.42095
         },
         {
+          "id": "family-2e127ee93bb08a3c814b661d2236a46ace145ec504072c5ab0bbc117809e3753",
+          "reasons": [
+            "sharedGenre",
+            "sharedPlayerMode",
+            "closeReleaseEra",
+            "sharedKeywords",
+            "sameTier",
+            "samePlatform"
+          ],
+          "score": 0.419118
+        },
+        {
           "id": "family-f8d657b872c11aa9409ac15d9ebb125ddb5fbc81238a45da1077796ca723e66f",
           "reasons": [
             "sharedGenre",
@@ -272433,18 +272456,6 @@
             "samePlatform"
           ],
           "score": 0.416667
-        },
-        {
-          "id": "family-2e127ee93bb08a3c814b661d2236a46ace145ec504072c5ab0bbc117809e3753",
-          "reasons": [
-            "sharedGenre",
-            "sharedPlayerMode",
-            "closeReleaseEra",
-            "sharedKeywords",
-            "sameTier",
-            "samePlatform"
-          ],
-          "score": 0.389118
         },
         {
           "id": "family-9811532f53ba8f60361ec5b959b9af9c306e612ea793378cf4adecafeb6aff7e",
@@ -272554,6 +272565,18 @@
           "score": 0.42095
         },
         {
+          "id": "family-2e127ee93bb08a3c814b661d2236a46ace145ec504072c5ab0bbc117809e3753",
+          "reasons": [
+            "sharedGenre",
+            "sharedPlayerMode",
+            "closeReleaseEra",
+            "sharedKeywords",
+            "sameTier",
+            "samePlatform"
+          ],
+          "score": 0.419118
+        },
+        {
           "id": "family-f8d657b872c11aa9409ac15d9ebb125ddb5fbc81238a45da1077796ca723e66f",
           "reasons": [
             "sharedGenre",
@@ -272575,18 +272598,6 @@
             "samePlatform"
           ],
           "score": 0.416667
-        },
-        {
-          "id": "family-2e127ee93bb08a3c814b661d2236a46ace145ec504072c5ab0bbc117809e3753",
-          "reasons": [
-            "sharedGenre",
-            "sharedPlayerMode",
-            "closeReleaseEra",
-            "sharedKeywords",
-            "sameTier",
-            "samePlatform"
-          ],
-          "score": 0.389118
         },
         {
           "id": "family-9811532f53ba8f60361ec5b959b9af9c306e612ea793378cf4adecafeb6aff7e",
@@ -284056,6 +284067,18 @@
           "score": 0.280568
         },
         {
+          "id": "family-2e127ee93bb08a3c814b661d2236a46ace145ec504072c5ab0bbc117809e3753",
+          "reasons": [
+            "sharedGenre",
+            "sharedPlayerMode",
+            "closeReleaseEra",
+            "sharedKeywords",
+            "sameTier",
+            "samePlatform"
+          ],
+          "score": 0.27911
+        },
+        {
           "id": "family-962e3cc8885e69e17d5dfb94e6c2147d6fadef617e3a33b31ee88c4b403f8822",
           "reasons": [
             "sharedGenre",
@@ -284090,18 +284113,6 @@
           "score": 0.264639
         },
         {
-          "id": "family-2e127ee93bb08a3c814b661d2236a46ace145ec504072c5ab0bbc117809e3753",
-          "reasons": [
-            "sharedGenre",
-            "sharedPlayerMode",
-            "closeReleaseEra",
-            "sharedKeywords",
-            "sameTier",
-            "samePlatform"
-          ],
-          "score": 0.258277
-        },
-        {
           "id": "family-990dc3a1ac89255ff7f240b76908d6b3483de8e69d4ac435a5fb46fbbf88f73c",
           "reasons": [
             "sharedGenre",
@@ -284126,18 +284137,6 @@
           "score": 0.251666
         },
         {
-          "id": "family-60ad278cdb45136a84bf6c33a6e97edcb11759677da65bebfa0c44dbb3b72ca7",
-          "reasons": [
-            "sharedGenre",
-            "sharedPlayerMode",
-            "closeReleaseEra",
-            "sharedKeywords",
-            "sameTier",
-            "samePlatform"
-          ],
-          "score": 0.249834
-        },
-        {
           "id": "family-034e655370f3d5608df67b29a02695c018d57d4f3f329c215314c48f0b63b7a3",
           "reasons": [
             "sharedGenre",
@@ -284147,6 +284146,18 @@
             "samePlatform"
           ],
           "score": 0.245034
+        },
+        {
+          "id": "family-60ad278cdb45136a84bf6c33a6e97edcb11759677da65bebfa0c44dbb3b72ca7",
+          "reasons": [
+            "sharedGenre",
+            "sharedPlayerMode",
+            "closeReleaseEra",
+            "sharedKeywords",
+            "sameTier",
+            "samePlatform"
+          ],
+          "score": 0.240667
         },
         {
           "id": "family-80ec65bc443a2cfe974edd23a644103c0332f695bbc1f5b7ffd1cb2350cdc683",
@@ -284223,6 +284234,18 @@
           "score": 0.408
         },
         {
+          "id": "family-2e127ee93bb08a3c814b661d2236a46ace145ec504072c5ab0bbc117809e3753",
+          "reasons": [
+            "sharedGenre",
+            "sharedPlayerMode",
+            "closeReleaseEra",
+            "sharedKeywords",
+            "sameTier",
+            "samePlatform"
+          ],
+          "score": 0.407174
+        },
+        {
           "id": "family-962e3cc8885e69e17d5dfb94e6c2147d6fadef617e3a33b31ee88c4b403f8822",
           "reasons": [
             "sharedGenre",
@@ -284267,18 +284290,6 @@
             "samePlatform"
           ],
           "score": 0.378
-        },
-        {
-          "id": "family-2e127ee93bb08a3c814b661d2236a46ace145ec504072c5ab0bbc117809e3753",
-          "reasons": [
-            "sharedGenre",
-            "sharedPlayerMode",
-            "closeReleaseEra",
-            "sharedKeywords",
-            "sameTier",
-            "samePlatform"
-          ],
-          "score": 0.377174
         },
         {
           "id": "family-990dc3a1ac89255ff7f240b76908d6b3483de8e69d4ac435a5fb46fbbf88f73c",
@@ -284367,6 +284378,18 @@
           "score": 0.408
         },
         {
+          "id": "family-2e127ee93bb08a3c814b661d2236a46ace145ec504072c5ab0bbc117809e3753",
+          "reasons": [
+            "sharedGenre",
+            "sharedPlayerMode",
+            "closeReleaseEra",
+            "sharedKeywords",
+            "sameTier",
+            "samePlatform"
+          ],
+          "score": 0.407174
+        },
+        {
           "id": "family-962e3cc8885e69e17d5dfb94e6c2147d6fadef617e3a33b31ee88c4b403f8822",
           "reasons": [
             "sharedGenre",
@@ -284411,18 +284434,6 @@
             "samePlatform"
           ],
           "score": 0.378
-        },
-        {
-          "id": "family-2e127ee93bb08a3c814b661d2236a46ace145ec504072c5ab0bbc117809e3753",
-          "reasons": [
-            "sharedGenre",
-            "sharedPlayerMode",
-            "closeReleaseEra",
-            "sharedKeywords",
-            "sameTier",
-            "samePlatform"
-          ],
-          "score": 0.377174
         },
         {
           "id": "family-990dc3a1ac89255ff7f240b76908d6b3483de8e69d4ac435a5fb46fbbf88f73c",
