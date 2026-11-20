@@ -1,33 +1,24 @@
 {
-  "actionRunNumber": "51",
-  "actionRunUrl": "https://github.com/ppazour/catabox/actions/runs/44544058738",
+  "actionRunNumber": "52",
+  "actionRunUrl": "https://github.com/ppazour/catabox/actions/runs/44749904165",
   "baseline": false,
-  "catalogGeneratedAt": "2026-11-19T14:28:20.057Z",
+  "catalogGeneratedAt": "2026-11-20T14:04:14.333Z",
   "catalogHash": "3f51fd5236f215643395b3f6d1bae21cf78b25b08cdb0ab88665d11d498f5f22",
-  "changed": true,
+  "changed": false,
   "errors": [],
-  "eventCounts": {
-    "platform_added": 2,
-    "tier_added": 1
-  },
-  "familyChanged": true,
-  "familyEventCounts": {
-    "platform_added": 2,
-    "tier_added": 1
-  },
+  "eventCounts": {},
+  "familyChanged": false,
+  "familyEventCounts": {},
   "familyHash": "17e608e742776c8e9140432e4f42112abbf0379e2b75a36495e1f4105856e281",
-  "generatedAt": "2026-11-19T14:28:20.057Z",
+  "generatedAt": "2026-11-20T14:04:14.333Z",
   "language": "en-us",
-  "lastGoodCatalogHash": "bf30b85712ab98e6bfbd3c756009f9e2cacc99645bc83b97cc24ceb2cf4d3499",
-  "lastGoodGeneratedAt": "2026-11-18T14:05:49.544Z",
+  "lastGoodCatalogHash": "3f51fd5236f215643395b3f6d1bae21cf78b25b08cdb0ab88665d11d498f5f22",
+  "lastGoodGeneratedAt": "2026-11-19T14:28:20.057Z",
   "leavingSoonAdded": [],
   "leavingSoonTotal": 8,
   "market": "AT",
-  "productChanged": true,
-  "productEventCounts": {
-    "platform_added": 2,
-    "tier_added": 1
-  },
+  "productChanged": false,
+  "productEventCounts": {},
   "productTotal": 899,
   "sourceHealth": {
     "displayCatalog": {
