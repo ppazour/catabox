@@ -106026,7 +106026,7 @@
       "url": "https://www.xbox.com/en-us/games/store/zumas-revenge/BR9MPWXFBCRC"
     }
   ],
-  "generatedAt": "2026-11-21T13:30:10.860Z",
+  "generatedAt": "2026-11-22T13:24:07.708Z",
   "labels": {
     "diffs": {
       "essentialNotPremium": "Essential not Premium",
@@ -106097,7 +106097,7 @@
     {
       "count": 8,
       "description": "Don't want the fun to end? Save on these games now.",
-      "fetchedAt": "2026-11-21T13:30:10.860Z",
+      "fetchedAt": "2026-11-22T13:24:07.708Z",
       "kind": "leavingSoon",
       "platform": "console",
       "platformLabel": "Console",
@@ -106111,7 +106111,7 @@
     {
       "count": 8,
       "description": "Don't want the fun to end? Save on these games now.",
-      "fetchedAt": "2026-11-21T13:30:10.860Z",
+      "fetchedAt": "2026-11-22T13:24:07.708Z",
       "kind": "leavingSoon",
       "platform": "pc",
       "platformLabel": "PC",
@@ -111805,7 +111805,7 @@
     {
       "count": 621,
       "description": "Discover your next favorite game",
-      "fetchedAt": "2026-11-21T13:30:10.860Z",
+      "fetchedAt": "2026-11-22T13:24:07.708Z",
       "platform": "console",
       "platformContext": "ConsoleGen8;ConsoleGen9",
       "platformLabel": "Console",
@@ -111822,7 +111822,7 @@
     {
       "count": 599,
       "description": "Discover your next favorite game",
-      "fetchedAt": "2026-11-21T13:30:10.860Z",
+      "fetchedAt": "2026-11-22T13:24:07.708Z",
       "platform": "pc",
       "platformContext": "pc",
       "platformLabel": "PC",
@@ -111839,7 +111839,7 @@
     {
       "count": 425,
       "description": "Games included in your Game Pass Premium membership",
-      "fetchedAt": "2026-11-21T13:30:10.860Z",
+      "fetchedAt": "2026-11-22T13:24:07.708Z",
       "platform": "console",
       "platformContext": "ConsoleGen8;ConsoleGen9",
       "platformLabel": "Console",
@@ -111856,7 +111856,7 @@
     {
       "count": 402,
       "description": "Games included in your Game Pass Premium membership",
-      "fetchedAt": "2026-11-21T13:30:10.860Z",
+      "fetchedAt": "2026-11-22T13:24:07.708Z",
       "platform": "pc",
       "platformContext": "pc",
       "platformLabel": "PC",
@@ -111873,7 +111873,7 @@
     {
       "count": 98,
       "description": "Games included in your Game Pass Essential membership",
-      "fetchedAt": "2026-11-21T13:30:10.860Z",
+      "fetchedAt": "2026-11-22T13:24:07.708Z",
       "platform": "console",
       "platformContext": "ConsoleGen8;ConsoleGen9",
       "platformLabel": "Console",
@@ -111890,7 +111890,7 @@
     {
       "count": 85,
       "description": "Games included in your Game Pass Essential membership",
-      "fetchedAt": "2026-11-21T13:30:10.860Z",
+      "fetchedAt": "2026-11-22T13:24:07.708Z",
       "platform": "pc",
       "platformContext": "pc",
       "platformLabel": "PC",
