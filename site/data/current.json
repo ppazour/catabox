@@ -15841,7 +15841,7 @@
       "memberships": [
         "ultimate"
       ],
-      "pegiRating": "PEGI 7",
+      "pegiRating": "PEGI 12",
       "platformByTier": {
         "ultimate": [
           "console",
@@ -15858,7 +15858,7 @@
       "poster": "https://store-images.s-microsoft.com/image/apps.10430.14007070537305664.23c6e561-edd5-44ed-a3ad-86b6c1a5c1c1.e3ee97c9-cd7d-44f4-9171-b07a3c8daaab",
       "primaryVariantId": "9N72DFC6GL91",
       "publisher": "Akupara Games",
-      "ratingId": "PEGI:7",
+      "ratingId": "PEGI:12",
       "ratingSystem": "PEGI",
       "releaseDate": "2026-10-08",
       "screenshots": [
@@ -30606,7 +30606,7 @@
         "ultimate",
         "premium"
       ],
-      "pegiRating": "PEGI 7",
+      "pegiRating": "PEGI 12",
       "platformByTier": {
         "premium": [
           "console",
@@ -30627,7 +30627,7 @@
       "poster": "https://store-images.s-microsoft.com/image/apps.1187.13679035728642800.49d6c527-ad8c-4dc9-8d35-edbd72e5ef8a.669da7c4-947c-4d08-9e49-86fb43e85eee",
       "primaryVariantId": "9NJC29JG70LM",
       "publisher": "Big Fan Games",
-      "ratingId": "PEGI:7",
+      "ratingId": "PEGI:12",
       "ratingSystem": "PEGI",
       "releaseDate": "2025-05-21",
       "screenshots": [
@@ -68514,7 +68514,7 @@
       "memberships": [
         "ultimate"
       ],
-      "pegiRating": "PEGI 7",
+      "pegiRating": "PEGI 12",
       "platformByTier": {
         "ultimate": [
           "console",
@@ -68530,7 +68530,7 @@
       ],
       "poster": "https://store-images.s-microsoft.com/image/apps.10430.14007070537305664.23c6e561-edd5-44ed-a3ad-86b6c1a5c1c1.e3ee97c9-cd7d-44f4-9171-b07a3c8daaab",
       "publisher": "Akupara Games",
-      "ratingId": "PEGI:7",
+      "ratingId": "PEGI:12",
       "ratingSystem": "PEGI",
       "releaseDate": "2026-10-08",
       "screenshots": [
@@ -84037,7 +84037,7 @@
         "ultimate",
         "premium"
       ],
-      "pegiRating": "PEGI 7",
+      "pegiRating": "PEGI 12",
       "platformByTier": {
         "premium": [
           "console",
@@ -84057,7 +84057,7 @@
       ],
       "poster": "https://store-images.s-microsoft.com/image/apps.1187.13679035728642800.49d6c527-ad8c-4dc9-8d35-edbd72e5ef8a.669da7c4-947c-4d08-9e49-86fb43e85eee",
       "publisher": "Big Fan Games",
-      "ratingId": "PEGI:7",
+      "ratingId": "PEGI:12",
       "ratingSystem": "PEGI",
       "releaseDate": "2025-05-21",
       "screenshots": [
@@ -106026,7 +106026,7 @@
       "url": "https://www.xbox.com/en-us/games/store/zumas-revenge/BR9MPWXFBCRC"
     }
   ],
-  "generatedAt": "2026-11-22T13:24:07.708Z",
+  "generatedAt": "2026-11-23T16:02:58.344Z",
   "labels": {
     "diffs": {
       "essentialNotPremium": "Essential not Premium",
@@ -106097,7 +106097,7 @@
     {
       "count": 8,
       "description": "Don't want the fun to end? Save on these games now.",
-      "fetchedAt": "2026-11-22T13:24:07.708Z",
+      "fetchedAt": "2026-11-23T16:02:58.344Z",
       "kind": "leavingSoon",
       "platform": "console",
       "platformLabel": "Console",
@@ -106111,7 +106111,7 @@
     {
       "count": 8,
       "description": "Don't want the fun to end? Save on these games now.",
-      "fetchedAt": "2026-11-22T13:24:07.708Z",
+      "fetchedAt": "2026-11-23T16:02:58.344Z",
       "kind": "leavingSoon",
       "platform": "pc",
       "platformLabel": "PC",
@@ -111805,7 +111805,7 @@
     {
       "count": 621,
       "description": "Discover your next favorite game",
-      "fetchedAt": "2026-11-22T13:24:07.708Z",
+      "fetchedAt": "2026-11-23T16:02:58.344Z",
       "platform": "console",
       "platformContext": "ConsoleGen8;ConsoleGen9",
       "platformLabel": "Console",
@@ -111822,7 +111822,7 @@
     {
       "count": 599,
       "description": "Discover your next favorite game",
-      "fetchedAt": "2026-11-22T13:24:07.708Z",
+      "fetchedAt": "2026-11-23T16:02:58.344Z",
       "platform": "pc",
       "platformContext": "pc",
       "platformLabel": "PC",
@@ -111839,7 +111839,7 @@
     {
       "count": 425,
       "description": "Games included in your Game Pass Premium membership",
-      "fetchedAt": "2026-11-22T13:24:07.708Z",
+      "fetchedAt": "2026-11-23T16:02:58.344Z",
       "platform": "console",
       "platformContext": "ConsoleGen8;ConsoleGen9",
       "platformLabel": "Console",
@@ -111856,7 +111856,7 @@
     {
       "count": 402,
       "description": "Games included in your Game Pass Premium membership",
-      "fetchedAt": "2026-11-22T13:24:07.708Z",
+      "fetchedAt": "2026-11-23T16:02:58.344Z",
       "platform": "pc",
       "platformContext": "pc",
       "platformLabel": "PC",
@@ -111873,7 +111873,7 @@
     {
       "count": 98,
       "description": "Games included in your Game Pass Essential membership",
-      "fetchedAt": "2026-11-22T13:24:07.708Z",
+      "fetchedAt": "2026-11-23T16:02:58.344Z",
       "platform": "console",
       "platformContext": "ConsoleGen8;ConsoleGen9",
       "platformLabel": "Console",
@@ -111890,7 +111890,7 @@
     {
       "count": 85,
       "description": "Games included in your Game Pass Essential membership",
-      "fetchedAt": "2026-11-22T13:24:07.708Z",
+      "fetchedAt": "2026-11-23T16:02:58.344Z",
       "platform": "pc",
       "platformContext": "pc",
       "platformLabel": "PC",
