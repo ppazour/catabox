@@ -1,5 +1,5 @@
 {
-  "catalogHash": "71f6293dbe7f977534ce98ae255f1997f231238fdb9061981238994b59122955",
+  "catalogHash": "30e75643403d364607d8a2aaa3de3d9ccd0738252f976c03894afc1ccb0b5957",
   "counts": {
     "diffs": {
       "essentialNotPremium": 0,
@@ -16,7 +16,7 @@
     },
     "platforms": {
       "console": 622,
-      "pc": 600
+      "pc": 599
     },
     "segments": {
       "allTiers": 130,
@@ -30,15 +30,15 @@
     "tierPlatforms": {
       "essential": {
         "console": 98,
-        "pc": 85
+        "pc": 84
       },
       "premium": {
         "console": 427,
-        "pc": 404
+        "pc": 403
       },
       "ultimate": {
         "console": 622,
-        "pc": 600
+        "pc": 599
       }
     },
     "tiers": {
@@ -11952,7 +11952,7 @@
     },
     {
       "availableInFR": true,
-      "boxArt": "https://store-images.s-microsoft.com/image/apps.51458.64366672042187759.733004ed-c696-44cf-98cc-30eddf2375a8.33981a4c-a34b-4492-b81f-8695c017496b",
+      "boxArt": "https://store-images.s-microsoft.com/image/apps.1460.64366672042187759.cbefda5a-be6e-404b-9026-557d1b27e814.b59d7856-d3bb-46e0-8349-cf54a521cad5",
       "description": "Trapped forever in a realm of eldritch evil where even death is not an escape, four determined Survivors face a bloodthirsty Killer in a vicious game of nerve and wits. Pick a side and step into a world of tension and terror with horror gaming's best asymmetrical multiplayer.",
       "developer": "Behaviour Interactive Inc.",
       "familyKey": "dead by daylight",
@@ -11961,7 +11961,7 @@
         "Action & adventure",
         "Other"
       ],
-      "heroArt": "https://store-images.s-microsoft.com/image/apps.13651.64366672042187759.733004ed-c696-44cf-98cc-30eddf2375a8.6bdb69ed-d0ef-4157-b2df-7ea97d3b1c4a",
+      "heroArt": "https://store-images.s-microsoft.com/image/apps.30455.64366672042187759.cbefda5a-be6e-404b-9026-557d1b27e814.647226cb-e84a-4d24-b9aa-bdf186d41479",
       "id": "family-d243bcdfa7b6add3607d61544051098073afd0bdc4a8c9de8a0c2d565eb3a8af",
       "leavingSoon": false,
       "leavingSoonPlatforms": [],
@@ -11989,7 +11989,7 @@
         "Online multiplayer (2-5)",
         "Single player"
       ],
-      "poster": "https://store-images.s-microsoft.com/image/apps.16719.64366672042187759.733004ed-c696-44cf-98cc-30eddf2375a8.3dd6c96e-e0c3-4a0b-aeb0-810f815a6d37",
+      "poster": "https://store-images.s-microsoft.com/image/apps.57090.64366672042187759.cbefda5a-be6e-404b-9026-557d1b27e814.975f8da6-86b1-44f6-b167-632b7e56b869",
       "primaryVariantId": "C0N22P73QZ60",
       "publisher": "Behaviour Interactive Inc.",
       "ratingId": "PEGI:18",
@@ -49105,21 +49105,17 @@
       "pegiRating": "PEGI 16",
       "platformByTier": {
         "essential": [
-          "console",
-          "pc"
+          "console"
         ],
         "premium": [
-          "console",
-          "pc"
+          "console"
         ],
         "ultimate": [
-          "console",
-          "pc"
+          "console"
         ]
       },
       "platforms": [
-        "console",
-        "pc"
+        "console"
       ],
       "playerModes": [
         "Online co-op",
@@ -50910,7 +50906,7 @@
     },
     "platforms": {
       "console": 612,
-      "pc": 599
+      "pc": 598
     },
     "segments": {
       "allTiers": 110,
@@ -50924,15 +50920,15 @@
     "tierPlatforms": {
       "essential": {
         "console": 96,
-        "pc": 85
+        "pc": 84
       },
       "premium": {
         "console": 423,
-        "pc": 403
+        "pc": 402
       },
       "ultimate": {
         "console": 612,
-        "pc": 599
+        "pc": 598
       }
     },
     "tiers": {
@@ -52183,7 +52179,7 @@
       "family-fd4705f4895fbd944ea692ce1e49c04e6d85c9eb013becebcca1704d7ea59bf9"
     ]
   },
-  "familyHash": "feaad8f40c6a384d3755be169268148e88e0838da20cbed4ead9844db40ff1ce",
+  "familyHash": "4cf65afcda732430e5fd66ee25bf44f26521a911faec2cb19649e2a42249fca0",
   "familySegments": {
     "allTiers": [
       "family-012e41cf02148984e24435be4dd5f3b1a699130cc5bbfdc12dd37bbfb5aae9aa",
@@ -64002,14 +63998,14 @@
     },
     {
       "availableInFR": true,
-      "boxArt": "https://store-images.s-microsoft.com/image/apps.51458.64366672042187759.733004ed-c696-44cf-98cc-30eddf2375a8.33981a4c-a34b-4492-b81f-8695c017496b",
+      "boxArt": "https://store-images.s-microsoft.com/image/apps.1460.64366672042187759.cbefda5a-be6e-404b-9026-557d1b27e814.b59d7856-d3bb-46e0-8349-cf54a521cad5",
       "description": "Trapped forever in a realm of eldritch evil where even death is not an escape, four determined Survivors face a bloodthirsty Killer in a vicious game of nerve and wits. Pick a side and step into a world of tension and terror with horror gaming's best asymmetrical multiplayer.",
       "developer": "Behaviour Interactive Inc.",
       "genres": [
         "Action & adventure",
         "Other"
       ],
-      "heroArt": "https://store-images.s-microsoft.com/image/apps.13651.64366672042187759.733004ed-c696-44cf-98cc-30eddf2375a8.6bdb69ed-d0ef-4157-b2df-7ea97d3b1c4a",
+      "heroArt": "https://store-images.s-microsoft.com/image/apps.30455.64366672042187759.cbefda5a-be6e-404b-9026-557d1b27e814.647226cb-e84a-4d24-b9aa-bdf186d41479",
       "id": "C0N22P73QZ60",
       "leavingSoon": false,
       "leavingSoonPlatforms": [],
@@ -64034,7 +64030,7 @@
         "Online multiplayer (2-5)",
         "Single player"
       ],
-      "poster": "https://store-images.s-microsoft.com/image/apps.16719.64366672042187759.733004ed-c696-44cf-98cc-30eddf2375a8.3dd6c96e-e0c3-4a0b-aeb0-810f815a6d37",
+      "poster": "https://store-images.s-microsoft.com/image/apps.57090.64366672042187759.cbefda5a-be6e-404b-9026-557d1b27e814.975f8da6-86b1-44f6-b167-632b7e56b869",
       "publisher": "Behaviour Interactive Inc.",
       "ratingId": "PEGI:18",
       "ratingSystem": "PEGI",
@@ -64062,14 +64058,14 @@
     },
     {
       "availableInFR": true,
-      "boxArt": "https://store-images.s-microsoft.com/image/apps.51458.13756572830160292.a0be61ed-4aae-47f9-8a44-c8be54b53f15.99bffbd4-1291-4b7a-b1d3-8a27e7c592d7",
+      "boxArt": "https://store-images.s-microsoft.com/image/apps.860.13756572830160292.10d79077-02d2-4107-bef1-759fb5bc3109.c19b3e11-ba65-4723-9dd6-5198643b8759",
       "description": "Trapped forever in a realm of eldritch evil where even death is not an escape, four determined Survivors face a bloodthirsty Killer in a vicious game of nerve and wits. Pick a side and step into a world of tension and terror with horror gaming's best asymmetrical multiplayer.",
       "developer": "Behaviour Interactive Inc.",
       "genres": [
         "Action & adventure",
         "Other"
       ],
-      "heroArt": "https://store-images.s-microsoft.com/image/apps.13651.13756572830160292.a0be61ed-4aae-47f9-8a44-c8be54b53f15.1c02c3b1-16f3-47dc-b18a-317c080cf2f6",
+      "heroArt": "https://store-images.s-microsoft.com/image/apps.12869.13756572830160292.10d79077-02d2-4107-bef1-759fb5bc3109.b594d47d-7862-4210-95ff-5854cc19de03",
       "id": "9NMS4SFNBGBH",
       "leavingSoon": false,
       "leavingSoonPlatforms": [],
@@ -64094,7 +64090,7 @@
         "Online multiplayer (2-5)",
         "Single player"
       ],
-      "poster": "https://store-images.s-microsoft.com/image/apps.16719.13756572830160292.a0be61ed-4aae-47f9-8a44-c8be54b53f15.917800ae-51f5-48b3-aa38-cb498fde9b40",
+      "poster": "https://store-images.s-microsoft.com/image/apps.26013.13756572830160292.10d79077-02d2-4107-bef1-759fb5bc3109.c11422fc-6bde-40ab-a506-71e18dc67fcf",
       "publisher": "Behaviour Interactive Inc.",
       "ratingId": "PEGI:18",
       "ratingSystem": "PEGI",
@@ -104242,21 +104238,17 @@
       "pegiRating": "PEGI 16",
       "platformByTier": {
         "essential": [
-          "console",
-          "pc"
+          "console"
         ],
         "premium": [
-          "console",
-          "pc"
+          "console"
         ],
         "ultimate": [
-          "console",
-          "pc"
+          "console"
         ]
       },
       "platforms": [
-        "console",
-        "pc"
+        "console"
       ],
       "playerModes": [
         "Online multiplayer (2-300)",
@@ -106164,7 +106156,7 @@
       "url": "https://www.xbox.com/en-us/games/store/zumas-revenge/BR9MPWXFBCRC"
     }
   ],
-  "generatedAt": "2026-11-24T15:56:28.144Z",
+  "generatedAt": "2026-11-25T15:40:32.078Z",
   "labels": {
     "diffs": {
       "essentialNotPremium": "Essential not Premium",
@@ -106235,7 +106227,7 @@
     {
       "count": 8,
       "description": "Don't want the fun to end? Save on these games now.",
-      "fetchedAt": "2026-11-24T15:56:28.144Z",
+      "fetchedAt": "2026-11-25T15:40:32.078Z",
       "kind": "leavingSoon",
       "platform": "console",
       "platformLabel": "Console",
@@ -106249,7 +106241,7 @@
     {
       "count": 8,
       "description": "Don't want the fun to end? Save on these games now.",
-      "fetchedAt": "2026-11-24T15:56:28.144Z",
+      "fetchedAt": "2026-11-25T15:40:32.078Z",
       "kind": "leavingSoon",
       "platform": "pc",
       "platformLabel": "PC",
@@ -107433,7 +107425,6 @@
         "9N464X6CT772",
         "9N4X0WFZ2STM",
         "9N5K7HWXL4Q6",
-        "9N76QGDS5GJR",
         "9N7CJX93ZGWN",
         "9N7GCF5SGCXC",
         "9N8CD0XZKLP4",
@@ -108574,7 +108565,6 @@
         "9N72SFQ24KW8",
         "9N732VFPMWKT",
         "9N7358JZPX1Z",
-        "9N76QGDS5GJR",
         "9N79TQTZTQQ4",
         "9N7CJX93ZGWN",
         "9N7GCF5SGCXC",
@@ -110554,7 +110544,6 @@
         "9N732VFPMWKT",
         "9N7358JZPX1Z",
         "9N74SVVP5FS4",
-        "9N76QGDS5GJR",
         "9N79TQTZTQQ4",
         "9N7CJX93ZGWN",
         "9N7GCF5SGCXC",
@@ -111955,7 +111944,7 @@
     {
       "count": 622,
       "description": "Discover your next favorite game",
-      "fetchedAt": "2026-11-24T15:56:28.144Z",
+      "fetchedAt": "2026-11-25T15:40:32.078Z",
       "platform": "console",
       "platformContext": "ConsoleGen8;ConsoleGen9",
       "platformLabel": "Console",
@@ -111970,14 +111959,14 @@
       "url": "https://catalog.gamepass.com/sigls/v3?id=97c6c862-d28a-4907-a3d5-c401f2296a53&language=en-us&market=AT&platformContext=ConsoleGen8%3BConsoleGen9&subscriptionContext=cfq7ttc0khs0"
     },
     {
-      "count": 600,
+      "count": 599,
       "description": "Discover your next favorite game",
-      "fetchedAt": "2026-11-24T15:56:28.144Z",
+      "fetchedAt": "2026-11-25T15:40:32.078Z",
       "platform": "pc",
       "platformContext": "pc",
       "platformLabel": "PC",
       "siglId": "97c6c862-d28a-4907-a3d5-c401f2296a53",
-      "sourceCount": 600,
+      "sourceCount": 599,
       "status": "ok",
       "subscriptionContext": "cfq7ttc0khs0",
       "swapsApplied": [],
@@ -111989,7 +111978,7 @@
     {
       "count": 427,
       "description": "Games included in your Game Pass Premium membership",
-      "fetchedAt": "2026-11-24T15:56:28.144Z",
+      "fetchedAt": "2026-11-25T15:40:32.078Z",
       "platform": "console",
       "platformContext": "ConsoleGen8;ConsoleGen9",
       "platformLabel": "Console",
@@ -112004,14 +111993,14 @@
       "url": "https://catalog.gamepass.com/sigls/v3?id=09a72c0d-c466-426a-9580-b78955d8173a&language=en-us&market=AT&platformContext=ConsoleGen8%3BConsoleGen9&subscriptionContext=cfq7ttc0p85b"
     },
     {
-      "count": 404,
+      "count": 403,
       "description": "Games included in your Game Pass Premium membership",
-      "fetchedAt": "2026-11-24T15:56:28.144Z",
+      "fetchedAt": "2026-11-25T15:40:32.078Z",
       "platform": "pc",
       "platformContext": "pc",
       "platformLabel": "PC",
       "siglId": "09a72c0d-c466-426a-9580-b78955d8173a",
-      "sourceCount": 404,
+      "sourceCount": 403,
       "status": "ok",
       "subscriptionContext": "cfq7ttc0p85b",
       "swapsApplied": [],
@@ -112023,7 +112012,7 @@
     {
       "count": 98,
       "description": "Games included in your Game Pass Essential membership",
-      "fetchedAt": "2026-11-24T15:56:28.144Z",
+      "fetchedAt": "2026-11-25T15:40:32.078Z",
       "platform": "console",
       "platformContext": "ConsoleGen8;ConsoleGen9",
       "platformLabel": "Console",
@@ -112038,14 +112027,14 @@
       "url": "https://catalog.gamepass.com/sigls/v3?id=34031711-5a70-4196-bab7-45757dc2294e&language=en-us&market=AT&platformContext=ConsoleGen8%3BConsoleGen9&subscriptionContext=cfq7ttc0k5dj"
     },
     {
-      "count": 85,
+      "count": 84,
       "description": "Games included in your Game Pass Essential membership",
-      "fetchedAt": "2026-11-24T15:56:28.144Z",
+      "fetchedAt": "2026-11-25T15:40:32.078Z",
       "platform": "pc",
       "platformContext": "pc",
       "platformLabel": "PC",
       "siglId": "34031711-5a70-4196-bab7-45757dc2294e",
-      "sourceCount": 85,
+      "sourceCount": 84,
       "status": "ok",
       "subscriptionContext": "cfq7ttc0k5dj",
       "swapsApplied": [],
